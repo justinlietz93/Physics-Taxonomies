@@ -1,0 +1,54 @@
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.vs/
+
+# Build artifacts
+*.log
+*.out
+
+# Scripts temporary outputs
+/tmp/
+*.backup
+
+# OS-specific
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# Python (if scripts are added later)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+.venv
+
+# Node (if tooling is added later)
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Documentation build artifacts (if added later)
+_build/
+.doctrees/
