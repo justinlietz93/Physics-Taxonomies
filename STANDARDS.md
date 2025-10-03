@@ -96,7 +96,7 @@ Examples:
 
 ### Common Requirements (All Levels)
 1. **Plain English** - 1-3 sentences per description
-2. **No equations or formulas** - everyday language only
+2. **No equations or formulas initially** - everyday language only (equations will be added later per AGENTS.md section 8)
 3. **Everyday anchors** - relatable examples
 4. **Overarching Lenses block** - mandatory for L1-L6, optional for L7
 
@@ -232,7 +232,7 @@ _(Insert `G*-L6_*` here.)_
 - **Everyday anchors** - use relatable, concrete examples
 - **Brevity** - 1-3 sentences per definition
 - **No jargon overload** - introduce terms naturally
-- **No equations** - conceptual understanding only
+- **No equations initially** - conceptual understanding only (equations will be added in future phases per AGENTS.md section 8)
 
 ### Definition Length Requirements
 - **L1 (Kingdom):** 1-3 lines
@@ -364,7 +364,7 @@ Before committing any taxonomy content, verify:
 - [ ] Overarching Lenses block present (L1-L6)
 - [ ] Child listings use proper format with one-line gists
 - [ ] Genus (L6) section exists where required
-- [ ] Plain English, no equations
+- [ ] Plain English, no equations (for now - will be added per AGENTS.md section 8)
 - [ ] Everyday examples included where appropriate
 - [ ] No trailing whitespace
 - [ ] UTF-8 encoding with LF line endings

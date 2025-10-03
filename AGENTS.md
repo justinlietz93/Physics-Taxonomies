@@ -5,8 +5,10 @@ This repo is an analogy-first, top-down taxonomy of physics. The **Documentation
 
 ## 0) Core
 - Top-down only; parent exists before child.
-- Plain English (1–3 sentences), everyday anchors, no equations.
+- Plain English (1–3 sentences), everyday anchors, no equations initially.
 - Idempotent: never clobber existing non-empty files.
+
+**Note:** Per section 8) Equations and Formalisms, equations WILL be added once folder/file requirements are met.
 
 ## 1) Levels & Codes
 L1 K (Kingdom) · L2 P (Phylum) · L3 C (Class) · L4 O (Order) · L5 F (Family) · L6 G (Genus) · L7 S (Species)
