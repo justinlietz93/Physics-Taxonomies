@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Channel_Coding_Safeguards_Foundations — core principles and baseline exemplars.
-- G2-L6_Channel_Coding_Safeguards_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Error_Correction_Schemes — spotlights error correction schemes examples.
+- G2-L6_Modulation_Coding_Integration — spotlights modulation coding integration examples.
 
 ## Species (L7) — everyday exemplars

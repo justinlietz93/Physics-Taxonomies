@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Basis-Choice_Toolkits_Foundations — core principles and baseline exemplars.
-- G2-L6_Basis-Choice_Toolkits_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Spinor_vs_Polarization_Bases — spotlights spinor vs polarization bases examples.
+- G2-L6_Position_vs_Momentum_Views — spotlights position vs momentum views examples.
 
 ## Species (L7) — everyday exemplars

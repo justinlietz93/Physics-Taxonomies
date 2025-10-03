@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Telecom_Line_Balancing_Foundations — core principles and baseline exemplars.
-- G2-L6_Telecom_Line_Balancing_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Coax_Allpass_Ladders — spotlights coax allpass ladders examples.
+- G2-L6_WDM_Slope_Control — spotlights wdm slope control examples.
 
 ## Species (L7) — everyday exemplars

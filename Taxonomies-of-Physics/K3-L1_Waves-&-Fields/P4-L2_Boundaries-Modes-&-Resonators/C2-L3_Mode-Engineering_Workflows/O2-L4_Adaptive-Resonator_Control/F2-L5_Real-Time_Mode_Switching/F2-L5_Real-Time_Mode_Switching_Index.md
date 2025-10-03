@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Real-Time_Mode_Switching_Foundations — core principles and baseline exemplars.
-- G2-L6_Real-Time_Mode_Switching_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Tunable_Element_Layouts — spotlights tunable element layouts examples.
+- G2-L6_Digital-Command_Schedulers — spotlights digital-command schedulers examples.
 
 ## Species (L7) — everyday exemplars

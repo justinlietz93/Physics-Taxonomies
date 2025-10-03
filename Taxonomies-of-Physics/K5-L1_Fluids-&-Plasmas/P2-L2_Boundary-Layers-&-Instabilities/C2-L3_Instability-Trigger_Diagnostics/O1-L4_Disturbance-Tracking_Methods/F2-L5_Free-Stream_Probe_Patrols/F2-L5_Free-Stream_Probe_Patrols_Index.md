@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Free-Stream_Probe_Patrols_Foundations — core principles and baseline exemplars.
-- G2-L6_Free-Stream_Probe_Patrols_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Pitot-and_Probe_Rigs — spotlights pitot-and probe rigs examples.
+- G2-L6_Acoustic-and_Light_Scouts — spotlights acoustic-and light scouts examples.
 
 ## Species (L7) — everyday exemplars

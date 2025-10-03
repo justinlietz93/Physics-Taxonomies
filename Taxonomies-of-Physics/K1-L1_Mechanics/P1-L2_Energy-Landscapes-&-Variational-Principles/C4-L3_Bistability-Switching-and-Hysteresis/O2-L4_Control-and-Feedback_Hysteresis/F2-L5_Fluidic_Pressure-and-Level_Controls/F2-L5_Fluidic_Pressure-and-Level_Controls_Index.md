@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Fluidic_Pressure-and-Level_Controls_Foundations — core principles and baseline exemplars.
-- G2-L6_Fluidic_Pressure-and-Level_Controls_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Pressure_Switch_Diaphragms — spotlights pressure switch diaphragms examples.
+- G2-L6_Float_Valve_Latches — spotlights float valve latches examples.
 
 ## Species (L7) — everyday exemplars

@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Resonance-Tuning_Foundations — core principles and baseline exemplars.
-- G2-L6_Resonance-Tuning_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Microwave-and-Room-Modes — spotlights microwave-and-room-modes examples.
+- G2-L6_Acoustic-Chamber_Sweeps — spotlights acoustic-chamber sweeps examples.
 
 ## Species (L7) — everyday exemplars

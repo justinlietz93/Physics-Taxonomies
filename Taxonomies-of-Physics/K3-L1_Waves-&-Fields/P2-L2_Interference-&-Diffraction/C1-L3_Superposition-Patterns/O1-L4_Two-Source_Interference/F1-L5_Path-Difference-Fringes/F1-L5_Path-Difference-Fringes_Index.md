@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Path-Difference-Fringes_Foundations — core principles and baseline exemplars.
-- G2-L6_Path-Difference-Fringes_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Water-Light-Sound-Fringes — spotlights water-light-sound-fringes examples.
+- G2-L6_Path-Difference-Fringes_Extension_Portfolios — comparative twists and edge variations.
 
 ## Species (L7) — everyday exemplars

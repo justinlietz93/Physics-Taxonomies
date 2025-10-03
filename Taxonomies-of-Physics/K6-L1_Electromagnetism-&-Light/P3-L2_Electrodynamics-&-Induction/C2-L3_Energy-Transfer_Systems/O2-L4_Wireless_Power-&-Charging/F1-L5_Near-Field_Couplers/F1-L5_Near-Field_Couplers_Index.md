@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Near-Field_Couplers_Foundations — core principles and baseline exemplars.
-- G2-L6_Near-Field_Couplers_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Consumer_Charge_Pads — spotlights consumer charge pads examples.
+- G2-L6_Industrial_Tag_Power — spotlights industrial tag power examples.
 
 ## Species (L7) — everyday exemplars

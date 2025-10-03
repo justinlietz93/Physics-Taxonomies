@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Sampling-Workflow_Planning_Foundations — core principles and baseline exemplars.
-- G2-L6_Sampling-Workflow_Planning_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Anti-Alias_Filter-Designs — spotlights anti-alias filter-designs examples.
+- G2-L6_Sample-Rate_Selection_Guides — spotlights sample-rate selection guides examples.
 
 ## Species (L7) — everyday exemplars

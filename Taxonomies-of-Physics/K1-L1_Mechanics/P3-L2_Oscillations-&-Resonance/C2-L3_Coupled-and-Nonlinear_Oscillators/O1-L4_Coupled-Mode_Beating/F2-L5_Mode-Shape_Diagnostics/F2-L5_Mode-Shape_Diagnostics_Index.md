@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Mode-Shape_Diagnostics_Foundations — core principles and baseline exemplars.
-- G2-L6_Mode-Shape_Diagnostics_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Chladni-and_String_Maps — spotlights chladni-and string maps examples.
+- G2-L6_Vibration-Analyzer_Walkthroughs — spotlights vibration-analyzer walkthroughs examples.
 
 ## Species (L7) — everyday exemplars

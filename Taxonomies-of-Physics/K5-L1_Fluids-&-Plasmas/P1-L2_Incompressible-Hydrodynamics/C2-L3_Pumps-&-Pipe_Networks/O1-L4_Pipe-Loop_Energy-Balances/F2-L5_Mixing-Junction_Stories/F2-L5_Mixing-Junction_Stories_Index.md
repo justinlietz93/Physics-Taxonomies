@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Mixing-Junction_Stories_Foundations — core principles and baseline exemplars.
-- G2-L6_Mixing-Junction_Stories_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Building_Bypass_Tees — spotlights building bypass tees examples.
+- G2-L6_Process_Blending_Nodes — spotlights process blending nodes examples.
 
 ## Species (L7) — everyday exemplars

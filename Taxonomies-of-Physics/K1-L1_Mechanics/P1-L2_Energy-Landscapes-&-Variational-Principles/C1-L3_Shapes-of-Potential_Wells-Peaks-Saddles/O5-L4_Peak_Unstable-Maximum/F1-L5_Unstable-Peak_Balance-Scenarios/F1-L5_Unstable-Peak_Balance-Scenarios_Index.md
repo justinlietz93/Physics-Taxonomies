@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Unstable-Peak_Balance-Scenarios_Foundations — core principles and baseline exemplars.
-- G2-L6_Unstable-Peak_Balance-Scenarios_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Toppling-Threshold_Demos — spotlights toppling-threshold demos examples.
+- G2-L6_Safety-Margin_Assessments — spotlights safety-margin assessments examples.
 
 ## Species (L7) — everyday exemplars

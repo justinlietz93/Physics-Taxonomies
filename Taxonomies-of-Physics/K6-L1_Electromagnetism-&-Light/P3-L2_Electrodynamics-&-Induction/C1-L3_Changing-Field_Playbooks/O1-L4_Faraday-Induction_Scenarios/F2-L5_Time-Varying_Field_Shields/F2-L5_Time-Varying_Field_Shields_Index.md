@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Time-Varying_Field_Shields_Foundations — core principles and baseline exemplars.
-- G2-L6_Time-Varying_Field_Shields_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Pulsed-Core_Response — spotlights pulsed-core response examples.
+- G2-L6_Eddy-Current_Safeguards — spotlights eddy-current safeguards examples.
 
 ## Species (L7) — everyday exemplars

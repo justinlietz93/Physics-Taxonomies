@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Timing-and_Data_Analysis_Techniques_Foundations — core principles and baseline exemplars.
-- G2-L6_Timing-and_Data_Analysis_Techniques_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Timing-and_Data_Analysis_Techniques_Core_Scenarios — canonical setups and baseline checks.
+- G2-L6_Timing-and_Data_Analysis_Techniques_Applied_Toolkits — practical methods and measurement playbooks.
 
 ## Species (L7) — everyday exemplars

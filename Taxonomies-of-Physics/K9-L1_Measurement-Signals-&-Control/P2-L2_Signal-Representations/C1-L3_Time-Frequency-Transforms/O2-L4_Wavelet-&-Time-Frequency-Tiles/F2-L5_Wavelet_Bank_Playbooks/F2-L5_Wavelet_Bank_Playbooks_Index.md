@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Wavelet_Bank_Playbooks_Foundations — core principles and baseline exemplars.
-- G2-L6_Wavelet_Bank_Playbooks_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Wavelet_Family_Selection — spotlights wavelet family selection examples.
+- G2-L6_Scalogram_Interpretation_Tools — spotlights scalogram interpretation tools examples.
 
 ## Species (L7) — everyday exemplars

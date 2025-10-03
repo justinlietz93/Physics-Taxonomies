@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Mechanical_Bistable-Switches_Foundations — core principles and baseline exemplars.
-- G2-L6_Mechanical_Bistable-Switches_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Toggle-Switch_Mechanisms — spotlights toggle-switch mechanisms examples.
+- G2-L6_Snap-Through_Shells — spotlights snap-through shells examples.
 
 ## Species (L7) — everyday exemplars

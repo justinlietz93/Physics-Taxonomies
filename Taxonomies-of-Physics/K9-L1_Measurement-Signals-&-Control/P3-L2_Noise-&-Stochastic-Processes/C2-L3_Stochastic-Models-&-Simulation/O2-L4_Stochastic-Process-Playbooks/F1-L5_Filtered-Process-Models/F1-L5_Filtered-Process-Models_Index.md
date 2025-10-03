@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Filtered-Process-Models_Foundations — core principles and baseline exemplars.
-- G2-L6_Filtered-Process-Models_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Kalman-vs-Particle-Concepts — spotlights kalman-vs-particle-concepts examples.
+- G2-L6_ARMA-vs-ARIMA-Usecases — spotlights arma-vs-arima-usecases examples.
 
 ## Species (L7) — everyday exemplars

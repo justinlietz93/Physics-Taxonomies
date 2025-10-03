@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Group-Control_Strategies_Foundations — core principles and baseline exemplars.
-- G2-L6_Group-Control_Strategies_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Slow-Light_Demonstrators — spotlights slow-light demonstrators examples.
+- G2-L6_Dispersion-Managed_Links — spotlights dispersion-managed links examples.
 
 ## Species (L7) — everyday exemplars

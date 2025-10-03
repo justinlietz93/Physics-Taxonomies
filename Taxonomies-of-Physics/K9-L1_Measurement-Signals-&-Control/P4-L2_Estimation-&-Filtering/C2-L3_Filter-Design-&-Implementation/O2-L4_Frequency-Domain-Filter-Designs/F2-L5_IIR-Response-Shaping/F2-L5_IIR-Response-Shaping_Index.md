@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_IIR-Response-Shaping_Foundations — core principles and baseline exemplars.
-- G2-L6_IIR-Response-Shaping_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Pole-Zero-Placement-Sessions — spotlights pole-zero-placement-sessions examples.
+- G2-L6_Stability-&-Biquad-Tuning — spotlights stability-&-biquad-tuning examples.
 
 ## Species (L7) — everyday exemplars

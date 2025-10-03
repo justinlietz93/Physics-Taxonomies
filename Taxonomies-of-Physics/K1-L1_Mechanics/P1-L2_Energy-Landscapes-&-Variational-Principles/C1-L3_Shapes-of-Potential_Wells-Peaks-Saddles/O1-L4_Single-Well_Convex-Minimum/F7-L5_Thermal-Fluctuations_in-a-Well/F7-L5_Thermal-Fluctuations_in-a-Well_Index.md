@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Thermal-Fluctuations_in-a-Well_Foundations — core principles and baseline exemplars.
-- G2-L6_Thermal-Fluctuations_in-a-Well_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Brownian_Jitter_Tracking — spotlights brownian jitter tracking examples.
+- G2-L6_Thermal_Drift_Guardians — spotlights thermal drift guardians examples.
 
 ## Species (L7) — everyday exemplars

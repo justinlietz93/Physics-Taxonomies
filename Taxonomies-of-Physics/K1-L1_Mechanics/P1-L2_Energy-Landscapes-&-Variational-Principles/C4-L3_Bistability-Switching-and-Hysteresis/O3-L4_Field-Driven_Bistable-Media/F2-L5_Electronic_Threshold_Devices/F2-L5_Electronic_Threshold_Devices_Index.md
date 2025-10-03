@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Electronic_Threshold_Devices_Foundations — core principles and baseline exemplars.
-- G2-L6_Electronic_Threshold_Devices_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Schmitt_Trigger_Stages — spotlights schmitt trigger stages examples.
+- G2-L6_Memory_Material_Cells — spotlights memory material cells examples.
 
 ## Species (L7) — everyday exemplars

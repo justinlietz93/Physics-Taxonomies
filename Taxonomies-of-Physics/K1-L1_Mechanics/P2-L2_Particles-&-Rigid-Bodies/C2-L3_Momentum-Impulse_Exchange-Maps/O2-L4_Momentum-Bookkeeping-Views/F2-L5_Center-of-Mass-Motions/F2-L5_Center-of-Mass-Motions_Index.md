@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Center-of-Mass-Motions_Foundations — core principles and baseline exemplars.
-- G2-L6_Center-of-Mass-Motions_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Fireworks-and_Fragment-Drift — spotlights fireworks-and fragment-drift examples.
+- G2-L6_Tug-and-Tow_Tradeoffs — spotlights tug-and-tow tradeoffs examples.
 
 ## Species (L7) — everyday exemplars

@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Shear-Thickening-and-Thinning_Foundations — core principles and baseline exemplars.
-- G2-L6_Shear-Thickening-and-Thinning_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Kitchen-and-Shop-Fluids — spotlights kitchen-and-shop-fluids examples.
+- G2-L6_Shear-Thickening-and-Thinning_Extension_Portfolios — comparative twists and edge variations.
 
 ## Species (L7) — everyday exemplars

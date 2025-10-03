@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Effective-Minimum_Shifted-by_Constant-Force-or_Rotation_Foundations — core principles and baseline exemplars.
-- G2-L6_Effective-Minimum_Shifted-by_Constant-Force-or_Rotation_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Biased_Equilibrium_Analyses — spotlights biased equilibrium analyses examples.
+- G2-L6_Counteracting_Bias_Strategies — spotlights counteracting bias strategies examples.
 
 ## Species (L7) — everyday exemplars

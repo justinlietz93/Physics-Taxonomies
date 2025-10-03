@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Surface-Damage_Surveys_Foundations — core principles and baseline exemplars.
-- G2-L6_Surface-Damage_Surveys_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Sensor-Embedded_Testbeds — spotlights sensor-embedded testbeds examples.
+- G2-L6_High-Speed_Imaging_Shops — spotlights high-speed imaging shops examples.
 
 ## Species (L7) — everyday exemplars

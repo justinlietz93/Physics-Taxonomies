@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Computational_Phase_Reconstruction_Foundations — core principles and baseline exemplars.
-- G2-L6_Computational_Phase_Reconstruction_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Computational_Phase_Reconstruction_Core_Scenarios — canonical setups and baseline checks.
+- G2-L6_Computational_Phase_Reconstruction_Applied_Toolkits — practical methods and measurement playbooks.
 
 ## Species (L7) — everyday exemplars

@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Adaptive-Time-Domain-Filters_Foundations — core principles and baseline exemplars.
-- G2-L6_Adaptive-Time-Domain-Filters_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Least-Mean-Square-Workflows — spotlights least-mean-square-workflows examples.
+- G2-L6_RLS-&-Adaptive-Gain-Plans — spotlights rls-&-adaptive-gain-plans examples.
 
 ## Species (L7) — everyday exemplars

@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_IR_Fingerprint_Toolkits_Foundations — core principles and baseline exemplars.
-- G2-L6_IR_Fingerprint_Toolkits_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Food-&-Pharma_IR_Checklists — spotlights food-&-pharma ir checklists examples.
+- G2-L6_Materials_Lab_IR_Libraries — spotlights materials lab ir libraries examples.
 
 ## Species (L7) — everyday exemplars

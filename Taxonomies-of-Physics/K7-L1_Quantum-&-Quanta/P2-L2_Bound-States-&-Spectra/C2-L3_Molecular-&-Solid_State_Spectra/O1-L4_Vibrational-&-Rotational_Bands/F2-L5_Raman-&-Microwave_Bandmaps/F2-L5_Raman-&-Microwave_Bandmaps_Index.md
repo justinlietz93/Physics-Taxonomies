@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Raman-&-Microwave_Bandmaps_Foundations — core principles and baseline exemplars.
-- G2-L6_Raman-&-Microwave_Bandmaps_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Raman_Process_Control — spotlights raman process control examples.
+- G2-L6_Microwave_Rotational_Surveys — spotlights microwave rotational surveys examples.
 
 ## Species (L7) — everyday exemplars

@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Surface-Finish_Tunings_Foundations — core principles and baseline exemplars.
-- G2-L6_Surface-Finish_Tunings_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Coating_Control_Routines — spotlights coating control routines examples.
+- G2-L6_Joint-Seal_Verifications — spotlights joint-seal verifications examples.
 
 ## Species (L7) — everyday exemplars

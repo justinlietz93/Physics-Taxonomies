@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Latched_Flexure_Mechanisms_Foundations — core principles and baseline exemplars.
-- G2-L6_Latched_Flexure_Mechanisms_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Snap-Fit_Electronics_Covers — spotlights snap-fit electronics covers examples.
+- G2-L6_Panel_Push-Latches — spotlights panel push-latches examples.
 
 ## Species (L7) — everyday exemplars

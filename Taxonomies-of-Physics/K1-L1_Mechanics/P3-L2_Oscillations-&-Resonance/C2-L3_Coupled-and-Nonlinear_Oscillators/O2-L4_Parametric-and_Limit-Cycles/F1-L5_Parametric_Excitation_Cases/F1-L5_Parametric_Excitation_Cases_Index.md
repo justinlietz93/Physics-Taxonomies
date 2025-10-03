@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Parametric_Excitation_Cases_Foundations — core principles and baseline exemplars.
-- G2-L6_Parametric_Excitation_Cases_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Pendulum-Length_Modulation — spotlights pendulum-length modulation examples.
+- G2-L6_Electrical_Parametric_Pumps — spotlights electrical parametric pumps examples.
 
 ## Species (L7) — everyday exemplars

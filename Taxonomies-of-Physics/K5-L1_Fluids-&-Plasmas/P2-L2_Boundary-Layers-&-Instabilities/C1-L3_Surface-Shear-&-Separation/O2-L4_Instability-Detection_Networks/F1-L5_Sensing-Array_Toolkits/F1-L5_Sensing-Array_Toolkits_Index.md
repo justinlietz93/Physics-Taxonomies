@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Sensing-Array_Toolkits_Foundations — core principles and baseline exemplars.
-- G2-L6_Sensing-Array_Toolkits_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Surface-Pressure_Strips — spotlights surface-pressure strips examples.
+- G2-L6_Thermal-and_Hot-Film_Grids — spotlights thermal-and hot-film grids examples.
 
 ## Species (L7) — everyday exemplars

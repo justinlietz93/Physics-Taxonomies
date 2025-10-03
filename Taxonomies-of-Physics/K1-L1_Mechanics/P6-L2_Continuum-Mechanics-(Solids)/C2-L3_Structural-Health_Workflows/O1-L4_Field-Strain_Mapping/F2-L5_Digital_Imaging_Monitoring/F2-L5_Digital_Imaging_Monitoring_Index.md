@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Digital_Imaging_Monitoring_Foundations — core principles and baseline exemplars.
-- G2-L6_Digital_Imaging_Monitoring_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Speckle-Pattern_Cameras — spotlights speckle-pattern cameras examples.
+- G2-L6_Drone_Surface_Surveys — spotlights drone surface surveys examples.
 
 ## Species (L7) — everyday exemplars

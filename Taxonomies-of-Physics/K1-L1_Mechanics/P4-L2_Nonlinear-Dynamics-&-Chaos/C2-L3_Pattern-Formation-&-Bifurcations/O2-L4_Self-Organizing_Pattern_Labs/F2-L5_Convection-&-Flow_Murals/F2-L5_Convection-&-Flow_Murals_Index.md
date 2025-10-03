@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Convection-&-Flow_Murals_Foundations — core principles and baseline exemplars.
-- G2-L6_Convection-&-Flow_Murals_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Benard_Cell_Studios — spotlights benard cell studios examples.
+- G2-L6_Granular_and_Vibrated_Landscapes — spotlights granular and vibrated landscapes examples.
 
 ## Species (L7) — everyday exemplars

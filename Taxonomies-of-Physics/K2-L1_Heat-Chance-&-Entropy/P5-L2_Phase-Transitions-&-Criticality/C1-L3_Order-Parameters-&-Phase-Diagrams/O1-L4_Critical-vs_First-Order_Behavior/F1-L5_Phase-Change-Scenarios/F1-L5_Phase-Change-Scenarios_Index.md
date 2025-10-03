@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Phase-Change-Scenarios_Foundations — core principles and baseline exemplars.
-- G2-L6_Phase-Change-Scenarios_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Critical-Point-Stories — spotlights critical-point-stories examples.
+- G2-L6_Phase-Change-Scenarios_Extension_Portfolios — comparative twists and edge variations.
 
 ## Species (L7) — everyday exemplars

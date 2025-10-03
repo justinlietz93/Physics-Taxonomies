@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Backup-&-Duty_Rotations_Foundations — core principles and baseline exemplars.
-- G2-L6_Backup-&-Duty_Rotations_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Fire-Protection_Duty-Cycles — spotlights fire-protection duty-cycles examples.
+- G2-L6_Waterworks_Lag-Lead_Schedules — spotlights waterworks lag-lead schedules examples.
 
 ## Species (L7) — everyday exemplars

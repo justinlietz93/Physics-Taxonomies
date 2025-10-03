@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Fixed-Ends-Resonances_Foundations — core principles and baseline exemplars.
-- G2-L6_Fixed-Ends-Resonances_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Guitar-String-and-Air-Column — spotlights guitar-string-and-air-column examples.
+- G2-L6_Fixed-Ends-Resonances_Extension_Portfolios — comparative twists and edge variations.
 
 ## Species (L7) — everyday exemplars

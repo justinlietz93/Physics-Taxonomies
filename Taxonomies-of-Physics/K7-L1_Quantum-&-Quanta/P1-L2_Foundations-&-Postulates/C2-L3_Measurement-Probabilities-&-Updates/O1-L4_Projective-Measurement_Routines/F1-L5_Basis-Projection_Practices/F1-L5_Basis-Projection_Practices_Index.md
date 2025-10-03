@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Basis-Projection_Practices_Foundations — core principles and baseline exemplars.
-- G2-L6_Basis-Projection_Practices_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Stern-Gerlach_Workflows — spotlights stern-gerlach workflows examples.
+- G2-L6_Optical_Polarizer_Stacks — spotlights optical polarizer stacks examples.
 
 ## Species (L7) — everyday exemplars

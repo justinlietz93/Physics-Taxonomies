@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Rayleigh-and-Love_Workups_Foundations — core principles and baseline exemplars.
-- G2-L6_Rayleigh-and-Love_Workups_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Seismic-Surface_Clinics — spotlights seismic-surface clinics examples.
+- G2-L6_Plate-Wave_Test_Beds — spotlights plate-wave test beds examples.
 
 ## Species (L7) — everyday exemplars

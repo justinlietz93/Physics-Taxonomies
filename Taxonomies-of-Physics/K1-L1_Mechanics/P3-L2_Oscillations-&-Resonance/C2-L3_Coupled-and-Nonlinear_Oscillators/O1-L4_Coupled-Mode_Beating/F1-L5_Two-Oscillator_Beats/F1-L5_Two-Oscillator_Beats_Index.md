@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Two-Oscillator_Beats_Foundations — core principles and baseline exemplars.
-- G2-L6_Two-Oscillator_Beats_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Paired-Mass_Springs — spotlights paired-mass springs examples.
+- G2-L6_Coupled-Pendulum_Labs — spotlights coupled-pendulum labs examples.
 
 ## Species (L7) — everyday exemplars

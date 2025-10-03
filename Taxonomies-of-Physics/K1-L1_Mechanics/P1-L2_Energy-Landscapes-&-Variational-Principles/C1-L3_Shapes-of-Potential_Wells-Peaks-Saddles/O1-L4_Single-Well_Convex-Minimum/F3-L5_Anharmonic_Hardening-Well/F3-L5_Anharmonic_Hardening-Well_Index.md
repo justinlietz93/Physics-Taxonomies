@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Anharmonic_Hardening-Well_Foundations — core principles and baseline exemplars.
-- G2-L6_Anharmonic_Hardening-Well_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Hardening_Response_Scouting — spotlights hardening response scouting examples.
+- G2-L6_Bottom-Out_Prevention_Tuning — spotlights bottom-out prevention tuning examples.
 
 ## Species (L7) — everyday exemplars

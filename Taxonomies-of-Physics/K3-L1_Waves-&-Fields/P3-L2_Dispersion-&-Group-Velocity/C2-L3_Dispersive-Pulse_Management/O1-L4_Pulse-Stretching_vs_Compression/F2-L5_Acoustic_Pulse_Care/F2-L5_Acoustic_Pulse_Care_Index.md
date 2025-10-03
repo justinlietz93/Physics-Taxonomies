@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Acoustic_Pulse_Care_Foundations — core principles and baseline exemplars.
-- G2-L6_Acoustic_Pulse_Care_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Sonic_Boom_Tailoring — spotlights sonic boom tailoring examples.
+- G2-L6_Medical_Ultrasound_Tuning — spotlights medical ultrasound tuning examples.
 
 ## Species (L7) — everyday exemplars

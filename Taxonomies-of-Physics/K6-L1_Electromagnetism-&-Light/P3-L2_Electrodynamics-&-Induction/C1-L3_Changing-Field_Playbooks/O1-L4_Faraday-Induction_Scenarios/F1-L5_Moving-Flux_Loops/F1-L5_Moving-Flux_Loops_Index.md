@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Moving-Flux_Loops_Foundations — core principles and baseline exemplars.
-- G2-L6_Moving-Flux_Loops_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Rotating-Loop_Induction — spotlights rotating-loop induction examples.
+- G2-L6_Sliding-Conductor_Sweeps — spotlights sliding-conductor sweeps examples.
 
 ## Species (L7) — everyday exemplars

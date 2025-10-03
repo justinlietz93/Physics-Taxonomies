@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Single-Sensor_Kalman-Loops_Foundations — core principles and baseline exemplars.
-- G2-L6_Single-Sensor_Kalman-Loops_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Discrete-Time-Implementations — spotlights discrete-time-implementations examples.
+- G2-L6_Covariance-Tuning-Clinics — spotlights covariance-tuning-clinics examples.
 
 ## Species (L7) — everyday exemplars

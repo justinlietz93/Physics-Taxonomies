@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Variable-Speed_Playbooks_Foundations — core principles and baseline exemplars.
-- G2-L6_Variable-Speed_Playbooks_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Retrofit_VFD_Projects — spotlights retrofit vfd projects examples.
+- G2-L6_Sensor-Driven_Setpoints — spotlights sensor-driven setpoints examples.
 
 ## Species (L7) — everyday exemplars

@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Magnetic_Bit_Storage_Foundations — core principles and baseline exemplars.
-- G2-L6_Magnetic_Bit_Storage_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Magnetic_Strip_Media — spotlights magnetic strip media examples.
+- G2-L6_Rotating_Disk_Domains — spotlights rotating disk domains examples.
 
 ## Species (L7) — everyday exemplars

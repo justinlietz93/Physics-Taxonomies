@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Static-to-Oscillatory_Jumps_Foundations — core principles and baseline exemplars.
-- G2-L6_Static-to-Oscillatory_Jumps_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Pitchfork-and_Fold_Checks — spotlights pitchfork-and fold checks examples.
+- G2-L6_Hysteresis_Diagnostics — spotlights hysteresis diagnostics examples.
 
 ## Species (L7) — everyday exemplars

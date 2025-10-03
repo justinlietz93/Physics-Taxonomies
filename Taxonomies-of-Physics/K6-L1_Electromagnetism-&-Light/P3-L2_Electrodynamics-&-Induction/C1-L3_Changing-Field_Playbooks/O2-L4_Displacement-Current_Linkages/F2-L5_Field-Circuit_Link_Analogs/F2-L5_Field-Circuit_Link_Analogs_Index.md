@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Field-Circuit_Link_Analogs_Foundations — core principles and baseline exemplars.
-- G2-L6_Field-Circuit_Link_Analogs_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Maxwell_Correction_Experiments — spotlights maxwell correction experiments examples.
+- G2-L6_High-Frequency_Current_Returns — spotlights high-frequency current returns examples.
 
 ## Species (L7) — everyday exemplars

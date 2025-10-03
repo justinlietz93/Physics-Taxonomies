@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Boundary-vs-Umklapp-Scattering_Foundations — core principles and baseline exemplars.
-- G2-L6_Boundary-vs-Umklapp-Scattering_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Cryostat-vs-Kitchen-Insulation — spotlights cryostat-vs-kitchen-insulation examples.
+- G2-L6_Boundary-vs-Umklapp-Scattering_Extension_Portfolios — comparative twists and edge variations.
 
 ## Species (L7) — everyday exemplars

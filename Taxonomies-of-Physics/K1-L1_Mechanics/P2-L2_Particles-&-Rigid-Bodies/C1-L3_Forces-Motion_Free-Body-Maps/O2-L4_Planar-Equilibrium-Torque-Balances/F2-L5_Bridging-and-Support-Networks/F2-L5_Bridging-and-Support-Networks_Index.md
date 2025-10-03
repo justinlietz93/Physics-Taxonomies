@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Bridging-and-Support-Networks_Foundations — core principles and baseline exemplars.
-- G2-L6_Bridging-and-Support-Networks_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Table-and-Work-Bench-Leveling — spotlights table-and-work-bench-leveling examples.
+- G2-L6_Suspension-and-Guy-Wire-Examples — spotlights suspension-and-guy-wire-examples examples.
 
 ## Species (L7) — everyday exemplars

@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Magnetic-Shielding_Housings_Foundations — core principles and baseline exemplars.
-- G2-L6_Magnetic-Shielding_Housings_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Mu-Metal_Enclosure_Practices — spotlights mu-metal enclosure practices examples.
+- G2-L6_Composite-Shield_Plays — spotlights composite-shield plays examples.
 
 ## Species (L7) — everyday exemplars

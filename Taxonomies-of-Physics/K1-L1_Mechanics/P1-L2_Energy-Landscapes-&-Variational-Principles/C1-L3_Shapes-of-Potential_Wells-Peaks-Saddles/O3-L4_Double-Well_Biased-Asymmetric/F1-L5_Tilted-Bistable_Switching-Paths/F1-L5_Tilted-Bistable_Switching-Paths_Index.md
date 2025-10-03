@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Tilted-Bistable_Switching-Paths_Foundations — core principles and baseline exemplars.
-- G2-L6_Tilted-Bistable_Switching-Paths_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Shifted-Minima_Energy-Diagrams — spotlights shifted-minima energy-diagrams examples.
+- G2-L6_Biased-Switching_Dynamics — spotlights biased-switching dynamics examples.
 
 ## Species (L7) — everyday exemplars

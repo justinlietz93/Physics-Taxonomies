@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Escape-Criterion_Studies_Foundations — core principles and baseline exemplars.
-- G2-L6_Escape-Criterion_Studies_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Confining-Basin_Assessments — spotlights confining-basin assessments examples.
+- G2-L6_Runaway-Path_Scenarios — spotlights runaway-path scenarios examples.
 
 ## Species (L7) — everyday exemplars

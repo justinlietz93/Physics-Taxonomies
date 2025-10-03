@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Single-Source_Field-Stories_Foundations — core principles and baseline exemplars.
-- G2-L6_Single-Source_Field-Stories_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Point-Charge_Field-Maps — spotlights point-charge field-maps examples.
+- G2-L6_Dipole_Pattern_Snapshots — spotlights dipole pattern snapshots examples.
 
 ## Species (L7) — everyday exemplars

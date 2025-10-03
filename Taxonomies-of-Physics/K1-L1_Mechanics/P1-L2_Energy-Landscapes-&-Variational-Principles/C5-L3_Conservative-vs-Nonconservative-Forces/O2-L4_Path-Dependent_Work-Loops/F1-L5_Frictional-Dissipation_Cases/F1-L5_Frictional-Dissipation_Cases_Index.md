@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Frictional-Dissipation_Cases_Foundations — core principles and baseline exemplars.
-- G2-L6_Frictional-Dissipation_Cases_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Sliding-Contact_Studies — spotlights sliding-contact studies examples.
+- G2-L6_Viscous-Drag_Benchmarks — spotlights viscous-drag benchmarks examples.
 
 ## Species (L7) — everyday exemplars

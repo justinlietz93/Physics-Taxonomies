@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Random-Field-Simulations_Foundations — core principles and baseline exemplars.
-- G2-L6_Random-Field-Simulations_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Spatial-Noise-Mapping — spotlights spatial-noise-mapping examples.
+- G2-L6_Synthetic-Sensor-Suites — spotlights synthetic-sensor-suites examples.
 
 ## Species (L7) — everyday exemplars

@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Color-Spread-Examples_Foundations — core principles and baseline exemplars.
-- G2-L6_Color-Spread-Examples_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Prism-and-CD-Spectra — spotlights prism-and-cd-spectra examples.
+- G2-L6_Atmospheric_Color-Separation — spotlights atmospheric color-separation examples.
 
 ## Species (L7) — everyday exemplars

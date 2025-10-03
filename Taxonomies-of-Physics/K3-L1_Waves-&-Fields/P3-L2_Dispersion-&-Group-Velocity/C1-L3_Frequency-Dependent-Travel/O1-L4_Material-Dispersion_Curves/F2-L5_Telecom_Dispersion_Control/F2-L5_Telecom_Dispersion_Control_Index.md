@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Telecom_Dispersion_Control_Foundations — core principles and baseline exemplars.
-- G2-L6_Telecom_Dispersion_Control_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Fiber-Design_Tradeoffs — spotlights fiber-design tradeoffs examples.
+- G2-L6_Pulse-Stretch_Compress_Kits — spotlights pulse-stretch compress kits examples.
 
 ## Species (L7) — everyday exemplars

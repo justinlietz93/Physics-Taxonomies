@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Material-Wave_Testbeds_Foundations — core principles and baseline exemplars.
-- G2-L6_Material-Wave_Testbeds_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Acoustic_Blockrooms — spotlights acoustic blockrooms examples.
+- G2-L6_Vibration-Isolation_Rigs — spotlights vibration-isolation rigs examples.
 
 ## Species (L7) — everyday exemplars

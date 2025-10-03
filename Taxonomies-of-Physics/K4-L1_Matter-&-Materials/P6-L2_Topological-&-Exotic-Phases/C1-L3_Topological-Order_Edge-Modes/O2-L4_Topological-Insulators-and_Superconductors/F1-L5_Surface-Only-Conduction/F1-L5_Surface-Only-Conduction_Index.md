@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Surface-Only-Conduction_Foundations — core principles and baseline exemplars.
-- G2-L6_Surface-Only-Conduction_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Bismuth-Selenide-and_Cold-Atom-Lattices — spotlights bismuth-selenide-and cold-atom-lattices examples.
+- G2-L6_Surface-Only-Conduction_Extension_Portfolios — comparative twists and edge variations.
 
 ## Species (L7) — everyday exemplars

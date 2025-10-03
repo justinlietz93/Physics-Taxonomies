@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Field_Transition_Pilots_Foundations — core principles and baseline exemplars.
-- G2-L6_Field_Transition_Pilots_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Airframe_Retrofit_Trials — spotlights airframe retrofit trials examples.
+- G2-L6_Infrastructure_Boundary_Projects — spotlights infrastructure boundary projects examples.
 
 ## Species (L7) — everyday exemplars

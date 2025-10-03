@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Axis-Coupling_Diagnostics_Foundations — core principles and baseline exemplars.
-- G2-L6_Axis-Coupling_Diagnostics_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Separable-Test_Routines — spotlights separable-test routines examples.
+- G2-L6_Coupled-Response_Troubleshooting — spotlights coupled-response troubleshooting examples.
 
 ## Species (L7) — everyday exemplars

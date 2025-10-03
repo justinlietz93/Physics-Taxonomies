@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Event-Reconstruction_Stories_Foundations — core principles and baseline exemplars.
-- G2-L6_Event-Reconstruction_Stories_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Impulse-Trace_Analysts — spotlights impulse-trace analysts examples.
+- G2-L6_Digital-Twin_Replays — spotlights digital-twin replays examples.
 
 ## Species (L7) — everyday exemplars

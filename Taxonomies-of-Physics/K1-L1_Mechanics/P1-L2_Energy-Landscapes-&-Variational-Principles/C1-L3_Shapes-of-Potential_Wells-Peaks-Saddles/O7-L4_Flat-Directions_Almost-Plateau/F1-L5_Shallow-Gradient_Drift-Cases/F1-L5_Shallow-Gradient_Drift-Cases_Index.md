@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Shallow-Gradient_Drift-Cases_Foundations — core principles and baseline exemplars.
-- G2-L6_Shallow-Gradient_Drift-Cases_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Fine-Tune_Modeling_Tools — spotlights fine-tune modeling tools examples.
+- G2-L6_Drift-Stability_Safeguards — spotlights drift-stability safeguards examples.
 
 ## Species (L7) — everyday exemplars

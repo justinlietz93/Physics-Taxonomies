@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Noise-Driven_Large-Excursions_No-Escape_Foundations — core principles and baseline exemplars.
-- G2-L6_Noise-Driven_Large-Excursions_No-Escape_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Clearance_Risk_Assessments — spotlights clearance risk assessments examples.
+- G2-L6_Bounce_Containment_Solutions — spotlights bounce containment solutions examples.
 
 ## Species (L7) — everyday exemplars

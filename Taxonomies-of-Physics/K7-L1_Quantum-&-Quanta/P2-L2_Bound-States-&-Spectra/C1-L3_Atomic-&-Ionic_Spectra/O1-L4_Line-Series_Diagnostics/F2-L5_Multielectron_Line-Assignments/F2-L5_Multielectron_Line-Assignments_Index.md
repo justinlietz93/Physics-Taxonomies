@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Multielectron_Line-Assignments_Foundations — core principles and baseline exemplars.
-- G2-L6_Multielectron_Line-Assignments_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Sodium-&-Neon_Line-Maps — spotlights sodium-&-neon line-maps examples.
+- G2-L6_Plasma_Diagnostics_Templates — spotlights plasma diagnostics templates examples.
 
 ## Species (L7) — everyday exemplars

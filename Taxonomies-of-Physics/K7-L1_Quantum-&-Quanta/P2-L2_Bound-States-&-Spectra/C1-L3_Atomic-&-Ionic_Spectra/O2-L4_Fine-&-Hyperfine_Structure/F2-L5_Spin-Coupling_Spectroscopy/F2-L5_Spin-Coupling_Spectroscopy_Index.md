@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Spin-Coupling_Spectroscopy_Foundations — core principles and baseline exemplars.
-- G2-L6_Spin-Coupling_Spectroscopy_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Atomic_Clock_Transition_Tuning — spotlights atomic clock transition tuning examples.
+- G2-L6_Magnetic-Field_Probe_Spectra — spotlights magnetic-field probe spectra examples.
 
 ## Species (L7) — everyday exemplars

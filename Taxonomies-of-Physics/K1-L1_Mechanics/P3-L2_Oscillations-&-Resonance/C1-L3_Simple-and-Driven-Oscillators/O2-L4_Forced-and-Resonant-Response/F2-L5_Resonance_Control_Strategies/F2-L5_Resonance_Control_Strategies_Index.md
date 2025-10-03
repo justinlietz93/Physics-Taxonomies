@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Resonance_Control_Strategies_Foundations — core principles and baseline exemplars.
-- G2-L6_Resonance_Control_Strategies_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Vibration-Isolation_Arrays — spotlights vibration-isolation arrays examples.
+- G2-L6_Tuned-Mass_Dampers — spotlights tuned-mass dampers examples.
 
 ## Species (L7) — everyday exemplars

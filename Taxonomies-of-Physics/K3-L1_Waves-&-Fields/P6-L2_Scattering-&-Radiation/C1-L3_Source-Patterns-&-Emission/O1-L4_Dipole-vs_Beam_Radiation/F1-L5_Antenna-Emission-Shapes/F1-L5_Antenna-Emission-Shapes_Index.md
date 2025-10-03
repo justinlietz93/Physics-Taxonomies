@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Antenna-Emission-Shapes_Foundations — core principles and baseline exemplars.
-- G2-L6_Antenna-Emission-Shapes_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Radio-Dipole-vs_Dish — spotlights radio-dipole-vs dish examples.
+- G2-L6_Antenna-Emission-Shapes_Extension_Portfolios — comparative twists and edge variations.
 
 ## Species (L7) — everyday exemplars
