@@ -1,4 +1,5 @@
-# Heat, Chance, & Entropy (why things even out)
+# K2–L1 Heat, Chance, & Entropy
+**Definition:** How energy spreads, random fluctuations emerge, and order reshapes when many particles jostle and trade energy.
 
 ## Overarching Lenses
 
@@ -10,22 +11,19 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Phylum
+## Phyla (L2) — index
+- **P1-L2_Thermodynamics-&-Heat-Engines** — macroscopic states, cycles, and energy bookkeeping.
+- **P2-L2_Statistical-Physics-&-Microstates** — counting micro-configurations that build temperature and entropy.
+- **P3-L2_Transport-&-Nonequilibrium-Processes** — flows of heat, particles, and momentum away from balance.
+- **P4-L2_Fluctuations-&-Noise** — random kicks, spectra, and how chance steers motion.
+- **P5-L2_Phase-Transitions-&-Criticality** — sudden reorganizations and collective behavior near tipping points.
 
-- **Thermodynamics** — energy, work, heat, engines; *fridges, kettles*.
-- **Statistical Physics** — many-microstates → temperature/entropy; *shuffling decks*.
-- **Transport & Nonequilibrium** — diffusion, conduction, advection; *smells spreading*.
-- **Fluctuations & Noise** — random kicks, Brownian motion; *pollen jitter*.
-- **Phase Transitions & Criticality** — sudden order/disorder; *boiling, magnets*.
+## Native questions
+- How does energy flow or even out between parts of the system?
+- Which constraints or reservoirs set temperature, pressure, or chemical balance?
+- What random events or correlations matter most at the scale we care about?
 
-## Class (canonical models)
-
-## Order (regimes/approximations)
-
-## Family (canonical problems)
-
-## Genus (L6)
-
-_(Insert Genus folders `G*-L6_*` between Family and Species; each Genus contains several Species.)_
-
-## Species (L7) — everyday exemplars
+## Everyday anchors
+- Cooking with stovetops, ovens, and pressure cookers.
+- Weather fronts distributing heat and moisture.
+- Ice melting into water during spring thaw.

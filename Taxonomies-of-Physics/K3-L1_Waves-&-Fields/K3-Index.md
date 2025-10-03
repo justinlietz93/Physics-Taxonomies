@@ -1,4 +1,5 @@
-# Waves & Fields (how influence travels)
+# K3–L1 Waves & Fields
+**Definition:** Explains how disturbances travel, interact, and carry energy or information through space and media.
 
 ## Overarching Lenses
 
@@ -10,23 +11,20 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Phylum
+## Phyla (L2) — index
+- **P1-L2_Wave-Kinematics-&-Propagation** — speeds, amplitudes, and directions of traveling disturbances.
+- **P2-L2_Interference-&-Diffraction** — overlapping waves creating fringes and shadow patterns.
+- **P3-L2_Dispersion-&-Group-Velocity** — frequency-dependent travel that separates colors or tones.
+- **P4-L2_Boundaries-Modes-&-Resonators** — standing patterns set by geometry and constraints.
+- **P5-L2_Nonlinear-Waves-&-Solitons** — self-steepening pulses and shock-like fronts.
+- **P6-L2_Scattering-&-Radiation** — how sources emit and how obstacles redirect wave energy.
 
-- **Kinematics of Waves** — speed, wavelength, superposition; *ripples, sound*.
-- **Interference & Diffraction** — patterns from overlap; *soap-film colors*.
-- **Dispersion & Group Velocity** — different sizes travel differently; *ocean swells*.
-- **Boundaries, Modes & Resonators** — standing patterns; *guitar strings, rooms*.
-- **Nonlinear Waves & Solitons** — self-shaping pulses; *tsunami-like packets*.
-- **Scattering & Radiation** — sending/redirecting waves; *echoes, radar*.
+## Native questions
+- What sets the speed, shape, or direction of the disturbance?
+- How do overlapping waves add up or cancel in different locations?
+- Which features survive or change when the wave meets a boundary or new medium?
 
-## Class (canonical models)
-
-## Order (regimes/approximations)
-
-## Family (canonical problems)
-
-## Genus (L6)
-
-_(Insert Genus folders `G*-L6_*` between Family and Species; each Genus contains several Species.)_
-
-## Species (L7) — everyday exemplars
+## Everyday anchors
+- Surf waves rolling to shore and reshaping as depth changes.
+- Sound from speakers filling a room and bending around corners.
+- Rainbows and radio broadcasts showing dispersion and radiation.
