@@ -1,5 +1,5 @@
-# K6–L1 Electromagnetism & Light
-**Definition:** How electric charges, currents, and light share energy and information through space in everyday tech and nature.
+# G2-L6_Cylindrical_Gauss_Maps — Genus Index
+**Definition:** Cylindrical charge models that explain fields around wires, ducts, and coaxial hardware.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,11 +10,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Phyla (L2) — index
-- P1-L2_Electrostatics-&-Potentials — how fixed charges build fields and stored energy.
-- P2-L2_Magnetostatics-&-Steady-Currents — how steady currents shape magnetic forces and circuits.
-## Native questions
-- How do charges rearrange to balance forces or store energy in familiar gear?
-- When do steady currents tug, twist, or align tools around us?
-## Everyday anchors
-- Balloon-on-wall stick tests, lightning rods, fridge magnets, speaker coils, factory power rails, magnetic phone mounts.
+## Species (L7) — everyday exemplars
+- S1-L7_Coaxial_Cable_Shield_Field-Check — confirm coax shields confine fields inside gear racks.
+- S2-L7_Dust-Collector_Duct_Static-Survey — gauge charge buildup along industrial ducts.

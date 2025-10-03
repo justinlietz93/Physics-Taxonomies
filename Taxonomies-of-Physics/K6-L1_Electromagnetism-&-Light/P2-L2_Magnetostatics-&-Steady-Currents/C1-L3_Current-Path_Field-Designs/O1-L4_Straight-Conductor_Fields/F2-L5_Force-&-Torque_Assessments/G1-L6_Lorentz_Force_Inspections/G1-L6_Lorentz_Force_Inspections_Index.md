@@ -1,5 +1,5 @@
-# K6–L1 Electromagnetism & Light
-**Definition:** How electric charges, currents, and light share energy and information through space in everyday tech and nature.
+# G1-L6_Lorentz_Force_Inspections — Genus Index
+**Definition:** Use steady-current fields to estimate structural forces and brace requirements.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,11 +10,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Phyla (L2) — index
-- P1-L2_Electrostatics-&-Potentials — how fixed charges build fields and stored energy.
-- P2-L2_Magnetostatics-&-Steady-Currents — how steady currents shape magnetic forces and circuits.
-## Native questions
-- How do charges rearrange to balance forces or store energy in familiar gear?
-- When do steady currents tug, twist, or align tools around us?
-## Everyday anchors
-- Balloon-on-wall stick tests, lightning rods, fridge magnets, speaker coils, factory power rails, magnetic phone mounts.
+## Species (L7) — everyday exemplars
+- S1-L7_Powerline_Lorentz_Load_Check — compute line forces during storm currents.
+- S2-L7_Tram_Rail_Current_Brace — review support forces for tram power rails.

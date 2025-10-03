@@ -1,5 +1,5 @@
-# K6–L1 Electromagnetism & Light
-**Definition:** How electric charges, currents, and light share energy and information through space in everyday tech and nature.
+# P1–L2 Electrostatics & Potentials
+**Definition:** Fixed charges reshape space with invisible pushes and stored energy that we harness in sensors, filters, and spark safety.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,11 +10,9 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Phyla (L2) — index
-- P1-L2_Electrostatics-&-Potentials — how fixed charges build fields and stored energy.
-- P2-L2_Magnetostatics-&-Steady-Currents — how steady currents shape magnetic forces and circuits.
-## Native questions
-- How do charges rearrange to balance forces or store energy in familiar gear?
-- When do steady currents tug, twist, or align tools around us?
-## Everyday anchors
-- Balloon-on-wall stick tests, lightning rods, fridge magnets, speaker coils, factory power rails, magnetic phone mounts.
+## Class (L3) — index
+- C1-L3_Field-Mapping-&-Forces — visualize charge layouts and resulting pushes on test charges.
+## Order (L4) — (later)
+## Family (L5) — (later)
+## Genus (L6) — (later)
+## Species (L7) — (later)

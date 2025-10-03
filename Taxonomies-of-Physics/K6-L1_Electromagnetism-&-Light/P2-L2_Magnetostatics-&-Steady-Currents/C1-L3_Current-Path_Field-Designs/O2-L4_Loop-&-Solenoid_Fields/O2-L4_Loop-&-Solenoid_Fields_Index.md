@@ -1,5 +1,5 @@
-# K6–L1 Electromagnetism & Light
-**Definition:** How electric charges, currents, and light share energy and information through space in everyday tech and nature.
+# O2-L4_Loop-&-Solenoid_Fields — Order Index
+**Definition:** Analyze magnetic fields created by loops and coils for sensing, actuation, and confinement.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,11 +10,9 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Phyla (L2) — index
-- P1-L2_Electrostatics-&-Potentials — how fixed charges build fields and stored energy.
-- P2-L2_Magnetostatics-&-Steady-Currents — how steady currents shape magnetic forces and circuits.
-## Native questions
-- How do charges rearrange to balance forces or store energy in familiar gear?
-- When do steady currents tug, twist, or align tools around us?
-## Everyday anchors
-- Balloon-on-wall stick tests, lightning rods, fridge magnets, speaker coils, factory power rails, magnetic phone mounts.
+## Family (L5) — index
+- F1-L5_Coil_Field_Shaping — tune coil geometry for uniform fields and sensors.
+- F2-L5_Actuation-&-Holding_Cases — translate coil fields into motion, holding force, or levitation.
+## Genus (L6)
+_(Insert `G*-L6_*` here.)_
+## Species (L7) — everyday exemplars

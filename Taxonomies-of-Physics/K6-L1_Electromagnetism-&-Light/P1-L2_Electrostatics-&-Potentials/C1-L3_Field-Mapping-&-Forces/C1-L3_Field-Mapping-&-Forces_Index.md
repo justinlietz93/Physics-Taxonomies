@@ -1,5 +1,5 @@
-# K6–L1 Electromagnetism & Light
-**Definition:** How electric charges, currents, and light share energy and information through space in everyday tech and nature.
+# C1-L3_Field-Mapping-&-Forces — Class Index
+**Definition:** Step-by-step stories for sketching electric fields and estimating forces from familiar charge layouts.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,11 +10,10 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Phyla (L2) — index
-- P1-L2_Electrostatics-&-Potentials — how fixed charges build fields and stored energy.
-- P2-L2_Magnetostatics-&-Steady-Currents — how steady currents shape magnetic forces and circuits.
-## Native questions
-- How do charges rearrange to balance forces or store energy in familiar gear?
-- When do steady currents tug, twist, or align tools around us?
-## Everyday anchors
-- Balloon-on-wall stick tests, lightning rods, fridge magnets, speaker coils, factory power rails, magnetic phone mounts.
+## Order (L4) — index
+- O1-L4_Point-Sources-&-Dipoles — isolate individual charges to see how field lines begin and end.
+- O2-L4_Continuous-Charge-Distributions — smear charges across rods, sheets, and shells for smoother field predictions.
+## Family (L5) — (later)
+## Genus (L6)
+_(Insert `G*-L6_*` between Family and Species.)_
+## Species (L7) — everyday exemplars
