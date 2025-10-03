@@ -1,6 +1,5 @@
-# P4–L2 Nonlinear Dynamics & Chaos
-**Definition:** Follows feedback systems where tiny changes explode into very different futures.
-
+# G1-L6_Period-Doubling_Trackers — Genus Index
+**Definition:** Follow oscillations as their period doubles again and again on the road to chaos.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,14 +10,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Class (L3) — index
-- **C1-L3_Sensitive-Flows_Strange-Attractors** — Show how nonlinear rules stretch, fold, and mix trajectories.
-- **C2-L3_Pattern-Formation-&-Bifurcations** — Follow how new states and self-made patterns bloom as controls shift.
-
-## Order (L4) — (later)
-
-## Family (L5) — (later)
-
-## Genus (L6) — (later)
-
-## Species (L7) — (later)
+## Species (L7) — everyday exemplars
+- **S1-L7_LED_Chopper_Map** — Turn up a PWM dimmer and record light pulses doubling in period.
+- **S2-L7_Water_Drip_Interval_Study** — Measure faucet drips transitioning from steady beats to complex rhythms.

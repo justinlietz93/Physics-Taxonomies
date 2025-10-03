@@ -1,6 +1,5 @@
-# P4–L2 Nonlinear Dynamics & Chaos
-**Definition:** Follows feedback systems where tiny changes explode into very different futures.
-
+# G1-L6_Chemical_Turing_Tables — Genus Index
+**Definition:** Set up controllable reactions where diffusion and feedback carve crisp spatial patterns.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,14 +10,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Class (L3) — index
-- **C1-L3_Sensitive-Flows_Strange-Attractors** — Show how nonlinear rules stretch, fold, and mix trajectories.
-- **C2-L3_Pattern-Formation-&-Bifurcations** — Follow how new states and self-made patterns bloom as controls shift.
-
-## Order (L4) — (later)
-
-## Family (L5) — (later)
-
-## Genus (L6) — (later)
-
-## Species (L7) — (later)
+## Species (L7) — everyday exemplars
+- **S1-L7_Belousov_Petri_Swirls** — Capture spirals and targets in a Belousov–Zhabotinsky petri dish.
+- **S2-L7_Garden_Fertilizer_Pattern_Pan** — Spread fertilizer in gel to mimic activator-inhibitor stripes.

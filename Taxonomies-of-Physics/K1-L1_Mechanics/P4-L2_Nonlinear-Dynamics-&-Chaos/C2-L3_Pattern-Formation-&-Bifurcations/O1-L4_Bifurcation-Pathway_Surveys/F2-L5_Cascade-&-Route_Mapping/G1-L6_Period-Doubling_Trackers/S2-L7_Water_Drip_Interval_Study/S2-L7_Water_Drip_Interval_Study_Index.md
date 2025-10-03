@@ -1,6 +1,5 @@
-# P4–L2 Nonlinear Dynamics & Chaos
-**Definition:** Follows feedback systems where tiny changes explode into very different futures.
-
+# S2-L7_Water_Drip_Interval_Study — Species Index
+**Definition:** Time faucet drips as flow increases to watch steady beats turn into chaotic splashes.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,14 +10,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Class (L3) — index
-- **C1-L3_Sensitive-Flows_Strange-Attractors** — Show how nonlinear rules stretch, fold, and mix trajectories.
-- **C2-L3_Pattern-Formation-&-Bifurcations** — Follow how new states and self-made patterns bloom as controls shift.
-
-## Order (L4) — (later)
-
-## Family (L5) — (later)
-
-## Genus (L6) — (later)
-
-## Species (L7) — (later)
+## 60–90s Explanation Notes
+- Record drip intervals with a phone app to show period doubling and irregular bursts as flow rate climbs.
+- Relate the kitchen faucet to textbook logistic-map cascades by plotting successive intervals.

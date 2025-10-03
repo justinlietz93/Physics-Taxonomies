@@ -1,6 +1,5 @@
-# P4–L2 Nonlinear Dynamics & Chaos
-**Definition:** Follows feedback systems where tiny changes explode into very different futures.
-
+# S1-L7_Belousov_Petri_Swirls — Species Index
+**Definition:** Mix the classic oscillating reaction in a dish and film the self-made spirals.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,14 +10,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Class (L3) — index
-- **C1-L3_Sensitive-Flows_Strange-Attractors** — Show how nonlinear rules stretch, fold, and mix trajectories.
-- **C2-L3_Pattern-Formation-&-Bifurcations** — Follow how new states and self-made patterns bloom as controls shift.
-
-## Order (L4) — (later)
-
-## Family (L5) — (later)
-
-## Genus (L6) — (later)
-
-## Species (L7) — (later)
+## 60–90s Explanation Notes
+- Prepare the reagents and capture the rotating waves to illustrate reaction-diffusion feedback.
+- Point out how tweaks in diffusion or stirring change the pattern wavelength, tying chemistry to mathematical models.

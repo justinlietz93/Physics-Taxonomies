@@ -1,6 +1,5 @@
-# P4–L2 Nonlinear Dynamics & Chaos
-**Definition:** Follows feedback systems where tiny changes explode into very different futures.
-
+# C2-L3_Pattern-Formation-&-Bifurcations — Class Index
+**Definition:** Track how nonlinear systems sprout new states and organized patterns as knobs are turned.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,14 +10,13 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Class (L3) — index
-- **C1-L3_Sensitive-Flows_Strange-Attractors** — Show how nonlinear rules stretch, fold, and mix trajectories.
-- **C2-L3_Pattern-Formation-&-Bifurcations** — Follow how new states and self-made patterns bloom as controls shift.
-
-## Order (L4) — (later)
+## Order (L4) — index
+- **O1-L4_Bifurcation-Pathway_Surveys** — Map how steady motions split, fold, or double as parameters shift.
+- **O2-L4_Self-Organizing_Pattern_Labs** — Explore emergent stripes, spots, and rolls grown from nonlinear feedbacks.
 
 ## Family (L5) — (later)
 
-## Genus (L6) — (later)
+## Genus (L6)
+_(Insert `G*-L6_*` between Family and Species.)_
 
-## Species (L7) — (later)
+## Species (L7) — everyday exemplars

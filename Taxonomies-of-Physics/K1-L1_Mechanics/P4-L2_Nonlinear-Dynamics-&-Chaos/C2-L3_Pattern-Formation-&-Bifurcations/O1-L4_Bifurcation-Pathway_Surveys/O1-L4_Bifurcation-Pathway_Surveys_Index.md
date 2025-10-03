@@ -1,6 +1,5 @@
-# P4–L2 Nonlinear Dynamics & Chaos
-**Definition:** Follows feedback systems where tiny changes explode into very different futures.
-
+# O1-L4_Bifurcation-Pathway_Surveys — Order Index
+**Definition:** Follow how control knobs push systems through sudden state changes, from simple splits to chaotic cascades.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,14 +10,11 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Class (L3) — index
-- **C1-L3_Sensitive-Flows_Strange-Attractors** — Show how nonlinear rules stretch, fold, and mix trajectories.
-- **C2-L3_Pattern-Formation-&-Bifurcations** — Follow how new states and self-made patterns bloom as controls shift.
+## Family (L5) — index
+- **F1-L5_Static-to-Oscillatory_Jumps** — Watch steady states give way to oscillations or flips as thresholds are crossed.
+- **F2-L5_Cascade-&-Route_Mapping** — Catalog the routes from order toward chaos through doubling, intermittency, or quasi-periodicity.
 
-## Order (L4) — (later)
+## Genus (L6)
+_(Insert `G*-L6_*` here.)_
 
-## Family (L5) — (later)
-
-## Genus (L6) — (later)
-
-## Species (L7) — (later)
+## Species (L7) — everyday exemplars
