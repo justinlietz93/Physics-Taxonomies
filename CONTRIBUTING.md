@@ -470,6 +470,6 @@ By contributing, you agree that your contributions will be licensed under the sa
 
 ---
 
-**Thank you for helping make physics accessible to everyone!** !
+**Thank you for helping make physics accessible to everyone!**
 
 Whether you're fixing a typo, adding a new Species, or building automation tools, every contribution helps create a clearer picture of how physics concepts relate to everyday life.
