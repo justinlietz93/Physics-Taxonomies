@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Multidimensional_Anisotropic-Valley_Curved-Floor_Foundations — core principles and baseline exemplars.
-- G2-L6_Multidimensional_Anisotropic-Valley_Curved-Floor_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Principal_Axis_Diagnostics — spotlights principal axis diagnostics examples.
+- G2-L6_Directional_Stiffness_Tuning — spotlights directional stiffness tuning examples.
 
 ## Species (L7) — everyday exemplars

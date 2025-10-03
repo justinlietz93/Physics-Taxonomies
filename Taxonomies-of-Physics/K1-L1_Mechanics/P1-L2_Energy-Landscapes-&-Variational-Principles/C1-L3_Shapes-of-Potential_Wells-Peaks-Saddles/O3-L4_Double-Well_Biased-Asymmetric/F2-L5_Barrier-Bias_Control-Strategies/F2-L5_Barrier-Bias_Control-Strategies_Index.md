@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Barrier-Bias_Control-Strategies_Foundations — core principles and baseline exemplars.
-- G2-L6_Barrier-Bias_Control-Strategies_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Field-Tuned_Asymmetry-Plans — spotlights field-tuned asymmetry-plans examples.
+- G2-L6_Load-Compensation_Checklists — spotlights load-compensation checklists examples.
 
 ## Species (L7) — everyday exemplars

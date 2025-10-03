@@ -12,7 +12,10 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Local-Quadratic-Bowl_Hooke-like_Foundations — core principles and baseline exemplars.
-- G2-L6_Local-Quadratic-Bowl_Hooke-like_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Translational-Harmonic_Oscillator — spotlights translational-harmonic oscillator examples.
+- G2-L6_Torsional-Harmonic_Oscillator — spotlights torsional-harmonic oscillator examples.
+- G3-L6_Small-Angle_Pendulum_as-Harmonic — spotlights small-angle pendulum as-harmonic examples.
+- G4-L6_Vertical-Spring_Shifted-Equilibrium — spotlights vertical-spring shifted-equilibrium examples.
+- G5-L6_Multi-DOF_Decoupled-Harmonics_(Orthogonal-Axes) — spotlights multi-dof decoupled-harmonics (orthogonal-axes) examples.
 
 ## Species (L7) — everyday exemplars

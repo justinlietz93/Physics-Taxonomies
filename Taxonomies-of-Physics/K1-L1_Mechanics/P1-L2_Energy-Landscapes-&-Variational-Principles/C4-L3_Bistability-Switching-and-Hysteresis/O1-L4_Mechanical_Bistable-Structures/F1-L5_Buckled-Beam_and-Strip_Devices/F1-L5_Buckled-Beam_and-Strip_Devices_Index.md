@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Buckled-Beam_and-Strip_Devices_Foundations — core principles and baseline exemplars.
-- G2-L6_Buckled-Beam_and-Strip_Devices_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Curled_Measuring_Tapes — spotlights curled measuring tapes examples.
+- G2-L6_Slap_Bracelet_Strips — spotlights slap bracelet strips examples.
 
 ## Species (L7) — everyday exemplars

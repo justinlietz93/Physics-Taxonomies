@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Barrier-Scale_Comparisons_Foundations — core principles and baseline exemplars.
-- G2-L6_Barrier-Scale_Comparisons_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Low-Barrier_Fluctuation-Cases — spotlights low-barrier fluctuation-cases examples.
+- G2-L6_High-Barrier_Protection-Plans — spotlights high-barrier protection-plans examples.
 
 ## Species (L7) — everyday exemplars

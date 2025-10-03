@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Dashpot-and-Spring-Analogies_Foundations — core principles and baseline exemplars.
-- G2-L6_Dashpot-and-Spring-Analogies_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Putty-and-Gel-Tests — spotlights putty-and-gel-tests examples.
+- G2-L6_Dashpot-and-Spring-Analogies_Extension_Portfolios — comparative twists and edge variations.
 
 ## Species (L7) — everyday exemplars

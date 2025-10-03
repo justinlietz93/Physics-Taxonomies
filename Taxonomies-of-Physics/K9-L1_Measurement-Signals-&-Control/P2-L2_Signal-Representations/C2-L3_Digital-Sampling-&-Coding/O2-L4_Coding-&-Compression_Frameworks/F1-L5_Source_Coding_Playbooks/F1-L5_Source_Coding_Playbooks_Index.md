@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Source_Coding_Playbooks_Foundations — core principles and baseline exemplars.
-- G2-L6_Source_Coding_Playbooks_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Lossless_Codecs_Comparisons — spotlights lossless codecs comparisons examples.
+- G2-L6_Lossy_Bitrate_Balancing — spotlights lossy bitrate balancing examples.
 
 ## Species (L7) — everyday exemplars

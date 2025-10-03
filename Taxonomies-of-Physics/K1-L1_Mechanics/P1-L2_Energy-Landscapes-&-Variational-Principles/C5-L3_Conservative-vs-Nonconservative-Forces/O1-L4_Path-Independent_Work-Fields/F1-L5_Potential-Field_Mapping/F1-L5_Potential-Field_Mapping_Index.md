@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Potential-Field_Mapping_Foundations — core principles and baseline exemplars.
-- G2-L6_Potential-Field_Mapping_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Potential-Surface_Surveys — spotlights potential-surface surveys examples.
+- G2-L6_Closed-Loop_Work-Verification — spotlights closed-loop work-verification examples.
 
 ## Species (L7) — everyday exemplars

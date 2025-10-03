@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Jitter-vs-Wander_Foundations — core principles and baseline exemplars.
-- G2-L6_Jitter-vs-Wander_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Digital-Clock-Stability — spotlights digital-clock-stability examples.
+- G2-L6_Oscilloscope-Trigger-Checks — spotlights oscilloscope-trigger-checks examples.
 
 ## Species (L7) — everyday exemplars

@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Pulse-Shapes-&-Wave-Trains_Foundations — core principles and baseline exemplars.
-- G2-L6_Pulse-Shapes-&-Wave-Trains_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Water-Ripples_vs_Slinky — spotlights water-ripples vs slinky examples.
+- G2-L6_Pulse-Shapes-&-Wave-Trains_Extension_Portfolios — comparative twists and edge variations.
 
 ## Species (L7) — everyday exemplars

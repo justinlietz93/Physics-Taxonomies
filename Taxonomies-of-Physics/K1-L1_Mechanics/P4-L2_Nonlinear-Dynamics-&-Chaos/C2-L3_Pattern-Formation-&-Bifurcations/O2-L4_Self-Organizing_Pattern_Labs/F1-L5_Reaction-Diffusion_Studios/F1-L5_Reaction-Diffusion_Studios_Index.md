@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Reaction-Diffusion_Studios_Foundations — core principles and baseline exemplars.
-- G2-L6_Reaction-Diffusion_Studios_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Chemical_Turing_Tables — spotlights chemical turing tables examples.
+- G2-L6_Biological_Spot-Stripe_Galleries — spotlights biological spot-stripe galleries examples.
 
 ## Species (L7) — everyday exemplars

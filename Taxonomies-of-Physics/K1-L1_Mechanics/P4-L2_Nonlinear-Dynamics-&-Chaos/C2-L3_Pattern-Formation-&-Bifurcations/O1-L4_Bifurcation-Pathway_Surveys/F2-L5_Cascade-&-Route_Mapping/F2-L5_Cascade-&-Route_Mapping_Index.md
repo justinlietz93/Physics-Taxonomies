@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Cascade-&-Route_Mapping_Foundations — core principles and baseline exemplars.
-- G2-L6_Cascade-&-Route_Mapping_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Period-Doubling_Trackers — spotlights period-doubling trackers examples.
+- G2-L6_Quasiperiodic-&-Intermittent_Scouts — spotlights quasiperiodic-&-intermittent scouts examples.
 
 ## Species (L7) — everyday exemplars

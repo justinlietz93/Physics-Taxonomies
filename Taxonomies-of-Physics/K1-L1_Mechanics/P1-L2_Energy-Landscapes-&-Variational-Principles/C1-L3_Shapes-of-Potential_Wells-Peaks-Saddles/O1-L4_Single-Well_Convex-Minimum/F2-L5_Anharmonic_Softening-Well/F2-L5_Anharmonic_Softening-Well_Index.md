@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Anharmonic_Softening-Well_Foundations — core principles and baseline exemplars.
-- G2-L6_Anharmonic_Softening-Well_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Softening_Period_Tuning — spotlights softening period tuning examples.
+- G2-L6_Flexure_Soft-Stop_Designs — spotlights flexure soft-stop designs examples.
 
 ## Species (L7) — everyday exemplars

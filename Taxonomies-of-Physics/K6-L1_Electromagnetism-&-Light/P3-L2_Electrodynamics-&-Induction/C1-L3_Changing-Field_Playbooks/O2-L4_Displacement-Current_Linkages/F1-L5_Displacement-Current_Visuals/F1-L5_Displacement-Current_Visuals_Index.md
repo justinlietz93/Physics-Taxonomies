@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Displacement-Current_Visuals_Foundations — core principles and baseline exemplars.
-- G2-L6_Displacement-Current_Visuals_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Capacitor_Field_Pulses — spotlights capacitor field pulses examples.
+- G2-L6_Waveguide_Current_Balance — spotlights waveguide current balance examples.
 
 ## Species (L7) — everyday exemplars

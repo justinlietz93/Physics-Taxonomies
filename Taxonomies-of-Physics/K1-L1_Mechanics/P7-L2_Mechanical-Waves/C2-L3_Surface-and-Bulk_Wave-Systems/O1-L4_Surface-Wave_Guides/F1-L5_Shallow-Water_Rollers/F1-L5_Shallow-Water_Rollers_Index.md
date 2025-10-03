@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Shallow-Water_Rollers_Foundations — core principles and baseline exemplars.
-- G2-L6_Shallow-Water_Rollers_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Beach-Break_Trackers — spotlights beach-break trackers examples.
+- G2-L6_Ship-Wake_Mappers — spotlights ship-wake mappers examples.
 
 ## Species (L7) — everyday exemplars

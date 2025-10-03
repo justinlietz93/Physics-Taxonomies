@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_2D-Electron-Examples_Foundations — core principles and baseline exemplars.
-- G2-L6_2D-Electron-Examples_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Lab-Chip_Hall-Bars — spotlights lab-chip hall-bars examples.
+- G2-L6_2D-Electron-Examples_Extension_Portfolios — comparative twists and edge variations.
 
 ## Species (L7) — everyday exemplars

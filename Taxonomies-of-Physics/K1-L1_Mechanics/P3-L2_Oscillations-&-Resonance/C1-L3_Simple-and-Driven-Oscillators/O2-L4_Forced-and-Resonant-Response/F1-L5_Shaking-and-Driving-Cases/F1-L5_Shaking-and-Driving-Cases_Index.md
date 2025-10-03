@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Shaking-and-Driving-Cases_Foundations — core principles and baseline exemplars.
-- G2-L6_Shaking-and-Driving-Cases_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Playground-and-Bridge-Resonances — spotlights playground-and-bridge-resonances examples.
+- G2-L6_Precision-Actuator_Response — spotlights precision-actuator response examples.
 
 ## Species (L7) — everyday exemplars

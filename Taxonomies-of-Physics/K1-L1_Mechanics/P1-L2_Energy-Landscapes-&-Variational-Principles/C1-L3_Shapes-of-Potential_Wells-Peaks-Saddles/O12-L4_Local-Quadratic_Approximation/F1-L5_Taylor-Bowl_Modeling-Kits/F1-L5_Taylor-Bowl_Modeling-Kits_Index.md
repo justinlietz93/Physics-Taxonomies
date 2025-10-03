@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Taylor-Bowl_Modeling-Kits_Foundations — core principles and baseline exemplars.
-- G2-L6_Taylor-Bowl_Modeling-Kits_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Second-Order_Fit_Workflows — spotlights second-order fit workflows examples.
+- G2-L6_Validity-Limit_Checks — spotlights validity-limit checks examples.
 
 ## Species (L7) — everyday exemplars

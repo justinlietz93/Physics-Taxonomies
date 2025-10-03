@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Shielding-&-Storage_Cases_Foundations — core principles and baseline exemplars.
-- G2-L6_Shielding-&-Storage_Cases_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Capacitor_Energy_Audits — spotlights capacitor energy audits examples.
+- G2-L6_Faradaic_Enclosure_Tests — spotlights faradaic enclosure tests examples.
 
 ## Species (L7) — everyday exemplars

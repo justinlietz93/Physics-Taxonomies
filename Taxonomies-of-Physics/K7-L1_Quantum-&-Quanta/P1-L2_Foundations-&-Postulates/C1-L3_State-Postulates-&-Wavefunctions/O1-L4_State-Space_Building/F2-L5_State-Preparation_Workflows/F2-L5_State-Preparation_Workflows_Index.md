@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_State-Preparation_Workflows_Foundations — core principles and baseline exemplars.
-- G2-L6_State-Preparation_Workflows_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Lab_State_Tomography — spotlights lab state tomography examples.
+- G2-L6_Ground-vs_Excited_State_Cooling — spotlights ground-vs excited state cooling examples.
 
 ## Species (L7) — everyday exemplars

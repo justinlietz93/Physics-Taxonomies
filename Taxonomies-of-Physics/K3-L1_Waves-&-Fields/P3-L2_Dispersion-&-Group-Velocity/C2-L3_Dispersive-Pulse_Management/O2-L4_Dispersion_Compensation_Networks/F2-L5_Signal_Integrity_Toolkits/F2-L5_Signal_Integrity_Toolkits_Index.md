@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Signal_Integrity_Toolkits_Foundations — core principles and baseline exemplars.
-- G2-L6_Signal_Integrity_Toolkits_Applications — applied playbooks and design tradeoffs.
+- G1-L6_PCB_Dispersion_Mitigation — spotlights pcb dispersion mitigation examples.
+- G2-L6_RF_Phase_Equalizers — spotlights rf phase equalizers examples.
 
 ## Species (L7) — everyday exemplars

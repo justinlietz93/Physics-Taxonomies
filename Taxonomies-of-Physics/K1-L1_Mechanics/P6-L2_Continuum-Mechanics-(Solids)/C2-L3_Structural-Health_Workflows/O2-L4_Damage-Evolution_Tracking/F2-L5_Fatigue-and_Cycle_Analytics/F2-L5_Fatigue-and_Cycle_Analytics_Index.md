@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Fatigue-and_Cycle_Analytics_Foundations — core principles and baseline exemplars.
-- G2-L6_Fatigue-and_Cycle_Analytics_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Load-History_Recorders — spotlights load-history recorders examples.
+- G2-L6_Model-Calibration_Workbooks — spotlights model-calibration workbooks examples.
 
 ## Species (L7) — everyday exemplars

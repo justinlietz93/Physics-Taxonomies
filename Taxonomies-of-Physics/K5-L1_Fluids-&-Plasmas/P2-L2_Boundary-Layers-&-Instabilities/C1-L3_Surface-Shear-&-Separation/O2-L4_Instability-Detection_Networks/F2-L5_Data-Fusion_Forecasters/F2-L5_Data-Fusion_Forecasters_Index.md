@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Data-Fusion_Forecasters_Foundations — core principles and baseline exemplars.
-- G2-L6_Data-Fusion_Forecasters_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Reynolds-Rule_Checkers — spotlights reynolds-rule checkers examples.
+- G2-L6_Machine-Learning_Sentinels — spotlights machine-learning sentinels examples.
 
 ## Species (L7) — everyday exemplars

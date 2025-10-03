@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Current-Loop_Field-Shaping_Foundations — core principles and baseline exemplars.
-- G2-L6_Current-Loop_Field-Shaping_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Helmholtz-Coil_Balancing — spotlights helmholtz-coil balancing examples.
+- G2-L6_Gradient-Coil_Sketches — spotlights gradient-coil sketches examples.
 
 ## Species (L7) — everyday exemplars

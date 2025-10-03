@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Restitution_Control_Systems_Foundations — core principles and baseline exemplars.
-- G2-L6_Restitution_Control_Systems_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Adjustable_Stopper_Rigs — spotlights adjustable stopper rigs examples.
+- G2-L6_Smart-Fluid_Bumpers — spotlights smart-fluid bumpers examples.
 
 ## Species (L7) — everyday exemplars

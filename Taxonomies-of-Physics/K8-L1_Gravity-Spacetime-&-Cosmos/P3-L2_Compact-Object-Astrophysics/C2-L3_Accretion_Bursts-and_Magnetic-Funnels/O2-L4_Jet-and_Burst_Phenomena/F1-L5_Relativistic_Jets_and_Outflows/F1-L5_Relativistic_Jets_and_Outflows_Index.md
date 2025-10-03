@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Relativistic_Jets_and_Outflows_Foundations — core principles and baseline exemplars.
-- G2-L6_Relativistic_Jets_and_Outflows_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Relativistic_Jets_and_Outflows_Core_Scenarios — canonical setups and baseline checks.
+- G2-L6_Relativistic_Jets_and_Outflows_Applied_Toolkits — practical methods and measurement playbooks.
 
 ## Species (L7) — everyday exemplars

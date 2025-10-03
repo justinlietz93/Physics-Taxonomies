@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Multi-Sensor_Fusion-Estimators_Foundations — core principles and baseline exemplars.
-- G2-L6_Multi-Sensor_Fusion-Estimators_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Federated-Filter-Designs — spotlights federated-filter-designs examples.
+- G2-L6_Model-vs-Measurement-Consistency — spotlights model-vs-measurement-consistency examples.
 
 ## Species (L7) — everyday exemplars

@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Spectral-Bandwidth_Strategies_Foundations — core principles and baseline exemplars.
-- G2-L6_Spectral-Bandwidth_Strategies_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Damping-and_Q_Tools — spotlights damping-and q tools examples.
+- G2-L6_Tunable-Fill_Adjustments — spotlights tunable-fill adjustments examples.
 
 ## Species (L7) — everyday exemplars

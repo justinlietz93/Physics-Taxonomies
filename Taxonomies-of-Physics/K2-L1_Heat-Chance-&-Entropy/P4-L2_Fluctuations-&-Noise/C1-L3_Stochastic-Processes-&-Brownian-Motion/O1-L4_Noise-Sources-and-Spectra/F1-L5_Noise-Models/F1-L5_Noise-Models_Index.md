@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Noise-Models_Foundations — core principles and baseline exemplars.
-- G2-L6_Noise-Models_Applications — applied playbooks and design tradeoffs.
+- G1-L6_White-vs-Colored-Noise — spotlights white-vs-colored-noise examples.
+- G2-L6_Noise-Models_Extension_Portfolios — comparative twists and edge variations.
 
 ## Species (L7) — everyday exemplars

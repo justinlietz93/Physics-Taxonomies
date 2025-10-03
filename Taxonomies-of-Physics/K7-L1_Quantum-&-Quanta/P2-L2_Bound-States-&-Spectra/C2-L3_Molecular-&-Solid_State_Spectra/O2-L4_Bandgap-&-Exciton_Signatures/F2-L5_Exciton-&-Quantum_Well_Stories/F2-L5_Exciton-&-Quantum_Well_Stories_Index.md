@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Exciton-&-Quantum_Well_Stories_Foundations — core principles and baseline exemplars.
-- G2-L6_Exciton-&-Quantum_Well_Stories_Applications — applied playbooks and design tradeoffs.
+- G1-L6_2D_Material_Exciton_Atlases — spotlights 2d material exciton atlases examples.
+- G2-L6_Quantum_Well_Device_Tuning — spotlights quantum well device tuning examples.
 
 ## Species (L7) — everyday exemplars

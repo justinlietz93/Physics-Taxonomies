@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Short-Time_Windowing_Patterns_Foundations — core principles and baseline exemplars.
-- G2-L6_Short-Time_Windowing_Patterns_Applications — applied playbooks and design tradeoffs.
+- G1-L6_STFT_Tuning_Guides — spotlights stft tuning guides examples.
+- G2-L6_Multi-Resolution_Planning — spotlights multi-resolution planning examples.
 
 ## Species (L7) — everyday exemplars

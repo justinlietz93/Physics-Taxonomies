@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Radio-&-Microwave_Receivers_Foundations — core principles and baseline exemplars.
-- G2-L6_Radio-&-Microwave_Receivers_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Superhet-vs-Direct-Conversion-Front-Ends — spotlights superhet-vs-direct-conversion-front-ends examples.
+- G2-L6_Radio-&-Microwave_Receivers_Extension_Portfolios — comparative twists and edge variations.
 
 ## Species (L7) — everyday exemplars

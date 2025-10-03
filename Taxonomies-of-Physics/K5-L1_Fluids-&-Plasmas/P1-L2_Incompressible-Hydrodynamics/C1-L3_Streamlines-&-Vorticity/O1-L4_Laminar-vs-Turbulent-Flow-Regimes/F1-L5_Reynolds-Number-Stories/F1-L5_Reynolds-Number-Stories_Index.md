@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Reynolds-Number-Stories_Foundations — core principles and baseline exemplars.
-- G2-L6_Reynolds-Number-Stories_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Pipe-vs-Airfoil-Flows — spotlights pipe-vs-airfoil-flows examples.
+- G2-L6_Reynolds-Number-Stories_Extension_Portfolios — comparative twists and edge variations.
 
 ## Species (L7) — everyday exemplars

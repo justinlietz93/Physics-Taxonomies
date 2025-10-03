@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Symmetry-Transition_Storyboards_Foundations — core principles and baseline exemplars.
-- G2-L6_Symmetry-Transition_Storyboards_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Preserved-Symmetry_Cases — spotlights preserved-symmetry cases examples.
+- G2-L6_Broken-Symmetry_Transitions — spotlights broken-symmetry transitions examples.
 
 ## Species (L7) — everyday exemplars

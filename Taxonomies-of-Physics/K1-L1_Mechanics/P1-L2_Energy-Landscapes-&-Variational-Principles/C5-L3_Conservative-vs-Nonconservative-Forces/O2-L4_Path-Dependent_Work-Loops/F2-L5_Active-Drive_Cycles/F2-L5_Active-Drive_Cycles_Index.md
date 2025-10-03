@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Active-Drive_Cycles_Foundations — core principles and baseline exemplars.
-- G2-L6_Active-Drive_Cycles_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Engine-Pump_Workflows — spotlights engine-pump workflows examples.
+- G2-L6_Controlled_Energy-Recovery — spotlights controlled energy-recovery examples.
 
 ## Species (L7) — everyday exemplars

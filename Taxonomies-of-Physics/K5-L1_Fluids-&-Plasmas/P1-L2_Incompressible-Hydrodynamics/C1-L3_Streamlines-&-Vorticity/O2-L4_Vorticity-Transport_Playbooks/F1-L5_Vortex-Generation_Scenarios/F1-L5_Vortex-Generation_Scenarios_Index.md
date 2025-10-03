@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Vortex-Generation_Scenarios_Foundations — core principles and baseline exemplars.
-- G2-L6_Vortex-Generation_Scenarios_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Boundary-Layer_Shedders — spotlights boundary-layer shedders examples.
+- G2-L6_Wingtip_Vortex_Stories — spotlights wingtip vortex stories examples.
 
 ## Species (L7) — everyday exemplars

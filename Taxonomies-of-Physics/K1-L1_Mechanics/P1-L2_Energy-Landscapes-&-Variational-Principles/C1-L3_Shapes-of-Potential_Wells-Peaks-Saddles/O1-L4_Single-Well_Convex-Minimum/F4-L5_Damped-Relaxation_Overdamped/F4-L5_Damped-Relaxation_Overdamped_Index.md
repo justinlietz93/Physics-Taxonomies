@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Damped-Relaxation_Overdamped_Foundations — core principles and baseline exemplars.
-- G2-L6_Damped-Relaxation_Overdamped_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Viscous_Settling_Audits — spotlights viscous settling audits examples.
+- G2-L6_Dashpot_Brake_Designs — spotlights dashpot brake designs examples.
 
 ## Species (L7) — everyday exemplars

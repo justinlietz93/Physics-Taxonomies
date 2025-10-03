@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Primary-and_Secondary_Standards_Foundations — core principles and baseline exemplars.
-- G2-L6_Primary-and_Secondary_Standards_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Primary-and_Secondary_Standards_Core_Scenarios — canonical setups and baseline checks.
+- G2-L6_Primary-and_Secondary_Standards_Applied_Toolkits — practical methods and measurement playbooks.
 
 ## Species (L7) — everyday exemplars

@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Commutator-Identity_Kits_Foundations — core principles and baseline exemplars.
-- G2-L6_Commutator-Identity_Kits_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Rotation-vs_Spin_Commutators — spotlights rotation-vs spin commutators examples.
+- G2-L6_Harmonic_Oscillator_Ladders — spotlights harmonic oscillator ladders examples.
 
 ## Species (L7) — everyday exemplars

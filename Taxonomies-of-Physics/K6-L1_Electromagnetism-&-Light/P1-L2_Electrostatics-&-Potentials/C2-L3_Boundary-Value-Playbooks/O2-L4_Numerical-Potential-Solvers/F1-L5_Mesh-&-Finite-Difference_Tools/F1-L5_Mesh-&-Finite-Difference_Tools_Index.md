@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Mesh-&-Finite-Difference_Tools_Foundations — core principles and baseline exemplars.
-- G2-L6_Mesh-&-Finite-Difference_Tools_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Rectilinear-Grid_Solvers — spotlights rectilinear-grid solvers examples.
+- G2-L6_Unstructured-Mesh_Tools — spotlights unstructured-mesh tools examples.
 
 ## Species (L7) — everyday exemplars

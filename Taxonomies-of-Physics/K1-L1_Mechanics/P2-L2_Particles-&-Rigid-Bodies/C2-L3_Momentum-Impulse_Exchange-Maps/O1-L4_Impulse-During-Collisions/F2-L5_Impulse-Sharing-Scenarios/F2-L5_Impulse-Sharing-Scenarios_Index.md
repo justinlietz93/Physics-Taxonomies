@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Impulse-Sharing-Scenarios_Foundations — core principles and baseline exemplars.
-- G2-L6_Impulse-Sharing-Scenarios_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Bumper-Car-and-Cart-Pairs — spotlights bumper-car-and-cart-pairs examples.
+- G2-L6_Collision-Pad-Softeners — spotlights collision-pad-softeners examples.
 
 ## Species (L7) — everyday exemplars

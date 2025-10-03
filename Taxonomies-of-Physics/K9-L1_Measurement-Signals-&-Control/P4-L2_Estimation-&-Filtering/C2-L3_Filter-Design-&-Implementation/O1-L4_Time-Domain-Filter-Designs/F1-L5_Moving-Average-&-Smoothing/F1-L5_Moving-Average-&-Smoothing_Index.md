@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Moving-Average-&-Smoothing_Foundations — core principles and baseline exemplars.
-- G2-L6_Moving-Average-&-Smoothing_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Rolling-Window-Tunings — spotlights rolling-window-tunings examples.
+- G2-L6_Exponential-Smoother-Settings — spotlights exponential-smoother-settings examples.
 
 ## Species (L7) — everyday exemplars

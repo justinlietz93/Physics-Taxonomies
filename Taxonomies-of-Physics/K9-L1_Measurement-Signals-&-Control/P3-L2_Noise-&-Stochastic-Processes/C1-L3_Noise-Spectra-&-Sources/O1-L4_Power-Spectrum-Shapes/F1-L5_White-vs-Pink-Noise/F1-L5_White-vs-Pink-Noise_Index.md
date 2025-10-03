@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_White-vs-Pink-Noise_Foundations — core principles and baseline exemplars.
-- G2-L6_White-vs-Pink-Noise_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Audio-Noise-Floors — spotlights audio-noise-floors examples.
+- G2-L6_Industrial-Vibration-Bands — spotlights industrial-vibration-bands examples.
 
 ## Species (L7) — everyday exemplars

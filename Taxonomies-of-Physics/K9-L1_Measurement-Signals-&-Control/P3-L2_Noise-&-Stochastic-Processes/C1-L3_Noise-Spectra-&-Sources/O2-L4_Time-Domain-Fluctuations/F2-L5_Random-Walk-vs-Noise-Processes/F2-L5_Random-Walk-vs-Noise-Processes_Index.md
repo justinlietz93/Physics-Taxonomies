@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Random-Walk-vs-Noise-Processes_Foundations — core principles and baseline exemplars.
-- G2-L6_Random-Walk-vs-Noise-Processes_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Environmental-Sensor-Drift — spotlights environmental-sensor-drift examples.
+- G2-L6_Financial-Tick-Fluctuations — spotlights financial-tick-fluctuations examples.
 
 ## Species (L7) — everyday exemplars

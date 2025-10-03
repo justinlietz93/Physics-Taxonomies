@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Lab-Scale_Trigger_Benches_Foundations — core principles and baseline exemplars.
-- G2-L6_Lab-Scale_Trigger_Benches_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Bleed-and_Suction_Modules — spotlights bleed-and suction modules examples.
+- G2-L6_Vibration-and_Actuator_Plates — spotlights vibration-and actuator plates examples.
 
 ## Species (L7) — everyday exemplars

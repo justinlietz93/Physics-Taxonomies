@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Field-Driven_Two-State-Systems_Foundations — core principles and baseline exemplars.
-- G2-L6_Field-Driven_Two-State-Systems_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Magnetic-Domain_Flips — spotlights magnetic-domain flips examples.
+- G2-L6_Electronic_Flip-Flops — spotlights electronic flip-flops examples.
 
 ## Species (L7) — everyday exemplars

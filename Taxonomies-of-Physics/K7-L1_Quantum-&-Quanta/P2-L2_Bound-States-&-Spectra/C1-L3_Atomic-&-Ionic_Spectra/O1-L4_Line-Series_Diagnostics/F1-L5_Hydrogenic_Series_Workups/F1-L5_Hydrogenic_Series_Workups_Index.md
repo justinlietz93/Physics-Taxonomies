@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Hydrogenic_Series_Workups_Foundations — core principles and baseline exemplars.
-- G2-L6_Hydrogenic_Series_Workups_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Lab-Lamp_Calibrations — spotlights lab-lamp calibrations examples.
+- G2-L6_Astrophysical_Line-Fingerprints — spotlights astrophysical line-fingerprints examples.
 
 ## Species (L7) — everyday exemplars

@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Real-vs-Reciprocal-Maps_Foundations — core principles and baseline exemplars.
-- G2-L6_Real-vs-Reciprocal-Maps_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Cubic-vs-Hexagonal-Grids — spotlights cubic-vs-hexagonal-grids examples.
+- G2-L6_Real-vs-Reciprocal-Maps_Extension_Portfolios — comparative twists and edge variations.
 
 ## Species (L7) — everyday exemplars

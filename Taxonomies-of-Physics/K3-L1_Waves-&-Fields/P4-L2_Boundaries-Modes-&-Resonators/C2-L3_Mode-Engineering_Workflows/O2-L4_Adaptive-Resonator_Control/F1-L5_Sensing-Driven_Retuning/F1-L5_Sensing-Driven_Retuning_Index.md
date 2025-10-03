@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Sensing-Driven_Retuning_Foundations — core principles and baseline exemplars.
-- G2-L6_Sensing-Driven_Retuning_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Auto-Lock_Loops — spotlights auto-lock loops examples.
+- G2-L6_Feedforward_Corrections — spotlights feedforward corrections examples.
 
 ## Species (L7) — everyday exemplars

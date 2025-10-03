@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Constant-Acceleration-Stories_Foundations — core principles and baseline exemplars.
-- G2-L6_Constant-Acceleration-Stories_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Ramp-and-Launch-Cases — spotlights ramp-and-launch-cases examples.
+- G2-L6_Elevator-and-Launchpad-Rides — spotlights elevator-and-launchpad-rides examples.
 
 ## Species (L7) — everyday exemplars

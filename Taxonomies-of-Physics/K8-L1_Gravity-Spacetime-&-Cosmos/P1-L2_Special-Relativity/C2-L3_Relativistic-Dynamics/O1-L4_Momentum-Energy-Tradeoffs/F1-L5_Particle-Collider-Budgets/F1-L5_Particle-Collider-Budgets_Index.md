@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Particle-Collider-Budgets_Foundations — core principles and baseline exemplars.
-- G2-L6_Particle-Collider-Budgets_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Beam-vs-Target-Setups — spotlights beam-vs-target-setups examples.
+- G2-L6_Particle-Collider-Budgets_Extension_Portfolios — comparative twists and edge variations.
 
 ## Species (L7) — everyday exemplars

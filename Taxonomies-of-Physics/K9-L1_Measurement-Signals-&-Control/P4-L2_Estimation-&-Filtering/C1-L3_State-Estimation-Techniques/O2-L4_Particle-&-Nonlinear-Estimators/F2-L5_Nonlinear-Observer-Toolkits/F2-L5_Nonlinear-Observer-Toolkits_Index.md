@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Nonlinear-Observer-Toolkits_Foundations — core principles and baseline exemplars.
-- G2-L6_Nonlinear-Observer-Toolkits_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Extended-vs-Unscented-Choices — spotlights extended-vs-unscented-choices examples.
+- G2-L6_Sliding-Mode-&-High-Gain-Observers — spotlights sliding-mode-&-high-gain-observers examples.
 
 ## Species (L7) — everyday exemplars

@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Monte-Carlo-Engines_Foundations — core principles and baseline exemplars.
-- G2-L6_Monte-Carlo-Engines_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Random-Sampling-Toolkits — spotlights random-sampling-toolkits examples.
+- G2-L6_Pseudo-Random-Quality — spotlights pseudo-random-quality examples.
 
 ## Species (L7) — everyday exemplars

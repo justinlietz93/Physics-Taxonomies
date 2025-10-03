@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Beam-and-Lever-Setups_Foundations — core principles and baseline exemplars.
-- G2-L6_Beam-and-Lever-Setups_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Seesaw-and-Shelf-Examples — spotlights seesaw-and-shelf-examples examples.
+- G2-L6_Ladder-and-Sign-Supports — spotlights ladder-and-sign-supports examples.
 
 ## Species (L7) — everyday exemplars

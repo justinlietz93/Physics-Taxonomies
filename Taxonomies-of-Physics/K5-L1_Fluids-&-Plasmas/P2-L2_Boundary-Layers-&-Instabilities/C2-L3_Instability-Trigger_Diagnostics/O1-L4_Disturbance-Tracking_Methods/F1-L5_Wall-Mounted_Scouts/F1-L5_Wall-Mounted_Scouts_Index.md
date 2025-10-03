@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Wall-Mounted_Scouts_Foundations — core principles and baseline exemplars.
-- G2-L6_Wall-Mounted_Scouts_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Tuft-and_Schlieren_Kits — spotlights tuft-and schlieren kits examples.
+- G2-L6_Smart-Skin_Panels — spotlights smart-skin panels examples.
 
 ## Species (L7) — everyday exemplars

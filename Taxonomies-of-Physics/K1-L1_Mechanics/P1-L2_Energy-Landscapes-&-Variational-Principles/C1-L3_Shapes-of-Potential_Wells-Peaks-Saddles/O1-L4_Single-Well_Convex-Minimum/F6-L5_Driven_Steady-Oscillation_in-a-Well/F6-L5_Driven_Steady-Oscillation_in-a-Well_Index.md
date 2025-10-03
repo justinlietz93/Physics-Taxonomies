@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Driven_Steady-Oscillation_in-a-Well_Foundations — core principles and baseline exemplars.
-- G2-L6_Driven_Steady-Oscillation_in-a-Well_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Resonant_Drive_Balancing — spotlights resonant drive balancing examples.
+- G2-L6_Forced_Oscillation_Control — spotlights forced oscillation control examples.
 
 ## Species (L7) — everyday exemplars

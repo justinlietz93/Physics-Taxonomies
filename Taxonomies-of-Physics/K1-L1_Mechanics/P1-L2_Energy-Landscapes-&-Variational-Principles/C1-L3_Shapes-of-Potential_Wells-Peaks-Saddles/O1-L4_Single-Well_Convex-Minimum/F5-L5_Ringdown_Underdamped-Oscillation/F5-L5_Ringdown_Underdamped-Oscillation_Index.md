@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Ringdown_Underdamped-Oscillation_Foundations — core principles and baseline exemplars.
-- G2-L6_Ringdown_Underdamped-Oscillation_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Ringdown_Health_Monitoring — spotlights ringdown health monitoring examples.
+- G2-L6_Structural_Mode_Tuning — spotlights structural mode tuning examples.
 
 ## Species (L7) — everyday exemplars

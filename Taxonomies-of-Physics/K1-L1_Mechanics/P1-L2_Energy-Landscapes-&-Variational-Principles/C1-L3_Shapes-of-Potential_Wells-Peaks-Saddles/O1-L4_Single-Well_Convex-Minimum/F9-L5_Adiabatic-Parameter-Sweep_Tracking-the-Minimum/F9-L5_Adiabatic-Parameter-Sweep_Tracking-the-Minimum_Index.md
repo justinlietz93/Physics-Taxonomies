@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Adiabatic-Parameter-Sweep_Tracking-the-Minimum_Foundations — core principles and baseline exemplars.
-- G2-L6_Adiabatic-Parameter-Sweep_Tracking-the-Minimum_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Slow_Ramp_Commissioning — spotlights slow ramp commissioning examples.
+- G2-L6_Setpoint_Migration_Playbooks — spotlights setpoint migration playbooks examples.
 
 ## Species (L7) — everyday exemplars

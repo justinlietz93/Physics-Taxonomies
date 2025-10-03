@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Temperature-Probe-Families_Foundations — core principles and baseline exemplars.
-- G2-L6_Temperature-Probe-Families_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Thermocouple-vs-RTD-Setups — spotlights thermocouple-vs-rtd-setups examples.
+- G2-L6_Temperature-Probe-Families_Extension_Portfolios — comparative twists and edge variations.
 
 ## Species (L7) — everyday exemplars

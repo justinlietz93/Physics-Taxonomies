@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Daily-Scattering-Scenes_Foundations — core principles and baseline exemplars.
-- G2-L6_Daily-Scattering-Scenes_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Light-Scattering-Comparisons — spotlights light-scattering-comparisons examples.
+- G2-L6_Daily-Scattering-Scenes_Extension_Portfolios — comparative twists and edge variations.
 
 ## Species (L7) — everyday exemplars

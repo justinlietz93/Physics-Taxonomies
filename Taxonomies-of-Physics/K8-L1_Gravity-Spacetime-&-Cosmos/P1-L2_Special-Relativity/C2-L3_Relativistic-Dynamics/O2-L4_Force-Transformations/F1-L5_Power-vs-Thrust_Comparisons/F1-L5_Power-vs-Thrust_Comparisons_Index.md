@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Power-vs-Thrust_Comparisons_Foundations — core principles and baseline exemplars.
-- G2-L6_Power-vs-Thrust_Comparisons_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Rocket-Frame_vs-Mission-Control — spotlights rocket-frame vs-mission-control examples.
+- G2-L6_Power-vs-Thrust_Comparisons_Extension_Portfolios — comparative twists and edge variations.
 
 ## Species (L7) — everyday exemplars

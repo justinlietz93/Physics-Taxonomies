@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Portable_Gauge_Routines_Foundations — core principles and baseline exemplars.
-- G2-L6_Portable_Gauge_Routines_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Surface_Strain_Rosettes — spotlights surface strain rosettes examples.
+- G2-L6_Wireless_Gauge_Networks — spotlights wireless gauge networks examples.
 
 ## Species (L7) — everyday exemplars

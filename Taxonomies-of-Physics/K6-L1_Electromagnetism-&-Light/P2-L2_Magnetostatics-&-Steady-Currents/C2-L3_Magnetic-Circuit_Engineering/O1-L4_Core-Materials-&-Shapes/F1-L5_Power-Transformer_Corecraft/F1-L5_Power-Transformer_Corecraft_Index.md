@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Power-Transformer_Corecraft_Foundations — core principles and baseline exemplars.
-- G2-L6_Power-Transformer_Corecraft_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Laminated-Core_Builds — spotlights laminated-core builds examples.
+- G2-L6_Powder-Core_Supply-Filters — spotlights powder-core supply-filters examples.
 
 ## Species (L7) — everyday exemplars

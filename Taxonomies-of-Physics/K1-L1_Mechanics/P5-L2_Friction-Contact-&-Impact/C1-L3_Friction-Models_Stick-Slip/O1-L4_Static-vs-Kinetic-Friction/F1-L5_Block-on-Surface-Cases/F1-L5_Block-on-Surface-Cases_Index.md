@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Block-on-Surface-Cases_Foundations — core principles and baseline exemplars.
-- G2-L6_Block-on-Surface-Cases_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Push-Pull-Thresholds — spotlights push-pull-thresholds examples.
+- G2-L6_Block-on-Surface-Cases_Extension_Portfolios — comparative twists and edge variations.
 
 ## Species (L7) — everyday exemplars

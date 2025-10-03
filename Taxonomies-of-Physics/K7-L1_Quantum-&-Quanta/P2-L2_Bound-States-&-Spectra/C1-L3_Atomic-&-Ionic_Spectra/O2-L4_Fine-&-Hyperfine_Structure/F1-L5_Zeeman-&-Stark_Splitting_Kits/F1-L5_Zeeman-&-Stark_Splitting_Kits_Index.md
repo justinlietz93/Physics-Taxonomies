@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Zeeman-&-Stark_Splitting_Kits_Foundations — core principles and baseline exemplars.
-- G2-L6_Zeeman-&-Stark_Splitting_Kits_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Classroom_Zeeman_Demos — spotlights classroom zeeman demos examples.
+- G2-L6_Field_Service_Zeeman_Meters — spotlights field service zeeman meters examples.
 
 ## Species (L7) — everyday exemplars

@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Crack-Growth_Studies_Foundations — core principles and baseline exemplars.
-- G2-L6_Crack-Growth_Studies_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Dye-Penetrant_Logs — spotlights dye-penetrant logs examples.
+- G2-L6_Acoustic-Emission_Scouts — spotlights acoustic-emission scouts examples.
 
 ## Species (L7) — everyday exemplars

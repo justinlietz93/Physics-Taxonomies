@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Transformer_Energy_Shuttles_Foundations — core principles and baseline exemplars.
-- G2-L6_Transformer_Energy_Shuttles_Applications — applied playbooks and design tradeoffs.
+- G1-L6_Step-Down_Service_Plans — spotlights step-down service plans examples.
+- G2-L6_Core-Loss_Optimization — spotlights core-loss optimization examples.
 
 ## Species (L7) — everyday exemplars
