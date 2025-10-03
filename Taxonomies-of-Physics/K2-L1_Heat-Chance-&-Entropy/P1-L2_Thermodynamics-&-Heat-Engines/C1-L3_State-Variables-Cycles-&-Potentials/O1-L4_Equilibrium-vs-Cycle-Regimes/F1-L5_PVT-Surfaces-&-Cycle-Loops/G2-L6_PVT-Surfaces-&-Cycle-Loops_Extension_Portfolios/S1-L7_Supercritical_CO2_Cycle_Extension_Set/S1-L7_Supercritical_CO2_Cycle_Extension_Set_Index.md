@@ -1,5 +1,5 @@
-# G2-L6_Recuperators-and_Regenerators_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for recuperators-and regenerators.
+# S1-L7_Supercritical_CO2_Cycle_Extension_Set — Species Index
+**Definition:** Checklist for stretching supercritical CO₂ Brayton loops beyond textbook plots to match real hardware envelopes.
 
 ## Overarching Lenses
 
@@ -11,6 +11,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Glass_Furnace_Regenerator_Upgrade_Set — plan regenerator rebuilds that lift pull and slash fuel.
-- S2-L7_HVAC_Energy_Recovery_Toolkit — select and commission ERVs for code-driven ventilation loads.
+## 60–90s Explanation Notes
+- Flag compressor inlet densities and turbine exit pressures that shift P–v–T surfaces when ambient swings.
+- Map recuperator pinch targets so added reheats stay inside metallurgy and sealing limits.
+- Log operator tweaks that re-anchor the cycle diagram after component swaps or fouling cleanup.

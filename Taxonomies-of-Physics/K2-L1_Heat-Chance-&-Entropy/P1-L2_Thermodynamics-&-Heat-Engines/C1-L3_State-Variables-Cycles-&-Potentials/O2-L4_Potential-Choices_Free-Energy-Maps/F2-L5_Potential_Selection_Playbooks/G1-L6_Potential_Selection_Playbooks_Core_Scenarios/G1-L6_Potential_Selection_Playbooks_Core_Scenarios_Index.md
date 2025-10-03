@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Refrigeration_Potential_Selection_Walkthrough — pick enthalpy or Helmholtz tools for everyday cooler calculations.
+- S2-L7_Thermal_Storage_Potential_Selection_Lab — match Gibbs or enthalpy lenses to candidate storage media tests.

@@ -1,5 +1,5 @@
-# G2-L6_Recuperators-and_Regenerators_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for recuperators-and regenerators.
+# S2-L7_Combined_Cycle_Start_Sequence_Lab — Species Index
+**Definition:** Lab guiding combined-cycle start sequencing and transient coordination between turbine and steam bottoming units.
 
 ## Overarching Lenses
 
@@ -11,6 +11,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Glass_Furnace_Regenerator_Upgrade_Set — plan regenerator rebuilds that lift pull and slash fuel.
-- S2-L7_HVAC_Energy_Recovery_Toolkit — select and commission ERVs for code-driven ventilation loads.
+## 60–90s Explanation Notes
+- Step through purge, firing, and steam admission checkpoints while tracking thermal stresses.
+- Compare hot, warm, and cold start timelines to highlight flexibility vs fatigue tradeoffs.
+- Tie procedures to grid obligations and emissions permits so operations grasps the why.

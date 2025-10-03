@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Shell_and_Tube_Regenerator_Lab — measure effectiveness and fouling on classic exchanger layouts.
+- S2-L7_Rotary_Wheel_Regenerator_Scenario_Set — contrast wheel options for buildings and process recovery lines.

@@ -1,5 +1,5 @@
-# G2-L6_Recuperators-and_Regenerators_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for recuperators-and regenerators.
+# S2-L7_Aviation_Engine_Cycle_Field_Pack — Species Index
+**Definition:** Field pack for applying cycle diagnostics on aviation gas turbines during line maintenance.
 
 ## Overarching Lenses
 
@@ -11,6 +11,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Glass_Furnace_Regenerator_Upgrade_Set — plan regenerator rebuilds that lift pull and slash fuel.
-- S2-L7_HVAC_Energy_Recovery_Toolkit — select and commission ERVs for code-driven ventilation loads.
+## 60–90s Explanation Notes
+- Capture EGT margins, fan speeds, and pressure ratios to flag compressor fouling or turbine wear.
+- Provide borescope image guides linking visual cues to cycle parameter shifts.
+- Include regulatory paperwork templates so findings feed directly into return-to-service approvals.

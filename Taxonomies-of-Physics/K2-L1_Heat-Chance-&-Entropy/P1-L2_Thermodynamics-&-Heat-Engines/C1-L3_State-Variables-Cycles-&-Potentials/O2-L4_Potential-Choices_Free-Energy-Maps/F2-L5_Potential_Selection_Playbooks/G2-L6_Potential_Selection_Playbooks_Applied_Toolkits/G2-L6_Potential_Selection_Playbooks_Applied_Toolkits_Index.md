@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Industrial_Steam_Potential_Selection_Checklist — keep plant audits aligned with the simplest workable potentials.
+- S2-L7_Hydrogen_Plant_Potential_Selection_Binder — sync chemical, mechanical, and thermal potentials across H₂ trains.

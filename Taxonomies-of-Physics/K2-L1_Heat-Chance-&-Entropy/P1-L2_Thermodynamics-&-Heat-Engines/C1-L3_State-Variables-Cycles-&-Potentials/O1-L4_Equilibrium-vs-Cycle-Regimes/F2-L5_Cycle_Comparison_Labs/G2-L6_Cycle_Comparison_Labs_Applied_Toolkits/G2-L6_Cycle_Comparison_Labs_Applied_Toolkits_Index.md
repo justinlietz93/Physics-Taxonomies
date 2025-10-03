@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_District_Energy_Cycle_Audit_Kit — align boiler, chiller, and heat pump data for campus loop retrofits.
+- S2-L7_Datacenter_Cooling_Cycle_Comparison_Pack — contrast economizer, liquid, and DX paths for server uptime planning.

@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Industrial_WHR_Regenerative_Toolkit — deploy recuperators on plant exhaust lines with ready-made scripts.
+- S2-L7_Microgrid_Combined_Cycle_Field_Guide — adapt combined-cycle blocks to resilient campus microgrids.

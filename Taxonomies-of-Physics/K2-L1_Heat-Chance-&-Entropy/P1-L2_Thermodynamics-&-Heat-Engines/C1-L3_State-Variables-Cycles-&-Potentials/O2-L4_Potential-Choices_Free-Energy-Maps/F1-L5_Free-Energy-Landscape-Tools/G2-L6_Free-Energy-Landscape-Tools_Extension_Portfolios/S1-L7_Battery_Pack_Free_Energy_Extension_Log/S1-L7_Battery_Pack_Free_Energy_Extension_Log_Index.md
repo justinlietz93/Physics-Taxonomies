@@ -1,5 +1,5 @@
-# G2-L6_Recuperators-and_Regenerators_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for recuperators-and regenerators.
+# S1-L7_Battery_Pack_Free_Energy_Extension_Log — Species Index
+**Definition:** Extension log for plotting lithium pack free-energy adjustments when cooling, charge limits, or chemistries shift.
 
 ## Overarching Lenses
 
@@ -11,6 +11,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Glass_Furnace_Regenerator_Upgrade_Set — plan regenerator rebuilds that lift pull and slash fuel.
-- S2-L7_HVAC_Energy_Recovery_Toolkit — select and commission ERVs for code-driven ventilation loads.
+## 60–90s Explanation Notes
+- Log temperature gradients and state-of-charge windows that reshape Gibbs free-energy curves.
+- Note module compression or coolant tweaks that move phase stability islands.
+- Tie every extension to range, lifetime, or fast-charge promises for customers.

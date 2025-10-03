@@ -1,5 +1,5 @@
-# G2-L6_Recuperators-and_Regenerators_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for recuperators-and regenerators.
+# S1-L7_Regenerative_Gas_Turbine_Scenario_Map — Species Index
+**Definition:** Scenario map for explaining regenerative gas turbine layouts and their performance levers.
 
 ## Overarching Lenses
 
@@ -11,6 +11,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Glass_Furnace_Regenerator_Upgrade_Set — plan regenerator rebuilds that lift pull and slash fuel.
-- S2-L7_HVAC_Energy_Recovery_Toolkit — select and commission ERVs for code-driven ventilation loads.
+## 60–90s Explanation Notes
+- Walk through recuperator sizing, pressure drop penalties, and turbine inlet limits.
+- Compare base, intercooled, and reheated options so teams see why layouts change by site.
+- Connect scenario choices to fuel savings and emissions regulations.

@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Battery_Pack_Free_Energy_Extension_Log — track pack cooling or chemistry tweaks that reshape Gibbs maps.
+- S2-L7_Food_Freezing_Free_Energy_Tuning_Set — capture recipe and cryogen changes that shift freezing energy surfaces.

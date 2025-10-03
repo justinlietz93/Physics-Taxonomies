@@ -1,5 +1,5 @@
-# G2-L6_Recuperators-and_Regenerators_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for recuperators-and regenerators.
+# S1-L7_Refrigeration_Potential_Selection_Walkthrough — Species Index
+**Definition:** Core walkthrough selecting enthalpy or Helmholtz potentials for everyday refrigeration problems.
 
 ## Overarching Lenses
 
@@ -11,6 +11,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Glass_Furnace_Regenerator_Upgrade_Set — plan regenerator rebuilds that lift pull and slash fuel.
-- S2-L7_HVAC_Energy_Recovery_Toolkit — select and commission ERVs for code-driven ventilation loads.
+## 60–90s Explanation Notes
+- Show when constant pressure vs constant temperature assumptions tilt the choice toward enthalpy or Helmholtz.
+- Use p-h charts and property tables so learners see how the math maps to the diagram they already use.
+- Close with a quick check on irreversibilities to highlight when extra terms matter.

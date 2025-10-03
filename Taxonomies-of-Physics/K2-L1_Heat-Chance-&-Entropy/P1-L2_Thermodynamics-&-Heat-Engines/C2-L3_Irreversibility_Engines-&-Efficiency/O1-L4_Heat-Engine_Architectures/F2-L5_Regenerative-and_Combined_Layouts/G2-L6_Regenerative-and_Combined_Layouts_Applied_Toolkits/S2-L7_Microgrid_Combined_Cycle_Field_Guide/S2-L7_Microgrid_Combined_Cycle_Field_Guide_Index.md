@@ -1,5 +1,5 @@
-# G2-L6_Recuperators-and_Regenerators_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for recuperators-and regenerators.
+# S2-L7_Microgrid_Combined_Cycle_Field_Guide — Species Index
+**Definition:** Field guide for deploying combined-cycle blocks inside microgrids and islanded campuses.
 
 ## Overarching Lenses
 
@@ -11,6 +11,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Glass_Furnace_Regenerator_Upgrade_Set — plan regenerator rebuilds that lift pull and slash fuel.
-- S2-L7_HVAC_Energy_Recovery_Toolkit — select and commission ERVs for code-driven ventilation loads.
+## 60–90s Explanation Notes
+- Detail control strategies that keep synchronous machines and inverters sharing load smoothly.
+- Capture thermal integration with district loops or absorption chillers.
+- Provide checklists for islanding events, black starts, and resiliency drills.

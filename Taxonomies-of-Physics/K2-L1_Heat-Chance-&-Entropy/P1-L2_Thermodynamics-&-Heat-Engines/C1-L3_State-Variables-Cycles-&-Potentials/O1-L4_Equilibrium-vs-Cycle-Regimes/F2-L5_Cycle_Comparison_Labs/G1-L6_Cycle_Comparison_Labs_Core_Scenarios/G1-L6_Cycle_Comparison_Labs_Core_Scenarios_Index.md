@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Rankine_vs_Brayton_Lab_Runthrough — align steam and gas cycle plots for side-by-side efficiency talks.
+- S2-L7_Heat_Pump_vs_Chiller_Benchmark_Lab — pit reversible and dedicated cooling loops under identical loads.

@@ -1,5 +1,5 @@
-# G2-L6_Recuperators-and_Regenerators_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for recuperators-and regenerators.
+# S1-L7_Industrial_WHR_Regenerative_Toolkit — Species Index
+**Definition:** Toolkit for deploying regenerative waste-heat recovery packages in industrial plants.
 
 ## Overarching Lenses
 
@@ -11,6 +11,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Glass_Furnace_Regenerator_Upgrade_Set — plan regenerator rebuilds that lift pull and slash fuel.
-- S2-L7_HVAC_Energy_Recovery_Toolkit — select and commission ERVs for code-driven ventilation loads.
+## 60–90s Explanation Notes
+- Map exhaust sources, contaminants, and duty cycles to the right recuperator technologies.
+- Include commissioning scripts and fouling management plans for maintenance crews.
+- Provide ROI calculators tying recovered heat to fuel and emissions savings.
