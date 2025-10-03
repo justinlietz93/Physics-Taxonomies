@@ -1,5 +1,5 @@
-# P2–L2 Magnetostatics & Steady Currents
-**Definition:** Persistent currents sculpt magnetic fields that steer tools, sensors, and power distribution hardware.
+# G1-L6_SOR-&-Multigrid_Accelerators — Genus Index
+**Definition:** Use smart sweeping and multi-scale passes so electrostatic errors vanish in a handful of cycles.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,10 +10,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Class (L3) — index
-- C1-L3_Current-Path_Field-Designs — relate conductor geometry to magnetic field control and forces.
-- C2-L3_Magnetic-Circuit_Engineering — steer flux through materials and loops for devices and shielding.
-## Order (L4) — (later)
-## Family (L5) — (later)
-## Genus (L6) — (later)
-## Species (L7) — (later)
+## Species (L7) — everyday exemplars
+- S1-L7_Test-Stand_Multigrid-Tuner — tune relaxation factors on a high-voltage fixture model.
+- S2-L7_Open-Source_Field-Solver_Boost — add multigrid passes to a community electrostatics code.

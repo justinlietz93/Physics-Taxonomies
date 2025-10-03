@@ -1,5 +1,5 @@
-# P2–L2 Magnetostatics & Steady Currents
-**Definition:** Persistent currents sculpt magnetic fields that steer tools, sensors, and power distribution hardware.
+# S1-L7_Bench-Top_Capacitor-Build — Species Index
+**Definition:** Stack aluminum foil and plastic sheets to hit a target capacitance for a DIY sensor or power filter.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,10 +10,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Class (L3) — index
-- C1-L3_Current-Path_Field-Designs — relate conductor geometry to magnetic field control and forces.
-- C2-L3_Magnetic-Circuit_Engineering — steer flux through materials and loops for devices and shielding.
-## Order (L4) — (later)
-## Family (L5) — (later)
-## Genus (L6) — (later)
-## Species (L7) — (later)
+## 60–90s Explanation Notes
+- Measure plate area, gap, and dielectric constant, then compute and test capacitance to see theory meet multimeter.
+- Swap materials to show how field uniformity and losses shift the energy storage you can count on.

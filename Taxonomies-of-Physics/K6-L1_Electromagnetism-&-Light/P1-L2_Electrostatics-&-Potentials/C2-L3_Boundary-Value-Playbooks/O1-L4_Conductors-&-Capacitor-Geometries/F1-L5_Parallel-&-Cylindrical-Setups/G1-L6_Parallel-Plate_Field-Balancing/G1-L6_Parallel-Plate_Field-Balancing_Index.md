@@ -1,5 +1,5 @@
-# P2–L2 Magnetostatics & Steady Currents
-**Definition:** Persistent currents sculpt magnetic fields that steer tools, sensors, and power distribution hardware.
+# G1-L6_Parallel-Plate_Field-Balancing — Genus Index
+**Definition:** Keep two flat electrodes behaving like an ideal capacitor despite real-world spacing and dielectric tweaks.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,10 +10,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Class (L3) — index
-- C1-L3_Current-Path_Field-Designs — relate conductor geometry to magnetic field control and forces.
-- C2-L3_Magnetic-Circuit_Engineering — steer flux through materials and loops for devices and shielding.
-## Order (L4) — (later)
-## Family (L5) — (later)
-## Genus (L6) — (later)
-## Species (L7) — (later)
+## Species (L7) — everyday exemplars
+- S1-L7_Bench-Top_Capacitor-Build — hand-cut foils and spacers to reach a target capacitance for a sensor demo.
+- S2-L7_Cleanroom_Wafer-Coating — plate silicon wafers evenly to keep MEMS actuators balanced.
