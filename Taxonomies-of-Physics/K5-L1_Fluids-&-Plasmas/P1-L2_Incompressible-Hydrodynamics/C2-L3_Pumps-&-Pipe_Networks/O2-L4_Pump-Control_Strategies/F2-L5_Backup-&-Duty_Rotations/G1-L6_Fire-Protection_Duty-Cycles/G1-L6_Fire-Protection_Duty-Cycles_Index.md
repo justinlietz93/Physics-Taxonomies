@@ -1,5 +1,5 @@
-# O1-L4_Laminar-vs-Turbulent-Flow-Regimes — Order Index
-**Definition:** Comparing steady layered motion with the unpredictable eddies that appear as speeds and sizes change.
+# G1-L6_Fire-Protection_Duty-Cycles — Genus Index
+**Definition:** Lead-lag fire pump routines that guarantee standby units take over instantly when alarms hit.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,10 +10,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Family (L5) — index
-- F1-L5_Reynolds-Number-Stories — how size, speed, and stickiness tip flows into chaos.
-- F2-L5_Turbulence-Transition_Toolkits — classroom and field tricks for spotting when eddies first bloom.
-
-## Genus (L6)
-_(Insert `G*-L6_*` here.)_
 ## Species (L7) — everyday exemplars
+- S1-L7_High-Rise_Fire_Pump_Weekly_Swap — alternating diesel and electric pumps to keep both battle-ready.
+- S2-L7_Distribution_Warehouse_Jockey_Test — proving jockey pumps maintain pressure while main units rest.

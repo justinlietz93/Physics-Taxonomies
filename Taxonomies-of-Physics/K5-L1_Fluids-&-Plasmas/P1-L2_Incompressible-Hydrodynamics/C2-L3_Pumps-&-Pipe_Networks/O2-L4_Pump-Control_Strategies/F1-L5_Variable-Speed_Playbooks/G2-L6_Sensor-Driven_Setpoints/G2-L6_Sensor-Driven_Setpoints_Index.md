@@ -1,5 +1,5 @@
-# O1-L4_Laminar-vs-Turbulent-Flow-Regimes — Order Index
-**Definition:** Comparing steady layered motion with the unpredictable eddies that appear as speeds and sizes change.
+# G2-L6_Sensor-Driven_Setpoints — Genus Index
+**Definition:** Control schemes where flow, pressure, or differential sensors steer pump speed minute by minute.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,10 +10,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Family (L5) — index
-- F1-L5_Reynolds-Number-Stories — how size, speed, and stickiness tip flows into chaos.
-- F2-L5_Turbulence-Transition_Toolkits — classroom and field tricks for spotting when eddies first bloom.
-
-## Genus (L6)
-_(Insert `G*-L6_*` here.)_
 ## Species (L7) — everyday exemplars
+- S1-L7_Supermarket_Booster_PID — tuning suction and discharge sensors to keep aisles at pressure without hunting.
+- S2-L7_Smart_Building_Delta-P_Trim — linking wireless sensors to adjust speed as tenants arrive and leave.

@@ -1,5 +1,5 @@
-# O1-L4_Laminar-vs-Turbulent-Flow-Regimes — Order Index
-**Definition:** Comparing steady layered motion with the unpredictable eddies that appear as speeds and sizes change.
+# O1-L4_Pipe-Loop_Energy-Balances — Order Index
+**Definition:** Closing the bookkeeping of pressure rises and friction drops so circulating loops deliver the flow they promise.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,8 +11,8 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Family (L5) — index
-- F1-L5_Reynolds-Number-Stories — how size, speed, and stickiness tip flows into chaos.
-- F2-L5_Turbulence-Transition_Toolkits — classroom and field tricks for spotting when eddies first bloom.
+- F1-L5_Head-Loss_Scenarios — pairing real piping layouts with friction and fitting penalties.
+- F2-L5_Mixing-Junction_Stories — following how branch connections steal or share pressure head.
 
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_

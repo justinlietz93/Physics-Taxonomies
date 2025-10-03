@@ -1,5 +1,5 @@
-# O1-L4_Laminar-vs-Turbulent-Flow-Regimes — Order Index
-**Definition:** Comparing steady layered motion with the unpredictable eddies that appear as speeds and sizes change.
+# S1-L7_Creek_Vane_Reynolds_Scout — Species Index
+**Definition:** Wading into a creek with a flow vane to note where gentle sheets break into ripples.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,10 +10,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Family (L5) — index
-- F1-L5_Reynolds-Number-Stories — how size, speed, and stickiness tip flows into chaos.
-- F2-L5_Turbulence-Transition_Toolkits — classroom and field tricks for spotting when eddies first bloom.
-
-## Genus (L6)
-_(Insert `G*-L6_*` here.)_
-## Species (L7) — everyday exemplars
+## 60–90s Explanation Notes
+- Connect local velocity readings to the Reynolds number threshold for natural channels.
+- Mention how rocks or roots trigger early turbulence just like pipe roughness indoors.

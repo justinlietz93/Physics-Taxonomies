@@ -1,5 +1,5 @@
-# O1-L4_Laminar-vs-Turbulent-Flow-Regimes — Order Index
-**Definition:** Comparing steady layered motion with the unpredictable eddies that appear as speeds and sizes change.
+# F2-L5_Backup-&-Duty_Rotations — Family Index
+**Definition:** Sequencing lead and lag pumps so redundancy comes online smoothly and wear stays balanced.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,10 +10,8 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Family (L5) — index
-- F1-L5_Reynolds-Number-Stories — how size, speed, and stickiness tip flows into chaos.
-- F2-L5_Turbulence-Transition_Toolkits — classroom and field tricks for spotting when eddies first bloom.
+## Genus (L6) — index
+- G1-L6_Fire-Protection_Duty-Cycles — ensuring standby pumps take over without pressure dips.
+- G2-L6_Waterworks_Lag-Lead_Schedules — municipal rotations that spread runtime across pump fleets.
 
-## Genus (L6)
-_(Insert `G*-L6_*` here.)_
 ## Species (L7) — everyday exemplars

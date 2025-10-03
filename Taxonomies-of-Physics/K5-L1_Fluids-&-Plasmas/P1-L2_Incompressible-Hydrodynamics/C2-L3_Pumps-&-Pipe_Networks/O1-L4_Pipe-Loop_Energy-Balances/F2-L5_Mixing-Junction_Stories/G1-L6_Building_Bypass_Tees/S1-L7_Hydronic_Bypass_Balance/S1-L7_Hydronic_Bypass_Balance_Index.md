@@ -1,5 +1,5 @@
-# O1-L4_Laminar-vs-Turbulent-Flow-Regimes — Order Index
-**Definition:** Comparing steady layered motion with the unpredictable eddies that appear as speeds and sizes change.
+# S1-L7_Hydronic_Bypass_Balance — Species Index
+**Definition:** Commissioning a mixing station so the bypass valve only opens enough to protect boilers without starving coils.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,10 +10,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Family (L5) — index
-- F1-L5_Reynolds-Number-Stories — how size, speed, and stickiness tip flows into chaos.
-- F2-L5_Turbulence-Transition_Toolkits — classroom and field tricks for spotting when eddies first bloom.
-
-## Genus (L6)
-_(Insert `G*-L6_*` here.)_
-## Species (L7) — everyday exemplars
+## 60–90s Explanation Notes
+- Describe the tug-of-war between protecting pump minimum flow and still sending hot water to distant air handlers.
+- Use the energy equation to show how a cracked-open bypass steals head unless differential pressure controllers rein it in.

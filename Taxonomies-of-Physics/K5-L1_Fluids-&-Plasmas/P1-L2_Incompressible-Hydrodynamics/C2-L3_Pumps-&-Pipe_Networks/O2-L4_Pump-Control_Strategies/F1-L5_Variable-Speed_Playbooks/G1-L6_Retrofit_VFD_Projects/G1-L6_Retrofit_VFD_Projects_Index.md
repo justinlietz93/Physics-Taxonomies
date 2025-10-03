@@ -1,5 +1,5 @@
-# O1-L4_Laminar-vs-Turbulent-Flow-Regimes — Order Index
-**Definition:** Comparing steady layered motion with the unpredictable eddies that appear as speeds and sizes change.
+# G1-L6_Retrofit_VFD_Projects — Genus Index
+**Definition:** Upgrade efforts that bolt variable frequency drives onto legacy pumps while keeping hydraulic behavior predictable.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,10 +10,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Family (L5) — index
-- F1-L5_Reynolds-Number-Stories — how size, speed, and stickiness tip flows into chaos.
-- F2-L5_Turbulence-Transition_Toolkits — classroom and field tricks for spotting when eddies first bloom.
-
-## Genus (L6)
-_(Insert `G*-L6_*` here.)_
 ## Species (L7) — everyday exemplars
+- S1-L7_School_Chiller_VFD_Retrofit — phasing in drives on twin pumps without upsetting classroom cooling.
+- S2-L7_Irrigation_Pump_Ramp-Down — reusing farm pumps with drives to follow daily watering schedules.

@@ -1,5 +1,5 @@
-# O1-L4_Laminar-vs-Turbulent-Flow-Regimes — Order Index
-**Definition:** Comparing steady layered motion with the unpredictable eddies that appear as speeds and sizes change.
+# F1-L5_Head-Loss_Scenarios — Family Index
+**Definition:** Everyday piping loops that highlight how elbows, valves, and pipe choices eat away pump headroom.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,10 +10,8 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Family (L5) — index
-- F1-L5_Reynolds-Number-Stories — how size, speed, and stickiness tip flows into chaos.
-- F2-L5_Turbulence-Transition_Toolkits — classroom and field tricks for spotting when eddies first bloom.
+## Genus (L6) — index
+- G1-L6_Household_Circuits — tracking pressure drops in familiar home loops.
+- G2-L6_Campus-Utility_Rings — balancing long-distance distribution networks.
 
-## Genus (L6)
-_(Insert `G*-L6_*` here.)_
 ## Species (L7) — everyday exemplars

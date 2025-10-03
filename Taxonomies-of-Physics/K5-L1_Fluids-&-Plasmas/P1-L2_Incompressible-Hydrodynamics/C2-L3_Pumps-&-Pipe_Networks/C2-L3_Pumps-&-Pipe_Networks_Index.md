@@ -1,5 +1,5 @@
-# O1-L4_Laminar-vs-Turbulent-Flow-Regimes — Order Index
-**Definition:** Comparing steady layered motion with the unpredictable eddies that appear as speeds and sizes change.
+# C2-L3_Pumps-&-Pipe_Networks — Class Index
+**Definition:** Practical guides for closed-loop water, oil, and coolant circuits where pressure sources and friction teams must balance.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,10 +10,11 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Family (L5) — index
-- F1-L5_Reynolds-Number-Stories — how size, speed, and stickiness tip flows into chaos.
-- F2-L5_Turbulence-Transition_Toolkits — classroom and field tricks for spotting when eddies first bloom.
+## Order (L4) — index
+- O1-L4_Pipe-Loop_Energy-Balances — tracing how head gains and losses close around circulating circuits.
+- O2-L4_Pump-Control_Strategies — tuning machines and valves so flows stay on target without waste.
 
+## Family (L5) — (later)
 ## Genus (L6)
-_(Insert `G*-L6_*` here.)_
+_(Insert `G*-L6_*` between Family and Species.)_
 ## Species (L7) — everyday exemplars

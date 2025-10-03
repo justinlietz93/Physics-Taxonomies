@@ -1,5 +1,5 @@
-# O1-L4_Laminar-vs-Turbulent-Flow-Regimes — Order Index
-**Definition:** Comparing steady layered motion with the unpredictable eddies that appear as speeds and sizes change.
+# O2-L4_Vorticity-Transport_Playbooks — Order Index
+**Definition:** Tracking how swirling fluid patches are created, shed, and diffused in practical setups.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,8 +11,8 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Family (L5) — index
-- F1-L5_Reynolds-Number-Stories — how size, speed, and stickiness tip flows into chaos.
-- F2-L5_Turbulence-Transition_Toolkits — classroom and field tricks for spotting when eddies first bloom.
+- F1-L5_Vortex-Generation_Scenarios — everyday flows that spin up new vortices.
+- F2-L5_Vorticity-Diffusion_Tactics — ways to spread or damp swirling patches before they cause trouble.
 
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
