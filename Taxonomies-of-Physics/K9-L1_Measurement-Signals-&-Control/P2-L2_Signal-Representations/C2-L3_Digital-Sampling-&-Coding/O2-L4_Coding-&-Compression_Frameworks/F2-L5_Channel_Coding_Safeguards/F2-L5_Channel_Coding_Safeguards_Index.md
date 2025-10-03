@@ -1,5 +1,6 @@
 # F2-L5_Channel_Coding_Safeguards — Family Index
-**Definition:** Error-control and modulation pairings that keep bits intact across noisy or bandwidth-limited links.
+**Definition:** Explore how armor the bitstream against noise, fades, and dropouts.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Error_Correction_Schemes — map LDPC, Turbo, and BCH choices to mission noise budgets.
-- G2-L6_Modulation_Coding_Integration — co-design constellation, coding rate, and framing for real-world channels.
+- G1-L6_Channel_Coding_Safeguards_Foundations — core principles and baseline exemplars.
+- G2-L6_Channel_Coding_Safeguards_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars
-- Satellite link LDPC setups, EV charging protocol BER tests, IoT LoRaWAN link budgets, and 5G baseband constellation audits.

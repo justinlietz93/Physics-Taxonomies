@@ -1,5 +1,5 @@
 # C1-L3_Order-Parameters-&-Phase-Diagrams — Class Index
-**Definition:** Maps how tuning temperature, pressure, or fields shifts order parameters and phase boundaries.
+**Definition:** Introduce order parameters and map how phases organize across control variables.
 
 ## Overarching Lenses
 
@@ -12,9 +12,12 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Order (L4) — index
-- **O1-L4_Critical-vs_First-Order_Behavior** — distinguishing smooth critical points from sudden jumps.
+- **O1-L4_Symmetry_Breaking_Classes** — list how different symmetries fail across transitions.
+- **O2-L4_Critical_Lines_and_Surfaces** — draw phase diagrams and locate multicritical points.
 
 ## Family (L5) — (later)
-## Genus (L6)
+
+## Genus (L6) — (later)
 _(Insert `G*-L6_*` between Family and Species.)_
+
 ## Species (L7) — everyday exemplars

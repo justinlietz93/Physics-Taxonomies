@@ -1,5 +1,6 @@
 # F2-L5_Rotating-Machine_Field_Control — Family Index
-**Definition:** Tune magnetic fields in rotating machines for reliable torque, efficiency, and uptime.
+**Definition:** Explore how tune rotating magnetic fields to deliver torque smoothly.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Synchronous_Field_Services — keep excitation systems delivering steady field strength.
-- G2-L6_Induction_Motor_Tuning — adjust rotor and stator settings for smooth industrial drives.
+- G1-L6_Rotating-Machine_Field_Control_Foundations — core principles and baseline exemplars.
+- G2-L6_Rotating-Machine_Field_Control_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

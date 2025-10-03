@@ -1,5 +1,6 @@
 # F1-L5_Jitter-vs-Wander — Family Index
-**Definition:** Separates fast edge timing sparkle from slow drift that slips clock domains and serial links.
+**Definition:** Explore how separating fast timing sparkle from slow drift in clocks and links.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Digital-Clock-Stability — monitoring synthesizers and timebases under network stress.
-- G2-L6_Oscilloscope-Trigger-Checks — teaching how measurement gear captures timing wiggles.
+- G1-L6_Jitter-vs-Wander_Foundations — core principles and baseline exemplars.
+- G2-L6_Jitter-vs-Wander_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

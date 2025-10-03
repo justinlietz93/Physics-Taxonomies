@@ -13,7 +13,7 @@
 
 ## Family (L5) — index
 - **F1-L5_PVT-Surfaces-&-Cycle-Loops** — reading areas, slopes, and enclosures that signal work and heat flow.
-
+- **F2-L5_Cycle_Comparison_Labs** — comparing Carnot, Rankine, and refrigeration cycles on real diagrams.
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
 ## Species (L7) — everyday exemplars

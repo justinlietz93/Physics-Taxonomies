@@ -13,6 +13,7 @@
 
 ## Class (L3) — index
 - **C1-L3_Rigid-Body-Rotation_Gyroscopes** — Show how spinning objects resist twists and redirect torques.
+- **C2-L3_Angular-Momentum_Transfer-&-Control** — follows how angular momentum is handed off, stored, and dumped to steer systems.
 
 ## Order (L4) — (later)
 

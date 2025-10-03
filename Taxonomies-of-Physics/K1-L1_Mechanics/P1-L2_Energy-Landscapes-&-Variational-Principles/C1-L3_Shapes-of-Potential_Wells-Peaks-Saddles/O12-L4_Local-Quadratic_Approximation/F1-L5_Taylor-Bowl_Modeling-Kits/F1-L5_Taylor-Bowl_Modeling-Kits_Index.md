@@ -1,5 +1,5 @@
 # F1-L5_Taylor-Bowl_Modeling-Kits — Family Index
-**Definition:** Collects quick quadratic fits that stand in for the real landscape near a steady point.
+**Definition:** Explore how using local parabolas to approximate complicated shapes.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Second-Order_Fit_Workflows** — recipes for building the local parabola.
-- **G2-L6_Validity-Limit_Checks** — guardrails that tell you when the quadratic model fails.
+- G1-L6_Taylor-Bowl_Modeling-Kits_Foundations — core principles and baseline exemplars.
+- G2-L6_Taylor-Bowl_Modeling-Kits_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

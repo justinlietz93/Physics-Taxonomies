@@ -1,5 +1,5 @@
 # F1-L5_Path-Difference-Fringes — Family Index
-**Definition:** Converts extra wavelengths of travel into bright or dark stripes for water, sound, or light setups.
+**Definition:** Explore how linking extra travel distance to constructive or destructive spots.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Water-Light-Sound-Fringes** — comparing ripple tanks, laser slits, and acoustic cancellations.
+- G1-L6_Path-Difference-Fringes_Foundations — core principles and baseline exemplars.
+- G2-L6_Path-Difference-Fringes_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

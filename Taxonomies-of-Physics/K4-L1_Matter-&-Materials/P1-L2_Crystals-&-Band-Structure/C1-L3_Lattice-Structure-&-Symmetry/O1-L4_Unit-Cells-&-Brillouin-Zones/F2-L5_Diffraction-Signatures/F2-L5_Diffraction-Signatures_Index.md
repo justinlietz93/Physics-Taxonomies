@@ -1,5 +1,5 @@
 # F2-L5_Diffraction-Signatures — Family Index
-**Definition:** Connects lattice motifs to the bright spots, rings, and streaks captured in diffraction experiments.
+**Definition:** Explore how connect lattice motifs to the spots and rings seen in labs.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Xray-vs_Electron-Spots — compare how different probes paint matching lattice fingerprints.
+- G1-L6_Diffraction-Signatures_Foundations — core principles and baseline exemplars.
+- G2-L6_Diffraction-Signatures_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

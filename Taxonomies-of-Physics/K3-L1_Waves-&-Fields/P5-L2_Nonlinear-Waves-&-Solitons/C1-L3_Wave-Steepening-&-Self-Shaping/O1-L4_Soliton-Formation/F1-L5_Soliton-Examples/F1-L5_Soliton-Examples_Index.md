@@ -1,5 +1,5 @@
 # F1-L5_Soliton-Examples — Family Index
-**Definition:** Collects everyday and engineered pulses that maintain their profile while traveling.
+**Definition:** Explore how cataloging water, traffic, and light pulses that retain shape.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Pulse-Trains_in-Channels** — matching canals and fibers that shepherd solitons.
+- G1-L6_Soliton-Examples_Foundations — core principles and baseline exemplars.
+- G2-L6_Soliton-Examples_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

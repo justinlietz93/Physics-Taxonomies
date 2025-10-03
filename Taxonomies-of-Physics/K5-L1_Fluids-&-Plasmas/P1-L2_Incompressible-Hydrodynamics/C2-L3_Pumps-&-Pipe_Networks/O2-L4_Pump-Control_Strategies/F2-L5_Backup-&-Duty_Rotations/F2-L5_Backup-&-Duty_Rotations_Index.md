@@ -1,5 +1,6 @@
 # F2-L5_Backup-&-Duty_Rotations — Family Index
-**Definition:** Sequencing lead and lag pumps so redundancy comes online smoothly and wear stays balanced.
+**Definition:** Explore how ensuring redundancy swaps without hydraulic shocks.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Fire-Protection_Duty-Cycles — ensuring standby pumps take over without pressure dips.
-- G2-L6_Waterworks_Lag-Lead_Schedules — municipal rotations that spread runtime across pump fleets.
+- G1-L6_Backup-&-Duty_Rotations_Foundations — core principles and baseline exemplars.
+- G2-L6_Backup-&-Duty_Rotations_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

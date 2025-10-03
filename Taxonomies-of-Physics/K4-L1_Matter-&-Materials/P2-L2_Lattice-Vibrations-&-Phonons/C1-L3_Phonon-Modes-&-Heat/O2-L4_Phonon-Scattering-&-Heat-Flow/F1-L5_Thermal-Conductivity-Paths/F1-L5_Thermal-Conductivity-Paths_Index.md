@@ -1,5 +1,5 @@
 # F1-L5_Thermal-Conductivity-Paths — Family Index
-**Definition:** Contrasts materials that let phonons sprint with those that scatter them into sluggish heat flow.
+**Definition:** Explore how contrast crystal pathways that speed or slow heat.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Diamond-vs-Wood-Heat — compare stiff lattices with tangled ones through kitchen tools.
+- G1-L6_Thermal-Conductivity-Paths_Foundations — core principles and baseline exemplars.
+- G2-L6_Thermal-Conductivity-Paths_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

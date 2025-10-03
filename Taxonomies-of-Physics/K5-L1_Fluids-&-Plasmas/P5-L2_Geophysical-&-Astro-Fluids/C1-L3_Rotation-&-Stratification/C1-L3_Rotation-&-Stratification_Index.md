@@ -1,5 +1,6 @@
 # C1-L3_Rotation-&-Stratification — Class Index
-**Definition:** Frameworks for flows influenced by planetary spin and layering, from trade winds to accretion disks.
+**Definition:** Show how planetary rotation and layered density cooperate to shape large-scale flows.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,9 +12,12 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Order (L4) — index
-- O1-L4_Large-Scale-Flow-Balances — geostrophic, hydrostatic, and gradient-wind compromises.
+- **O1-L4_Geostrophic_and_Thermal_Wind** — balance pressure gradients with Coriolis forces in layered atmospheres and oceans.
+- **O2-L4_Wave-and_Instability_Balances** — survey inertia-gravity, Rossby, and baroclinic waves plus their breakdowns.
 
 ## Family (L5) — (later)
-## Genus (L6)
+
+## Genus (L6) — (later)
 _(Insert `G*-L6_*` between Family and Species.)_
+
 ## Species (L7) — everyday exemplars

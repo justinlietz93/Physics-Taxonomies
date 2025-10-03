@@ -1,5 +1,5 @@
 # F2-L5_Center-of-Mass-Motions — Family Index
-**Definition:** Follows how the combined center of mass keeps steady motion even when parts split or shift.
+**Definition:** Explore how Stories that track how the combined center keeps moving smoothly.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Fireworks-and_Fragment-Drift** — Breakups where pieces fly yet the combined center glides smoothly.
-- **G2-L6_Tug-and-Tow_Tradeoffs** — Teams that pull or tow while keeping the shared center on track.
+- G1-L6_Center-of-Mass-Motions_Foundations — core principles and baseline exemplars.
+- G2-L6_Center-of-Mass-Motions_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

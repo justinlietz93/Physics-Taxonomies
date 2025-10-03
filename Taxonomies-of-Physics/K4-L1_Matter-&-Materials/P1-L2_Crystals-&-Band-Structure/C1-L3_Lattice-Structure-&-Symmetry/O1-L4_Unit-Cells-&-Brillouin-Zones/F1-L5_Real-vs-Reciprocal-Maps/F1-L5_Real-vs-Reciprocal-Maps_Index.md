@@ -1,5 +1,5 @@
 # F1-L5_Real-vs-Reciprocal-Maps — Family Index
-**Definition:** Links the physical spacing of atoms to the momentum-space maps used for scattering predictions.
+**Definition:** Explore how translate between atomic spacing and diffraction angles.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Cubic-vs-Hexagonal-Grids — contrast common packing motifs and their reciprocal twins.
+- G1-L6_Real-vs-Reciprocal-Maps_Foundations — core principles and baseline exemplars.
+- G2-L6_Real-vs-Reciprocal-Maps_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

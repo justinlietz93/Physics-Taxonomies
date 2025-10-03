@@ -1,5 +1,6 @@
 # F2-L5_Cascade-&-Route_Mapping — Family Index
-**Definition:** Chart the sequences that carry systems from orderly motion toward chaos.
+**Definition:** Explore how Catalog the routes from order toward chaos through doubling, intermittency, or quasi-periodicity.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Period-Doubling_Trackers** — Measure the repeated halving of oscillation periods heading toward chaos.
-- **G2-L6_Quasiperiodic-&-Intermittent_Scouts** — Capture mixed-frequency and bursty routes when chaos sneaks in sideways.
+- G1-L6_Cascade-&-Route_Mapping_Foundations — core principles and baseline exemplars.
+- G2-L6_Cascade-&-Route_Mapping_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

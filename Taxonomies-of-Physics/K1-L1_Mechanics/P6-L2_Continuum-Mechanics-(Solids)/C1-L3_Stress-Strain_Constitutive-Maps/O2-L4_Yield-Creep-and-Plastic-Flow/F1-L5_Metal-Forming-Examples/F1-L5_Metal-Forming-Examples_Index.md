@@ -1,5 +1,5 @@
 # F1-L5_Metal-Forming-Examples — Family Index
-**Definition:** Showcases bending, drawing, and pressing stories where plastic flow is the goal.
+**Definition:** Explore how Hands-on bends that reveal yield and work hardening.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Paperclip-and-Can-Tests** — Small metal objects showing permanent set.
+- G1-L6_Metal-Forming-Examples_Foundations — core principles and baseline exemplars.
+- G2-L6_Metal-Forming-Examples_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

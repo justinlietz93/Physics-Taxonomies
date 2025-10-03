@@ -1,5 +1,6 @@
 # F2-L5_Magnetic-Shielding_Housings — Family Index
-**Definition:** Build housings that reroute stray magnetic fields to guard instruments and people.
+**Definition:** Explore how build enclosures that shunt stray flux away from sensors and people.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Mu-Metal_Enclosure_Practices — form and anneal mu-metal shells for lab gear.
-- G2-L6_Composite-Shield_Plays — layer materials to block both DC and AC magnetic noise.
+- G1-L6_Magnetic-Shielding_Housings_Foundations — core principles and baseline exemplars.
+- G2-L6_Magnetic-Shielding_Housings_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

@@ -1,5 +1,5 @@
 # F1-L5_Weather-Style-Attractors — Family Index
-**Definition:** Examines convection cells and tabletop demos that echo weather-model chaos.
+**Definition:** Explore how Benchtop convection and circuits echoing weather chaos.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Tabletop-Convection-Demos** — Kitchen-scale flows that wander on butterfly attractors.
+- G1-L6_Weather-Style-Attractors_Foundations — core principles and baseline exemplars.
+- G2-L6_Weather-Style-Attractors_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

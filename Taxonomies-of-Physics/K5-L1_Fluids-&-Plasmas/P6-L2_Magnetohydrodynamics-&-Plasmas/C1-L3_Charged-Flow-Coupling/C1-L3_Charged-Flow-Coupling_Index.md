@@ -1,5 +1,6 @@
 # C1-L3_Charged-Flow-Coupling — Class Index
-**Definition:** Describing how electric currents and magnetic fields exchange momentum with plasma motion.
+**Definition:** Describe how conductive fluids drag magnetic fields and how fields push back on the flow.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,9 +12,12 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Order (L4) — index
-- O1-L4_Field-Line-Dynamics — how magnetic lines move with or slip through the plasma.
+- **O1-L4_Frozen-in_Field_Dynamics** — outline when plasmas carry magnetic lines like taffy.
+- **O2-L4_MHD_Wave_and_Turbulence_Modes** — catalog Alfvén, slow, and fast modes plus their turbulent cascades.
 
 ## Family (L5) — (later)
-## Genus (L6)
+
+## Genus (L6) — (later)
 _(Insert `G*-L6_*` between Family and Species.)_
+
 ## Species (L7) — everyday exemplars

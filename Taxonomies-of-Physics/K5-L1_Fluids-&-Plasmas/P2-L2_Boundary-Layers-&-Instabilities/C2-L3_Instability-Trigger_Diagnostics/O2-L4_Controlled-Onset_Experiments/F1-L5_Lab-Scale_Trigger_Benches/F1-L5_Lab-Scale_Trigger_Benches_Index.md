@@ -1,5 +1,6 @@
 # F1-L5_Lab-Scale_Trigger_Benches — Family Index
-**Definition:** Compact rigs that inject disturbances on command so students can watch transition under a microscope.
+**Definition:** Explore how benchtop rigs that pulse, bleed, or shake model flows.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Bleed-and_Suction_Modules — fixtures that add or remove air to force attachment shifts.
-- G2-L6_Vibration-and_Actuator_Plates — plates that shake or flex to seed waves on demand.
+- G1-L6_Lab-Scale_Trigger_Benches_Foundations — core principles and baseline exemplars.
+- G2-L6_Lab-Scale_Trigger_Benches_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

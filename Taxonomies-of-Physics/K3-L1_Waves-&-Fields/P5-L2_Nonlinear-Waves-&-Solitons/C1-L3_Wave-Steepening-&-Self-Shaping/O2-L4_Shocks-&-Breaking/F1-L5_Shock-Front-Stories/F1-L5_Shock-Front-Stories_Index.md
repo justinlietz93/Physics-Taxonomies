@@ -1,5 +1,5 @@
 # F1-L5_Shock-Front-Stories — Family Index
-**Definition:** Gathers examples where wavefronts sharpen into sudden jumps from fluids, traffic, and air motion.
+**Definition:** Explore how real-life shocks in fluids, traffic, and air.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Traffic-and-Air-Shocks** — linking street flow jams with sonic booms.
+- G1-L6_Shock-Front-Stories_Foundations — core principles and baseline exemplars.
+- G2-L6_Shock-Front-Stories_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

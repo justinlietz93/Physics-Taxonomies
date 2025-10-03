@@ -1,5 +1,6 @@
 # F1-L5_Epoch-Storyboards — Family Index
-**Definition:** Visual timelines that break the universe into landmark eras with key physical processes.
+**Definition:** Explore how snapshots of inflation, recombination, and structure formation.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Inflation-to-Recombination — focus on early rapid expansion through first light.
+- G1-L6_Epoch-Storyboards_Foundations — core principles and baseline exemplars.
+- G2-L6_Epoch-Storyboards_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

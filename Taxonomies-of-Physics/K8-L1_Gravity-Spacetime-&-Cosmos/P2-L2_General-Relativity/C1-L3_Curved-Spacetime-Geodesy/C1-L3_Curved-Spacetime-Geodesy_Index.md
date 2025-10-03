@@ -1,5 +1,6 @@
 # C1-L3_Curved-Spacetime-Geodesy — Class Index
-**Definition:** How spacetime curvature directs free-fall paths, light rays, and the feel of gravity.
+**Definition:** Teach how spacetime curvature steers free-fall paths and light rays.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,8 +12,12 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Order (L4) — index
-- O1-L4_Equivalence-Principle-Stories — swapping gravity with acceleration to explain curvature.
+- **O1-L4_Spacetime_Metrics_Showcase** — tour key metrics and the situations they model.
+- **O2-L4_Geodesic_Motion_Toolkit** — work through computing particle and photon paths.
+
 ## Family (L5) — (later)
-## Genus (L6)
+
+## Genus (L6) — (later)
 _(Insert `G*-L6_*` between Family and Species.)_
+
 ## Species (L7) — everyday exemplars

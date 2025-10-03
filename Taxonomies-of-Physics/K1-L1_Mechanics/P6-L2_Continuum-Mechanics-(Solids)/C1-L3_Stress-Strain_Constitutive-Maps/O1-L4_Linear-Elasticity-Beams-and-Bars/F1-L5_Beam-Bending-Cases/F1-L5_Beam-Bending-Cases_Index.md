@@ -1,5 +1,5 @@
 # F1-L5_Beam-Bending-Cases — Family Index
-**Definition:** Collects household beams and boards to translate load, span, and stiffness into deflection intuition.
+**Definition:** Explore how Household beams that sag under everyday loads.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Yardstick-and-Diving-Board-Bends** — Flexible boards bending but springing back.
+- G1-L6_Beam-Bending-Cases_Foundations — core principles and baseline exemplars.
+- G2-L6_Beam-Bending-Cases_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

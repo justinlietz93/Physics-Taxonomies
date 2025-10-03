@@ -13,7 +13,7 @@
 
 ## Family (L5) — index
 - **F1-L5_Unstable-Peak_Balance-Scenarios** — knife-edge peaks where the tiniest nudges send motion racing downhill.
-
+- **F2-L5_Peak_Stabilization_Techniques** — feedback and shaping tricks to tame or exploit unstable peaks.
 ## Genus (L6)
 
 _(Insert Genus folders `G*-L6_*` between Family and Species; each Genus contains several Species.)_

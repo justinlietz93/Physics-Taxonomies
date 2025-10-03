@@ -1,5 +1,5 @@
 # F1-L5_Dimensional_Geometry_Comparisons — Family Index
-**Definition:** Compares the shapes and constraints of minima as the surrounding space grows from lines to volumes.
+**Definition:** Explore how contrasts how wells behave in one, two, or three dimensions.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_One-Dimensional_Motion_Tracks** — examples confined to a line or narrow channel.
-- **G2-L6_Surface-Volume_Well_Studies** — cases where basins spread across surfaces or fill space.
+- G1-L6_Dimensional_Geometry_Comparisons_Foundations — core principles and baseline exemplars.
+- G2-L6_Dimensional_Geometry_Comparisons_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

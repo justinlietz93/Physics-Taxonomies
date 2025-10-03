@@ -12,6 +12,7 @@
 
 ## Class (L3) — index
 - C1-L3_Interface-Dynamics — how tension, buoyancy, and flow shear shape bubbles and waves.
+- **C2-L3_Interface_Dynamics-and_Wave-Interaction** — examines interface waves and breakup in multiphase flows.
 
 ## Order (L4) — (later)
 ## Family (L5) — (later)

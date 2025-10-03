@@ -1,5 +1,6 @@
 # F1-L5_Photodiode-&-Camera-Pixels — Family Index
-**Definition:** Silicon and compound-semiconductor junctions that collect photons and yield proportional currents for imaging.
+**Definition:** Explore how semiconductor junctions catching photons for imaging and communications.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_CCD-vs-CMOS-Imager-Blocks — contrasting charge-transfer arrays with per-pixel amplifiers.
+- G1-L6_Photodiode-&-Camera-Pixels_Foundations — core principles and baseline exemplars.
+- G2-L6_Photodiode-&-Camera-Pixels_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

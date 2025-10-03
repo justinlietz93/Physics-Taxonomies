@@ -1,5 +1,5 @@
 # F1-L5_Spring-Mass-Timing — Family Index
-**Definition:** Collects block-and-spring and pendulum timings that set baseline oscillator behavior.
+**Definition:** Explore how Classic mass-and-spring clockwork stories.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Block-and-Spring-Cycles** — Bench springs and hinges showing smooth cycles.
-- **G2-L6_Pendulum-Period_Checks** — Timing swings that expose how length and gravity tune the beat.
+- G1-L6_Spring-Mass-Timing_Foundations — core principles and baseline exemplars.
+- G2-L6_Spring-Mass-Timing_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

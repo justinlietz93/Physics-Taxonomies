@@ -1,5 +1,5 @@
 # F2-L5_Event-Reconstruction_Stories — Family Index
-**Definition:** Aligns data logs, photos, and witness notes so the impact sequence reads like a storyboard. It helps newcomers stitch signals together.
+**Definition:** Explore how Align signals and footage to rebuild the impact timeline.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Impulse-Trace_Analysts** — Stack strain, force, and sound logs to find peak moments.
-- **G2-L6_Digital-Twin_Replays** — Use quick simulations to animate the impact timeline.
+- G1-L6_Event-Reconstruction_Stories_Foundations — core principles and baseline exemplars.
+- G2-L6_Event-Reconstruction_Stories_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

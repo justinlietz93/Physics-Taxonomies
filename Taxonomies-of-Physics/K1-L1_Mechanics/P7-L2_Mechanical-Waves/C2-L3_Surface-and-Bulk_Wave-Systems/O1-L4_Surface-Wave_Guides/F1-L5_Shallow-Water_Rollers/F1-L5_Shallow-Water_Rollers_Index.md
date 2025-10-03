@@ -1,5 +1,5 @@
 # F1-L5_Shallow-Water_Rollers — Family Index
-**Definition:** Looks at shoreline setups that reshape slow, depth-sensitive waves for safer coasts and harbors.
+**Definition:** Explore how Tracks gentle depth changes that amplify or calm shoreline waves.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Beach-Break_Trackers** — Survey sandbar shapes to calm breakers near swimmers and piers.
-- **G2-L6_Ship-Wake_Mappers** — Map vessel wakes so marinas can tune walls and channels to reduce slap.
+- G1-L6_Shallow-Water_Rollers_Foundations — core principles and baseline exemplars.
+- G2-L6_Shallow-Water_Rollers_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

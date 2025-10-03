@@ -1,5 +1,5 @@
 # F1-L5_Unstable-Peak_Balance-Scenarios — Family Index
-**Definition:** Highlights unstable crests in energy landscapes where balance quickly fails without steady corrections.
+**Definition:** Explore how knife-edge peaks where the tiniest nudges send motion racing downhill.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Toppling-Threshold_Demos** — hands-on balances that show how close the crest is to tipping.
-- **G2-L6_Safety-Margin_Assessments** — engineering audits that keep operating points away from unstable summits.
+- G1-L6_Unstable-Peak_Balance-Scenarios_Foundations — core principles and baseline exemplars.
+- G2-L6_Unstable-Peak_Balance-Scenarios_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

@@ -13,7 +13,7 @@
 
 ## Family (L5) — index
 - **F1-L5_Path-Difference-Fringes** — linking extra travel distance to constructive or destructive spots.
-
+- **F2-L5_Interference_Design_Patterns** — layout tricks for interferometers, speaker arrays, and antenna farms.
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
 ## Species (L7) — everyday exemplars

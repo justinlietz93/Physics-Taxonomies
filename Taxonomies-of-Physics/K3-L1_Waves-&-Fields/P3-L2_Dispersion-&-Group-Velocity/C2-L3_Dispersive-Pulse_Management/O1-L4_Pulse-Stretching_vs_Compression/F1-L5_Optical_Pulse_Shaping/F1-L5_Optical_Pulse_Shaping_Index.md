@@ -1,5 +1,5 @@
 # F1-L5_Optical_Pulse_Shaping — Family Index
-**Definition:** Brings together optical benches that sculpt, chirp, and retime ultrafast pulses.
+**Definition:** Explore how optical benches that chirp, stretch, and realign ultrafast bursts.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Grating-and_Prism_Trains** — bulk optics that set dispersion with reflective or refractive paths.
-- **G2-L6_Fiber_Bragg_Chirps** — fiber modules that bake dispersion control into compact packages.
+- G1-L6_Optical_Pulse_Shaping_Foundations — core principles and baseline exemplars.
+- G2-L6_Optical_Pulse_Shaping_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

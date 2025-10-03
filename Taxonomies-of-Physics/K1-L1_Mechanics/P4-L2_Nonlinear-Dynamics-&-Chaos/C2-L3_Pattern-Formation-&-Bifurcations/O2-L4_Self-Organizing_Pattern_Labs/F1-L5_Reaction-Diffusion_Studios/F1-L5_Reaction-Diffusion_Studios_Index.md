@@ -1,5 +1,6 @@
 # F1-L5_Reaction-Diffusion_Studios — Family Index
-**Definition:** Host tabletop chemistry and bio-inspired mixes that self-paint structured patterns.
+**Definition:** Explore how Mix chemicals and bio-mimics that grow Turing-like spots and stripes.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Chemical_Turing_Tables** — Run benchtop reactions that reveal diffusion-driven patterning.
-- **G2-L6_Biological_Spot-Stripe_Galleries** — Showcase living systems and biomimic gels echoing natural markings.
+- G1-L6_Reaction-Diffusion_Studios_Foundations — core principles and baseline exemplars.
+- G2-L6_Reaction-Diffusion_Studios_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

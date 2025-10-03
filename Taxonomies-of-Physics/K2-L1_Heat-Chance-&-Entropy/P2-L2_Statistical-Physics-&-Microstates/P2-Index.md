@@ -13,6 +13,7 @@
 
 ## Class (L3) — index
 - **C1-L3_Microstates-Counting-&-Ensembles** — tallying states and weighting them for thermodynamic predictions.
+- **C2-L3_Information_Entropy-&-Inference** — connects counting microstates with inference and information metrics.
 
 ## Order (L4) — (later)
 ## Family (L5) — (later)

@@ -1,5 +1,5 @@
 # F2-L5_Surface-Finish_Tunings — Family Index
-**Definition:** Examines how polishing, coating, or texturing surfaces shifts boundary behavior and mode quality.
+**Definition:** Explore how use coatings and smoothing to nudge boundary conditions subtly.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Coating_Control_Routines** — how paints and platings tweak losses and mode frequencies.
-- **G2-L6_Joint-Seal_Verifications** — inspections ensuring seams and gaskets maintain targeted boundary conditions.
+- G1-L6_Surface-Finish_Tunings_Foundations — core principles and baseline exemplars.
+- G2-L6_Surface-Finish_Tunings_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

@@ -1,5 +1,6 @@
 # F2-L5_Vorticity-Diffusion_Tactics — Family Index
-**Definition:** Approaches that spread, cancel, or smooth vortices before they damage performance.
+**Definition:** Explore how ways to spread or damp swirling patches before they cause trouble.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Mixing-Layer_Managers — blending devices that tame shear layers.
-- G2-L6_Pipe_Swirl_Control — hardware that straightens or redistributes swirling flows.
+- G1-L6_Vorticity-Diffusion_Tactics_Foundations — core principles and baseline exemplars.
+- G2-L6_Vorticity-Diffusion_Tactics_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

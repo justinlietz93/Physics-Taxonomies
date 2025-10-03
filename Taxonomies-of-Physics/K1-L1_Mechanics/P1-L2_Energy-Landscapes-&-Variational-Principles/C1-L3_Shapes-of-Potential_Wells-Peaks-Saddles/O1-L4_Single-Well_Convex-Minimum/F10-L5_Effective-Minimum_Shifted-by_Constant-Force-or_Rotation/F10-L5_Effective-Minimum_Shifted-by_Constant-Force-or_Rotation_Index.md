@@ -1,6 +1,5 @@
 # F10-L5_Effective-Minimum_Shifted-by_Constant-Force-or_Rotation — Family Index
-
-**Definition:** Adding a constant tilt or rotating frame moves the perceived low point—effective minimum shifts.
+**Definition:** Explore how biases tilt the bowl and move equilibrium.
 
 ## Overarching Lenses
 
@@ -13,8 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Biased_Equilibrium_Analyses** — measuring where the new balance point really sits.
-- **G2-L6_Counteracting_Bias_Strategies** — shimming and tuning until the effective well recenters.
+- G1-L6_Effective-Minimum_Shifted-by_Constant-Force-or_Rotation_Foundations — core principles and baseline exemplars.
+- G2-L6_Effective-Minimum_Shifted-by_Constant-Force-or_Rotation_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars
-_(See Genus folders for everyday case notes.)_

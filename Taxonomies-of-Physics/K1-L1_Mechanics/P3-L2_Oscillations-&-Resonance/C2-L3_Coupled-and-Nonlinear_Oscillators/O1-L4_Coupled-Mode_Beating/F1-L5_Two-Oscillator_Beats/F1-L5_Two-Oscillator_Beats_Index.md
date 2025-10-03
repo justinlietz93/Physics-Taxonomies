@@ -1,5 +1,5 @@
 # F1-L5_Two-Oscillator_Beats — Family Index
-**Definition:** Paired oscillators that trade energy back and forth to make beating envelopes.
+**Definition:** Explore how Simple couple pairs showing slow envelopes and fast motion.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Paired-Mass_Springs** — Bench setups with masses and springs swapping energy.
-- **G2-L6_Coupled-Pendulum_Labs** — Hanging oscillators showing synchronization and beats.
+- G1-L6_Two-Oscillator_Beats_Foundations — core principles and baseline exemplars.
+- G2-L6_Two-Oscillator_Beats_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

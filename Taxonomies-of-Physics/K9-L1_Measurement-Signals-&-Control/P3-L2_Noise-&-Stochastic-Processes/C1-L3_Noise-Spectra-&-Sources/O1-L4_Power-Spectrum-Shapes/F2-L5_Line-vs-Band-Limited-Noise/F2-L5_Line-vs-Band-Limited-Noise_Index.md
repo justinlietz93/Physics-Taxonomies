@@ -1,5 +1,6 @@
 # F2-L5_Line-vs-Band-Limited-Noise — Family Index
-**Definition:** Tracks how hum lines, filtered bands, and shaped spectra appear in receivers, power systems, and optical benches.
+**Definition:** Explore how tracking hum lines and filter noise bands in electronics and optics.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_RF-Noise-Budgeting — balancing noise figures and filtering in radio links.
-- G2-L6_Photonics-Shot-Noise-Benchmarks — checking photon counting and optical power stability.
+- G1-L6_Line-vs-Band-Limited-Noise_Foundations — core principles and baseline exemplars.
+- G2-L6_Line-vs-Band-Limited-Noise_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

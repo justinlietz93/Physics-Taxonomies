@@ -1,5 +1,6 @@
 # F1-L5_Moving-Average-&-Smoothing — Family Index
-**Definition:** Fixed-window averages and exponential smoothers that tame noise without heavy computation.
+**Definition:** Explore how fixed-window averages and exponential smoothers.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Rolling-Window-Tunings — picking window lengths and weights.
-- G2-L6_Exponential-Smoother-Settings — tuning decay factors for responsiveness.
+- G1-L6_Moving-Average-&-Smoothing_Foundations — core principles and baseline exemplars.
+- G2-L6_Moving-Average-&-Smoothing_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

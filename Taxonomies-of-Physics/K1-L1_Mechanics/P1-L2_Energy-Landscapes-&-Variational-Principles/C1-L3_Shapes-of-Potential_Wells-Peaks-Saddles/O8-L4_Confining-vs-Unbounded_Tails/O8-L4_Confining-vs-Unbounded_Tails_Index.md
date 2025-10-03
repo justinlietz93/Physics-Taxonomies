@@ -13,7 +13,7 @@
 
 ## Family (L5) — index
 - **F1-L5_Escape-Criterion_Studies** — deciding when energy walls confine motion versus let it run away.
-
+- **F2-L5_Tail_Design_Checks** — design audits ensuring potentials confine motion or deliberately let it escape.
 ## Genus (L6)
 
 _(Insert Genus folders `G*-L6_*` between Family and Species; each Genus contains several Species.)_

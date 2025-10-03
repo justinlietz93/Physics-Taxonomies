@@ -1,5 +1,6 @@
 # F1-L5_Symmetric-Surface_Solutions — Family Index
-**Definition:** Field and potential maps that exploit planar, cylindrical, or spherical symmetry in everyday hardware.
+**Definition:** Explore how use symmetry to map fields of sheets, cylinders, and spheres.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Sheet_Field_Patterns — electric fields from broad plates and panels.
-- G2-L6_Cylindrical_Gauss_Maps — radial fields around wires, ducts, and coax shields.
+- G1-L6_Symmetric-Surface_Solutions_Foundations — core principles and baseline exemplars.
+- G2-L6_Symmetric-Surface_Solutions_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

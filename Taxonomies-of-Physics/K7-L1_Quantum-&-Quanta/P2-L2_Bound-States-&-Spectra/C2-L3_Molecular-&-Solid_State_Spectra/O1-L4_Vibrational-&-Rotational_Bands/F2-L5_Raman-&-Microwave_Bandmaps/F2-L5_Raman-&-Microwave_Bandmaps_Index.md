@@ -1,5 +1,6 @@
 # F2-L5_Raman-&-Microwave_Bandmaps — Family Index
-**Definition:** Combined Raman and microwave playbooks that capture vibrational and rotational signatures together.
+**Definition:** Explore how capturing complementary vibrational and rotational features.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Raman_Process_Control — inline Raman setups for manufacturing.
-- G2-L6_Microwave_Rotational_Surveys — remote sensing and lab routines for rotational lines.
+- G1-L6_Raman-&-Microwave_Bandmaps_Foundations — core principles and baseline exemplars.
+- G2-L6_Raman-&-Microwave_Bandmaps_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

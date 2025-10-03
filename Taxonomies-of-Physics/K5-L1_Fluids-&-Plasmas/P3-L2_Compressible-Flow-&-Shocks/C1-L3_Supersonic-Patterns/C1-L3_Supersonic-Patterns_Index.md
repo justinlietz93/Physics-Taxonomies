@@ -1,5 +1,6 @@
 # C1-L3_Supersonic-Patterns — Class Index
-**Definition:** Visual and conceptual tools for following how information travels when a flow outruns its own pressure waves.
+**Definition:** Examine structures that form when flows outrun sound and must negotiate shocks and fans.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,9 +12,12 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Order (L4) — index
-- O1-L4_Shock-Formation-&-Expansion — balancing compressive shocks with gentle fans to turn supersonic streams.
+- **O1-L4_Shock-and_Expansion_Fans** — map how compression and expansion features stitch together supersonic streams.
+- **O2-L4_Sonic_Boom_and_Structure_Interaction** — connect flow features to loads on vehicles and surrounding media.
 
 ## Family (L5) — (later)
-## Genus (L6)
+
+## Genus (L6) — (later)
 _(Insert `G*-L6_*` between Family and Species.)_
+
 ## Species (L7) — everyday exemplars

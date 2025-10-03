@@ -1,5 +1,5 @@
 # F1-L5_Thermostatic_Switches — Family Index
-**Definition:** Bimetal and snap-disc devices that open or close circuits at two distinct temperatures to keep systems on target.
+**Definition:** Explore how bimetal elements that snap at two temperatures to hold climate bands.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Bimetal_Snap_Disks** — domed discs that invert with a pop to break or make heater circuits.
-- **G2-L6_Bimetal_Strip_Thermostats** — curved strips that bend gradually yet trip contacts with a snap gap.
+- G1-L6_Thermostatic_Switches_Foundations — core principles and baseline exemplars.
+- G2-L6_Thermostatic_Switches_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

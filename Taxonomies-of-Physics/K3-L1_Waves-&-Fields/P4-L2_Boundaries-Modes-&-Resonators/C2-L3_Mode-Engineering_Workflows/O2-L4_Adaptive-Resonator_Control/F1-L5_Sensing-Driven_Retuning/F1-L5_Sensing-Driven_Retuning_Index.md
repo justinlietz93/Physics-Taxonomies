@@ -1,5 +1,5 @@
 # F1-L5_Sensing-Driven_Retuning — Family Index
-**Definition:** Uses sensors and simple control loops to nudge resonances back to target frequencies.
+**Definition:** Explore how monitor resonance drift and adjust in near real time.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Auto-Lock_Loops** — feedback loops that continuously correct resonance drift.
-- **G2-L6_Feedforward_Corrections** — predictive adjustments based on environment or load estimates.
+- G1-L6_Sensing-Driven_Retuning_Foundations — core principles and baseline exemplars.
+- G2-L6_Sensing-Driven_Retuning_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

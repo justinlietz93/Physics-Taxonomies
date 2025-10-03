@@ -1,5 +1,5 @@
 # F1-L5_Surface-Continuity_Audits — Family Index
-**Definition:** Audits how smooth versus piecewise energy surfaces change motion and wear.
+**Definition:** Explore how checks that contrast gentle bowls with sharp-edged kinks.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Smooth-Potential_Assessments** — examples with differentiable, rounded wells.
-- **G2-L6_Piecewise-Jump_Diagnostics** — spotting where the potential has abrupt corners or steps.
+- G1-L6_Surface-Continuity_Audits_Foundations — core principles and baseline exemplars.
+- G2-L6_Surface-Continuity_Audits_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

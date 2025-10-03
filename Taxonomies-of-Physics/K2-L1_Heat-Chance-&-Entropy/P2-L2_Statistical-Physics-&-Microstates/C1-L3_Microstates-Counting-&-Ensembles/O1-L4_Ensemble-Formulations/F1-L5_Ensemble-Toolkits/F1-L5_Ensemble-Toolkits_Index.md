@@ -1,5 +1,5 @@
 # F1-L5_Ensemble-Toolkits — Family Index
-**Definition:** Collects the formulas and tricks for switching between ensembles and computing averages.
+**Definition:** Explore how partition functions, probability weights, and constraints for each ensemble.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Ensemble-Counting-Patterns** — common probability weightings and limiting cases.
+- G1-L6_Ensemble-Toolkits_Foundations — core principles and baseline exemplars.
+- G2-L6_Ensemble-Toolkits_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

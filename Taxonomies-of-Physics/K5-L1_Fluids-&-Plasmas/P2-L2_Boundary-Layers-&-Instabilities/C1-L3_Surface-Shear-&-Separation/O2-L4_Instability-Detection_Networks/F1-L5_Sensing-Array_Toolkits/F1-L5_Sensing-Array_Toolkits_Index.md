@@ -1,5 +1,6 @@
 # F1-L5_Sensing-Array_Toolkits — Family Index
-**Definition:** Hardware bundles that stick to surfaces and capture pressure, heat, or shear signals as flow shifts.
+**Definition:** Explore how practical layouts of taps, films, and strips that listen to the wall.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Surface-Pressure_Strips — adhesive tap arrays that map suction and gusts across panels.
-- G2-L6_Thermal-and_Hot-Film_Grids — heat-sensitive patches that sniff shear and early turbulence.
+- G1-L6_Sensing-Array_Toolkits_Foundations — core principles and baseline exemplars.
+- G2-L6_Sensing-Array_Toolkits_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

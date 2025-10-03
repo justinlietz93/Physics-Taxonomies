@@ -1,5 +1,6 @@
 # F2-L5_Wavelet_Bank_Playbooks — Family Index
-**Definition:** Choosing mother wavelets, scales, and thresholding plans to highlight bursts, edges, and drifts.
+**Definition:** Explore how pick wavelet families and scales to surface features across octaves.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Wavelet_Family_Selection — match Daubechies, Morlet, or Haar families to data textures.
-- G2-L6_Scalogram_Interpretation_Tools — read color maps to explain what bursts and ridges really mean.
+- G1-L6_Wavelet_Bank_Playbooks_Foundations — core principles and baseline exemplars.
+- G2-L6_Wavelet_Bank_Playbooks_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars
-- Power quality wavelet alarms, geophysics microquake passes, bearing fault scalogram briefs, and speech syllable stories.

@@ -1,5 +1,5 @@
 # F2-L5_Real-Time_Mode_Switching — Family Index
-**Definition:** Coordinates tunable elements so systems can hop between resonant modes on demand.
+**Definition:** Explore how reconfigure components to hop between modes on command.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Tunable_Element_Layouts** — arrangements of actuators or varactors that move mode frequencies quickly.
-- **G2-L6_Digital-Command_Schedulers** — software routines that choreograph mode switching without losing stability.
+- G1-L6_Real-Time_Mode_Switching_Foundations — core principles and baseline exemplars.
+- G2-L6_Real-Time_Mode_Switching_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

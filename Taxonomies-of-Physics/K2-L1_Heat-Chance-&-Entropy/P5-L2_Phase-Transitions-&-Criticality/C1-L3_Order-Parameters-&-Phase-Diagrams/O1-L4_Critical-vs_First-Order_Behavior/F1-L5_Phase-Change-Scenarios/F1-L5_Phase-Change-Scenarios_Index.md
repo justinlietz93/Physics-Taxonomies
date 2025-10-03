@@ -1,5 +1,5 @@
 # F1-L5_Phase-Change-Scenarios — Family Index
-**Definition:** Highlights everyday materials that undergo critical or first-order transformations under common conditions.
+**Definition:** Explore how concrete materials and conditions showcasing different transition types.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Critical-Point-Stories** — cases where fluctuations grow and properties become universal.
+- G1-L6_Phase-Change-Scenarios_Foundations — core principles and baseline exemplars.
+- G2-L6_Phase-Change-Scenarios_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

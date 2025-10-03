@@ -1,5 +1,6 @@
 # F1-L5_Reynolds-Number-Stories — Family Index
-**Definition:** Everyday setups that make the Reynolds number tangible by juggling flow speed, size, and fluid stickiness.
+**Definition:** Explore how size, speed, and stickiness tip flows into chaos.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Pipe-vs-Airfoil-Flows — comparing confined channel streams with open-air lift makers.
-- G2-L6_Campus-Utility_Rings — balancing big loops where friction builds gradually around the circuit.
+- G1-L6_Reynolds-Number-Stories_Foundations — core principles and baseline exemplars.
+- G2-L6_Reynolds-Number-Stories_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

@@ -1,5 +1,6 @@
 # F1-L5_Frictional-Dissipation_Cases — Family Index
-**Definition:** Examples where sliding, rubbing, or viscous drag burn energy so return paths cost more work.
+**Definition:** Explore how highlight loops where drag bleeds energy away.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Sliding-Contact_Studies — follow surfaces where friction drains mechanical energy.
-- G2-L6_Viscous-Drag_Benchmarks — examine fluids that sap motion through shear and turbulence.
+- G1-L6_Frictional-Dissipation_Cases_Foundations — core principles and baseline exemplars.
+- G2-L6_Frictional-Dissipation_Cases_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

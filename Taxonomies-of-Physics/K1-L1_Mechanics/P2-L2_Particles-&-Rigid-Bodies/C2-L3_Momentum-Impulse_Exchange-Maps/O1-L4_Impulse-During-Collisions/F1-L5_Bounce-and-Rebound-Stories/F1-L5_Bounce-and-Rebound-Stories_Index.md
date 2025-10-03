@@ -1,5 +1,5 @@
 # F1-L5_Bounce-and-Rebound-Stories — Family Index
-**Definition:** Collects lively collisions where objects spring apart and trade momentum quickly.
+**Definition:** Explore how Elastic-style collisions that return speed with a flip.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Ball-Against-Wall-Cycles** — Rebounds that flip velocity with little loss.
-- **G2-L6_Glove-and-Catcher-Mitts** — Soft catches that stretch the impulse to save hands.
+- G1-L6_Bounce-and-Rebound-Stories_Foundations — core principles and baseline exemplars.
+- G2-L6_Bounce-and-Rebound-Stories_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

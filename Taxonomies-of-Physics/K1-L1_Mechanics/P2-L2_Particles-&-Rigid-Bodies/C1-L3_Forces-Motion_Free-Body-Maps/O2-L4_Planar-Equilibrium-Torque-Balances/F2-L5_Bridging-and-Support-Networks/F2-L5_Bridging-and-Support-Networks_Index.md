@@ -1,5 +1,5 @@
 # F2-L5_Bridging-and-Support-Networks — Family Index
-**Definition:** Follows distributed supports and cables that share loads to keep structures from rotating.
+**Definition:** Explore how Cable webs and multi-leg supports that hold torques to zero.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Table-and-Work-Bench-Leveling** — Furniture adjustments that zero out rocking torques.
-- **G2-L6_Suspension-and-Guy-Wire-Examples** — Cable networks keeping tall or long spans steady.
+- G1-L6_Bridging-and-Support-Networks_Foundations — core principles and baseline exemplars.
+- G2-L6_Bridging-and-Support-Networks_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

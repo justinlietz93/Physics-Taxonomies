@@ -1,5 +1,6 @@
 # F2-L5_Magnetic-Actuator_Designs — Family Index
-**Definition:** Turn currents and magnets into precise pushes for valves, stages, and haptics.
+**Definition:** Explore how design coils and magnets that turn current into precise pushes.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Solenoid_Force-Tuning — shape coils and plungers for smooth force curves.
-- G2-L6_Permanent-Magnet_Array_Plans — arrange magnets and coils for compact linear and rotary drives.
+- G1-L6_Magnetic-Actuator_Designs_Foundations — core principles and baseline exemplars.
+- G2-L6_Magnetic-Actuator_Designs_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

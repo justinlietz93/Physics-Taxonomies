@@ -11,7 +11,8 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Family (L5) — index
-- F1-L5_Inspiral-Chirp-Stories — case studies turning orbital decay into rising-frequency signals.
+- **F1-L5_Inspiral-Chirp-Stories** — case studies turning orbital decay into rising-frequency signals.
+- **F2-L5_Merger_Simulation_Workflows** — waveform modeling pipelines linking astrophysical parameters to chirps.
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
 ## Species (L7) — everyday exemplars

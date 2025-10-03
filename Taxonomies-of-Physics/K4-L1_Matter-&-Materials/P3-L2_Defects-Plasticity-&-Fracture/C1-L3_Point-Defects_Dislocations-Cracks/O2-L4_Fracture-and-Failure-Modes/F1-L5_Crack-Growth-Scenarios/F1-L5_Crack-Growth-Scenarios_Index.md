@@ -1,5 +1,5 @@
 # F1-L5_Crack-Growth-Scenarios — Family Index
-**Definition:** Collects brittle and ductile fracture tales from household objects.
+**Definition:** Explore how Comparing brittle snaps with ductile tears.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Glass-vs-Polymer-Breaks** — Everyday breaks highlighting brittle vs ductile modes.
+- G1-L6_Crack-Growth-Scenarios_Foundations — core principles and baseline exemplars.
+- G2-L6_Crack-Growth-Scenarios_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

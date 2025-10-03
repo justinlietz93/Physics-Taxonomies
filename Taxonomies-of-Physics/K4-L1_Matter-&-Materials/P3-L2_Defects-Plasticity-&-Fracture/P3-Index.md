@@ -13,6 +13,7 @@
 
 ## Class (L3) — index
 - **C1-L3_Point-Defects_Dislocations-Cracks** — Link microscopic flaws to yielding and breaking.
+- **C2-L3_Defect_Evolution_and_Mechanics** — details how defects move and trigger material failure.
 
 ## Order (L4) — (later)
 

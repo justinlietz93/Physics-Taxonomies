@@ -13,7 +13,7 @@
 
 ## Family (L5) — index
 - **F1-L5_Dimensional_Geometry_Comparisons** — contrasts how wells behave in one, two, or three dimensions.
-
+- **F2-L5_Dimensional_Geometry_Labs** — hands-on experiments and simulations that walk between 1D, 2D, and 3D well shapes.
 ## Genus (L6)
 
 _(Insert Genus folders `G*-L6_*` between Family and Species; each Genus contains several Species.)_

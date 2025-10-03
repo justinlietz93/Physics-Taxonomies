@@ -1,5 +1,6 @@
 # F2-L5_Dimensional-&-Electrical-Standards — Family Index
-**Definition:** Physical artifacts and quantum electrical standards that lock down length, voltage, and resistance units.
+**Definition:** Explore how gauge blocks, Josephson arrays, and quantum Hall stacks.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Gauge-Blocks-vs-Josephson-Arrays — comparing mechanical gauge blocks with quantum voltage and resistance references.
+- G1-L6_Dimensional-&-Electrical-Standards_Foundations — core principles and baseline exemplars.
+- G2-L6_Dimensional-&-Electrical-Standards_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

@@ -1,6 +1,5 @@
 # F9-L5_Adiabatic-Parameter-Sweep_Tracking-the-Minimum — Family Index
-
-**Definition:** Slowly changing a knob makes the minimum move; the state follows if the change is slow enough.
+**Definition:** Explore how slowly moving the well drags the state along.
 
 ## Overarching Lenses
 
@@ -13,8 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Slow_Ramp_Commissioning** — proving gentle ramps keep the state glued to the valley.
-- **G2-L6_Setpoint_Migration_Playbooks** — coaching systems through new setpoints without chasing.
+- G1-L6_Adiabatic-Parameter-Sweep_Tracking-the-Minimum_Foundations — core principles and baseline exemplars.
+- G2-L6_Adiabatic-Parameter-Sweep_Tracking-the-Minimum_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars
-_(See Genus folders for everyday case notes.)_

@@ -1,5 +1,6 @@
 # F2-L5_Aliasing_Diagnostics-&-Fixes — Family Index
-**Definition:** Tools and response plans for spotting folded spectra and recovering trustworthy data after aliasing slips through.
+**Definition:** Explore how hunt down folded content and apply corrective playbooks after capture.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Alias_Detection_Toolkits — dashboards and tests that flag folded tones fast.
-- G2-L6_Remediation_Strategies — playbooks for re-recording, filtering, or modeling around alias artifacts.
+- G1-L6_Aliasing_Diagnostics-&-Fixes_Foundations — core principles and baseline exemplars.
+- G2-L6_Aliasing_Diagnostics-&-Fixes_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars
-- Oscilloscope folded-tone debriefs, vibration test alias-spotting rounds, audio remix re-record plans, and drone sensor reposition briefs.

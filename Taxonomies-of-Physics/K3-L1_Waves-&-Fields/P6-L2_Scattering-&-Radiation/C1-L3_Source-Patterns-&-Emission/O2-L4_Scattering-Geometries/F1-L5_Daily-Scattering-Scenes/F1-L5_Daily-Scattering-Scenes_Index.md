@@ -1,5 +1,5 @@
 # F1-L5_Daily-Scattering-Scenes — Family Index
-**Definition:** Highlights common situations where waves bounce, scatter, or reflect to reveal target properties.
+**Definition:** Explore how relatable examples of light and radar bouncing off matter.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Light-Scattering-Comparisons** — from blue skies to radar reflections off cars.
+- G1-L6_Daily-Scattering-Scenes_Foundations — core principles and baseline exemplars.
+- G2-L6_Daily-Scattering-Scenes_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

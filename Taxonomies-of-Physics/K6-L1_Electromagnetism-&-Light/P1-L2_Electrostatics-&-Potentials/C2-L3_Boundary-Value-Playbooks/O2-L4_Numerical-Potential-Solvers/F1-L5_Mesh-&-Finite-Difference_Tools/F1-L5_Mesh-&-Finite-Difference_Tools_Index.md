@@ -1,5 +1,6 @@
 # F1-L5_Mesh-&-Finite-Difference_Tools — Family Index
-**Definition:** Break regions into grids so simple update rules capture curved potentials and fields.
+**Definition:** Explore how grid the world and iterate until Laplace’s equation balances.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Rectilinear-Grid_Solvers — update node voltages on square meshes for fast prototypes.
-- G2-L6_Unstructured-Mesh_Tools — mesh odd geometries so potentials still converge cleanly.
+- G1-L6_Mesh-&-Finite-Difference_Tools_Foundations — core principles and baseline exemplars.
+- G2-L6_Mesh-&-Finite-Difference_Tools_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

@@ -1,5 +1,5 @@
 # F1-L5_Transport-Laws — Family Index
-**Definition:** Lists the standard equations and rule-of-thumb fits that relate gradients to currents for different media.
+**Definition:** Explore how catalogues diffusion, conduction, viscosity, and nonlinear current rules.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Diffusion-vs-Conduction** — comparing particle spreading with heat conduction analogies.
+- G1-L6_Transport-Laws_Foundations — core principles and baseline exemplars.
+- G2-L6_Transport-Laws_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

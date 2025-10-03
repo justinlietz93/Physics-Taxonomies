@@ -1,5 +1,6 @@
 # F2-L5_Adaptive-Time-Domain-Filters — Family Index
-**Definition:** Time-domain filters that retune coefficients live to cancel evolving noise or track trends.
+**Definition:** Explore how filters that retune coefficients on the fly.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Least-Mean-Square-Workflows — incremental coefficient updates using LMS rules.
-- G2-L6_RLS-&-Adaptive-Gain-Plans — faster-converging filters using recursive least squares or gain scheduling.
+- G1-L6_Adaptive-Time-Domain-Filters_Foundations — core principles and baseline exemplars.
+- G2-L6_Adaptive-Time-Domain-Filters_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

@@ -12,6 +12,7 @@
 
 ## Class (L3) — index
 - C1-L3_Charged-Flow-Coupling — how moving charges drag fields and vice versa.
+- **C2-L3_Magnetic-Coupled_Flow_Engineering** — shows magnetic fields steering conducting fluids and plasmas.
 
 ## Order (L4) — (later)
 ## Family (L5) — (later)

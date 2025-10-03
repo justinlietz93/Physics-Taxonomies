@@ -13,7 +13,7 @@
 
 ## Family (L5) — index
 - **F1-L5_Shock-Front-Stories** — real-life shocks in fluids, traffic, and air.
-
+- **F2-L5_Shock_Mitigation_Playbooks** — methods to manage shock steepening in pipes, wings, and plasmas.
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
 ## Species (L7) — everyday exemplars

@@ -1,5 +1,5 @@
 # F1-L5_Shaking-and-Driving-Cases — Family Index
-**Definition:** Showcases playground swings, bridges, and lab shakers pushed at just the right rhythm.
+**Definition:** Explore how Everyday pushes and lab drives that reveal resonance.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Playground-and-Bridge-Resonances** — Swings and bridges reacting to rhythmic pushes.
-- **G2-L6_Precision-Actuator_Response** — Instrument shakers tuned to stay stable through resonance.
+- G1-L6_Shaking-and-Driving-Cases_Foundations — core principles and baseline exemplars.
+- G2-L6_Shaking-and-Driving-Cases_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

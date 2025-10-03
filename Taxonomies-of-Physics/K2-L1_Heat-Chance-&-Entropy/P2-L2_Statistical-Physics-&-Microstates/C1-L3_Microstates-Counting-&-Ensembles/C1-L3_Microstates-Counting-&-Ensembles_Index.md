@@ -1,5 +1,5 @@
 # C1-L3_Microstates-Counting-&-Ensembles — Class Index
-**Definition:** Picks the right ensemble, counts configurations, and links entropy to the number of ways particles can arrange.
+**Definition:** Count accessible microstates and choose ensemble viewpoints that simplify predictions.
 
 ## Overarching Lenses
 
@@ -12,9 +12,12 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Order (L4) — index
-- **O1-L4_Ensemble-Formulations** — microcanonical, canonical, grand-canonical, and beyond.
+- **O1-L4_Ensemble_Definitions** — lay out microcanonical, canonical, grand, and beyond.
+- **O2-L4_Counting_Methods_and_Approximations** — show tricks for evaluating huge state counts.
 
 ## Family (L5) — (later)
-## Genus (L6)
+
+## Genus (L6) — (later)
 _(Insert `G*-L6_*` between Family and Species.)_
+
 ## Species (L7) — everyday exemplars

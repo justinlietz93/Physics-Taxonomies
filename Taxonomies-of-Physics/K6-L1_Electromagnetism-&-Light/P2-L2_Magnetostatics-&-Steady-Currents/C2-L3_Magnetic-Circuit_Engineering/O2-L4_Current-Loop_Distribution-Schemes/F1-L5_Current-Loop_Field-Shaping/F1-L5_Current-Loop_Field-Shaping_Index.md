@@ -1,5 +1,6 @@
 # F1-L5_Current-Loop_Field-Shaping — Family Index
-**Definition:** Position coils and set currents to deliver uniform, gradient, or null magnetic zones.
+**Definition:** Explore how arrange coils to create uniform or gradient fields on demand.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Helmholtz-Coil_Balancing — dial coil separation for uniform fields.
-- G2-L6_Gradient-Coil_Sketches — design coils that deliver controlled field gradients.
+- G1-L6_Current-Loop_Field-Shaping_Foundations — core principles and baseline exemplars.
+- G2-L6_Current-Loop_Field-Shaping_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

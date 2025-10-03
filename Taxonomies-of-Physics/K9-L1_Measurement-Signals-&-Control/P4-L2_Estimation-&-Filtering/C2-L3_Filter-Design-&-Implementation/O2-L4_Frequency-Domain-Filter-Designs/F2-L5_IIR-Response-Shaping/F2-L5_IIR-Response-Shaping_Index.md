@@ -1,5 +1,6 @@
 # F2-L5_IIR-Response-Shaping — Family Index
-**Definition:** Recursive filter designs tuned with pole-zero placement and biquad cascades.
+**Definition:** Explore how recursive filters tune through poles, zeros, and biquad cascades.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Pole-Zero-Placement-Sessions — crafting resonant and notch responses.
-- G2-L6_Stability-&-Biquad-Tuning — implementing stable cascades and gain structures.
+- G1-L6_IIR-Response-Shaping_Foundations — core principles and baseline exemplars.
+- G2-L6_IIR-Response-Shaping_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

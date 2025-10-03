@@ -1,5 +1,5 @@
 # F1-L5_Packet-Speed-Comparisons — Family Index
-**Definition:** Sets up comparisons where the energy envelope and carrier waves travel at visibly different speeds.
+**Definition:** Explore how side-by-side envelope versus carrier travel time stories from nature and tech.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Storm-vs_Swell-Speed** — contrasting how weather pulses and ocean waves outrun or lag each other.
-- **G2-L6_Digital_Pulse_Walkoff** — tracking how data bursts drift relative to their carriers in cables and fiber.
+- G1-L6_Packet-Speed-Comparisons_Foundations — core principles and baseline exemplars.
+- G2-L6_Packet-Speed-Comparisons_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

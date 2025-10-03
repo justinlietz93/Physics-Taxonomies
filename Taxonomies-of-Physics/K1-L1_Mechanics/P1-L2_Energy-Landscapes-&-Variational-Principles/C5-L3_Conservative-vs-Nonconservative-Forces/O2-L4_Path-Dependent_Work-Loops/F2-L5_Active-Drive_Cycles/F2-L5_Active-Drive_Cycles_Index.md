@@ -1,5 +1,6 @@
 # F2-L5_Active-Drive_Cycles — Family Index
-**Definition:** Powered machines that add or reclaim work during a loop so energy tallies hinge on the route taken.
+**Definition:** Explore how follow machines that inject or reclaim work along the route.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Engine-Pump_Workflows — track how motors and pumps inject work over each cycle.
-- G2-L6_Controlled_Energy-Recovery — highlight systems that grab energy back with smart timing.
+- G1-L6_Active-Drive_Cycles_Foundations — core principles and baseline exemplars.
+- G2-L6_Active-Drive_Cycles_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

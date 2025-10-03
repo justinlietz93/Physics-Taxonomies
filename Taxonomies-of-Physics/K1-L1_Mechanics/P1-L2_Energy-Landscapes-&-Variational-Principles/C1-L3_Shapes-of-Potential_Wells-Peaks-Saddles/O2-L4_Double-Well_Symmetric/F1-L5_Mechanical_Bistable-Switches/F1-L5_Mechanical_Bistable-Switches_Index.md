@@ -1,5 +1,5 @@
 # F1-L5_Mechanical_Bistable-Switches — Family Index
-**Definition:** Everyday linkages that snap cleanly between two equal-energy mechanical equilibria.
+**Definition:** Explore how linkages and shells that snap cleanly between twin mechanical states.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Toggle-Switch_Mechanisms** — rocker levers that latch via over-center springs.
-- **G2-L6_Snap-Through_Shells** — curved panels that invert between two mirrored domes.
+- G1-L6_Mechanical_Bistable-Switches_Foundations — core principles and baseline exemplars.
+- G2-L6_Mechanical_Bistable-Switches_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

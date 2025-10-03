@@ -1,5 +1,5 @@
 # F1-L5_Portable_Gauge_Routines — Family Index
-**Definition:** Lays out quick campaigns for sticking gauges on real structures and reading them safely.
+**Definition:** Explore how Quick gauge campaigns you can run with a small crew.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Surface_Strain_Rosettes** — Layout and read rosettes for multi-axis strain.
-- **G2-L6_Wireless_Gauge_Networks** — Deploy wireless nodes for quick strain sweeps.
+- G1-L6_Portable_Gauge_Routines_Foundations — core principles and baseline exemplars.
+- G2-L6_Portable_Gauge_Routines_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

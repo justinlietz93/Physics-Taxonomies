@@ -1,6 +1,5 @@
-# Class Index
-
-**Definition**: Plain-language description of this Class.
+# C3-L3_Barriers-Activation-and-Escape — Class Index
+**Definition:** Explain how systems hop over energy ridges with help from pushes, vibrations, or random jolts.
 
 ## Overarching Lenses
 
@@ -12,12 +11,13 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Order (regimes/approximations)
+## Order (L4) — index
+- **O1-L4_Thermal-and_Noise_Assisted_Escape** — estimate escape times when random kicks lift a system over a barrier.
+- **O2-L4_Driven_Crossing-and_Pumping** — show how periodic pushes or ramps shepherd systems across saddles.
 
-## Family (canonical problems)
+## Family (L5) — (later)
 
-## Genus (L6)
-
-_(This level groups closely related Species. Create `G*-L6_*` folders here.)_
+## Genus (L6) — (later)
+_(Insert `G*-L6_*` between Family and Species.)_
 
 ## Species (L7) — everyday exemplars

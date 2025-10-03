@@ -1,5 +1,6 @@
 # F2-L5_Test-Charge_Force-Audits — Family Index
-**Definition:** Translate field sketches into measurable pushes using electroscopes, probes, and calibration routines.
+**Definition:** Explore how translate fields into pushes measured by probes and electroscopes.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Electroscope_Response_Guides — relate leaf deflection to local field strength.
-- G2-L6_Field-Meter_Calibration_Routines — benchmark handheld probes against known charge sources.
+- G1-L6_Test-Charge_Force-Audits_Foundations — core principles and baseline exemplars.
+- G2-L6_Test-Charge_Force-Audits_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

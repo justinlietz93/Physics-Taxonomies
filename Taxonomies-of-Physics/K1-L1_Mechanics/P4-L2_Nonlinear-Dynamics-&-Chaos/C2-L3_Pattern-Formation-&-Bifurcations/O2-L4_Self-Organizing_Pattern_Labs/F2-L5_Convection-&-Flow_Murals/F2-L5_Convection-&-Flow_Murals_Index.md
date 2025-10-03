@@ -1,5 +1,6 @@
 # F2-L5_Convection-&-Flow_Murals — Family Index
-**Definition:** Shape thermal, fluid, and granular flows that naturally assemble into patterned landscapes.
+**Definition:** Explore how Shape thermal and granular flows that self-arrange into rolls and waves.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Benard_Cell_Studios** — Heat from below to print convection rolls and cells.
-- **G2-L6_Granular_and_Vibrated_Landscapes** — Shake grains or droplets into standing stripes and ridges.
+- G1-L6_Convection-&-Flow_Murals_Foundations — core principles and baseline exemplars.
+- G2-L6_Convection-&-Flow_Murals_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

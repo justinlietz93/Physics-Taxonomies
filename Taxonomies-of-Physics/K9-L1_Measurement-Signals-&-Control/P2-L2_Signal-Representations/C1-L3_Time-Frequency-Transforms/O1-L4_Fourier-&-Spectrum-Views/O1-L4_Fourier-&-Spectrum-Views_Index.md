@@ -11,7 +11,8 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Family (L5) — index
-- F1-L5_Audio-&-Vibration-Spectra — reading FFT magnitudes to diagnose tones and balance rotors.
+- **F1-L5_Audio-&-Vibration-Spectra** — reading FFT magnitudes to diagnose tones and balance rotors.
+- **F2-L5_Spectrum_Diagnosis_Playbooks** — step-by-step methods to interpret spectra for faults, balance, and tone shaping.
 ## Genus (L6) — harmonic toolkits
 - G1-L6_Music-Mix-vs-Machine-Diagnostics — contrast studio EQ tweaks with maintenance vibration checks.
 ## Species (L7) — everyday exemplars

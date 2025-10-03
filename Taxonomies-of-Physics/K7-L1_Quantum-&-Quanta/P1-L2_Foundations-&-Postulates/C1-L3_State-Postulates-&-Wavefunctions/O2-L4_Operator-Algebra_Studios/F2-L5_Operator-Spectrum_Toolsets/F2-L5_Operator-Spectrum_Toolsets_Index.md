@@ -1,5 +1,6 @@
 # F2-L5_Operator-Spectrum_Toolsets — Family Index
-**Definition:** Kits for charting eigenvalues, degeneracy, and completeness so spectra become design data.
+**Definition:** Explore how tools for mapping eigenvalues and degeneracies in practice.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Eigenbasis_Planners — plan measurement bases and calibrations from operator eigenvectors.
-- G2-L6_Degeneracy_Tracking_Guides — keep tabs on split or merged levels when symmetries break.
+- G1-L6_Operator-Spectrum_Toolsets_Foundations — core principles and baseline exemplars.
+- G2-L6_Operator-Spectrum_Toolsets_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

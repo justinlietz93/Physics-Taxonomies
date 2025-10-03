@@ -1,5 +1,6 @@
 # F1-L5_Power-vs-Thrust_Comparisons — Family Index
-**Definition:** Converts rocket pushes and power budgets between onboard and ground perspectives.
+**Definition:** Explore how translating rocket thrust and power between ship and Earth frames.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Rocket-Frame_vs-Mission-Control — comparing shipboard thrust readouts with Earth power calculations.
+- G1-L6_Power-vs-Thrust_Comparisons_Foundations — core principles and baseline exemplars.
+- G2-L6_Power-vs-Thrust_Comparisons_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

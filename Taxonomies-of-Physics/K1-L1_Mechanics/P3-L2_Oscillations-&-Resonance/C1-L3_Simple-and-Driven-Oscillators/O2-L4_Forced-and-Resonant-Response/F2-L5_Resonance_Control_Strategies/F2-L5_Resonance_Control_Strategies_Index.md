@@ -1,5 +1,5 @@
 # F2-L5_Resonance_Control_Strategies — Family Index
-**Definition:** Collects the hardware tricks that rein in driven oscillations before they run away.
+**Definition:** Explore how Hardware add-ons that tame or redirect forced motion.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Vibration-Isolation_Arrays** — Pads and mounts that soak up forced vibrations.
-- **G2-L6_Tuned-Mass_Dampers** — Counterweight systems tuned to steal energy at resonance.
+- G1-L6_Resonance_Control_Strategies_Foundations — core principles and baseline exemplars.
+- G2-L6_Resonance_Control_Strategies_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

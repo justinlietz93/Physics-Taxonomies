@@ -1,5 +1,6 @@
 # F1-L5_Static-to-Oscillatory_Jumps — Family Index
-**Definition:** Study the first wiggles and flips that appear when a quiet state loses stability.
+**Definition:** Explore how Watch steady states give way to oscillations or flips as thresholds are crossed.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Pitchfork-and_Fold_Checks** — Track symmetry-breaking and saddle-node thresholds in everyday rigs.
-- **G2-L6_Hysteresis_Diagnostics** — Log loops where history decides which state wins after the jump.
+- G1-L6_Static-to-Oscillatory_Jumps_Foundations — core principles and baseline exemplars.
+- G2-L6_Static-to-Oscillatory_Jumps_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

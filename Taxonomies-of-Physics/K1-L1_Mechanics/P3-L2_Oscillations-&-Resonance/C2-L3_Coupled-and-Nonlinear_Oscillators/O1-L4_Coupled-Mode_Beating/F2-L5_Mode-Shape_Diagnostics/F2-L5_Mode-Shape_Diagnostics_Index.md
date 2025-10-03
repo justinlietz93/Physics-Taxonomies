@@ -1,5 +1,5 @@
 # F2-L5_Mode-Shape_Diagnostics — Family Index
-**Definition:** Mapping tools that expose the shared mode shapes inside coupled oscillators.
+**Definition:** Explore how Tools that reveal shared mode shapes in couple systems.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Chladni-and_String_Maps** — Visual patterns that highlight coupled-mode shapes.
-- **G2-L6_Vibration-Analyzer_Walkthroughs** — Sensor workflows that capture shared modal beats.
+- G1-L6_Mode-Shape_Diagnostics_Foundations — core principles and baseline exemplars.
+- G2-L6_Mode-Shape_Diagnostics_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

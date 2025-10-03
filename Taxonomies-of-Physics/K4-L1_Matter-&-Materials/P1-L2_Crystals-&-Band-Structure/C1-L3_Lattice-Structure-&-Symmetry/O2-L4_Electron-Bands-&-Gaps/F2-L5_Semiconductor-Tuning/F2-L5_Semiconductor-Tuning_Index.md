@@ -1,5 +1,5 @@
 # F2-L5_Semiconductor-Tuning — Family Index
-**Definition:** Shows how tweaking band gaps and carrier levels unlocks diodes, LEDs, and solar cells.
+**Definition:** Explore how show how gap engineering unlocks devices and sensors.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Doping-vs-Lighting — relate impurity control to glowing or current-generating devices.
+- G1-L6_Semiconductor-Tuning_Foundations — core principles and baseline exemplars.
+- G2-L6_Semiconductor-Tuning_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

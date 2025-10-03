@@ -1,5 +1,5 @@
 # F1-L5_Magnetic_Bit_Storage — Family Index
-**Definition:** Ferromagnetic grains that store binary orientation until a write head or field flips them past coercive thresholds.
+**Definition:** Explore how magnetized grains that keep binary orientation until a head overwrites them.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Magnetic_Strip_Media** — elongated domains on credit cards and tickets that magnetize along two preferred directions.
-- **G2-L6_Rotating_Disk_Domains** — particulate coatings on disks where each bit toggles between north-up and south-up states.
+- G1-L6_Magnetic_Bit_Storage_Foundations — core principles and baseline exemplars.
+- G2-L6_Magnetic_Bit_Storage_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

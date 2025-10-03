@@ -1,5 +1,6 @@
 # F1-L5_Transformer_Energy_Shuttles — Family Index
-**Definition:** Configure transformer windings, cores, and cooling so voltage conversion stays safe and efficient.
+**Definition:** Explore how design windings and cores for safe voltage conversion.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Step-Down_Service_Plans — practical checklists for low-voltage distribution units.
-- G2-L6_Core-Loss_Optimization — strategies that trim magnetization losses for continuous duty.
+- G1-L6_Transformer_Energy_Shuttles_Foundations — core principles and baseline exemplars.
+- G2-L6_Transformer_Energy_Shuttles_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

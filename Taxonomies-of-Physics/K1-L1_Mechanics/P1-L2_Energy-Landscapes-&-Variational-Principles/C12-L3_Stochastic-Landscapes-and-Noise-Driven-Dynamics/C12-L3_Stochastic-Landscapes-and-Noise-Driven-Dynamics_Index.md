@@ -1,6 +1,5 @@
-# Class Index
-
-**Definition**: Plain-language description of this Class.
+# C12-L3_Stochastic-Landscapes-and-Noise-Driven-Dynamics — Class Index
+**Definition:** Mix random kicks with potential terrain to predict wandering, trapping, and rare leaps.
 
 ## Overarching Lenses
 
@@ -12,12 +11,13 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Order (regimes/approximations)
+## Order (L4) — index
+- **O1-L4_Rare_Event_Paths** — map most-likely trajectories for unlikely transitions.
+- **O2-L4_Noise_Shaped_Transitions** — study how colored or multiplicative noise sculpts motion.
 
-## Family (canonical problems)
+## Family (L5) — (later)
 
-## Genus (L6)
-
-_(This level groups closely related Species. Create `G*-L6_*` folders here.)_
+## Genus (L6) — (later)
+_(Insert `G*-L6_*` between Family and Species.)_
 
 ## Species (L7) — everyday exemplars

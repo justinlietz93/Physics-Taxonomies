@@ -11,8 +11,8 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Family (L5) — index
-- F1-L5_Earth-vs-Space-Patterns — comparing atmospheric, oceanic, and disk flows.
-
+- **F1-L5_Earth-vs-Space-Patterns** — comparing atmospheric, oceanic, and disk flows.
+- **F2-L5_Balance_Modeling_Tools** — quasi-geostrophic and disk models balancing rotation, pressure, and buoyancy.
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
 ## Species (L7) — everyday exemplars

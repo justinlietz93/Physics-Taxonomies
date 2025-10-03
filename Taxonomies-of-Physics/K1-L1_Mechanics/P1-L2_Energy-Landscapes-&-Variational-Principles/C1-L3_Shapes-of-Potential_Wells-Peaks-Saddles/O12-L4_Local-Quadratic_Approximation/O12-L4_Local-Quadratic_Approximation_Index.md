@@ -13,7 +13,7 @@
 
 ## Family (L5) — index
 - **F1-L5_Taylor-Bowl_Modeling-Kits** — using local parabolas to approximate complicated shapes.
-
+- **F2-L5_Quadratic_Fit_Accuracy_Checks** — error estimates and trust regions for parabolic approximations of rugged wells.
 ## Genus (L6)
 
 _(Insert Genus folders `G*-L6_*` between Family and Species; each Genus contains several Species.)_

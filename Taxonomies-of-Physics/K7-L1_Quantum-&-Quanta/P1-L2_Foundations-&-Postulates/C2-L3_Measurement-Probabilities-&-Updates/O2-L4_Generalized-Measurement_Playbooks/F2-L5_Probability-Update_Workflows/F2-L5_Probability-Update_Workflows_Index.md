@@ -1,5 +1,6 @@
 # F2-L5_Probability-Update_Workflows — Family Index
-**Definition:** Data-handling routines that turn measurement streams into refreshed quantum state estimates.
+**Definition:** Explore how software habits for updating states after gentle probes.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Bayesian_State_Trackers — update states using Bayesian filters.
-- G2-L6_Quantum_Jump_Monitors — follow stochastic jumps in real time.
+- G1-L6_Probability-Update_Workflows_Foundations — core principles and baseline exemplars.
+- G2-L6_Probability-Update_Workflows_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

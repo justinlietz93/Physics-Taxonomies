@@ -12,6 +12,7 @@
 
 ## Class (L3) — index
 - C1-L3_Rotation-&-Stratification — balances among Coriolis forces, buoyancy, and pressure in layered flows.
+- **C2-L3_Planetary_Flow_Structures** — organizes rotating stratified flows that shape planets and stars.
 
 ## Order (L4) — (later)
 ## Family (L5) — (later)

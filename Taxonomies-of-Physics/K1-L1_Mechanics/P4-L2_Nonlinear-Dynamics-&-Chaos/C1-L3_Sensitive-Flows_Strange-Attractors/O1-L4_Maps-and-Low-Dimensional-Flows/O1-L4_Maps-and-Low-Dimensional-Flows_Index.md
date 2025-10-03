@@ -13,7 +13,7 @@
 
 ## Family (L5) — index
 - **F1-L5_Logistic-and-Tent-Maps** — Update rules that spiral through doubling routes to chaos.
-
+- **F2-L5_Cobwebbing_Workshops** — interactive cobweb plots and iterators to watch orbits march toward chaos.
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
 

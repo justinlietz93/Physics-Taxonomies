@@ -1,5 +1,5 @@
 # F1-L5_Escape-Criterion_Studies — Family Index
-**Definition:** Examines tails of potentials to see whether systems stay bound or slip out to infinity.
+**Definition:** Explore how deciding when energy walls confine motion versus let it run away.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Confining-Basin_Assessments** — tests that confirm walls are tall enough to keep things trapped.
-- **G2-L6_Runaway-Path_Scenarios** — cases where the tails drop and motion runs off to infinity.
+- G1-L6_Escape-Criterion_Studies_Foundations — core principles and baseline exemplars.
+- G2-L6_Escape-Criterion_Studies_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

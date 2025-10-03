@@ -13,7 +13,7 @@
 
 ## Family (L5) — index
 - **F1-L5_Block-on-Surface-Cases** — Household pushes that test grip limits.
-
+- **F2-L5_Friction_Tuning_Recipes** — lubricants, textures, and load management to dial stick-slip behavior.
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
 

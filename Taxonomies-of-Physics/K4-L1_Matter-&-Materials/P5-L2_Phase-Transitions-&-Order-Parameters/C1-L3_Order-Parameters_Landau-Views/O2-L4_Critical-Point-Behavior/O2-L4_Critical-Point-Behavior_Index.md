@@ -13,7 +13,7 @@
 
 ## Family (L5) — index
 - **F1-L5_Fluctuation-and-Scaling-Cases** — Dramatic fluctuations signaling criticality.
-
+- **F2-L5_Critical_Point_Simulators** — scaling plots and computational sandboxes that explore universality.
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
 

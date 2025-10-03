@@ -13,7 +13,7 @@
 
 ## Family (L5) — index
 - **F1-L5_Pulse-on-Rope-Stories** — Hand-generated pulses showing travel speed and flips.
-
+- **F2-L5_Pulse_Shaping_Workshops** — lab setups shaping amplitude, polarity, and dispersion of pulses.
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
 

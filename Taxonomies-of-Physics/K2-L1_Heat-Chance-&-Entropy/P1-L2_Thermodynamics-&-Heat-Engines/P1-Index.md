@@ -13,6 +13,7 @@
 
 ## Class (L3) — index
 - **C1-L3_State-Variables-Cycles-&-Potentials** — state descriptions, free energies, and looped energy trades.
+- **C2-L3_Irreversibility_Engines-&-Efficiency** — compares real engine layouts with where efficiency is lost or regained.
 
 ## Order (L4) — (later)
 ## Family (L5) — (later)

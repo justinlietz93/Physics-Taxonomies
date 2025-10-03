@@ -1,5 +1,5 @@
 # F1-L5_Buckled-Beam_and-Strip_Devices — Family Index
-**Definition:** Slender bands that bow into two preferred arcs, letting handheld tools and wearables stay coiled or straight on demand.
+**Definition:** Explore how curved metal or plastic bands that pop between stored shapes.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Curled_Measuring_Tapes** — hardened steel ribbons that pop between flat and coiled storage shapes.
-- **G2-L6_Slap_Bracelet_Strips** — spring-tempered bands that wrap around limbs when released from a flat state.
+- G1-L6_Buckled-Beam_and-Strip_Devices_Foundations — core principles and baseline exemplars.
+- G2-L6_Buckled-Beam_and-Strip_Devices_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

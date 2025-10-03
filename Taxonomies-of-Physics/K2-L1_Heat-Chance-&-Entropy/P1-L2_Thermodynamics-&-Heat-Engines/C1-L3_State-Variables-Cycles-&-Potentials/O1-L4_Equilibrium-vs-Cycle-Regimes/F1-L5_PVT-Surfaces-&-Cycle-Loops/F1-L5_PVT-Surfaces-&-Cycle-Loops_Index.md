@@ -1,5 +1,5 @@
 # F1-L5_PVT-Surfaces-&-Cycle-Loops — Family Index
-**Definition:** Uses pressure–volume–temperature plots to see how processes trace paths and enclose work-producing areas.
+**Definition:** Explore how reading areas, slopes, and enclosures that signal work and heat flow.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Ideal-Gas-Workloops** — simple compress/expand paths that highlight net work and heat directions.
+- G1-L6_PVT-Surfaces-&-Cycle-Loops_Foundations — core principles and baseline exemplars.
+- G2-L6_PVT-Surfaces-&-Cycle-Loops_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

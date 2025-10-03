@@ -1,5 +1,5 @@
 # F1-L5_Axis-Coupling_Diagnostics — Family Index
-**Definition:** Looks at coordinate axes to see if motion factors apart or if cross-coupling links the wells.
+**Definition:** Explore how tests that reveal whether directions act independently or tug on each other.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Separable-Test_Routines** — procedures proving each axis can be treated on its own.
-- **G2-L6_Coupled-Response_Troubleshooting** — diagnosing when axes tug on each other and need compensation.
+- G1-L6_Axis-Coupling_Diagnostics_Foundations — core principles and baseline exemplars.
+- G2-L6_Axis-Coupling_Diagnostics_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

@@ -1,5 +1,6 @@
 # F2-L5_Pressure-&-Strain-Sensing — Family Index
-**Definition:** Sensor families that flex diaphragms or stretch resistive grids to turn force and pressure into readable signals.
+**Definition:** Explore how diaphragms and gauges bending under load to report force.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Strain-Gauge-vs-Piezoresistive-Stacks — contrasting foil bridges with silicon micromachined diaphragms.
+- G1-L6_Pressure-&-Strain-Sensing_Foundations — core principles and baseline exemplars.
+- G2-L6_Pressure-&-Strain-Sensing_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

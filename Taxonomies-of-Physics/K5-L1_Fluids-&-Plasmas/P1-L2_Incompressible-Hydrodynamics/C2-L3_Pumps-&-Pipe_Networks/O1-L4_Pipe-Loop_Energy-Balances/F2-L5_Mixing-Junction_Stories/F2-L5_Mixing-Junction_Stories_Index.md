@@ -1,5 +1,6 @@
 # F2-L5_Mixing-Junction_Stories — Family Index
-**Definition:** Branch points where supply, return, and bypass lines meet, showing how pressure differences drive unintended mixing.
+**Definition:** Explore how following how branch connections steal or share pressure head.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Building_Bypass_Tees — comfort loops where bypass valves can short-circuit flow.
-- G2-L6_Process_Blending_Nodes — industrial junctions that must protect blend ratios and pump suction.
+- G1-L6_Mixing-Junction_Stories_Foundations — core principles and baseline exemplars.
+- G2-L6_Mixing-Junction_Stories_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

@@ -1,5 +1,5 @@
 # F1-L5_Shear-Thickening-and-Thinning — Family Index
-**Definition:** Collects kitchen and workshop fluids whose thickness jumps depending on how fast you stir.
+**Definition:** Explore how Everyday mixtures that change feel with stir speed.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Kitchen-and-Shop-Fluids** — Household fluids showing dramatic shear responses.
+- G1-L6_Shear-Thickening-and-Thinning_Foundations — core principles and baseline exemplars.
+- G2-L6_Shear-Thickening-and-Thinning_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

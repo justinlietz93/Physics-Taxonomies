@@ -1,5 +1,6 @@
 # F2-L5_Field-Circuit_Link_Analogs — Family Index
-**Definition:** Translate Maxwell’s displacement corrections into circuit models and layout fixes engineers use.
+**Definition:** Explore how relate Maxwell corrections to circuit and layout fixes.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Maxwell_Correction_Experiments — lab proofs that missing conduction current still closes loops.
-- G2-L6_High-Frequency_Current_Returns — design guides keeping return currents controlled at RF speeds.
+- G1-L6_Field-Circuit_Link_Analogs_Foundations — core principles and baseline exemplars.
+- G2-L6_Field-Circuit_Link_Analogs_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

@@ -1,5 +1,5 @@
 # F1-L5_Symmetry-Transition_Storyboards — Family Index
-**Definition:** Illustrates landscapes that either keep twin wells identical or let one side win.
+**Definition:** Explore how narratives of when symmetry holds and when it breaks.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Preserved-Symmetry_Cases** — examples where matched wells stay equal.
-- **G2-L6_Broken-Symmetry_Transitions** — stories where tiny nudges pick a winning basin.
+- G1-L6_Symmetry-Transition_Storyboards_Foundations — core principles and baseline exemplars.
+- G2-L6_Symmetry-Transition_Storyboards_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

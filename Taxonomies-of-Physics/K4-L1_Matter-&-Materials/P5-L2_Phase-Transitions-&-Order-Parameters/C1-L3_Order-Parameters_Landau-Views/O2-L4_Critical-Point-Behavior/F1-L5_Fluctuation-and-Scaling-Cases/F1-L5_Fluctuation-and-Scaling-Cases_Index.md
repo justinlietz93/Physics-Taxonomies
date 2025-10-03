@@ -1,5 +1,5 @@
 # F1-L5_Fluctuation-and-Scaling-Cases — Family Index
-**Definition:** Collects lab and nature scenes where fluctuations grow huge near a critical state.
+**Definition:** Explore how Dramatic fluctuations signaling criticality.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_CO2_Supercritical-Demos** — CO₂ experiments hovering at the liquid–gas edge.
+- G1-L6_Fluctuation-and-Scaling-Cases_Foundations — core principles and baseline exemplars.
+- G2-L6_Fluctuation-and-Scaling-Cases_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

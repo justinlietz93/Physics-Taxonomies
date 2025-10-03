@@ -1,5 +1,5 @@
 # F1-L5_Fixed-Ends-Resonances — Family Index
-**Definition:** Collects strings and air columns that ring loudly when driven at their natural modes.
+**Definition:** Explore how Strings and tubes that sing at select notes.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Guitar-String-and-Air-Column** — Musical tools showing standing-wave nodes and antinodes.
+- G1-L6_Fixed-Ends-Resonances_Foundations — core principles and baseline exemplars.
+- G2-L6_Fixed-Ends-Resonances_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

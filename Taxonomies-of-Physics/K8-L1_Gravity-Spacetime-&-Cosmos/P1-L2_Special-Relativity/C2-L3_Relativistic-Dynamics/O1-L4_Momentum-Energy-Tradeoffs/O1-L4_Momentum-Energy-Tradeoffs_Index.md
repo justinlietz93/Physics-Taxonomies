@@ -11,7 +11,8 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Family (L5) — index
-- F1-L5_Particle-Collider-Budgets — energy bookkeeping in accelerator beams and collisions.
+- **F1-L5_Particle-Collider-Budgets** — energy bookkeeping in accelerator beams and collisions.
+- **F2-L5_Relativistic_Design_Cases** — spacecraft, particle beams, and cosmic rays balancing momentum and energy.
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
 ## Species (L7) — everyday exemplars

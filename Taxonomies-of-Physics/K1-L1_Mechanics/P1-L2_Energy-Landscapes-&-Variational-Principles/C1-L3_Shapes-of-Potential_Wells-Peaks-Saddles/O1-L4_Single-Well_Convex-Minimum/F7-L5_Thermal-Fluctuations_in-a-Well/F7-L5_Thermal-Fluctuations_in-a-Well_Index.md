@@ -1,6 +1,5 @@
 # F7-L5_Thermal-Fluctuations_in-a-Well — Family Index
-
-**Definition:** Random jostling samples positions with more time near the bottom; width set by temperature-like noise.
+**Definition:** Explore how random kicks explore the bowl yet rarely escape.
 
 ## Overarching Lenses
 
@@ -13,8 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Brownian_Jitter_Tracking** — measuring microscopic jiggles from heat.
-- **G2-L6_Thermal_Drift_Guardians** — shielding setpoints from slow temperature wander.
+- G1-L6_Thermal-Fluctuations_in-a-Well_Foundations — core principles and baseline exemplars.
+- G2-L6_Thermal-Fluctuations_in-a-Well_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars
-_(See Genus folders for everyday case notes.)_

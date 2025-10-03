@@ -13,7 +13,7 @@
 
 ## Family (L5) — index
 - **F1-L5_Shear-Thickening-and-Thinning** — Everyday mixtures that change feel with stir speed.
-
+- **F2-L5_Process_Tailoring_Guides** — designing mixers and piping for shear-thinning, thickening, or yield-stress fluids.
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
 

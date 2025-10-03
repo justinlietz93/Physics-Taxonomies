@@ -1,5 +1,5 @@
 # F1-L5_Wheel-Spin-Stories — Family Index
-**Definition:** Collects bicycle and office-chair spins showing angular momentum conservation.
+**Definition:** Explore how Everyday spins conserving angular momentum.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Bicycle-Wheel-and-Spinners** — Hand-held spinners that hold orientation stubbornly.
+- G1-L6_Wheel-Spin-Stories_Foundations — core principles and baseline exemplars.
+- G2-L6_Wheel-Spin-Stories_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

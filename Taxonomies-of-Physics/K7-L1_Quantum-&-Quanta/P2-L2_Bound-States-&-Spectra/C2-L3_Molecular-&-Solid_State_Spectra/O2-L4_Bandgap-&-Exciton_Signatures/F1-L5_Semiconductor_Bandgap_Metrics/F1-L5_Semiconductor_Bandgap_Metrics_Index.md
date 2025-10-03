@@ -1,5 +1,6 @@
 # F1-L5_Semiconductor_Bandgap_Metrics — Family Index
-**Definition:** Measurement kits that map bandgaps for wafers, LEDs, and solar cells.
+**Definition:** Explore how characterizing wafers, LEDs, and photovoltaics.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Wafer_Optical_Bandgap_Sweeps — mapping band edges across semiconductor wafers.
-- G2-L6_Device_Photoluminescence_Audits — checking finished LEDs and PV modules via emission.
+- G1-L6_Semiconductor_Bandgap_Metrics_Foundations — core principles and baseline exemplars.
+- G2-L6_Semiconductor_Bandgap_Metrics_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

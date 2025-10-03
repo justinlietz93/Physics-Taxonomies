@@ -1,5 +1,6 @@
 # F2-L5_Transition-Delay_Devices — Family Index
-**Definition:** Passive add-ons that stir or roughen the skin just enough to postpone a messy separation.
+**Definition:** Explore how passive add-ons that stretch the calm region before turbulence erupts.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Vortex-Generator_Arrays — little fins that mix high-energy air into sleepy surface layers.
-- G2-L6_Surface-Texture_Tuning — surface roughness tweaks like dimples or pads that shepherd flow.
+- G1-L6_Transition-Delay_Devices_Foundations — core principles and baseline exemplars.
+- G2-L6_Transition-Delay_Devices_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

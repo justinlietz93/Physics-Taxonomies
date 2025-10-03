@@ -1,6 +1,5 @@
-# Class Index
-
-**Definition**: Plain-language description of this Class.
+# C7-L3_Effective-Potentials_Rotating-Frames-and-Constraints — Class Index
+**Definition:** Blend inertial forces or geometric limits into a single energy picture that guides motion.
 
 ## Overarching Lenses
 
@@ -12,12 +11,13 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Order (regimes/approximations)
+## Order (L4) — index
+- **O1-L4_Rotating_Frame_Balances** — show how centrifugal and Coriolis terms reshape stable spots.
+- **O2-L4_Constraint-Force_Constructions** — derive effective terms from rods, rails, and geometric rules.
 
-## Family (canonical problems)
+## Family (L5) — (later)
 
-## Genus (L6)
-
-_(This level groups closely related Species. Create `G*-L6_*` folders here.)_
+## Genus (L6) — (later)
+_(Insert `G*-L6_*` between Family and Species.)_
 
 ## Species (L7) — everyday exemplars

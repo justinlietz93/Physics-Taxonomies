@@ -1,5 +1,6 @@
 # F1-L5_Commutator-Identity_Kits — Family Index
-**Definition:** Practice sets that make commutator relations feel like lab equipment rather than chalkboard puzzles.
+**Definition:** Explore how hands-on drills for working out operator ordering.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Rotation-vs_Spin_Commutators — compare spatial rotations with spin algebra in tabletop form.
-- G2-L6_Harmonic_Oscillator_Ladders — walk through raising/lowering tricks with tangible oscillators.
+- G1-L6_Commutator-Identity_Kits_Foundations — core principles and baseline exemplars.
+- G2-L6_Commutator-Identity_Kits_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

@@ -1,5 +1,5 @@
 # F2-L5_Node-Antinode_Choreography — Family Index
-**Definition:** Tracks how node and antinode placement shifts when boundaries move, bend, or combine different fixes.
+**Definition:** Explore how tracking how node locations slide when supports shift or flex.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Mode-Shape_Mapping** — visual tools that show how nodes slide as endpoints shift.
-- **G2-L6_Transition-Boundary_Demos** — setups that swap between boundary types to highlight mode jumps.
+- G1-L6_Node-Antinode_Choreography_Foundations — core principles and baseline exemplars.
+- G2-L6_Node-Antinode_Choreography_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

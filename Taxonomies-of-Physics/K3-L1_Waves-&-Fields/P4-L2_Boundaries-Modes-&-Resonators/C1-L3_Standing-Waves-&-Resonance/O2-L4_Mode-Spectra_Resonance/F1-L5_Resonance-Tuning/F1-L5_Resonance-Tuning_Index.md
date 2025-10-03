@@ -1,5 +1,5 @@
 # F1-L5_Resonance-Tuning — Family Index
-**Definition:** Shows how to adjust geometry or frequency to land on resonance peaks and manage their width.
+**Definition:** Explore how illustrating how peaks sharpen or widen and how to hit desired modes.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Microwave-and-Room-Modes** — practical tuning from kitchen ovens to listening rooms.
-- **G2-L6_Acoustic-Chamber_Sweeps** — sweeping enclosures to visualize and smooth troublesome modes.
+- G1-L6_Resonance-Tuning_Foundations — core principles and baseline exemplars.
+- G2-L6_Resonance-Tuning_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

@@ -1,6 +1,5 @@
 # F5-L5_Ringdown_Underdamped-Oscillation — Family Index
-
-**Definition:** Inertia matters; you overshoot and decay back with a few wiggles.
+**Definition:** Explore how small damping lets oscillations persist while decaying.
 
 ## Overarching Lenses
 
@@ -13,8 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Ringdown_Health_Monitoring** — listening to free decay for condition clues.
-- **G2-L6_Structural_Mode_Tuning** — retuning modes so vibrations die at the right rate.
+- G1-L6_Ringdown_Underdamped-Oscillation_Foundations — core principles and baseline exemplars.
+- G2-L6_Ringdown_Underdamped-Oscillation_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars
-_(See Genus folders for everyday case notes.)_

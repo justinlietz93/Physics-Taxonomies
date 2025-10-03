@@ -13,6 +13,7 @@
 
 ## Class (L3) — index
 - C1-L3_Phonon-Modes-&-Heat — describe vibrational spectra and how they transport energy.
+- **C2-L3_Phonon_Engineering_and_Thermal-Flow** — ties phonon spectra to managing thermal energy.
 
 ## Order (L4) — (later)
 ## Family (L5) — (later)

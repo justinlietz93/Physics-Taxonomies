@@ -1,5 +1,5 @@
 # F1-L5_Polarizations-&-Patterns — Family Index
-**Definition:** Sorts lattice vibrations by the direction atoms swing and the shapes those motions form.
+**Definition:** Explore how contrast bending, stretching, and shear motions in lattices.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Bending-vs-Stretching-Modes — compare transverse wiggles with longitudinal compressions.
+- G1-L6_Polarizations-&-Patterns_Foundations — core principles and baseline exemplars.
+- G2-L6_Polarizations-&-Patterns_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

@@ -1,5 +1,6 @@
 # F1-L5_Inspiral-Chirp-Stories — Family Index
-**Definition:** Everyday analogies and data plots that turn gravitational-wave chirps into memorable stories.
+**Definition:** Explore how case studies turning orbital decay into rising-frequency signals.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Black-Hole-vs-Neutron-Star-Pairs — contrasting heavy and lighter mergers and their signals.
+- G1-L6_Inspiral-Chirp-Stories_Foundations — core principles and baseline exemplars.
+- G2-L6_Inspiral-Chirp-Stories_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

@@ -1,5 +1,6 @@
 # F1-L5_Magnetic-Transport-Stories — Family Index
-**Definition:** Everyday and near-Earth plasmas showing magnetic fields steering or resisting flow.
+**Definition:** Explore how cases where magnetic geometry guides plasma flow.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Auroras-vs_Reactors — comparing natural auroral curtains with laboratory fusion plasmas.
+- G1-L6_Magnetic-Transport-Stories_Foundations — core principles and baseline exemplars.
+- G2-L6_Magnetic-Transport-Stories_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

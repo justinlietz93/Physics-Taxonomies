@@ -13,7 +13,7 @@
 
 ## Family (L5) — index
 - **F1-L5_Slit-Width-Effects** — linking aperture size to how much a wave spreads or sharpens.
-
+- **F2-L5_Diffraction_Control_Strategies** — aperture shaping, apodization, and gratings to tune diffraction.
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
 ## Species (L7) — everyday exemplars

@@ -1,5 +1,5 @@
 # F1-L5_Surface-Only-Conduction — Family Index
-**Definition:** Collects thin films and engineered lattices where conduction hugs the surface or edge.
+**Definition:** Explore how Materials with conducting skins and quiet cores.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Bismuth-Selenide-and_Cold-Atom-Lattices** — Solid-state and cold-atom demos of protected surface states.
+- G1-L6_Surface-Only-Conduction_Foundations — core principles and baseline exemplars.
+- G2-L6_Surface-Only-Conduction_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

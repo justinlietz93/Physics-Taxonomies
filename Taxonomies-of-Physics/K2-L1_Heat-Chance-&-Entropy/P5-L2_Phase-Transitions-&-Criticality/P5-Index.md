@@ -13,6 +13,7 @@
 
 ## Class (L3) — index
 - **C1-L3_Order-Parameters-&-Phase-Diagrams** — tracking control variables and markers of phase changes.
+- **C2-L3_Scaling_Universality-&-Renormalization** — charts scaling laws and renormalization that unify critical behavior.
 
 ## Order (L4) — (later)
 ## Family (L5) — (later)

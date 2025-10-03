@@ -12,6 +12,7 @@
 
 ## Class (L3) — index
 - C1-L3_Expanding-Universe-Stories — models explaining cosmic scale factor history and relic signals.
+- **C2-L3_Structure_Growth-and_Backgrounds** — traces cosmic expansion and the growth of structure.
 ## Order (L4) — (later)
 ## Family (L5) — (later)
 ## Genus (L6) — (later)

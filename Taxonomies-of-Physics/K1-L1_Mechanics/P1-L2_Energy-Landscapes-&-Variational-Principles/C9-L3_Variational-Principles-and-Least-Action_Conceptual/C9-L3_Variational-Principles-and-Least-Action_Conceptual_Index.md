@@ -1,6 +1,5 @@
-# Class Index
-
-**Definition**: Plain-language description of this Class.
+# C9-L3_Variational-Principles-and-Least-Action_Conceptual — Class Index
+**Definition:** Frame dynamics as a competition of paths where the action is stationary compared with nearby trials.
 
 ## Overarching Lenses
 
@@ -12,12 +11,13 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Order (regimes/approximations)
+## Order (L4) — index
+- **O1-L4_Action_Functional_Building** — compose kinetic-minus-potential stories for different systems.
+- **O2-L4_Euler-Lagrange_Applications** — apply stationary action to recover familiar equations of motion.
 
-## Family (canonical problems)
+## Family (L5) — (later)
 
-## Genus (L6)
-
-_(This level groups closely related Species. Create `G*-L6_*` folders here.)_
+## Genus (L6) — (later)
+_(Insert `G*-L6_*` between Family and Species.)_
 
 ## Species (L7) — everyday exemplars

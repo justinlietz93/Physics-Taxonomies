@@ -1,5 +1,5 @@
 # F1-L5_Geometry-Driven_Mode-Splits — Family Index
-**Definition:** Compares how modifying cavity shape splits degenerate modes or steers hotspots.
+**Definition:** Explore how compare how different shapes divide or merge resonances.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Rectangular-vs_Curved_Chambers** — weigh how basic shapes set baseline mode splits.
-- **G2-L6_Added-Feature_Perturbations** — study ribs, baffles, or cutouts that nudge modes subtly.
+- G1-L6_Geometry-Driven_Mode-Splits_Foundations — core principles and baseline exemplars.
+- G2-L6_Geometry-Driven_Mode-Splits_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

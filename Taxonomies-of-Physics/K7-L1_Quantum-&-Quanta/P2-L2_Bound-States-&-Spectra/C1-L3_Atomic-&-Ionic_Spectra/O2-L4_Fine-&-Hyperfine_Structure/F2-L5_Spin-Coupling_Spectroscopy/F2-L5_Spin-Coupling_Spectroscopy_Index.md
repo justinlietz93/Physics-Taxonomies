@@ -1,5 +1,6 @@
 # F2-L5_Spin-Coupling_Spectroscopy — Family Index
-**Definition:** Precision routines that read hyperfine, isotope, and Lamb shifts for timing and sensing.
+**Definition:** Explore how reading hyperfine and isotope shifts for precision timing.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Atomic_Clock_Transition_Tuning — stabilizing microwave clocks on hyperfine lines.
-- G2-L6_Magnetic-Field_Probe_Spectra — using hyperfine shifts as ultra-sensitive magnetometers.
+- G1-L6_Spin-Coupling_Spectroscopy_Foundations — core principles and baseline exemplars.
+- G2-L6_Spin-Coupling_Spectroscopy_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

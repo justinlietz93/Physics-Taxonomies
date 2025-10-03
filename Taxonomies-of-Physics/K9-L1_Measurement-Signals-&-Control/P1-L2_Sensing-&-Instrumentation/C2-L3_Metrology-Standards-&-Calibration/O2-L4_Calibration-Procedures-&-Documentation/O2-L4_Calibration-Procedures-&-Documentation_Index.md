@@ -11,7 +11,8 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Family (L5) — index
-- F1-L5_Calibration-Lab-Workflows — scheduling, executing, and logging calibration tasks for fleets of instruments.
+- **F1-L5_Calibration-Lab-Workflows** — scheduling, executing, and logging calibration tasks for fleets of instruments.
+- **F2-L5_Traceability_Record_Systems** — digital logs and audit trails that keep calibrations traceable.
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
 ## Species (L7) — everyday exemplars

@@ -1,5 +1,6 @@
 # F2-L5_Conservative_System_Diagnostics — Family Index
-**Definition:** Tests that audit forces, energy, and momentum to confirm nothing sneaky adds or removes work.
+**Definition:** Explore how audit energy ledgers to confirm nothing leaks away.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Energy-Ledger_Audits — keep track of kinetic plus potential tallies to spot leaks.
-- G2-L6_Field-Line_Alignment — verify force directions match gradients of the potential landscape.
+- G1-L6_Conservative_System_Diagnostics_Foundations — core principles and baseline exemplars.
+- G2-L6_Conservative_System_Diagnostics_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

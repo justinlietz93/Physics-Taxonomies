@@ -1,5 +1,6 @@
 # F2-L5_Data-Fusion_Forecasters — Family Index
-**Definition:** Analytics stacks that blend simple rules and smart models to warn when laminar flow is about to break.
+**Definition:** Explore how combining rules and machine learning to flag looming flow transition.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Reynolds-Rule_Checkers — quick calculators that raise a flag as the classic thresholds close in.
-- G2-L6_Machine-Learning_Sentinels — pattern-recognition tools that learn new instability signatures on the fly.
+- G1-L6_Data-Fusion_Forecasters_Foundations — core principles and baseline exemplars.
+- G2-L6_Data-Fusion_Forecasters_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

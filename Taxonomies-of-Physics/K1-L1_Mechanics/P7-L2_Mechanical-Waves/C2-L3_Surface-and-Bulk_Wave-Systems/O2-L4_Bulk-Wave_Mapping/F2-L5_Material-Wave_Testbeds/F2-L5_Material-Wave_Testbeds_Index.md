@@ -1,5 +1,5 @@
 # F2-L5_Material-Wave_Testbeds — Family Index
-**Definition:** Full-scale rooms and rigs that steer body waves through structures to quiet noise or vibration.
+**Definition:** Explore how Full-scale rooms and rigs that tune wave paths through built structures.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Acoustic_Blockrooms** — Facilities that measure how materials soak up booming sound.
-- **G2-L6_Vibration-Isolation_Rigs** — Platforms that choreograph bulk waves to shield sensitive gear.
+- G1-L6_Material-Wave_Testbeds_Foundations — core principles and baseline exemplars.
+- G2-L6_Material-Wave_Testbeds_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars
