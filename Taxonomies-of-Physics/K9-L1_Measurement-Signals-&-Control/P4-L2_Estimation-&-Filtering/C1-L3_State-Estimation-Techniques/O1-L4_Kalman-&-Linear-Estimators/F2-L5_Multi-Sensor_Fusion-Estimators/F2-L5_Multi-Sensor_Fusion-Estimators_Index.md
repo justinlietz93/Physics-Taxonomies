@@ -11,8 +11,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Federated-Filter-Designs** — splitting work across subfilters and recombining beliefs.
-- **G2-L6_Model-vs-Measurement-Consistency** — diagnosing disagreements between models and live data.
-
+- G1-L6_Federated-Filter-Designs — splitting work across subfilters and recombining beliefs.
+- G2-L6_Model-vs-Measurement-Consistency — diagnosing disagreements between physics models and incoming data.
 ## Species (L7) — everyday exemplars
-_(See Genus folders for everyday case notes.)_
