@@ -1,5 +1,5 @@
 # O2-L4_Forced-and-Resonant-Response — Order Index
-**Definition:** Studies how steady pushes at or near natural frequency grow large amplitudes or cancel motion.
+**Definition:** Driving oscillators to amplify or suppress motion.
 
 ## Overarching Lenses
 
@@ -12,7 +12,8 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Family (L5) — index
-- **F1-L5_Shaking-and-Driving-Cases** — Everyday drives tuned to the right beat.
+- **F1-L5_Shaking-and-Driving-Cases** — Everyday pushes and lab drives that reveal resonance.
+- **F2-L5_Resonance_Control_Strategies** — Hardware add-ons that tame or redirect forced motion.
 
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_

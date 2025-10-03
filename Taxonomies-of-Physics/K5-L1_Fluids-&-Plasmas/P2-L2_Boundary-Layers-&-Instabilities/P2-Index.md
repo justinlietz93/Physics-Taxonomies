@@ -12,6 +12,7 @@
 
 ## Class (L3) — index
 - C1-L3_Surface-Shear-&-Separation — how surfaces drag on flows and the signals that trigger peel-off.
+- C2-L3_Instability-Trigger_Diagnostics — sensing and experiments that pinpoint the moment calm skins go unstable.
 
 ## Order (L4) — (later)
 ## Family (L5) — (later)

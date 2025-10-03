@@ -12,6 +12,7 @@
 
 ## Order (L4) — index
 - O1-L4_State-Space_Building — choose bases and lab prep routines that realize target states.
+- O2-L4_Operator-Algebra_Studios — drill commutators and spectra until operator math feels concrete.
 ## Family (L5) — (later)
 ## Genus (L6)
 ## Species (L7) — everyday exemplars

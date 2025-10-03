@@ -13,6 +13,7 @@
 
 ## Class (L3) — index
 - **C1-L3_String-and-Rod-Wave-Motions** — Explain pulses that travel and stand on strings or rods.
+- **C2-L3_Surface-and-Bulk_Wave-Systems** — Guide waves that skim surfaces or cross volumes in everyday materials.
 
 ## Order (L4) — (later)
 

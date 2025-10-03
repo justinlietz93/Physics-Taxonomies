@@ -1,0 +1,17 @@
+# F1-L5_Reaction-Diffusion_Studios — Family Index
+**Definition:** Host tabletop chemistry and bio-inspired mixes that self-paint structured patterns.
+## Overarching Lenses
+
+- **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
+- **Lens B: Frames & Relativity**: who’s measuring; speed limits; when the stage (spacetime) bends.
+- **Lens C: Quantization**: ramps become staircases; waves behave as particles and vice-versa.
+- **Lens D: Fields & Gauge**: forces as fields spread in space; different “potentials” = same physics.
+- **Lens E: Randomness & Entropy**: many-microstates, noise, arrows of time.
+- **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
+- **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
+
+## Genus (L6) — index
+- **G1-L6_Chemical_Turing_Tables** — Run benchtop reactions that reveal diffusion-driven patterning.
+- **G2-L6_Biological_Spot-Stripe_Galleries** — Showcase living systems and biomimic gels echoing natural markings.
+
+## Species (L7) — everyday exemplars

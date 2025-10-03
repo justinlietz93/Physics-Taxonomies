@@ -12,6 +12,7 @@
 
 ## Class (L3) — index
 - C1-L3_State-Postulates-&-Wavefunctions — build state spaces and unitary time evolution.
+- C2-L3_Measurement-Probabilities-&-Updates — apply the Born rule with hardware and data loops.
 ## Order (L4) — (later)
 ## Family (L5) — (later)
 ## Genus (L6) — (later)

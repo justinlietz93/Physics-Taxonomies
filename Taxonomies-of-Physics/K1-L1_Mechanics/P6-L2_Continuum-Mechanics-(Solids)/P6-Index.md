@@ -13,6 +13,7 @@
 
 ## Class (L3) — index
 - **C1-L3_Stress-Strain_Constitutive-Maps** — Link force, stress, and strain for beams, rods, and parts.
+- **C2-L3_Structural-Health_Workflows** — Monitor real structures so strain maps and crack records stay current.
 
 ## Order (L4) — (later)
 

@@ -12,6 +12,7 @@
 
 ## Order (L4) — index
 - O1-L4_Boundary-Layer-Growth — how near-wall shear thickens and tips into separation.
+- O2-L4_Instability-Detection_Networks — sensing webs that warn when the skin is about to break free.
 
 ## Family (L5) — (later)
 ## Genus (L6)

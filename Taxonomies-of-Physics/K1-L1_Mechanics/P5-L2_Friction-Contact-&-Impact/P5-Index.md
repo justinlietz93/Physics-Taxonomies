@@ -13,6 +13,7 @@
 
 ## Class (L3) — index
 - **C1-L3_Friction-Models_Stick-Slip** — Contrast sticking, sliding, and bouncing rules for real surfaces.
+- **C2-L3_Collision-Energy_Management** — Pair impact diagnostics with absorber choices for safer hardware.
 
 ## Order (L4) — (later)
 

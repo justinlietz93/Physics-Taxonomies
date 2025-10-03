@@ -13,6 +13,7 @@
 
 ## Class (L3) — index
 - **C1-L3_Sensitive-Flows_Strange-Attractors** — Show how nonlinear rules stretch, fold, and mix trajectories.
+- **C2-L3_Pattern-Formation-&-Bifurcations** — Follow how new states and self-made patterns bloom as controls shift.
 
 ## Order (L4) — (later)
 

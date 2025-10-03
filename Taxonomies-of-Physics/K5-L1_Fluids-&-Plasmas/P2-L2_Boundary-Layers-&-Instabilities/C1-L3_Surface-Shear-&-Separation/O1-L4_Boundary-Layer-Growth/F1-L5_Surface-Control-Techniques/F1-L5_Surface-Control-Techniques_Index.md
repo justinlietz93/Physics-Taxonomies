@@ -12,5 +12,6 @@
 
 ## Genus (L6) — index
 - G1-L6_Flat-Plate-vs-Wing — contrasting simple test plates with cambered wings to see control tactics at work.
+- G2-L6_Active-Wall_Aids — highlighting powered tricks like blowing or plasma nudges that keep skins attached.
 
 ## Species (L7) — everyday exemplars

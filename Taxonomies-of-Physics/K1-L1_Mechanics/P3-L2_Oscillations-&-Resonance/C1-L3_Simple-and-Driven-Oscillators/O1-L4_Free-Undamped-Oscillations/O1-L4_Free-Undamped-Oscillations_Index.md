@@ -13,6 +13,7 @@
 
 ## Family (L5) — index
 - **F1-L5_Spring-Mass-Timing** — Classic mass-and-spring clockwork stories.
+- **F2-L5_Rotation-Based_Oscillators** — Twisting and spinning systems that swing without damping.
 
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_

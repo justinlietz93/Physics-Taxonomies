@@ -13,6 +13,7 @@
 
 ## Class (L3) — index
 - **C1-L3_Simple-and-Driven-Oscillators** — Show how natural timing and drives shape wiggling motion.
+- **C2-L3_Coupled-and-Nonlinear_Oscillators** — Explore energy-sharing and self-sustained oscillations.
 
 ## Order (L4) — (later)
 
