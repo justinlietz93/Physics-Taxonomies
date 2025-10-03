@@ -12,5 +12,6 @@
 
 ## Genus (L6) — index
 - G1-L6_Pipe-vs-Airfoil-Flows — comparing confined channel streams with open-air lift makers.
+- G2-L6_Campus-Utility_Rings — balancing big loops where friction builds gradually around the circuit.
 
 ## Species (L7) — everyday exemplars

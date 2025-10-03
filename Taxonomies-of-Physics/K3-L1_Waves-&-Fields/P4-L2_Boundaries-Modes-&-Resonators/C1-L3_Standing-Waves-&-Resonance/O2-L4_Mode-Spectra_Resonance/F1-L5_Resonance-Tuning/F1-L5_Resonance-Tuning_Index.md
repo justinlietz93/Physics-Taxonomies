@@ -13,5 +13,6 @@
 
 ## Genus (L6) — index
 - **G1-L6_Microwave-and-Room-Modes** — practical tuning from kitchen ovens to listening rooms.
+- **G2-L6_Acoustic-Chamber_Sweeps** — sweeping enclosures to visualize and smooth troublesome modes.
 
 ## Species (L7) — everyday exemplars
