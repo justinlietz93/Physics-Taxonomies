@@ -1,5 +1,5 @@
-# Gravity, Spacetime, & Cosmos (shape of the stage)
-
+# K8–L1 Gravity, Spacetime, & Cosmos
+**Definition:** Gravity tells matter how to move and matter tells spacetime how to curve; this kingdom tracks how cosmic structure, motion, and measurement arise from that interplay.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,22 +10,19 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Phylum
+## Phyla (L2) — index
+- P1-L2_Special-Relativity — straight-line spacetime stories where motion nears light-speed.
+- P2-L2_General-Relativity — curved spacetime explaining orbits, light bending, and gravity wells.
+- P3-L2_Compact-Object-Astrophysics — dense stellar leftovers pushing physics to extreme pressures.
+- P4-L2_Cosmology — the universe’s expansion history, dark ingredients, and large-scale texture.
+- P5-L2_Gravitational-Waves — ripples from violent motions and the detectors that hear them.
 
-- **Special Relativity** — frames, time dilation; *GPS clock fixes*.
-- **General Relativity** — curvature = gravity; *gravitational lensing*.
-- **Astrophysics of Compact Objects** — white dwarfs, neutron stars, BHs; *X-ray binaries*.
-- **Cosmology** — expansion, dark components, structure; *CMB map*.
-- **Gravitational Waves** — ripples in spacetime; *LIGO chirps*.
+## Native questions
+- How does spacetime geometry guide clocks, rulers, and motion across different frames?
+- What stories explain how mass-energy sculpts cosmic structure from stars to the whole universe?
+- Which signals let us watch gravity propagate and test relativity’s predictions?
 
-## Class (canonical models)
-
-## Order (regimes/approximations)
-
-## Family (canonical problems)
-
-## Genus (L6)
-
-_(Insert Genus folders `G*-L6_*` between Family and Species; each Genus contains several Species.)_
-
-## Species (L7) — everyday exemplars
+## Everyday anchors
+- GPS satellites correcting their clocks for both motion and gravity to keep your maps on time.
+- Images of gravitational lensing arcs around galaxy clusters acting as cosmic magnifying glasses.
+- LIGO news plots turning faint spacetime ripples into audible chirps we can hear.

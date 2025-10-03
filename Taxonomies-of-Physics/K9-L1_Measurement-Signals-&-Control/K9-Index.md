@@ -1,5 +1,5 @@
-# Measurement, Signals, & Control (how we know & steer)
-
+# K9–L1 Measurement, Signals, & Control
+**Definition:** Tools, models, and feedback loops that let us sense the world, clean up information, and steer systems gently toward targets.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,23 +10,20 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Phylum
+## Phyla (L2) — index
+- P1-L2_Sensing-&-Instrumentation — translating physical effects into trustworthy electrical or optical signals.
+- P2-L2_Signal-Representations — choosing time, frequency, or code views to reveal patterns and compress meaning.
+- P3-L2_Noise-&-Stochastic-Processes — tracing where randomness creeps in and how its spectrum shapes decisions.
+- P4-L2_Estimation-&-Filtering — blending models with data to guess hidden states and smooth messy readings.
+- P5-L2_Feedback-&-Control — designing loops that nudge systems toward setpoints without ringing or runaway.
+- P6-L2_Experiment-Design-&-Error — planning measurements, tracking uncertainty, and reporting honest confidence bands.
 
-- **Sensing & Instrumentation** — detectors, transducers; *thermometers, photodiodes*.
-- **Signal Representations** — time/frequency, sampling; *music EQ intuition*.
-- **Noise & Stochastic Processes** — sources, spectra; *hiss vs tone*.
-- **Estimation & Filtering** — averaging smartly; *Kalman, smoothing*.
-- **Feedback & Control** — stability, setpoint tracking; *thermostats, cruise control*.
-- **Experiment Design & Error** — calibration, uncertainty; *lab hygiene*.
+## Native questions
+- How do we turn temperature, light, and motion into electrical readouts we can trust?
+- Which signal views and noise models reveal the features worth acting on?
+- How do estimation and feedback close the loop while keeping error bars transparent?
 
-## Class (canonical models)
-
-## Order (regimes/approximations)
-
-## Family (canonical problems)
-
-## Genus (L6)
-
-_(Insert Genus folders `G*-L6_*` between Family and Species; each Genus contains several Species.)_
-
-## Species (L7) — everyday exemplars
+## Everyday anchors
+- Smart thermostats blending sensors, filtering, and control logic to keep homes comfortable.
+- Noise-canceling headphones that model ambient hum and inject the right counter-signal in real time.
+- Lab notebooks showing calibration curves and uncertainty budgets for every instrument setting.
