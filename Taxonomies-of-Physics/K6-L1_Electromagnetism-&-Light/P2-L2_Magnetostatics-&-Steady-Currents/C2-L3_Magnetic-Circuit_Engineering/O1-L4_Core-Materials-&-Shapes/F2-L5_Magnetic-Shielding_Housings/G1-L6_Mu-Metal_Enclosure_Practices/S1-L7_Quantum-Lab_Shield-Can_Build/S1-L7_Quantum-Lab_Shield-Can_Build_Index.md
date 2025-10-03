@@ -1,5 +1,5 @@
-# P2–L2 Magnetostatics & Steady Currents
-**Definition:** Persistent currents sculpt magnetic fields that steer tools, sensors, and power distribution hardware.
+# S1-L7_Quantum-Lab_Shield-Can_Build — Species Index
+**Definition:** Fabricate and anneal mu-metal cans that cradle quantum experiments in quiet magnetic space.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,10 +10,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Class (L3) — index
-- C1-L3_Current-Path_Field-Designs — relate conductor geometry to magnetic field control and forces.
-- C2-L3_Magnetic-Circuit_Engineering — steer flux through materials and loops for devices and shielding.
-## Order (L4) — (later)
-## Family (L5) — (later)
-## Genus (L6) — (later)
-## Species (L7) — (later)
+## 60–90s Explanation Notes
+- Show magnetometer readings before and after shielding to highlight attenuation.
+- Explain stress-relief anneals and how they restore permeability lost during fabrication.

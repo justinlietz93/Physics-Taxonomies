@@ -1,5 +1,5 @@
-# P2–L2 Magnetostatics & Steady Currents
-**Definition:** Persistent currents sculpt magnetic fields that steer tools, sensors, and power distribution hardware.
+# G1-L6_Rectilinear-Grid_Solvers — Genus Index
+**Definition:** Solve Laplace and Poisson equations on square lattices with straightforward updates.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,10 +10,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Class (L3) — index
-- C1-L3_Current-Path_Field-Designs — relate conductor geometry to magnetic field control and forces.
-- C2-L3_Magnetic-Circuit_Engineering — steer flux through materials and loops for devices and shielding.
-## Order (L4) — (later)
-## Family (L5) — (later)
-## Genus (L6) — (later)
-## Species (L7) — (later)
+## Species (L7) — everyday exemplars
+- S1-L7_Spreadsheet_Laplace-Lab — iterate potentials in a spreadsheet to prototype sensor housings.
+- S2-L7_Maker-Space_Field-Mapping-App — build a simple app that visualizes 2D plate fields for demos.

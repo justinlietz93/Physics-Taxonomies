@@ -1,5 +1,5 @@
-# P2–L2 Magnetostatics & Steady Currents
-**Definition:** Persistent currents sculpt magnetic fields that steer tools, sensors, and power distribution hardware.
+# F1-L5_Mesh-&-Finite-Difference_Tools — Family Index
+**Definition:** Break regions into grids so simple update rules capture curved potentials and fields.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,10 +10,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Class (L3) — index
-- C1-L3_Current-Path_Field-Designs — relate conductor geometry to magnetic field control and forces.
-- C2-L3_Magnetic-Circuit_Engineering — steer flux through materials and loops for devices and shielding.
-## Order (L4) — (later)
-## Family (L5) — (later)
-## Genus (L6) — (later)
-## Species (L7) — (later)
+## Genus (L6) — index
+- G1-L6_Rectilinear-Grid_Solvers — update node voltages on square meshes for fast prototypes.
+- G2-L6_Unstructured-Mesh_Tools — mesh odd geometries so potentials still converge cleanly.
+## Species (L7) — everyday exemplars

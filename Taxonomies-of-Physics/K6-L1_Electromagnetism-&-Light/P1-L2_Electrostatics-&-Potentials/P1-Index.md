@@ -12,6 +12,7 @@
 
 ## Class (L3) — index
 - C1-L3_Field-Mapping-&-Forces — visualize charge layouts and resulting pushes on test charges.
+- C2-L3_Boundary-Value-Playbooks — shape and solve potentials with boundary tricks and digital meshes.
 ## Order (L4) — (later)
 ## Family (L5) — (later)
 ## Genus (L6) — (later)
