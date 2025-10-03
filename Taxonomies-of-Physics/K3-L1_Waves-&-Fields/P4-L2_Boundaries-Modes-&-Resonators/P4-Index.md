@@ -13,6 +13,7 @@
 
 ## Class (L3) — index
 - **C1-L3_Standing-Waves-&-Resonance** — how reflections build stationary patterns and amplify select frequencies.
+- **C2-L3_Mode-Engineering_Workflows** — how designers tweak structures and feedback to steer resonant modes on demand.
 
 ## Order (L4) — (later)
 ## Family (L5) — (later)

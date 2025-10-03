@@ -1,12 +1,14 @@
-# AGENTS.md — Documentation Agent Contribution Rules
+# Agent Contribution Rules
 **Version:** 2025-10-03
 
 This repo is an analogy-first, top-down taxonomy of physics. The **Documentation Agent** must populate every missing folder and index (K→P→C→O→F→G→S), maintain naming/numbering, and keep entries plain-English and short.
 
 ## 0) Core
 - Top-down only; parent exists before child.
-- Plain English (1–3 sentences), everyday anchors, no equations.
+- Plain English (1–3 sentences), everyday anchors, no equations initially.
 - Idempotent: never clobber existing non-empty files.
+
+**Note:** Per section 8) Equations and Formalisms, equations WILL be added once folder/file requirements are met.
 
 ## 1) Levels & Codes
 L1 K (Kingdom) · L2 P (Phylum) · L3 C (Class) · L4 O (Order) · L5 F (Family) · L6 G (Genus) · L7 S (Species)
@@ -54,10 +56,10 @@ Folder pattern: `<PREFIX><n>-L<level>_<Title>` (ASCII, underscores for chunks; h
 ## Class (L3) — index
 - C1-L3_<...> — one-line gist
 - C2-L3_<...> — one-line gist
-## Order (L4) — (later)
-## Family (L5) — (later)
-## Genus (L6) — (later)
-## Species (L7) — (later)
+## Order (L4) — (decide on what to do with nested indexes later)
+## Family (L5) — (decide on what to do with nested indexes later)
+## Genus (L6) — (decide on what to do with nested indexes later)
+## Species (L7) — (decide on what to do with nested indexes later)
 ```
 
 **L3 Class (`{BASENAME}_Index.md`)**
@@ -69,8 +71,8 @@ Folder pattern: `<PREFIX><n>-L<level>_<Title>` (ASCII, underscores for chunks; h
 ## Order (L4) — index
 - O1-L4_<...> — one-line gist
 - O2-L4_<...> — one-line gist
-## Family (L5) — (later)
-## Genus (L6)
+## Family (L5) — (decide on what to do with nested indexes later)
+## Genus (L6)  — (decide on what to do with nested indexes later)
 _(Insert `G*-L6_*` between Family and Species.)_
 ## Species (L7) — everyday exemplars
 ```
@@ -136,3 +138,19 @@ _(Insert `G*-L6_*` here.)_
 - Name: `make_<level>_<shortpath>.sh`
 - Arg #1: absolute or repo-rooted target directory.
 - Behavior: `mkdir -p`, skip existing, create `{BASENAME}_Index.md`, never clobber non-empty files.
+
+## 8) Equations and Formalisms
+- Once all folders (except for Species) have 2 subfolders minimum, and all Species folders have 2 file exemplars minimum, we can begin adding commonly used equations to each index file in the codebase, specific to THAT tier only. For example, in the Mechanics kingdom index you might want to list things like kinematic formulas:
+- \(v=v_{0}+at\) for constant acceleration
+- Newton's laws of motion such as \(F=ma\)
+- Work-energy principles including \(KE=\frac{1}{2}mv^{2}\)
+- Work-energy theorem \(W_{net}=\Delta KE\)
+- Rotational mechanics formulas like \(KE_{rot}=\frac{1}{2}I\omega ^{2}\) and \(\Sigma \tau =I\alpha \)
+- Momentum (\(p=mv\)), gravity (\(F_{g}=mg\) or \(F_{g}=G\frac{m_{1}m_{2}}{r^{2}}\)), and projectile motion equations
+It will very likely be the case that these equations show up again in lower levels especially in problem sets, but the goal is to be as specific as the tier requires. The Family tier will be more specific than the Class tier, and Genus will be more specific than Family.
+
+## 9) Problem Sets
+- Once each index has appropriate equations (or there are individual equation files that define and go into detail about it and it's history), problem set examples can be added to each folder that are as specific as the equations and formulas described at that level, avoiding being more specific or less specific than necessary. There could be everyday concrete examples as well as more obscure cutting edge examples to help map the simple to the complex.
+
+## 10) Book Suggestions
+- Along with the previous suggestions, there will eventually also be a {prefix}_Book_Suggestions.md file in each folder that suggests the most specific book to that tier as possible. Kingdom level tiers can be more encompassing and broad, while Species level tiers need to be highly specific, avoiding deviation or too much overlap if possible. This will be challenging, but a best attempt must be made.

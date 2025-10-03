@@ -12,8 +12,10 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Family (L5) — index
-- **F1-L5_Color-Spread-Examples** — translating dispersion curves into visible or audible separations.
+- **F1-L5_Color-Spread-Examples** — translating dispersion curves into visible, audible, and atmospheric separations.
+- **F2-L5_Telecom_Dispersion_Control** — engineering toolkits that reshape pulses before and after a fiber span.
 
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
+
 ## Species (L7) — everyday exemplars

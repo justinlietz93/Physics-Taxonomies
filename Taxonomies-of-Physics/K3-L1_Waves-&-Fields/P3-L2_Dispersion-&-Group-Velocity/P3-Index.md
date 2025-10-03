@@ -13,6 +13,7 @@
 
 ## Class (L3) — index
 - **C1-L3_Frequency-Dependent-Travel** — mapping how materials favor some wavelengths over others.
+- **C2-L3_Dispersive-Pulse_Management** — toolkits for stretching, compressing, and equalizing pulses through dispersive media.
 
 ## Order (L4) — (later)
 ## Family (L5) — (later)

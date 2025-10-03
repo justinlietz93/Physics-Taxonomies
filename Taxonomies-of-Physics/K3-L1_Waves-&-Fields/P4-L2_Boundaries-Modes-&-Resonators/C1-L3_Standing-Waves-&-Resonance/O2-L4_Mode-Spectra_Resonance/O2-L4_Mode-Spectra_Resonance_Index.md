@@ -13,6 +13,7 @@
 
 ## Family (L5) — index
 - **F1-L5_Resonance-Tuning** — illustrating how peaks sharpen or widen and how to hit desired modes.
+- **F2-L5_Spectral-Bandwidth_Strategies** — damping or re-filling cavities to set resonance width on purpose.
 
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_

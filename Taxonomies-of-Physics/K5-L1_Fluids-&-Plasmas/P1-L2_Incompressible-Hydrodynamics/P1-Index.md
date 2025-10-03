@@ -12,6 +12,7 @@
 
 ## Class (L3) — index
 - C1-L3_Streamlines-&-Vorticity — tracing smooth flow maps and the spinning cores that break them.
+- C2-L3_Pumps-&-Pipe_Networks — balancing circulators, valves, and head losses in closed loops.
 
 ## Order (L4) — (later)
 ## Family (L5) — (later)

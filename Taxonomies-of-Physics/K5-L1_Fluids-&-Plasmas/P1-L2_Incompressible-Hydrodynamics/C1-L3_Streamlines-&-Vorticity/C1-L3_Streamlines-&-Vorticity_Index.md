@@ -12,6 +12,7 @@
 
 ## Order (L4) — index
 - O1-L4_Laminar-vs-Turbulent-Flow-Regimes — contrasts between orderly layers and chaotic swirls.
+- O2-L4_Vorticity-Transport_Playbooks — tracking how vortices are born, shed, and diffused.
 
 ## Family (L5) — (later)
 ## Genus (L6)

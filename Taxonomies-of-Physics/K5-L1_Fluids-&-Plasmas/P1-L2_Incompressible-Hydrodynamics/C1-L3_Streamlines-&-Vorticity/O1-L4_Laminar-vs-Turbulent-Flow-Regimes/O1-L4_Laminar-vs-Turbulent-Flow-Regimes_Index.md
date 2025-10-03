@@ -12,6 +12,7 @@
 
 ## Family (L5) — index
 - F1-L5_Reynolds-Number-Stories — how size, speed, and stickiness tip flows into chaos.
+- F2-L5_Turbulence-Transition_Toolkits — classroom and field tricks for spotting when eddies first bloom.
 
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
