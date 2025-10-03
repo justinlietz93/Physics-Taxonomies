@@ -1,5 +1,5 @@
 # F1-L5_Conductors-vs-Insulators — Family Index
-**Definition:** Relates band overlap and filling to whether electrons flow freely or stay locked in place.
+**Definition:** Explore how relate band overlap to easy or blocked current.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Metal-vs-Plastic-Behavior — compare overlapping bands and wide gaps using household items.
+- G1-L6_Conductors-vs-Insulators_Foundations — core principles and baseline exemplars.
+- G2-L6_Conductors-vs-Insulators_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

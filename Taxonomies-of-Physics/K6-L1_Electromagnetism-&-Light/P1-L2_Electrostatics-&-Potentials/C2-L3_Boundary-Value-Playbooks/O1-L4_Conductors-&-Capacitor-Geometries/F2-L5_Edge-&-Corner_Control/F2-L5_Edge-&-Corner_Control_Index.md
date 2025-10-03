@@ -1,5 +1,6 @@
 # F2-L5_Edge-&-Corner_Control — Family Index
-**Definition:** We trim sharp fields at edges and junctions so insulation survives and signals stay linear.
+**Definition:** Explore how tame fringing and hotspots where fields would otherwise spike.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Fringing-Field_Smoothers — round hardware and add guards to even out escaping field lines.
-- G2-L6_Image-Charge_Guides — mirror charges to calculate and cancel hot spots near edges.
+- G1-L6_Edge-&-Corner_Control_Foundations — core principles and baseline exemplars.
+- G2-L6_Edge-&-Corner_Control_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

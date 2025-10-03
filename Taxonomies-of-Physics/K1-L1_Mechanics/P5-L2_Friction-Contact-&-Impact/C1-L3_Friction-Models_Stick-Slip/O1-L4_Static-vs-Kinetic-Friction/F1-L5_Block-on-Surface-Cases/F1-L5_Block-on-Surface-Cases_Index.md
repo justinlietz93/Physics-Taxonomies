@@ -1,5 +1,5 @@
 # F1-L5_Block-on-Surface-Cases — Family Index
-**Definition:** Looks at household pushing, hauling, and braking stories where friction decides outcomes.
+**Definition:** Explore how Household pushes that test grip limits.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Push-Pull-Thresholds** — Moments where stuck gives way to sliding.
+- G1-L6_Block-on-Surface-Cases_Foundations — core principles and baseline exemplars.
+- G2-L6_Block-on-Surface-Cases_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

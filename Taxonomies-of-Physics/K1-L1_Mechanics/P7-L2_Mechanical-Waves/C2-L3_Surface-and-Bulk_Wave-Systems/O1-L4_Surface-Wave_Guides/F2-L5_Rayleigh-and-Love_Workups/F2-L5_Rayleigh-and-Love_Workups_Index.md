@@ -1,5 +1,5 @@
 # F2-L5_Rayleigh-and-Love_Workups — Family Index
-**Definition:** Collects routines that read and shape surface seismic waves for safer buildings and labs.
+**Definition:** Explore how Tunes ground and plate properties to manage surface seismic ripples.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Seismic-Surface_Clinics** — Field crews tune arrays to read incoming surface waves before they strike town.
-- **G2-L6_Plate-Wave_Test_Beds** — Lab teams craft thin plates to study Love-like flexing for sensor design.
+- G1-L6_Rayleigh-and-Love_Workups_Foundations — core principles and baseline exemplars.
+- G2-L6_Rayleigh-and-Love_Workups_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

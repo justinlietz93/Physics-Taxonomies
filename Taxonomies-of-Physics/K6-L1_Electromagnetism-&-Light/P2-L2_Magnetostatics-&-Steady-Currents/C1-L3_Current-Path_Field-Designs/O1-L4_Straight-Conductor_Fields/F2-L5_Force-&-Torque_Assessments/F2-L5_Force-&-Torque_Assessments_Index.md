@@ -1,5 +1,6 @@
 # F2-L5_Force-&-Torque_Assessments — Family Index
-**Definition:** Convert magnetic fields around conductors into structural forces and sensor torque checks.
+**Definition:** Explore how translate magnetic fields into forces on structures and sensors.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Lorentz_Force_Inspections — compute conductor forces and support reactions.
-- G2-L6_Field-Balance_Surveys — verify symmetry to protect sensors and minimize stray torques.
+- G1-L6_Force-&-Torque_Assessments_Foundations — core principles and baseline exemplars.
+- G2-L6_Force-&-Torque_Assessments_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

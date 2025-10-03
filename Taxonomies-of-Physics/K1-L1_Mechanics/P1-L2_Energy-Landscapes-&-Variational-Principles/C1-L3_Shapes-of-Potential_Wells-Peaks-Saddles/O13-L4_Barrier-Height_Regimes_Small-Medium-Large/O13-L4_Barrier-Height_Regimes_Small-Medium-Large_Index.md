@@ -13,7 +13,7 @@
 
 ## Family (L5) — index
 - **F1-L5_Barrier-Scale_Comparisons** — contrasts low, medium, and high barriers relative to driving energy.
-
+- **F2-L5_Barrier_Crossing_Strategies** — ways to surmount low, medium, or high barriers through energy input or noise kicks.
 ## Genus (L6)
 
 _(Insert Genus folders `G*-L6_*` between Family and Species; each Genus contains several Species.)_

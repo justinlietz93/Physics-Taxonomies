@@ -1,5 +1,6 @@
 # F1-L5_POVM_Device_Libraries — Family Index
-**Definition:** Collections of hardware modules for generalized quantum measurements beyond projectors.
+**Definition:** Explore how hardware sets for generalized measurements.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Quantum_Tomography_Kits — reconstruct states via informationally complete measurements.
-- G2-L6_Weak-Measurement_Rigs — probe systems gently and read the weak signals.
+- G1-L6_POVM_Device_Libraries_Foundations — core principles and baseline exemplars.
+- G2-L6_POVM_Device_Libraries_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

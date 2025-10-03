@@ -1,5 +1,6 @@
 # F1-L5_Particle-Filter-Playbooks — Family Index
-**Definition:** Recipes for propagating particle clouds, weighting likelihoods, and resampling to follow slippery states.
+**Definition:** Explore how sample-heavy trackers for nonlinear, multi-peak uncertainty.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Sampling-&-Resampling_Strategies — choosing proposal distributions and refresh tactics.
-- G2-L6_Computational-Budget-Planning — balancing particle count, latency, and accuracy.
+- G1-L6_Particle-Filter-Playbooks_Foundations — core principles and baseline exemplars.
+- G2-L6_Particle-Filter-Playbooks_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

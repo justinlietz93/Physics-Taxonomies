@@ -1,5 +1,6 @@
 # F2-L5_Nonlinear-Observer-Toolkits — Family Index
-**Definition:** Analytical observer designs that tackle curved dynamics with extensions, gains, and sliding strategies.
+**Definition:** Explore how analytic tricks that tame curved dynamics without brute-force sampling.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Extended-vs-Unscented-Choices — comparing nonlinear Kalman variants for curved models.
-- G2-L6_Sliding-Mode-&-High-Gain-Observers — robust observers that fight disturbances with aggressive gains.
+- G1-L6_Nonlinear-Observer-Toolkits_Foundations — core principles and baseline exemplars.
+- G2-L6_Nonlinear-Observer-Toolkits_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

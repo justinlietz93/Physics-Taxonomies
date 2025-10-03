@@ -1,5 +1,5 @@
 # F1-L5_Surface-Damage_Surveys — Family Index
-**Definition:** Walks through how to read sensors and scars on hardware right after an impact. It keeps the inspection steps beginner-friendly.
+**Definition:** Explore how Read dents, scratches, and load cells as a force diary.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Sensor-Embedded_Testbeds** — Built-in gauges and pads that log impact loads for you.
-- **G2-L6_High-Speed_Imaging_Shops** — Cameras and lighting rigs that freeze impact deformation.
+- G1-L6_Surface-Damage_Surveys_Foundations — core principles and baseline exemplars.
+- G2-L6_Surface-Damage_Surveys_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

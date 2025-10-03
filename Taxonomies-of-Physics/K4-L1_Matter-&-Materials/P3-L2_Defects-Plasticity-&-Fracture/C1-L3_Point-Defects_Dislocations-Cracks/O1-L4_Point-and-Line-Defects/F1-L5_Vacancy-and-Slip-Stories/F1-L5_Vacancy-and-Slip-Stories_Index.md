@@ -1,5 +1,5 @@
 # F1-L5_Vacancy-and-Slip-Stories — Family Index
-**Definition:** Collects everyday metal forming tales that depend on defects moving or piling up.
+**Definition:** Explore how Metal forming that depends on defects in motion.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Metal-Crystal_Slip-Examples** — Simple bends that expose slip bands and hardening.
+- G1-L6_Vacancy-and-Slip-Stories_Foundations — core principles and baseline exemplars.
+- G2-L6_Vacancy-and-Slip-Stories_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

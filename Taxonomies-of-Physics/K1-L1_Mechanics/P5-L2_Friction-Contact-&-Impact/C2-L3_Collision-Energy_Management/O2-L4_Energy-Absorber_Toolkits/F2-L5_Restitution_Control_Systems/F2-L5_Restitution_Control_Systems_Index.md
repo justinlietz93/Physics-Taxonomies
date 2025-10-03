@@ -1,5 +1,5 @@
 # F2-L5_Restitution_Control_Systems — Family Index
-**Definition:** Shows how adjustable stops and smart fluids trim bounce and settle time after a hit. It pairs tuning knobs with inspection notes.
+**Definition:** Explore how Tune stops and fluid devices to control rebound and settle time.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Adjustable_Stopper_Rigs** — Mechanical stops you can dial in for repeatable catches.
-- **G2-L6_Smart-Fluid_Bumpers** — Fluid or magnetorheological bumpers that adapt on the fly.
+- G1-L6_Restitution_Control_Systems_Foundations — core principles and baseline exemplars.
+- G2-L6_Restitution_Control_Systems_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

@@ -1,5 +1,5 @@
 # F1-L5_Dashpot-and-Spring-Analogies — Family Index
-**Definition:** Collects hands-on poke tests where creep and recovery reveal viscoelastic parameters.
+**Definition:** Explore how Poke-and-hold tests translating to spring-dashpot charts.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Putty-and-Gel-Tests** — Kitchen gels showing slow spring-back and creep.
+- G1-L6_Dashpot-and-Spring-Analogies_Foundations — core principles and baseline exemplars.
+- G2-L6_Dashpot-and-Spring-Analogies_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

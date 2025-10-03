@@ -1,5 +1,5 @@
 # F1-L5_Medium-Property-Links — Family Index
-**Definition:** Uses density and stiffness intuition to estimate how fast waves move in strings, air, and water.
+**Definition:** Explore how translating stiffness and inertia numbers into everyday wave speeds.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_String-vs-Air-Speeds** — contrasting taut strings with compressible air columns.
+- G1-L6_Medium-Property-Links_Foundations — core principles and baseline exemplars.
+- G2-L6_Medium-Property-Links_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

@@ -1,5 +1,5 @@
 # F1-L5_Noise-Models — Family Index
-**Definition:** Provides the stochastic equations and spectral descriptions used to represent noisy driving forces.
+**Definition:** Explore how mathematical recipes to represent white, colored, and bursty noise.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_White-vs-Colored-Noise** — distinguishing flat spectra from frequency-weighted noise.
+- G1-L6_Noise-Models_Foundations — core principles and baseline exemplars.
+- G2-L6_Noise-Models_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

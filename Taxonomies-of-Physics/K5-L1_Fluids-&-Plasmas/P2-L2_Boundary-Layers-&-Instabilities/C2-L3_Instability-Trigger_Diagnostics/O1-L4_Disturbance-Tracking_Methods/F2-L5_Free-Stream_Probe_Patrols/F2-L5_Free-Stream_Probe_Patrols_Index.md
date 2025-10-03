@@ -1,5 +1,6 @@
 # F2-L5_Free-Stream_Probe_Patrols — Family Index
-**Definition:** Movable probes that cruise just above the wall to capture disturbance growth in the free stream.
+**Definition:** Explore how moving sensors that sample flow just above the wall.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Pitot-and_Probe_Rigs — classic booms and wands sampling speed and direction.
-- G2-L6_Acoustic-and_Light_Scouts — sonic and optical beams that map flow without touching it.
+- G1-L6_Free-Stream_Probe_Patrols_Foundations — core principles and baseline exemplars.
+- G2-L6_Free-Stream_Probe_Patrols_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

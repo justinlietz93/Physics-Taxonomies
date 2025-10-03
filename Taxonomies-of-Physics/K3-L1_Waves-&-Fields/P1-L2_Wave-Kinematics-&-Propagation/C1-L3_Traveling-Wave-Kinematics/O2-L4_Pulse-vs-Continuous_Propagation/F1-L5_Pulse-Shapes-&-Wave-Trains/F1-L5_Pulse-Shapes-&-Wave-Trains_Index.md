@@ -1,5 +1,5 @@
 # F1-L5_Pulse-Shapes-&-Wave-Trains — Family Index
-**Definition:** Looks at how single bumps and repeating waves evolve as they travel through water, strings, or springs.
+**Definition:** Explore how viewing localized bumps versus repeating cycles in real media.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Water-Ripples_vs_Slinky** — contrasting ripples on water with pulses sent down a toy spring.
+- G1-L6_Pulse-Shapes-&-Wave-Trains_Foundations — core principles and baseline exemplars.
+- G2-L6_Pulse-Shapes-&-Wave-Trains_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

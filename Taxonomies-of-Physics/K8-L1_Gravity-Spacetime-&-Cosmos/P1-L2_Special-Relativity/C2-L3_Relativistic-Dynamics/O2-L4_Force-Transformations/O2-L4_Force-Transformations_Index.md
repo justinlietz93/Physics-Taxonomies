@@ -11,7 +11,8 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Family (L5) — index
-- F1-L5_Power-vs-Thrust_Comparisons — translating rocket thrust and power between ship and Earth frames.
+- **F1-L5_Power-vs-Thrust_Comparisons** — translating rocket thrust and power between ship and Earth frames.
+- **F2-L5_Relativistic_Force_Toolkits** — translating forces between frames for engines, beams, and fields.
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
 ## Species (L7) — everyday exemplars

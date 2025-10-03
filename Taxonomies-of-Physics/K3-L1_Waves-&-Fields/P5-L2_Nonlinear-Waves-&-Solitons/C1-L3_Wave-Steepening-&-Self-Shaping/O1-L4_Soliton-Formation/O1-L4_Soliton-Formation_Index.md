@@ -13,7 +13,7 @@
 
 ## Family (L5) — index
 - **F1-L5_Soliton-Examples** — cataloging water, traffic, and light pulses that retain shape.
-
+- **F2-L5_Soliton_Control_Applications** — engineering uses of solitons in fibers, fluids, and traffic flows.
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
 ## Species (L7) — everyday exemplars

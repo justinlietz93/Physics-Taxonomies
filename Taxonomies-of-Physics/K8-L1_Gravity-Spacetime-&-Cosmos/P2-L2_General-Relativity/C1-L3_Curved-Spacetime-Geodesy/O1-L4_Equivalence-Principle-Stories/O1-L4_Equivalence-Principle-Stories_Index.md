@@ -11,7 +11,8 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Family (L5) — index
-- F1-L5_Elevator-Thought-Experiments — elevators and rockets swapping gravity with acceleration.
+- **F1-L5_Elevator-Thought-Experiments** — elevators and rockets swapping gravity with acceleration.
+- **F2-L5_Equivalence_Tests** — drop towers, torsion balances, and atomic clocks probing equivalence.
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
 ## Species (L7) — everyday exemplars

@@ -1,5 +1,6 @@
 # F1-L5_State-Transition-Maps — Family Index
-**Definition:** Lays out Markov state diagrams that capture how systems hop between working, degraded, and failed states.
+**Definition:** Explore how mapping how systems hop between healthy and faulted conditions.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Reliability-State-Diagrams — modeling uptime, repair, and failure modes.
-- G2-L6_Customer-Journey-Markov — tracking how users move through service touchpoints.
+- G1-L6_State-Transition-Maps_Foundations — core principles and baseline exemplars.
+- G2-L6_State-Transition-Maps_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

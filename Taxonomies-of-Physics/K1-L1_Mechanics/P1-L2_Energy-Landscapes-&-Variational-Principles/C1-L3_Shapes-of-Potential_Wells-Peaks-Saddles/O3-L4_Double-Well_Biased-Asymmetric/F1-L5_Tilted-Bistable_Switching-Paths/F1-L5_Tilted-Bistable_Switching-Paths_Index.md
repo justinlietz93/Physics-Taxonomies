@@ -1,5 +1,5 @@
 # F1-L5_Tilted-Bistable_Switching-Paths — Family Index
-**Definition:** Looks at asymmetric double wells where one basin sits lower, showing how the tilt steers switching attempts.
+**Definition:** Explore how biased double wells guiding how systems hop between favored and unfavored states.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Shifted-Minima_Energy-Diagrams** — compare landscape sketches that reveal how a lowered basin biases the resting state.
-- **G2-L6_Biased-Switching_Dynamics** — follow motion and damping that make one transition path easier than the reverse hop.
+- G1-L6_Tilted-Bistable_Switching-Paths_Foundations — core principles and baseline exemplars.
+- G2-L6_Tilted-Bistable_Switching-Paths_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

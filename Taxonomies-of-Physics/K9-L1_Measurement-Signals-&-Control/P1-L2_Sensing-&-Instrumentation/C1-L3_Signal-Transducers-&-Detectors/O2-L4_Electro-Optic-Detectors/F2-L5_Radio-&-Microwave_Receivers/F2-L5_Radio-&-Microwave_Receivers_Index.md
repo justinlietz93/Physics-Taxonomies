@@ -1,5 +1,6 @@
 # F2-L5_Radio-&-Microwave_Receivers — Family Index
-**Definition:** Antenna-plus-front-end designs that down-convert electromagnetic waves into baseband signals ready for decoding.
+**Definition:** Explore how antennas plus mixers translating fields into usable baseband signals.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Superhet-vs-Direct-Conversion-Front-Ends — contrasting multi-stage mixers with software-defined radio pipelines.
+- G1-L6_Radio-&-Microwave_Receivers_Foundations — core principles and baseline exemplars.
+- G2-L6_Radio-&-Microwave_Receivers_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

@@ -1,5 +1,6 @@
 # F1-L5_White-vs-Pink-Noise — Family Index
-**Definition:** Compares flat-spectrum hiss with 1/f-rich textures when tuning rooms, audio rigs, or machinery baselines.
+**Definition:** Explore how contrasting flat and 1/f textures used to benchmark rooms or machines.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Audio-Noise-Floors — measuring hiss floors in studios and streaming setups.
-- G2-L6_Industrial-Vibration-Bands — mapping how rotating gear spreads noise over harmonics.
+- G1-L6_White-vs-Pink-Noise_Foundations — core principles and baseline exemplars.
+- G2-L6_White-vs-Pink-Noise_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

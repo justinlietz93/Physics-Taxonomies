@@ -1,5 +1,6 @@
 # F1-L5_Twin-Clock-Parables — Family Index
-**Definition:** Stories that pit one traveler against a stay-at-home clock to reveal relativity’s timing quirks.
+**Definition:** Explore how matching moving and resting clocks to explain time shifts.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Moving-vs-Resting-Clocks — comparing clocks carried on trips versus those left at home.
+- G1-L6_Twin-Clock-Parables_Foundations — core principles and baseline exemplars.
+- G2-L6_Twin-Clock-Parables_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

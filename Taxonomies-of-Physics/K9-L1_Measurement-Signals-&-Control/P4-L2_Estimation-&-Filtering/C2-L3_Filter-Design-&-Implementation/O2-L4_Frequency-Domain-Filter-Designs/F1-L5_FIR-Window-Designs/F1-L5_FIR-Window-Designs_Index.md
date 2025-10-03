@@ -1,5 +1,6 @@
 # F1-L5_FIR-Window-Designs — Family Index
-**Definition:** Linear-phase FIR filters crafted by windowing ideal responses and trimming ripples.
+**Definition:** Explore how linear-phase filters built from windowed impulse responses.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Window-Function-Selections — choosing Hamming, Blackman, and other windows.
-- G2-L6_Linear-Phase-Implementation — implementing linear-phase FIRs efficiently.
+- G1-L6_FIR-Window-Designs_Foundations — core principles and baseline exemplars.
+- G2-L6_FIR-Window-Designs_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

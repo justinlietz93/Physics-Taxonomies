@@ -1,5 +1,5 @@
 # F2-L5_Stop-and-Step-Force-Stories — Family Index
-**Definition:** Covers sudden pushes and brakes where forces jump on or off yet stay near constant while active.
+**Definition:** Explore how Sudden starts and stops that sit on flat force plateaus while active.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Sudden-Brake-and-Seatbelt-Cases** — Stops where restraints tame abrupt deceleration.
-- **G2-L6_Switch-On_Push-Start-Tests** — Quick-start shoves that launch carts or toys from rest.
+- G1-L6_Stop-and-Step-Force-Stories_Foundations — core principles and baseline exemplars.
+- G2-L6_Stop-and-Step-Force-Stories_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

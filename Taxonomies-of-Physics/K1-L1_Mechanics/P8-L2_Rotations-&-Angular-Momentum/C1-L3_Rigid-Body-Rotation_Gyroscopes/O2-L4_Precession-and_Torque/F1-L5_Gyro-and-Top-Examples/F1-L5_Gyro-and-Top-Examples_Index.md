@@ -1,5 +1,5 @@
 # F1-L5_Gyro-and-Top-Examples — Family Index
-**Definition:** Looks at tops, gyros, and pendulums whose axes precess under gravity.
+**Definition:** Explore how Spinning tops and pendulums showing slow precession.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Spinning-Top-and-Earth** — From toy tops to Earth’s axis precessing slowly.
+- G1-L6_Gyro-and-Top-Examples_Foundations — core principles and baseline exemplars.
+- G2-L6_Gyro-and-Top-Examples_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

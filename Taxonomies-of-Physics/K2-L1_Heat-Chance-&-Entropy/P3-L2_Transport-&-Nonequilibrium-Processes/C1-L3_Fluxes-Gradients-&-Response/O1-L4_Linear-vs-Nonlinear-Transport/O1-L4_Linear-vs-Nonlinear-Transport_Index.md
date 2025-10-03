@@ -13,7 +13,7 @@
 
 ## Family (L5) — index
 - **F1-L5_Transport-Laws** — catalogues diffusion, conduction, viscosity, and nonlinear current rules.
-
+- **F2-L5_Transport_Nonlinearity_Casebook** — examples where linear laws fail and how to model nonlinear response.
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
 ## Species (L7) — everyday exemplars

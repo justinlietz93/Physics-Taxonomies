@@ -1,5 +1,6 @@
 # F2-L5_Mid-Range_Power_Links — Family Index
-**Definition:** Resonant couplers that deliver watts across larger gaps for drones, robots, and implants.
+**Definition:** Explore how resonant couplers that deliver watts over larger gaps.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Drone_Docking_Couplers — align aerial robots with resonant pads.
-- G2-L6_Implant_Power_Bridges — keep medical implants charged through skin safely.
+- G1-L6_Mid-Range_Power_Links_Foundations — core principles and baseline exemplars.
+- G2-L6_Mid-Range_Power_Links_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

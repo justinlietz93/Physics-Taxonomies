@@ -1,5 +1,6 @@
 # F1-L5_Audio-&-Vibration-Spectra — Family Index
-**Definition:** Applying spectral analysis to audio clips and rotating machinery to spot tones, imbalance, and harmonics.
+**Definition:** Explore how reading FFT magnitudes to diagnose tones and balance rotors.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Music-Mix-vs-Machine-Diagnostics — contrasting studio EQ tweaks with maintenance vibration checks.
+- G1-L6_Audio-&-Vibration-Spectra_Foundations — core principles and baseline exemplars.
+- G2-L6_Audio-&-Vibration-Spectra_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

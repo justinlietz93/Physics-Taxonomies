@@ -1,5 +1,5 @@
 # F1-L5_Momentum-Conservation-Labs — Family Index
-**Definition:** Collects lab setups that make total momentum conservation visible with low friction.
+**Definition:** Explore how Low-friction demos that verify total momentum stays the same.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Air-Track-and_Puck-Runs** — Nearly frictionless tracks showing momentum swaps.
-- **G2-L6_Two-Skate_Push-Offs** — People on low-friction shoes demonstrating equal and opposite recoil.
+- G1-L6_Momentum-Conservation-Labs_Foundations — core principles and baseline exemplars.
+- G2-L6_Momentum-Conservation-Labs_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

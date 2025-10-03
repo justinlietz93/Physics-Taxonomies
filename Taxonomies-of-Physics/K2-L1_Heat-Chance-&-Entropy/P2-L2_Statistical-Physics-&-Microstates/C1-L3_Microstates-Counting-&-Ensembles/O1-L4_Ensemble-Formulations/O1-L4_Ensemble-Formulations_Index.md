@@ -13,7 +13,7 @@
 
 ## Family (L5) — index
 - **F1-L5_Ensemble-Toolkits** — partition functions, probability weights, and constraints for each ensemble.
-
+- **F2-L5_Ensemble_Equivalence_Checks** — conditions where different ensembles agree or diverge in predictions.
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
 ## Species (L7) — everyday exemplars

@@ -1,6 +1,5 @@
 # F11-L5_Multidimensional_Isotropic-Radial-Bowl — Family Index
-
-**Definition:** A symmetric bowl in many directions; behavior same no matter which way you poke.
+**Definition:** Explore how same curvature in all directions; spherical stiffness.
 
 ## Overarching Lenses
 
@@ -13,8 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Isotropic_Restore_Tests** — verifying the bowl feels the same no matter the direction.
-- **G2-L6_Radial_Trap_Designs** — designing caged fields that tug equally from all sides.
+- G1-L6_Multidimensional_Isotropic-Radial-Bowl_Foundations — core principles and baseline exemplars.
+- G2-L6_Multidimensional_Isotropic-Radial-Bowl_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars
-_(See Genus folders for everyday case notes.)_

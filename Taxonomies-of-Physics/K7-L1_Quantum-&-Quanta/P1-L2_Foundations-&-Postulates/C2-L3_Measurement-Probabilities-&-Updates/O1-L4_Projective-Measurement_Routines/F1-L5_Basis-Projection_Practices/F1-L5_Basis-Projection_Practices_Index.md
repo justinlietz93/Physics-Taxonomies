@@ -1,5 +1,6 @@
 # F1-L5_Basis-Projection_Practices — Family Index
-**Definition:** Alignment routines that make the chosen measurement basis show up cleanly on detectors.
+**Definition:** Explore how align analyzers with the basis you want to probe.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Stern-Gerlach_Workflows — walk spin analyzers through calibration and sampling.
-- G2-L6_Optical_Polarizer_Stacks — stack and align polarizers for crisp projection outcomes.
+- G1-L6_Basis-Projection_Practices_Foundations — core principles and baseline exemplars.
+- G2-L6_Basis-Projection_Practices_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

@@ -1,5 +1,5 @@
 # F2-L5_Digital_Imaging_Monitoring — Family Index
-**Definition:** Teaches how to use cameras and speckle patterns to capture full-field strain without touching the part.
+**Definition:** Explore how Camera-based strain maps that cover wide areas fast.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Speckle-Pattern_Cameras** — Set up digital image correlation rigs.
-- **G2-L6_Drone_Surface_Surveys** — Fly drones to map strains over big infrastructure.
+- G1-L6_Digital_Imaging_Monitoring_Foundations — core principles and baseline exemplars.
+- G2-L6_Digital_Imaging_Monitoring_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

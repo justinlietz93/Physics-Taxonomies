@@ -1,5 +1,6 @@
 # F1-L5_Basis-Choice_Toolkits — Family Index
-**Definition:** Guides for picking the basis—spin, polarization, position, momentum—that makes a quantum problem workable.
+**Definition:** Explore how translate between bases that make physics or hardware simple.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Spinor_vs_Polarization_Bases — swap between spinor axes and polarization states.
-- G2-L6_Position_vs_Momentum_Views — choose wavefunction pictures that simplify dynamics.
+- G1-L6_Basis-Choice_Toolkits_Foundations — core principles and baseline exemplars.
+- G2-L6_Basis-Choice_Toolkits_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

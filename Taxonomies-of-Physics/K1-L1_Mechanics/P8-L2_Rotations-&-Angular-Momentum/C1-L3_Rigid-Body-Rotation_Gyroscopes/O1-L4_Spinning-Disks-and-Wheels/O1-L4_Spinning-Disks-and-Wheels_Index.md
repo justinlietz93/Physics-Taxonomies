@@ -13,7 +13,7 @@
 
 ## Family (L5) — index
 - **F1-L5_Wheel-Spin-Stories** — Everyday spins conserving angular momentum.
-
+- **F2-L5_Rotor_Balance_Clinics** — balancing and flywheel design to keep spins steady.
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
 

@@ -13,7 +13,7 @@
 
 ## Family (L5) — index
 - **F1-L5_Daily-Scattering-Scenes** — relatable examples of light and radar bouncing off matter.
-
+- **F2-L5_Scatter_Signature_Libraries** — catalogs linking object shapes to scattering fingerprints for sensing.
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
 ## Species (L7) — everyday exemplars

@@ -1,5 +1,5 @@
 # F1-L5_2D-Electron-Examples — Family Index
-**Definition:** Collects lab chips and cleanroom devices where Hall plateaus show up clearly.
+**Definition:** Explore how Chip-scale systems showcasing quantized Hall steps.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Lab-Chip_Hall-Bars** — Hall bar devices making topological plateaus visible.
+- G1-L6_2D-Electron-Examples_Foundations — core principles and baseline exemplars.
+- G2-L6_2D-Electron-Examples_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

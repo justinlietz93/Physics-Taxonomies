@@ -1,5 +1,5 @@
 # F1-L5_Local-Quadratic-Bowl_Hooke-like — Family Index
-**Definition:** Near the minimum, the potential is well-approximated by a parabola; Hooke’s law captures restoring forces for small motions.
+**Definition:** Explore how near-bottom behavior matches a harmonic spring.
 
 ## Overarching Lenses
 
@@ -12,11 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Translational-Harmonic_Oscillator** — masses sliding on springs in one direction.
-- **G2-L6_Torsional-Harmonic_Oscillator** — twist springs where angle is the coordinate.
-- **G3-L6_Small-Angle_Pendulum_as-Harmonic** — pendula linearized around hanging equilibrium.
-- **G4-L6_Vertical-Spring_Shifted-Equilibrium** — gravity-biased springs with a new rest point.
-- **G5-L6_Multi-DOF_Decoupled-Harmonics_(Orthogonal-Axes)** — independent spring modes along perpendicular axes.
+- G1-L6_Local-Quadratic-Bowl_Hooke-like_Foundations — core principles and baseline exemplars.
+- G2-L6_Local-Quadratic-Bowl_Hooke-like_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars
-_(See Genus folders for concrete cases.)_

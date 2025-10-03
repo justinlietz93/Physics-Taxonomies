@@ -1,5 +1,6 @@
 # F1-L5_Wall-Mounted_Scouts — Family Index
-**Definition:** Surface-bound indicators that make invisible boundary-layer wiggles easy to see or log.
+**Definition:** Explore how tufts, schlieren, and smart skins glued to the surface.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Tuft-and_Schlieren_Kits — simple visual aids that reveal flow attachment.
-- G2-L6_Smart-Skin_Panels — embedded sensors that feel shear and strain.
+- G1-L6_Wall-Mounted_Scouts_Foundations — core principles and baseline exemplars.
+- G2-L6_Wall-Mounted_Scouts_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

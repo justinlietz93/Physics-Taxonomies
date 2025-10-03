@@ -1,5 +1,5 @@
 # F2-L5_Spectral-Bandwidth_Strategies — Family Index
-**Definition:** Focuses on widening or narrowing resonance peaks through damping, materials, or smart controls.
+**Definition:** Explore how damping or re-filling cavities to set resonance width on purpose.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Damping-and_Q_Tools** — methods that add loss to tame sharp peaks.
-- **G2-L6_Tunable-Fill_Adjustments** — inserts and fluids that reshape cavity bandwidth on the fly.
+- G1-L6_Spectral-Bandwidth_Strategies_Foundations — core principles and baseline exemplars.
+- G2-L6_Spectral-Bandwidth_Strategies_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

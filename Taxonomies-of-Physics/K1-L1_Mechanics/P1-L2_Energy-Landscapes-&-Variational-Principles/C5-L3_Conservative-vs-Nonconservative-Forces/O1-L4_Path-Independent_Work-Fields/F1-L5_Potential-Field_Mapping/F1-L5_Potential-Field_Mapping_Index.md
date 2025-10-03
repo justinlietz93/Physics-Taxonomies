@@ -1,5 +1,6 @@
 # F1-L5_Potential-Field_Mapping — Family Index
-**Definition:** Toolkits for sketching potential landscapes so conservative forces become easy to read and integrate.
+**Definition:** Explore how chart potential surfaces that guarantee path-independent work.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Potential-Surface_Surveys — compare maps that show where energy sits high or low.
-- G2-L6_Closed-Loop_Work-Verification — test loops to confirm net work cancels.
+- G1-L6_Potential-Field_Mapping_Foundations — core principles and baseline exemplars.
+- G2-L6_Potential-Field_Mapping_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

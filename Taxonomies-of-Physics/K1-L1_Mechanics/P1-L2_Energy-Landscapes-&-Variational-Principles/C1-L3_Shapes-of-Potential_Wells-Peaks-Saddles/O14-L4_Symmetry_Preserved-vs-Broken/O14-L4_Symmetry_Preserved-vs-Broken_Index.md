@@ -13,7 +13,7 @@
 
 ## Family (L5) — index
 - **F1-L5_Symmetry-Transition_Storyboards** — narratives of when symmetry holds and when it breaks.
-
+- **F2-L5_Symmetry_Breaking_Signatures** — observables that flag when broken symmetry spawns new equilibria or phases.
 ## Genus (L6)
 
 _(Insert Genus folders `G*-L6_*` between Family and Species; each Genus contains several Species.)_

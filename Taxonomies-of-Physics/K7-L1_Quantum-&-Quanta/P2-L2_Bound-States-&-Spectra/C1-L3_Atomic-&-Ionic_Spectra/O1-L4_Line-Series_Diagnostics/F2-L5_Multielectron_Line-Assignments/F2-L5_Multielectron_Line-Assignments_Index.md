@@ -1,5 +1,6 @@
 # F2-L5_Multielectron_Line-Assignments — Family Index
-**Definition:** Strategies to decode crowded spectra from sodium lamps, neon signs, and hot plasmas.
+**Definition:** Explore how untangling blended lines in real elements with many electrons.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Sodium-&-Neon_Line-Maps — everyday lighting spectra matched to transition tables.
-- G2-L6_Plasma_Diagnostics_Templates — sorting lab plasma lines by charge state and temperature.
+- G1-L6_Multielectron_Line-Assignments_Foundations — core principles and baseline exemplars.
+- G2-L6_Multielectron_Line-Assignments_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

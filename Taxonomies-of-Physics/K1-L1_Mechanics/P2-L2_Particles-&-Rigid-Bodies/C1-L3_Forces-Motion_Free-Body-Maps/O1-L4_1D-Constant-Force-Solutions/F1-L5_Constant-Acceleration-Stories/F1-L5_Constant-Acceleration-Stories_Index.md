@@ -1,5 +1,5 @@
 # F1-L5_Constant-Acceleration-Stories — Family Index
-**Definition:** Collects everyday constant-acceleration setups and phrases them in plain language.
+**Definition:** Explore how Everyday cases of steady speeding up or slowing down.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Ramp-and-Launch-Cases** — Slides and tosses where gravity sets the pace.
-- **G2-L6_Elevator-and-Launchpad-Rides** — Lift systems and rockets that add smooth vertical acceleration.
+- G1-L6_Constant-Acceleration-Stories_Foundations — core principles and baseline exemplars.
+- G2-L6_Constant-Acceleration-Stories_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

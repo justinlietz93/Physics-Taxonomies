@@ -1,5 +1,5 @@
 # F2-L5_Impulse-Sharing-Scenarios — Family Index
-**Definition:** Looks at cushioned stops and spreads where impulse is shared to protect fragile parts.
+**Definition:** Explore how Cushioned contacts that stretch impulse over time.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Bumper-Car-and-Cart-Pairs** — Everyday rides and carts that trade momentum gently.
-- **G2-L6_Collision-Pad-Softeners** — Cushions and airbags that lengthen the force pulse.
+- G1-L6_Impulse-Sharing-Scenarios_Foundations — core principles and baseline exemplars.
+- G2-L6_Impulse-Sharing-Scenarios_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

@@ -1,5 +1,5 @@
 # F1-L5_Longitudinal-vs-Shear_Comparisons — Family Index
-**Definition:** Simple coupons and cores that contrast compression versus shear speeds for common materials.
+**Definition:** Explore how Bench tests that contrast compression and shear travel times.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Ultrasonic_Coupons** — Lab pulses through small samples to get bulk-wave speed charts.
-- **G2-L6_Seismic_Core_Logs** — Field teams ping borehole cores to calibrate subsurface models.
+- G1-L6_Longitudinal-vs-Shear_Comparisons_Foundations — core principles and baseline exemplars.
+- G2-L6_Longitudinal-vs-Shear_Comparisons_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

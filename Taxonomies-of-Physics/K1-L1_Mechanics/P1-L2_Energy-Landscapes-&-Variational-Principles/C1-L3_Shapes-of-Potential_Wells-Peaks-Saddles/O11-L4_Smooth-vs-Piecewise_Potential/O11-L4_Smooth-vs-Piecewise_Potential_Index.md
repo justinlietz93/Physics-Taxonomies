@@ -13,7 +13,7 @@
 
 ## Family (L5) — index
 - **F1-L5_Surface-Continuity_Audits** — checks that contrast gentle bowls with sharp-edged kinks.
-
+- **F2-L5_Cornered-vs_Smooth_Consequences** — practical consequences when smooth bowls or kinked potentials steer forces differently.
 ## Genus (L6)
 
 _(Insert Genus folders `G*-L6_*` between Family and Species; each Genus contains several Species.)_

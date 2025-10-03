@@ -1,5 +1,5 @@
 # F2-L5_Signal_Integrity_Toolkits — Family Index
-**Definition:** Collects bench gear that corrects dispersion for high-speed electronics and RF front ends.
+**Definition:** Explore how bench hardware that flattens dispersion for high-speed electronics and RF chains.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_PCB_Dispersion_Mitigation** — board-level fixes that keep digital edges crisp.
-- **G2-L6_RF_Phase_Equalizers** — RF equalizers that align phase and group delay in communication chains.
+- G1-L6_Signal_Integrity_Toolkits_Foundations — core principles and baseline exemplars.
+- G2-L6_Signal_Integrity_Toolkits_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

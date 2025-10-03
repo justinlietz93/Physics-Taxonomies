@@ -1,5 +1,5 @@
 # F1-L5_Free-Energy-Landscape-Tools — Family Index
-**Definition:** Provides the graphs and comparisons that reveal which processes run spontaneously or need work input.
+**Definition:** Explore how charts and inequalities that show which process direction is favored.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Free-Energy-Comparisons** — ranking states with Legendre transforms and stability checks.
+- G1-L6_Free-Energy-Landscape-Tools_Foundations — core principles and baseline exemplars.
+- G2-L6_Free-Energy-Landscape-Tools_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

@@ -1,5 +1,5 @@
 # F2-L5_Electronic_Threshold_Devices — Family Index
-**Definition:** Circuits and materials with hysteretic transfer curves that clean noisy signals into rock-solid logic levels.
+**Definition:** Explore how circuits and materials that use hysteretic transfer curves to hold logic states.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Schmitt_Trigger_Stages** — comparator circuits with positive feedback that give two distinct switching thresholds.
-- **G2-L6_Memory_Material_Cells** — phase-change and resistive elements that stick in high or low conduction states.
+- G1-L6_Electronic_Threshold_Devices_Foundations — core principles and baseline exemplars.
+- G2-L6_Electronic_Threshold_Devices_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

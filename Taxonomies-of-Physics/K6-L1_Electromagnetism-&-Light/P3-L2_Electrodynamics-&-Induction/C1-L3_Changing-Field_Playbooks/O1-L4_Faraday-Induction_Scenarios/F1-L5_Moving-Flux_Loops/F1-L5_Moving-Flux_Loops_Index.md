@@ -1,5 +1,6 @@
 # F1-L5_Moving-Flux_Loops — Family Index
-**Definition:** Rotate or translate conductors through magnetic fields to generate useful voltages and currents.
+**Definition:** Explore how rotate or slide conductors through field lines to source current.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Rotating-Loop_Induction — spin conductors through flux to make AC power.
-- G2-L6_Sliding-Conductor_Sweeps — move straight conductors to tap motional emf.
+- G1-L6_Moving-Flux_Loops_Foundations — core principles and baseline exemplars.
+- G2-L6_Moving-Flux_Loops_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

@@ -13,7 +13,7 @@
 
 ## Family (L5) — index
 - **F1-L5_Medium-Property-Links** — translating stiffness and inertia numbers into everyday wave speeds.
-
+- **F2-L5_Wave_Speed_Field_Guides** — field measurements benchmarking wave speeds in solids, liquids, and gases.
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
 ## Species (L7) — everyday exemplars

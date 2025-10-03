@@ -1,5 +1,5 @@
 # F1-L5_Shallow-Gradient_Drift-Cases — Family Index
-**Definition:** Focuses on soft axes of the landscape that allow gradual creep unless guarded.
+**Definition:** Explore how nearly flat directions where systems drift slowly instead of snapping back.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Fine-Tune_Modeling_Tools** — models and tune-ups for gentle slopes.
-- **G2-L6_Drift-Stability_Safeguards** — practical guardrails that keep soft directions from wandering too far.
+- G1-L6_Shallow-Gradient_Drift-Cases_Foundations — core principles and baseline exemplars.
+- G2-L6_Shallow-Gradient_Drift-Cases_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

@@ -1,5 +1,6 @@
 # F1-L5_Single-Source_Field-Stories — Family Index
-**Definition:** Quick sketches that turn lone charges or dipoles into field-line and equipotential maps you can picture.
+**Definition:** Explore how sketch lines and equipotentials from lone charges or dipoles.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Point-Charge_Field-Maps — radial spreads and equipotential shells from single charges.
-- G2-L6_Dipole_Pattern_Snapshots — paired poles with swooping lines and lobed potentials.
+- G1-L6_Single-Source_Field-Stories_Foundations — core principles and baseline exemplars.
+- G2-L6_Single-Source_Field-Stories_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

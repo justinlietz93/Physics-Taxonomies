@@ -1,5 +1,6 @@
 # F1-L5_Head-Loss_Scenarios — Family Index
-**Definition:** Everyday piping loops that highlight how elbows, valves, and pipe choices eat away pump headroom.
+**Definition:** Explore how pairing real piping layouts with friction and fitting penalties.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Household_Circuits — tracking pressure drops in familiar home loops.
-- G2-L6_Campus-Utility_Rings — balancing long-distance distribution networks.
+- G1-L6_Head-Loss_Scenarios_Foundations — core principles and baseline exemplars.
+- G2-L6_Head-Loss_Scenarios_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

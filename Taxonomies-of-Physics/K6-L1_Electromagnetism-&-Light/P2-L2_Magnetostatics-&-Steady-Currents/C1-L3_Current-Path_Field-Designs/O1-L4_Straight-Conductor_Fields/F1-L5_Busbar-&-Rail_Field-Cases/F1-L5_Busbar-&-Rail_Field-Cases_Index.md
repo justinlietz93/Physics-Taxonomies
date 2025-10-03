@@ -1,5 +1,6 @@
 # F1-L5_Busbar-&-Rail_Field-Cases — Family Index
-**Definition:** Field surveys and simulations around straight conductors that guide clearances and shielding.
+**Definition:** Explore how quantify fields near power rails and busbars for clearance and safety.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Single-Conductor_Field_Sweeps — azimuthal fields around isolated busbars and rails.
-- G2-L6_Multi-Rail_Clearance_Studies — combined fields from bundles that influence spacing rules.
+- G1-L6_Busbar-&-Rail_Field-Cases_Foundations — core principles and baseline exemplars.
+- G2-L6_Busbar-&-Rail_Field-Cases_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

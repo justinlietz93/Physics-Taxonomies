@@ -1,5 +1,5 @@
 # F1-L5_Logistic-and-Tent-Maps — Family Index
-**Definition:** Walks through logistic-style updates that move from steady values to cycles to chaos.
+**Definition:** Explore how Update rules that spiral through doubling routes to chaos.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Population-Update-Stories** — Kitchen chemistry and hobby builds mimicking logistic growth.
+- G1-L6_Logistic-and-Tent-Maps_Foundations — core principles and baseline exemplars.
+- G2-L6_Logistic-and-Tent-Maps_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

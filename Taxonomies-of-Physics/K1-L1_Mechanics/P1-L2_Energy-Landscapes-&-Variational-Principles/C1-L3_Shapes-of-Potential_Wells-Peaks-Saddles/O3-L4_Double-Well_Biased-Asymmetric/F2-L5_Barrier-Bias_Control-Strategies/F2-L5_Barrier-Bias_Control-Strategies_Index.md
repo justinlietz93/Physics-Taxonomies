@@ -1,5 +1,5 @@
 # F2-L5_Barrier-Bias_Control-Strategies — Family Index
-**Definition:** Focuses on how designers adjust fields, loads, or geometry to favor one well and suppress unwanted switching.
+**Definition:** Explore how ways engineers tune asymmetry or loads to manage which basin wins.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Field-Tuned_Asymmetry-Plans** — use external fields or offsets to reshape the barrier and deepen the desired basin.
-- **G2-L6_Load-Compensation_Checklists** — practical tweaks to balance or preload components so biased wells stay reliable.
+- G1-L6_Barrier-Bias_Control-Strategies_Foundations — core principles and baseline exemplars.
+- G2-L6_Barrier-Bias_Control-Strategies_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

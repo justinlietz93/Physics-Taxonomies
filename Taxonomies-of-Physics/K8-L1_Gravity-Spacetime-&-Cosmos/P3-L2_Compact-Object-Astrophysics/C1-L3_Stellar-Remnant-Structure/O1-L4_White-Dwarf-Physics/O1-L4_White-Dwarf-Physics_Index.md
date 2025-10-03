@@ -11,7 +11,8 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Family (L5) — index
-- F1-L5_Degeneracy-Pressure-Stories — examples of quantum pressure balancing gravity in white dwarfs.
+- **F1-L5_Degeneracy-Pressure-Stories** — examples of quantum pressure balancing gravity in white dwarfs.
+- **F2-L5_White_Dwarf_Observation_Paths** — spectra, light curves, and mass-radius data checking white dwarf models.
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
 ## Species (L7) — everyday exemplars

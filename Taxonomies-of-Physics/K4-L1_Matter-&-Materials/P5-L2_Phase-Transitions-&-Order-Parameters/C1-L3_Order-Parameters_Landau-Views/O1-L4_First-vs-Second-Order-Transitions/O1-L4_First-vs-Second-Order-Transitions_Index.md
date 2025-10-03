@@ -13,7 +13,7 @@
 
 ## Family (L5) — index
 - **F1-L5_Melting-and-Magnet-Examples** — Kitchen melting and magnet warm-up comparisons.
-
+- **F2-L5_Transition_Diagnostics_Toolkits** — measurements that distinguish latent-heat jumps from smooth critical points.
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
 

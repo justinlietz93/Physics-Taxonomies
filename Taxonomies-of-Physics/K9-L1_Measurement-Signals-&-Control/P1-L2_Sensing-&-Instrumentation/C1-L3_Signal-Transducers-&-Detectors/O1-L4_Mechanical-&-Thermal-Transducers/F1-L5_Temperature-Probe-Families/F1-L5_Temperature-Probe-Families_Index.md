@@ -1,5 +1,6 @@
 # F1-L5_Temperature-Probe-Families — Family Index
-**Definition:** Sensor families that translate heat into resistance, voltage, or frequency signatures suitable for readout electronics.
+**Definition:** Explore how thermocouples, RTDs, and thermistors translating heat into readable signals.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Thermocouple-vs-RTD-Setups — comparing junction-based voltage probes with resistive wire standards.
+- G1-L6_Temperature-Probe-Families_Foundations — core principles and baseline exemplars.
+- G2-L6_Temperature-Probe-Families_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

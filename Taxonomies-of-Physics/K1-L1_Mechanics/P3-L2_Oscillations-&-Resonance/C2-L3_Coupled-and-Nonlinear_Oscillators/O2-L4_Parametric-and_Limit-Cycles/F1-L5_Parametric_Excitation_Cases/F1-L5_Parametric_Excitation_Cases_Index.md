@@ -1,5 +1,5 @@
 # F1-L5_Parametric_Excitation_Cases — Family Index
-**Definition:** Examples where changing a system’s parameters pumps energy into an oscillator.
+**Definition:** Explore how Driving stiffness or length to pump energy into oscillations.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Pendulum-Length_Modulation** — Length-changing pendula that grow swings with small pushes.
-- **G2-L6_Electrical_Parametric_Pumps** — Circuits that vary inductance or capacitance to amplify signals.
+- G1-L6_Parametric_Excitation_Cases_Foundations — core principles and baseline exemplars.
+- G2-L6_Parametric_Excitation_Cases_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

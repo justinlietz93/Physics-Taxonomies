@@ -1,5 +1,6 @@
 # F1-L5_Particle-Collider-Budgets — Family Index
-**Definition:** Energy and momentum ledgers for beams smashing together in accelerators.
+**Definition:** Explore how energy bookkeeping in accelerator beams and collisions.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Beam-vs-Target-Setups — comparing colliding beams with fixed-target experiments.
+- G1-L6_Particle-Collider-Budgets_Foundations — core principles and baseline exemplars.
+- G2-L6_Particle-Collider-Budgets_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

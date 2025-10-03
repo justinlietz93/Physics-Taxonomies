@@ -1,5 +1,6 @@
 # F1-L5_Filtered-Process-Models — Family Index
-**Definition:** Compares filtering playbooks—Kalman, particle, ARMA—that tame noisy measurements into tracked states.
+**Definition:** Explore how comparing Kalman, particle, and ARMA filters for dynamic estimates.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Kalman-vs-Particle-Concepts — teaching when linear, extended, or particle filters shine.
-- G2-L6_ARMA-vs-ARIMA-Usecases — contrasting classic time-series fits for forecasting workloads.
+- G1-L6_Filtered-Process-Models_Foundations — core principles and baseline exemplars.
+- G2-L6_Filtered-Process-Models_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

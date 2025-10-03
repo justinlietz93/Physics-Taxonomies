@@ -1,5 +1,6 @@
 # F1-L5_Shock-Interaction-Scenes — Family Index
-**Definition:** Familiar situations where shock waves bounce, merge, or fade alongside expansion fans.
+**Definition:** Explore how everyday setups where shocks meet fans, walls, or objects.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Jets-vs-Cars — comparing shock stories from supersonic jets to fast-moving vehicles and gadgets.
+- G1-L6_Shock-Interaction-Scenes_Foundations — core principles and baseline exemplars.
+- G2-L6_Shock-Interaction-Scenes_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

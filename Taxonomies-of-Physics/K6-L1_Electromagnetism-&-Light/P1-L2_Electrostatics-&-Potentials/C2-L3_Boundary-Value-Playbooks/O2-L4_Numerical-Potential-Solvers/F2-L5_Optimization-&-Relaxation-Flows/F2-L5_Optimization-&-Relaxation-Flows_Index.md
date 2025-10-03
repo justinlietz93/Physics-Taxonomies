@@ -1,5 +1,6 @@
 # F2-L5_Optimization-&-Relaxation-Flows — Family Index
-**Definition:** Accelerate electrostatic solutions with smarter updates that chase energy downhill quickly.
+**Definition:** Explore how use energy descent and solvers to settle potentials faster.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_SOR-&-Multigrid_Accelerators — blend coarse and fine solves to squash errors rapidly.
-- G2-L6_Variational-&-Energy_Minimizers — pose electrostatics as energy minimization problems.
+- G1-L6_Optimization-&-Relaxation-Flows_Foundations — core principles and baseline exemplars.
+- G2-L6_Optimization-&-Relaxation-Flows_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

@@ -1,5 +1,5 @@
 # F2-L5_Rotation-Based_Oscillators — Family Index
-**Definition:** Highlights oscillations that come from twisting shafts or balancing spinning wheels.
+**Definition:** Explore how Twisting and spinning systems that swing without damping.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Flywheel-Balance_Cycles** — Spin-balanced wheels wobbling about a steady center.
-- **G2-L6_Torsion-Oscillator_Sketches** — Twisting rods that rebound like angular springs.
+- G1-L6_Rotation-Based_Oscillators_Foundations — core principles and baseline exemplars.
+- G2-L6_Rotation-Based_Oscillators_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

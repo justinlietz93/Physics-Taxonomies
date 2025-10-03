@@ -1,5 +1,5 @@
 # F2-L5_Boundary-vs-Umklapp-Scattering — Family Index
-**Definition:** Weighs how surfaces, impurities, and phonon-phonon collisions throttle thermal transport.
+**Definition:** Explore how weigh surface, defect, and phonon-phonon collisions.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Cryostat-vs-Kitchen-Insulation — contrast engineered low-scatter paths with everyday thermal blockers.
+- G1-L6_Boundary-vs-Umklapp-Scattering_Foundations — core principles and baseline exemplars.
+- G2-L6_Boundary-vs-Umklapp-Scattering_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

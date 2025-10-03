@@ -1,5 +1,5 @@
 # F2-L5_Fatigue-and_Cycle_Analytics — Family Index
-**Definition:** Helps crews log loads and run simple fatigue forecasts so service intervals stay honest.
+**Definition:** Explore how Track load histories and models that predict life.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Load-History_Recorders** — Capture load cycles with portable loggers.
-- **G2-L6_Model-Calibration_Workbooks** — Update simple models with fresh data.
+- G1-L6_Fatigue-and_Cycle_Analytics_Foundations — core principles and baseline exemplars.
+- G2-L6_Fatigue-and_Cycle_Analytics_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

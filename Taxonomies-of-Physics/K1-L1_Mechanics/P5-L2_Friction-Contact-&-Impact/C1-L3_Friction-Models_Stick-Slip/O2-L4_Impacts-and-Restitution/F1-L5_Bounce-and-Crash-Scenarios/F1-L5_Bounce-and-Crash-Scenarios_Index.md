@@ -1,5 +1,5 @@
 # F1-L5_Bounce-and-Crash-Scenarios — Family Index
-**Definition:** Collects sports and amusement collisions that illustrate elasticity and energy loss.
+**Definition:** Explore how Sports bounces and ride bumps comparing elasticity.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Ball-and-Bumper-Encounters** — Bouncing balls and bumper nudges as restitution demos.
+- G1-L6_Bounce-and-Crash-Scenarios_Foundations — core principles and baseline exemplars.
+- G2-L6_Bounce-and-Crash-Scenarios_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

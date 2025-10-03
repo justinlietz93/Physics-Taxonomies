@@ -1,5 +1,5 @@
 # F2-L5_Latched_Flexure_Mechanisms — Family Index
-**Definition:** Molded hinges that flex past center to hold panels closed without metal latches or screws.
+**Definition:** Explore how molded hinges that over-travel then lock panels or housings shut.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Snap-Fit_Electronics_Covers** — plastic clips that bend and latch battery or sensor housings.
-- **G2-L6_Panel_Push-Latches** — spring-loaded catches that release with a gentle press on cabinet doors or fuel lids.
+- G1-L6_Latched_Flexure_Mechanisms_Foundations — core principles and baseline exemplars.
+- G2-L6_Latched_Flexure_Mechanisms_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

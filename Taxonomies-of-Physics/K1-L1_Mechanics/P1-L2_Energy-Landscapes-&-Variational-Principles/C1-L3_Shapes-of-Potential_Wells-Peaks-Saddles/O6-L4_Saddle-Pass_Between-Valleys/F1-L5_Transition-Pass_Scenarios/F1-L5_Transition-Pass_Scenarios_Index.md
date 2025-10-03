@@ -1,5 +1,5 @@
 # F1-L5_Transition-Pass_Scenarios — Family Index
-**Definition:** Covers the low passes connecting valleys where systems slip from one state to another.
+**Definition:** Explore how saddle passes that route flows between neighboring basins.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Pass-Map_Visualizations** — maps and models that pinpoint the lowest saddle route.
-- **G2-L6_Activation-Barrier_Workflows** — procedures that push systems over the pass when a change is needed.
+- G1-L6_Transition-Pass_Scenarios_Foundations — core principles and baseline exemplars.
+- G2-L6_Transition-Pass_Scenarios_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

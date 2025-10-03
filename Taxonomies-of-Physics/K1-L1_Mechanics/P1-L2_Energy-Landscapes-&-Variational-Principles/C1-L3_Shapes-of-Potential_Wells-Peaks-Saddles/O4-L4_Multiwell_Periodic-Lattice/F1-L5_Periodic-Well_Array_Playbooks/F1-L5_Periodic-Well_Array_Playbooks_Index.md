@@ -1,5 +1,5 @@
 # F1-L5_Periodic-Well_Array_Playbooks — Family Index
-**Definition:** Explores repeating wells and ridges that appear in lattices, washboards, and corrugated surfaces guiding motion.
+**Definition:** Explore how repeated wells that trap, guide, and resonate with travelers across a lattice.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Crystal-Lattice_Well-Motifs** — catalogue of repeating minima that set where particles prefer to sit.
-- **G2-L6_Hopping_Pathway_Visuals** — sketches and timelines showing how travelers hop from well to well across the array.
+- G1-L6_Periodic-Well_Array_Playbooks_Foundations — core principles and baseline exemplars.
+- G2-L6_Periodic-Well_Array_Playbooks_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

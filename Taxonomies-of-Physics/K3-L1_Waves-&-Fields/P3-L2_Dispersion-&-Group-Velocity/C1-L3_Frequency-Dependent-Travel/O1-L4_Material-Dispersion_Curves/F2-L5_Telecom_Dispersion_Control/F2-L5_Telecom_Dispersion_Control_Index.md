@@ -1,5 +1,5 @@
 # F2-L5_Telecom_Dispersion_Control — Family Index
-**Definition:** Collects hands-on tricks telecom teams use to tame chromatic dispersion before pulses blur together.
+**Definition:** Explore how engineering toolkits that reshape pulses before and after a fiber span.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Fiber-Design_Tradeoffs** — weighing glass recipes and core profiles to flatten dispersion windows.
-- **G2-L6_Pulse-Stretch_Compress_Kits** — modular benches that stretch or squeeze pulses before launching them down the line.
+- G1-L6_Telecom_Dispersion_Control_Foundations — core principles and baseline exemplars.
+- G2-L6_Telecom_Dispersion_Control_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

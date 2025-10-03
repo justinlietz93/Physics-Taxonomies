@@ -13,7 +13,7 @@
 
 ## Family (L5) — index
 - **F1-L5_Weather-Style-Attractors** — Benchtop convection and circuits echoing weather chaos.
-
+- **F2-L5_Attractor_Reconstruction_Labs** — data-driven reconstructions and 3D visualizations of strange attractors.
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
 

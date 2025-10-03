@@ -1,5 +1,5 @@
 # F1-L5_Telecom_Line_Balancing — Family Index
-**Definition:** Keeps telecom signals synchronized by balancing dispersion along coax, fiber, and WDM routes.
+**Definition:** Explore how keeping coax, fiber, and WDM systems in step along service routes.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Coax_Allpass_Ladders** — analog equalizers that flatten group delay on copper links.
-- **G2-L6_WDM_Slope_Control** — optical modules that manage dispersion across many colors at once.
+- G1-L6_Telecom_Line_Balancing_Foundations — core principles and baseline exemplars.
+- G2-L6_Telecom_Line_Balancing_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

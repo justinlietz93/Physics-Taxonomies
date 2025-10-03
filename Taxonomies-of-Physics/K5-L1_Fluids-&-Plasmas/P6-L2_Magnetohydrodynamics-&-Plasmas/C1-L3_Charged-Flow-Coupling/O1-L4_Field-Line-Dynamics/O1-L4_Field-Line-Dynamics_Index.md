@@ -11,8 +11,8 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Family (L5) — index
-- F1-L5_Magnetic-Transport-Stories — cases where magnetic geometry guides plasma flow.
-
+- **F1-L5_Magnetic-Transport-Stories** — cases where magnetic geometry guides plasma flow.
+- **F2-L5_Field-Line_Control_Schemes** — coils, magnets, and reconnection tactics steering plasma flow.
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
 ## Species (L7) — everyday exemplars

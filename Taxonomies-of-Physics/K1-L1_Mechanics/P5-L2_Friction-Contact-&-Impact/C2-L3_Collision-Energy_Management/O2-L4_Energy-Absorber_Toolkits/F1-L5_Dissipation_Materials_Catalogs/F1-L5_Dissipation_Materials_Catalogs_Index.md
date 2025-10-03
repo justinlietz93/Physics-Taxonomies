@@ -1,5 +1,5 @@
 # F1-L5_Dissipation_Materials_Catalogs — Family Index
-**Definition:** Helps teams compare foams, honeycombs, and crush rails for the energy they can swallow. It keeps choices tied to testable numbers.
+**Definition:** Explore how Pick foams and crush structures that turn impact energy into heat.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Foam-Cradle_Libraries** — Quick recipes for padding sensitive gear.
-- **G2-L6_Crumple-Zone_Playbooks** — Structural crush layouts that guard people and cargo.
+- G1-L6_Dissipation_Materials_Catalogs_Foundations — core principles and baseline exemplars.
+- G2-L6_Dissipation_Materials_Catalogs_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

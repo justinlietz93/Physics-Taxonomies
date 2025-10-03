@@ -1,5 +1,6 @@
 # F2-L5_Shielding-&-Storage_Cases — Family Index
-**Definition:** Continuous-charge stories for capacitors, Faraday cages, and energy storage safeguards.
+**Definition:** Explore how connect continuous charge models to capacitors and Faraday cages.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Capacitor_Energy_Audits — tally stored charge and safety steps for capacitive hardware.
-- G2-L6_Faradaic_Enclosure_Tests — confirm shielding and leakage performance of enclosures.
+- G1-L6_Shielding-&-Storage_Cases_Foundations — core principles and baseline exemplars.
+- G2-L6_Shielding-&-Storage_Cases_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

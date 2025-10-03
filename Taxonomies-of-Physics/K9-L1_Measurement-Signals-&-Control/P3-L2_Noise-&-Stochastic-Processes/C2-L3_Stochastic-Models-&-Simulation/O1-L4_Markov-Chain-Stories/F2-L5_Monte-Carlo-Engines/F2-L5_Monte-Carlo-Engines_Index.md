@@ -1,5 +1,6 @@
 # F2-L5_Monte-Carlo-Engines — Family Index
-**Definition:** Collects practical Monte Carlo workflows that extend Markov steps into scenario spreads and risk envelopes.
+**Definition:** Explore how pairing Markov steps with sampling engines for outcome spreads.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Random-Sampling-Toolkits — building repeatable sampling code and validation checks.
-- G2-L6_Pseudo-Random-Quality — verifying random number generators for fairness and security.
+- G1-L6_Monte-Carlo-Engines_Foundations — core principles and baseline exemplars.
+- G2-L6_Monte-Carlo-Engines_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

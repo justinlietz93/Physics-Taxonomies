@@ -1,5 +1,6 @@
 # F1-L5_Power-Transformer_Corecraft — Family Index
-**Definition:** Craft magnetic cores that move power between windings with low loss and hum.
+**Definition:** Explore how refine laminated and powder cores for efficient energy transfer.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Laminated-Core_Builds — stack steel laminations to guide flux while limiting eddy currents.
-- G2-L6_Powder-Core_Supply-Filters — shape powder cores for quiet switch-mode supplies.
+- G1-L6_Power-Transformer_Corecraft_Foundations — core principles and baseline exemplars.
+- G2-L6_Power-Transformer_Corecraft_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

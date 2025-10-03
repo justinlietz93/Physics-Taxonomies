@@ -1,5 +1,5 @@
 # F2-L5_Fluidic_Pressure-and-Level_Controls — Family Index
-**Definition:** Diaphragms and floats that change state at different rising versus falling levels to manage pumps and compressors.
+**Definition:** Explore how diaphragms and floats that separate pump cut-in from cut-out points.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Pressure_Switch_Diaphragms** — flexible membranes and springs that toggle pump relays between cut-in and cut-out setpoints.
-- **G2-L6_Float_Valve_Latches** — levered floats that latch pumps or valves based on tank level bands.
+- G1-L6_Fluidic_Pressure-and-Level_Controls_Foundations — core principles and baseline exemplars.
+- G2-L6_Fluidic_Pressure-and-Level_Controls_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

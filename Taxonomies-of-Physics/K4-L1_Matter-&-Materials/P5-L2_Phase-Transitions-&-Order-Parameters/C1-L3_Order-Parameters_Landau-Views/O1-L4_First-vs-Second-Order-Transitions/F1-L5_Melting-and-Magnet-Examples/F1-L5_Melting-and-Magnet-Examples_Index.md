@@ -1,5 +1,5 @@
 # F1-L5_Melting-and-Magnet-Examples — Family Index
-**Definition:** Collects melting, boiling, and magnetization stories that highlight transition style.
+**Definition:** Explore how Kitchen melting and magnet warm-up comparisons.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Ice-Water-and_Iron-Curie** — Comparing ice melt jumps with magnets losing order gradually.
+- G1-L6_Melting-and-Magnet-Examples_Foundations — core principles and baseline exemplars.
+- G2-L6_Melting-and-Magnet-Examples_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

@@ -1,5 +1,6 @@
 # F1-L5_Vortex-Generation_Scenarios — Family Index
-**Definition:** Setups where shear, separation, or sudden turns spin new vortices into being.
+**Definition:** Explore how everyday flows that spin up new vortices.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Boundary-Layer_Shedders — surfaces that peel off vortices when the flow detaches.
-- G2-L6_Wingtip_Vortex_Stories — lifting flows that trail swirling tubes of air.
+- G1-L6_Vortex-Generation_Scenarios_Foundations — core principles and baseline exemplars.
+- G2-L6_Vortex-Generation_Scenarios_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

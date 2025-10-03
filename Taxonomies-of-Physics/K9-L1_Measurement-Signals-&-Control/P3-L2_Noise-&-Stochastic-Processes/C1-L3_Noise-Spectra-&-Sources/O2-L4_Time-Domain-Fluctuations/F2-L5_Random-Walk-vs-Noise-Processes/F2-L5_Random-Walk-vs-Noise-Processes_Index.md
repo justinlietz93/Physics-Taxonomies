@@ -1,5 +1,6 @@
 # F2-L5_Random-Walk-vs-Noise-Processes — Family Index
-**Definition:** Compares Brownian, flicker, and bursty behaviors that slowly push measurements away from truth.
+**Definition:** Explore how comparing Brownian drift, flicker, and burst errors across sensors and markets.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Environmental-Sensor-Drift — watching slow wander in temperature, humidity, and gas monitors.
-- G2-L6_Financial-Tick-Fluctuations — illustrating random-walk swings in market tick data.
+- G1-L6_Random-Walk-vs-Noise-Processes_Foundations — core principles and baseline exemplars.
+- G2-L6_Random-Walk-vs-Noise-Processes_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

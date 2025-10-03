@@ -1,5 +1,6 @@
 # F1-L5_Drip-Splash-Patterns — Family Index
-**Definition:** Everyday interface stories showing how drops form, merge, and throw off spray.
+**Definition:** Explore how recognizable outcomes from kitchen sinks to shoreline surf.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Kitchen-vs-Coast — linking countertop experiments with shoreline breakers.
+- G1-L6_Drip-Splash-Patterns_Foundations — core principles and baseline exemplars.
+- G2-L6_Drip-Splash-Patterns_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

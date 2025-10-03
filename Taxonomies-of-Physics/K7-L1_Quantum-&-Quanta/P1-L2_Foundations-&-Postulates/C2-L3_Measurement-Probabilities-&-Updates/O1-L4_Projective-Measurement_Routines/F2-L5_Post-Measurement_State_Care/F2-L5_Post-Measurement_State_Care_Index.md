@@ -1,5 +1,6 @@
 # F2-L5_Post-Measurement_State_Care — Family Index
-**Definition:** Procedures for logging collapse outcomes and conditioning the system for follow-up shots.
+**Definition:** Explore how capture collapse records and prep for the next shot.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Collapse_Record_Checklists — document projection outcomes and context.
-- G2-L6_Sequential_Projector_Designs — chain projectors to explore state recycling.
+- G1-L6_Post-Measurement_State_Care_Foundations — core principles and baseline exemplars.
+- G2-L6_Post-Measurement_State_Care_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

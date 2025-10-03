@@ -1,5 +1,6 @@
 # F2-L5_Actuation-&-Holding_Cases — Family Index
-**Definition:** Connect coil-generated magnetic fields to mechanical motion, holding force, and levitation stability.
+**Definition:** Explore how translate coil fields into motion, holding force, or levitation.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Motor-&-Relay_Forces — evaluate coil forces in relays, solenoids, and motors.
-- G2-L6_Magnetic_Levitation_Tuning — balance coil forces for levitation and bearings.
+- G1-L6_Actuation-&-Holding_Cases_Foundations — core principles and baseline exemplars.
+- G2-L6_Actuation-&-Holding_Cases_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

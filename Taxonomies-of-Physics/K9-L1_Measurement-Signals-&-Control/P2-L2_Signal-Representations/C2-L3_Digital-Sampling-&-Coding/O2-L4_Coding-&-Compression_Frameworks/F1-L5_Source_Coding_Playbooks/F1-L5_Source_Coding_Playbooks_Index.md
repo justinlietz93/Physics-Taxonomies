@@ -1,5 +1,6 @@
 # F1-L5_Source_Coding_Playbooks — Family Index
-**Definition:** Strategies for trimming redundancy at the source so payloads shrink without losing the message.
+**Definition:** Explore how squeeze redundancy in the data itself while preserving meaning.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Lossless_Codecs_Comparisons — choose when Huffman, LZ, or arithmetic shines on structured data.
-- G2-L6_Lossy_Bitrate_Balancing — trade fidelity, bitrate, and artifact budgets for human perception or analytic needs.
+- G1-L6_Source_Coding_Playbooks_Foundations — core principles and baseline exemplars.
+- G2-L6_Source_Coding_Playbooks_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars
-- Datacenter log compression rollouts, spacecraft telemetry packing plans, streaming codec balancing acts, and action cam memory budgets.

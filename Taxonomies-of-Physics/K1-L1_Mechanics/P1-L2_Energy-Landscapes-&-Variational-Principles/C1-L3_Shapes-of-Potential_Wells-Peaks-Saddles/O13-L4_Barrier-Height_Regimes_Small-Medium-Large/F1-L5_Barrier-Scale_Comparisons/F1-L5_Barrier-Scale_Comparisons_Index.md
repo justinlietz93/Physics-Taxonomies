@@ -1,5 +1,5 @@
 # F1-L5_Barrier-Scale_Comparisons — Family Index
-**Definition:** Compares how ridge height versus available energy changes behavior across regimes.
+**Definition:** Explore how contrasts low, medium, and high barriers relative to driving energy.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Low-Barrier_Fluctuation-Cases** — situations where tiny kicks clear the barrier.
-- **G2-L6_High-Barrier_Protection-Plans** — cases needing large pushes or rare events to cross.
+- G1-L6_Barrier-Scale_Comparisons_Foundations — core principles and baseline exemplars.
+- G2-L6_Barrier-Scale_Comparisons_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

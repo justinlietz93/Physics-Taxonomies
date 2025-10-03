@@ -13,7 +13,7 @@
 
 ## Family (L5) — index
 - **F1-L5_Fixed-Ends-Resonances** — Strings and tubes that sing at select notes.
-
+- **F2-L5_Mode_Tuning_Practices** — tuning strings, pipes, and cavities to favor target harmonics.
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
 

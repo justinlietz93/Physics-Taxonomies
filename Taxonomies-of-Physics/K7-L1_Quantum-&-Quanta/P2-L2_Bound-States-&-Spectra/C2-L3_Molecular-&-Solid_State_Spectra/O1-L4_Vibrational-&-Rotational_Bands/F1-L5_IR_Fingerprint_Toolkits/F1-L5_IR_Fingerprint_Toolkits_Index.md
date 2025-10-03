@@ -1,5 +1,6 @@
 # F1-L5_IR_Fingerprint_Toolkits — Family Index
-**Definition:** Playbooks for matching infrared absorbance peaks to chemical bonds and functional groups.
+**Definition:** Explore how translating IR absorbance peaks into functional groups.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Food-&-Pharma_IR_Checklists — routine quality checks via IR spectra.
-- G2-L6_Materials_Lab_IR_Libraries — lab workflows building spectral databases for polymers and coatings.
+- G1-L6_IR_Fingerprint_Toolkits_Foundations — core principles and baseline exemplars.
+- G2-L6_IR_Fingerprint_Toolkits_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

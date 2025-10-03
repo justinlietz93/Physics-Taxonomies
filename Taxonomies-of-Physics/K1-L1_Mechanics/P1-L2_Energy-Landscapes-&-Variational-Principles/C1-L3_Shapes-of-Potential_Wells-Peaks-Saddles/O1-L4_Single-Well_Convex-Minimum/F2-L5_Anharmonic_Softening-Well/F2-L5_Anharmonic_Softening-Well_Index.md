@@ -1,6 +1,5 @@
 # F2-L5_Anharmonic_Softening-Well — Family Index
-
-**Definition:** The bowl softens away from center—period slows with amplitude; gentle, wide-bottom behavior.
+**Definition:** Explore how curvature weakens with amplitude; large swings slow down.
 
 ## Overarching Lenses
 
@@ -13,8 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Softening_Period_Tuning** — tracking how big swings stretch the timing.
-- **G2-L6_Flexure_Soft-Stop_Designs** — engineering gentle landings with progressive cushions.
+- G1-L6_Anharmonic_Softening-Well_Foundations — core principles and baseline exemplars.
+- G2-L6_Anharmonic_Softening-Well_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars
-_(See Genus folders for everyday case notes.)_

@@ -1,5 +1,5 @@
 # F1-L5_Crack-Growth_Studies — Family Index
-**Definition:** Gives step-by-step crack inspection routines so you can judge severity and growth direction.
+**Definition:** Explore how Hands-on routines to spot and size cracks.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Dye-Penetrant_Logs** — Record dye findings to measure crack growth.
-- **G2-L6_Acoustic-Emission_Scouts** — Listen for micro-cracks while structures work.
+- G1-L6_Crack-Growth_Studies_Foundations — core principles and baseline exemplars.
+- G2-L6_Crack-Growth_Studies_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

@@ -1,5 +1,6 @@
 # F2-L5_Random-Field-Simulations — Family Index
-**Definition:** Explores spatial-temporal random fields that stress-test sensing grids, planners, and mission scripts.
+**Definition:** Explore how crafting spatial-temporal noise fields to test sensors and planners.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Spatial-Noise-Mapping — generating synthetic coverage or pollution fields for planning.
-- G2-L6_Synthetic-Sensor-Suites — replaying multi-sensor logs with controllable randomness.
+- G1-L6_Random-Field-Simulations_Foundations — core principles and baseline exemplars.
+- G2-L6_Random-Field-Simulations_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

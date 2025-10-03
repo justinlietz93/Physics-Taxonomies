@@ -1,5 +1,6 @@
 # F1-L5_Variable-Speed_Playbooks — Family Index
-**Definition:** Applying drives and sensors so pump speed matches demand instead of wasting head across throttled valves.
+**Definition:** Explore how matching pump curves to changing demand through smart speed control.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Retrofit_VFD_Projects — adding drives to existing systems without upsetting flow balance.
-- G2-L6_Sensor-Driven_Setpoints — using smart sensors to steer speed targets in real time.
+- G1-L6_Variable-Speed_Playbooks_Foundations — core principles and baseline exemplars.
+- G2-L6_Variable-Speed_Playbooks_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

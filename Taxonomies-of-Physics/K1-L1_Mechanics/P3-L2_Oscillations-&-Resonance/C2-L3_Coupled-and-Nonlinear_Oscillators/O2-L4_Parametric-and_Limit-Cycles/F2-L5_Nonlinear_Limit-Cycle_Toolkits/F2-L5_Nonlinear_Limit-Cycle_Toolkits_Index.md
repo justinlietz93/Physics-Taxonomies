@@ -1,5 +1,5 @@
 # F2-L5_Nonlinear_Limit-Cycle_Toolkits — Family Index
-**Definition:** Nonlinear systems that settle into persistent oscillations, even without external forcing.
+**Definition:** Explore how Systems that settle into self-sustained oscillations.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Van-der-Pol_Demos** — Electronic and numerical relaxations showing self-sustained cycles.
-- **G2-L6_Engine-and_Powertrain_Oscillators** — Mechanical systems where feedback creates rhythmic hunting.
+- G1-L6_Nonlinear_Limit-Cycle_Toolkits_Foundations — core principles and baseline exemplars.
+- G2-L6_Nonlinear_Limit-Cycle_Toolkits_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

@@ -1,5 +1,6 @@
 # F2-L5_Exciton-&-Quantum_Well_Stories — Family Index
-**Definition:** Narratives showing how excitons and low-dimensional wells reshape spectra and devices.
+**Definition:** Explore how highlighting bound electron-hole pairs and low-dimensional effects.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_2D_Material_Exciton_Atlases — mapping strong excitons in monolayer materials.
-- G2-L6_Quantum_Well_Device_Tuning — designing wells for lasers and detectors.
+- G1-L6_Exciton-&-Quantum_Well_Stories_Foundations — core principles and baseline exemplars.
+- G2-L6_Exciton-&-Quantum_Well_Stories_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

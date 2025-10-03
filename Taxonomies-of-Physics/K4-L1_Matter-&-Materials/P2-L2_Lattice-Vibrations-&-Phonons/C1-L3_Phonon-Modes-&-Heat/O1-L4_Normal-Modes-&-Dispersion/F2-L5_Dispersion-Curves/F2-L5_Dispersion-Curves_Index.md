@@ -1,5 +1,5 @@
 # F2-L5_Dispersion-Curves — Family Index
-**Definition:** Links phonon frequency–wavevector plots to how materials sound and feel at different temperatures.
+**Definition:** Explore how link frequency–wavevector plots to how sound changes with temperature.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Cold-vs-Hot-Tone-Shifts — compare how dispersion changes stiff or soft sounds with temperature.
+- G1-L6_Dispersion-Curves_Foundations — core principles and baseline exemplars.
+- G2-L6_Dispersion-Curves_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

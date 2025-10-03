@@ -1,6 +1,5 @@
 # F6-L5_Driven_Steady-Oscillation_in-a-Well — Family Index
-
-**Definition:** A periodic nudge leads to a steady oscillation set by balance of drive and damping (below any resonance).
+**Definition:** Explore how periodic forcing balances losses to set a steady amplitude.
 
 ## Overarching Lenses
 
@@ -13,8 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Resonant_Drive_Balancing** — keeping driven resonance tidy and even.
-- **G2-L6_Forced_Oscillation_Control** — closing loops on oscillators so phase and gain stay on script.
+- G1-L6_Driven_Steady-Oscillation_in-a-Well_Foundations — core principles and baseline exemplars.
+- G2-L6_Driven_Steady-Oscillation_in-a-Well_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars
-_(See Genus folders for everyday case notes.)_

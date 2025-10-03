@@ -1,5 +1,5 @@
 # F2-L5_Group-Control_Strategies — Family Index
-**Definition:** Showcases techniques that deliberately slow, speed, or balance group velocity to keep signals usable.
+**Definition:** Explore how deliberate tweaks that slow, speed, or rebalance group motion for cleaner signals.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Slow-Light_Demonstrators** — tabletop rigs that make pulses crawl using resonant media or long paths.
-- **G2-L6_Dispersion-Managed_Links** — field systems that stitch compensators into real communication routes.
+- G1-L6_Group-Control_Strategies_Foundations — core principles and baseline exemplars.
+- G2-L6_Group-Control_Strategies_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

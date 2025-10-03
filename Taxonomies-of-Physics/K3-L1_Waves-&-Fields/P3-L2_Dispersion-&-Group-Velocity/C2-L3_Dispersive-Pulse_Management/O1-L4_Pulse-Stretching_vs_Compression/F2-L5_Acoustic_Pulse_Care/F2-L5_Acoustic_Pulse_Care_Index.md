@@ -1,5 +1,5 @@
 # F2-L5_Acoustic_Pulse_Care — Family Index
-**Definition:** Dials in how acoustic pulses spread or soften so structures and sensors get usable signals.
+**Definition:** Explore how acoustic setups that soften or reshape shock-like pulses before use.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Sonic_Boom_Tailoring** — reshaping shock-like pulses so they meet safety limits.
-- **G2-L6_Medical_Ultrasound_Tuning** — tuning coupling and timing for clear ultrasound or inspection images.
+- G1-L6_Acoustic_Pulse_Care_Foundations — core principles and baseline exemplars.
+- G2-L6_Acoustic_Pulse_Care_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

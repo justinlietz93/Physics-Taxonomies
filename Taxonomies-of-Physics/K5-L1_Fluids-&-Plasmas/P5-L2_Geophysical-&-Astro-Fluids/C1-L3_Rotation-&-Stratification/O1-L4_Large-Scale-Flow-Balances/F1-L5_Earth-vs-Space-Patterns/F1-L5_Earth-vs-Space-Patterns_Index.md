@@ -1,5 +1,6 @@
 # F1-L5_Earth-vs-Space-Patterns — Family Index
-**Definition:** Side-by-side stories of planetary weather and cosmic disks to highlight shared balance rules.
+**Definition:** Explore how comparing atmospheric, oceanic, and disk flows.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Jetstreams-vs_Disks — comparing banded jets with rotating dust and gas rings.
+- G1-L6_Earth-vs-Space-Patterns_Foundations — core principles and baseline exemplars.
+- G2-L6_Earth-vs-Space-Patterns_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

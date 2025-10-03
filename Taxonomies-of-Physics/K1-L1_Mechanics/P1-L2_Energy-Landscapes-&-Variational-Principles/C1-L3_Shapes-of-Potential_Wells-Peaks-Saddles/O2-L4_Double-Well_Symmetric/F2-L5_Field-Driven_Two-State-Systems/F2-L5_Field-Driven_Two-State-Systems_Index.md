@@ -1,5 +1,5 @@
 # F2-L5_Field-Driven_Two-State-Systems — Family Index
-**Definition:** Media where external fields or circuits make two equal basins, letting information live in either state.
+**Definition:** Explore how magnetic and electronic media where fields hold mirrored basins.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Magnetic-Domain_Flips** — dipoles align with either direction of a biasing magnetic field.
-- **G2-L6_Electronic_Flip-Flops** — feedback circuits hold one of two logic voltages until clocked.
+- G1-L6_Field-Driven_Two-State-Systems_Foundations — core principles and baseline exemplars.
+- G2-L6_Field-Driven_Two-State-Systems_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

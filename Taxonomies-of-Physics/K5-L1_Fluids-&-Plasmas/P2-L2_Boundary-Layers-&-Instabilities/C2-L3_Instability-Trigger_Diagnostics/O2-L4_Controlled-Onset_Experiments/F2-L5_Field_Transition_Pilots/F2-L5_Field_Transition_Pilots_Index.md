@@ -1,5 +1,6 @@
 # F2-L5_Field_Transition_Pilots — Family Index
-**Definition:** Real-world deployments that trial boundary-layer fixes on airframes and infrastructure.
+**Definition:** Explore how real-world trials proving transition fixes on working hardware.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Airframe_Retrofit_Trials — flight programs proving new transition control hardware.
-- G2-L6_Infrastructure_Boundary_Projects — civil installs that calm flow on bridges or piers.
+- G1-L6_Field_Transition_Pilots_Foundations — core principles and baseline exemplars.
+- G2-L6_Field_Transition_Pilots_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

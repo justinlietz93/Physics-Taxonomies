@@ -13,7 +13,7 @@
 
 ## Family (L5) — index
 - **F1-L5_Gyro-and-Top-Examples** — Spinning tops and pendulums showing slow precession.
-
+- **F2-L5_Precision_Guidance_Cases** — navigation and stabilization systems that harness gyroscopic precession.
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
 

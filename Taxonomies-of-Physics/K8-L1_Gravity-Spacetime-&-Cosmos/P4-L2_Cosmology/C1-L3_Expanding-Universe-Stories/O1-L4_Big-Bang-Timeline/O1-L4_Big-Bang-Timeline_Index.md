@@ -11,7 +11,8 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Family (L5) — index
-- F1-L5_Epoch-Storyboards — snapshots of inflation, recombination, and structure formation.
+- **F1-L5_Epoch-Storyboards** — snapshots of inflation, recombination, and structure formation.
+- **F2-L5_Cosmic_Evidence_Checkpoints** — key measurements like CMB, abundances, and surveys anchoring each epoch.
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
 ## Species (L7) — everyday exemplars

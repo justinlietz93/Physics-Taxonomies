@@ -1,5 +1,5 @@
 # F1-L5_Beam-and-Lever-Setups — Family Index
-**Definition:** Explores beams, shelves, and levers where support reactions share loads through torque balance.
+**Definition:** Explore how Supports and load sharing in beams and levers.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Seesaw-and-Shelf-Examples** — Simple balances showing torque cancellation.
-- **G2-L6_Ladder-and-Sign-Supports** — Leaning ladders and braced signs holding torques in check.
+- G1-L6_Beam-and-Lever-Setups_Foundations — core principles and baseline exemplars.
+- G2-L6_Beam-and-Lever-Setups_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

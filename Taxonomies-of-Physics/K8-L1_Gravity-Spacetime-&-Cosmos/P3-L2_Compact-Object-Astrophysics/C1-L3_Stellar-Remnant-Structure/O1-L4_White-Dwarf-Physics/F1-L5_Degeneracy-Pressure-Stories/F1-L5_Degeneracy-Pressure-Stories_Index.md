@@ -1,5 +1,6 @@
 # F1-L5_Degeneracy-Pressure-Stories — Family Index
-**Definition:** Scenarios where quantum-packed electrons counter gravity inside cooling stellar embers.
+**Definition:** Explore how examples of quantum pressure balancing gravity in white dwarfs.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Carbon-vs-Oxygen-Cores — contrasting white dwarfs with different compositions and masses.
+- G1-L6_Degeneracy-Pressure-Stories_Foundations — core principles and baseline exemplars.
+- G2-L6_Degeneracy-Pressure-Stories_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

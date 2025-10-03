@@ -13,7 +13,7 @@
 
 ## Family (L5) — index
 - **F1-L5_Free-Energy-Landscape-Tools** — charts and inequalities that show which process direction is favored.
-
+- **F2-L5_Potential_Selection_Playbooks** — deciding when to use Helmholtz, Gibbs, enthalpy, or grand potentials.
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
 ## Species (L7) — everyday exemplars

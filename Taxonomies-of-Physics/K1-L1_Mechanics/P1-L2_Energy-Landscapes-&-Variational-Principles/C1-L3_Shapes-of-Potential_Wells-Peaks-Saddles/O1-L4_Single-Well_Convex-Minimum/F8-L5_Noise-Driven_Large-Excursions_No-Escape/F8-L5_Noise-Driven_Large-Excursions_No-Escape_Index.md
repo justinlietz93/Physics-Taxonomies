@@ -1,6 +1,5 @@
 # F8-L5_Noise-Driven_Large-Excursions_No-Escape — Family Index
-
-**Definition:** Occasional big kicks push far from center but typically return; rare events inside a single valley.
+**Definition:** Explore how noise pushes far from center but walls confine.
 
 ## Overarching Lenses
 
@@ -13,8 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Clearance_Risk_Assessments** — checking the margins when random bumps get big.
-- **G2-L6_Bounce_Containment_Solutions** — building corral systems that hold lively motion in bounds.
+- G1-L6_Noise-Driven_Large-Excursions_No-Escape_Foundations — core principles and baseline exemplars.
+- G2-L6_Noise-Driven_Large-Excursions_No-Escape_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars
-_(See Genus folders for everyday case notes.)_

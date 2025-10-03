@@ -13,7 +13,7 @@
 
 ## Family (L5) — index
 - **F1-L5_Noise-Models** — mathematical recipes to represent white, colored, and bursty noise.
-
+- **F2-L5_Noise_Mitigation_Tactics** — shielding, filtering, and averaging strategies tailored to each noise flavor.
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
 ## Species (L7) — everyday exemplars

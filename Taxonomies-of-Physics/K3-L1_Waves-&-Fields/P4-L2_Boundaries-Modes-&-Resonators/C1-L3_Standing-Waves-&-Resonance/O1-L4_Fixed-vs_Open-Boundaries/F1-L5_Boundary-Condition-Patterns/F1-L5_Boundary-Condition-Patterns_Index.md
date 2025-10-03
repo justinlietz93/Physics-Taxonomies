@@ -1,5 +1,5 @@
 # F1-L5_Boundary-Condition-Patterns — Family Index
-**Definition:** Highlights how different end conditions pick which harmonics fit and where nodes land.
+**Definition:** Explore how mapping how fixed or open ends sculpt node spacing.
 
 ## Overarching Lenses
 
@@ -12,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_String-vs-Pipe-Modes** — contrasting fixed strings with open or closed air columns.
-- **G2-L6_Mixed-Boundary_Scenarios** — hybrid setups with one clamped and one free end that skew harmonic spacing.
+- G1-L6_Boundary-Condition-Patterns_Foundations — core principles and baseline exemplars.
+- G2-L6_Boundary-Condition-Patterns_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

@@ -1,6 +1,5 @@
 # F3-L5_Anharmonic_Hardening-Well — Family Index
-
-**Definition:** The bowl hardens with amplitude—period speeds up; stiffer edges.
+**Definition:** Explore how stiffness stiffens with amplitude; big motions speed up.
 
 ## Overarching Lenses
 
@@ -13,8 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Hardening_Response_Scouting** — spotting faster beats and higher forces at big amplitudes.
-- **G2-L6_Bottom-Out_Prevention_Tuning** — keeping gear from slamming into the hard stop.
+- G1-L6_Anharmonic_Hardening-Well_Foundations — core principles and baseline exemplars.
+- G2-L6_Anharmonic_Hardening-Well_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars
-_(See Genus folders for everyday case notes.)_

@@ -1,5 +1,6 @@
 # F1-L5_Coil_Field_Shaping — Family Index
-**Definition:** Design coils for uniform fields, sensing accuracy, and calibration in steady-current setups.
+**Definition:** Explore how tune coil geometry for uniform fields and sensors.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Solenoid_Field_Designs — tailor solenoid geometry for uniform internal fields.
-- G2-L6_Magnetic_Loop_Sensors — craft loop coils for measurement and monitoring.
+- G1-L6_Coil_Field_Shaping_Foundations — core principles and baseline exemplars.
+- G2-L6_Coil_Field_Shaping_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

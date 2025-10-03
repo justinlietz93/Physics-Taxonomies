@@ -1,5 +1,6 @@
 # F1-L5_Parallel-&-Cylindrical-Setups — Family Index
-**Definition:** Standard lab plates and coax tubes give reference fields we tweak for capacitors and shields.
+**Definition:** Explore how compare go-to lab geometries for uniform fields versus coax guides.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Parallel-Plate_Field-Balancing — tune gaps and dielectrics to hold uniform fields.
-- G2-L6_Coaxial-Cable_Potential-Designs — adjust radii to set impedance and shielding strength.
+- G1-L6_Parallel-&-Cylindrical-Setups_Foundations — core principles and baseline exemplars.
+- G2-L6_Parallel-&-Cylindrical-Setups_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

@@ -1,5 +1,5 @@
 # F1-L5_Antenna-Emission-Shapes — Family Index
-**Definition:** Illustrates how real antennas or dishes sculpt radiation into lobes, nulls, and focused beams.
+**Definition:** Explore how practical ways to visualize radiation lobes and beam steering.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Radio-Dipole-vs_Dish** — everyday emitters from car antennas to satellite dishes.
+- G1-L6_Antenna-Emission-Shapes_Foundations — core principles and baseline exemplars.
+- G2-L6_Antenna-Emission-Shapes_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

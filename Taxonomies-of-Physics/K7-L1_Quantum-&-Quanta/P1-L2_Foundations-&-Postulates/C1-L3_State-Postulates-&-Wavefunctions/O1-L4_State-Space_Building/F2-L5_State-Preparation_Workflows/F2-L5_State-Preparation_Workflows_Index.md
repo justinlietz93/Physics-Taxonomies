@@ -1,5 +1,6 @@
 # F2-L5_State-Preparation_Workflows — Family Index
-**Definition:** Procedures that prepare quantum systems in desired pure states or superpositions.
+**Definition:** Explore how practical steps to prepare desired superpositions or pure states.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Lab_State_Tomography — measure prepared states to verify fidelity.
-- G2-L6_Ground-vs_Excited_State_Cooling — push systems into known energy levels before experiments.
+- G1-L6_State-Preparation_Workflows_Foundations — core principles and baseline exemplars.
+- G2-L6_State-Preparation_Workflows_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

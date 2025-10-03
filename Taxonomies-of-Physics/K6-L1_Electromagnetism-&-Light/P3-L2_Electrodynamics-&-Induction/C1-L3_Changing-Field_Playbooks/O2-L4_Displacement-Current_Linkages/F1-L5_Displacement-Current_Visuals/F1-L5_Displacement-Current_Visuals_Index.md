@@ -1,5 +1,6 @@
 # F1-L5_Displacement-Current_Visuals — Family Index
-**Definition:** Visualize how changing electric fields act like currents to complete flux paths.
+**Definition:** Explore how picture field lines closing gaps when conductors can’t.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Capacitor_Field_Pulses — show energy shuttling between plates and space.
-- G2-L6_Waveguide_Current_Balance — map how displacement current keeps microwave paths closed.
+- G1-L6_Displacement-Current_Visuals_Foundations — core principles and baseline exemplars.
+- G2-L6_Displacement-Current_Visuals_Applications — applied playbooks and design tradeoffs.
+
 ## Species (L7) — everyday exemplars

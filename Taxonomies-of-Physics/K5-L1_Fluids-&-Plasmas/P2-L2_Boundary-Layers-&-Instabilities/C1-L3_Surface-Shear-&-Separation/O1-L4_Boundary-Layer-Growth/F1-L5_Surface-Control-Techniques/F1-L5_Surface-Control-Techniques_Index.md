@@ -1,5 +1,6 @@
 # F1-L5_Surface-Control-Techniques — Family Index
-**Definition:** Everyday methods engineers and hobbyists use to smooth or energize boundary layers before they peel away.
+**Definition:** Explore how practical tricks to tame or delay separation.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,7 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- G1-L6_Flat-Plate-vs-Wing — contrasting simple test plates with cambered wings to see control tactics at work.
-- G2-L6_Active-Wall_Aids — highlighting powered tricks like blowing or plasma nudges that keep skins attached.
+- G1-L6_Surface-Control-Techniques_Foundations — core principles and baseline exemplars.
+- G2-L6_Surface-Control-Techniques_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

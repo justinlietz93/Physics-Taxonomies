@@ -1,5 +1,5 @@
 # F1-L5_Slit-Width-Effects — Family Index
-**Definition:** Relates the size of an opening to how strongly waves flare out or focus after passing through.
+**Definition:** Explore how linking aperture size to how much a wave spreads or sharpens.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Kitchen-Door_Diffraction** — everyday edges that bend sound and light.
+- G1-L6_Slit-Width-Effects_Foundations — core principles and baseline exemplars.
+- G2-L6_Slit-Width-Effects_Applications — applied playbooks and design tradeoffs.
 
 ## Species (L7) — everyday exemplars

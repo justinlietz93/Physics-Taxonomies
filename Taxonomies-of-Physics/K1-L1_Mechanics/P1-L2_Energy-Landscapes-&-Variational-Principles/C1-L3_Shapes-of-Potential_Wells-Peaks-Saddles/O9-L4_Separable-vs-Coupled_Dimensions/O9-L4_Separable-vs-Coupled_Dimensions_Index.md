@@ -13,7 +13,7 @@
 
 ## Family (L5) — index
 - **F1-L5_Axis-Coupling_Diagnostics** — tests that reveal whether directions act independently or tug on each other.
-
+- **F2-L5_Coupling_Mitigation_Toolkits** — approaches to decouple axes or harness coupling in energy landscapes.
 ## Genus (L6)
 
 _(Insert Genus folders `G*-L6_*` between Family and Species; each Genus contains several Species.)_
