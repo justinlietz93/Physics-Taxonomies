@@ -1,7 +1,7 @@
 # AGENTS.md — Documentation Agent Contribution Rules
 **Version:** 2025-10-03
 
-This repo is an analogy-first, top-down taxonomy of physics. The **Documentation Agent** must populate every missing folder and index (K→P→C→O→F→G→S), maintain naming/numbering, and keep entries plain-English and short. YOU MUST ALWAYS ADD A PLAIN LANGUAGE DEFINITION AFTER DESCRIPTION HEADERS TO MAKE IT UNDERSTANDABLE FOR BEGINNERS.
+This repo is an analogy-first, top-down taxonomy of physics. The **Documentation Agent** must populate every missing folder and index (K→P→C→O→F→G→S), maintain naming/numbering, and keep entries plain-English and short.
 
 ## 0) Core
 - Top-down only; parent exists before child.
