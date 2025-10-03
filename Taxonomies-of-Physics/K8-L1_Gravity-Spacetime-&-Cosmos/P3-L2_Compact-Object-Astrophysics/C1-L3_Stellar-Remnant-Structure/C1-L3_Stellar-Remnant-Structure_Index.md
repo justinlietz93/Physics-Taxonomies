@@ -1,5 +1,6 @@
 # C1-L3_Stellar-Remnant-Structure — Class Index
-**Definition:** Keeps score of the pressures, layers, and fields inside white dwarfs and neutron stars.
+**Definition:** Detail what supports white dwarfs, neutron stars, and black holes once nuclear burning ends.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,8 +12,12 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Order (L4) — index
-- O1-L4_White-Dwarf-Physics — electron degeneracy pressure holding up carbon-oxygen cores.
+- **O1-L4_White_Dwarf_Equations** — balance electron degeneracy against gravity in compact stars.
+- **O2-L4_Neutron-and_Black_Hole_Structure** — compare neutron star equations with horizons of collapsing cores.
+
 ## Family (L5) — (later)
-## Genus (L6)
+
+## Genus (L6) — (later)
 _(Insert `G*-L6_*` between Family and Species.)_
+
 ## Species (L7) — everyday exemplars

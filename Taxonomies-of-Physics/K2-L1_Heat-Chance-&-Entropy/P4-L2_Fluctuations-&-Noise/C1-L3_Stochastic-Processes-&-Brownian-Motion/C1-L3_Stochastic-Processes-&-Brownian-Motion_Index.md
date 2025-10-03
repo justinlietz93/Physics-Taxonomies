@@ -1,5 +1,5 @@
 # C1-L3_Stochastic-Processes-&-Brownian-Motion — Class Index
-**Definition:** Describes random walks, noise sources, and statistical tools that capture jittery evolution in time.
+**Definition:** Model random walks, diffusion, and noise-driven motion in simple terms.
 
 ## Overarching Lenses
 
@@ -12,9 +12,12 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Order (L4) — index
-- **O1-L4_Noise-Sources-and-Spectra** — classifying white, pink, and structured noise and their origins.
+- **O1-L4_Random_Walk_Formalisms** — compare discrete, continuous, and anomalous step models.
+- **O2-L4_Langevin_and_Fokker-Planck_Tools** — derive stochastic differential and probability density equations.
 
 ## Family (L5) — (later)
-## Genus (L6)
+
+## Genus (L6) — (later)
 _(Insert `G*-L6_*` between Family and Species.)_
+
 ## Species (L7) — everyday exemplars

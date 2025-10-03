@@ -1,6 +1,5 @@
-# Class Index
-
-**Definition**: Plain-language description of this Class.
+# C6-L3_Dissipation-and-Gradient-Descent — Class Index
+**Definition:** Follow how friction and drag bleed energy so states slide downhill toward steady rest.
 
 ## Overarching Lenses
 
@@ -12,12 +11,13 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Order (regimes/approximations)
+## Order (L4) — index
+- **O1-L4_Frictional_Relaxation_Laws** — catalog how viscous, dry, or complex friction sets decay rates.
+- **O2-L4_Energy-Landscape_Optimization_Routes** — link physics descent analogies to numerical search tactics.
 
-## Family (canonical problems)
+## Family (L5) — (later)
 
-## Genus (L6)
-
-_(This level groups closely related Species. Create `G*-L6_*` folders here.)_
+## Genus (L6) — (later)
+_(Insert `G*-L6_*` between Family and Species.)_
 
 ## Species (L7) — everyday exemplars

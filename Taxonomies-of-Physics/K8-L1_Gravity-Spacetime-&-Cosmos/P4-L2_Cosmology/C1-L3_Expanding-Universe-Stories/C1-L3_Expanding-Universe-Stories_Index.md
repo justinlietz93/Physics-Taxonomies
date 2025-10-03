@@ -1,5 +1,6 @@
 # C1-L3_Expanding-Universe-Stories — Class Index
-**Definition:** Follows the scale factor, cosmic microwave background, and large-scale growth in expanding spacetime.
+**Definition:** Narrate how the cosmos grows with time and the ingredients that speed or slow that growth.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,8 +12,12 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Order (L4) — index
-- O1-L4_Big-Bang-Timeline — key epochs from inflation and nucleosynthesis to today.
+- **O1-L4_Background_Expansion_Scenarios** — compare matter, radiation, and dark-energy dominated eras.
+- **O2-L4_Distance-and_Redshift_Probes** — connect observables to the expansion history.
+
 ## Family (L5) — (later)
-## Genus (L6)
+
+## Genus (L6) — (later)
 _(Insert `G*-L6_*` between Family and Species.)_
+
 ## Species (L7) — everyday exemplars

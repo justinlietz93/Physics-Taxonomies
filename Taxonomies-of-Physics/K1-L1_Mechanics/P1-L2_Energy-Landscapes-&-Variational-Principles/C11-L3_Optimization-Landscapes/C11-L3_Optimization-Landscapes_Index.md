@@ -1,6 +1,5 @@
-# Class Index
-
-**Definition**: Plain-language description of this Class.
+# C11-L3_Optimization-Landscapes — Class Index
+**Definition:** Borrow physics metaphors to navigate high-dimensional cost surfaces efficiently and robustly.
 
 ## Overarching Lenses
 
@@ -12,12 +11,13 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Order (regimes/approximations)
+## Order (L4) — index
+- **O1-L4_Deterministic_Search_Strategies** — compare downhill, Newton, and constraint-aware moves on rugged costs.
+- **O2-L4_Stochastic_Search_Heuristics** — highlight probabilistic or population tools that escape local minima.
 
-## Family (canonical problems)
+## Family (L5) — (later)
 
-## Genus (L6)
-
-_(This level groups closely related Species. Create `G*-L6_*` folders here.)_
+## Genus (L6) — (later)
+_(Insert `G*-L6_*` between Family and Species.)_
 
 ## Species (L7) — everyday exemplars

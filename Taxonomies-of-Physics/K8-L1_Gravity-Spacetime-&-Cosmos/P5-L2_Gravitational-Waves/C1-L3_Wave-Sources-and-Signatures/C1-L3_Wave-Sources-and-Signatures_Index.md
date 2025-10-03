@@ -1,5 +1,6 @@
 # C1-L3_Wave-Sources-and-Signatures — Class Index
-**Definition:** Catalogs the systems that emit gravitational waves and the fingerprints those signals carry.
+**Definition:** Survey what makes spacetime ripple and how those ripples leave measurable fingerprints.
+
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,8 +12,12 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Order (L4) — index
-- O1-L4_Compact-Binary-Mergers — inspiral, merger, and ringdown signatures from tight binaries.
+- **O1-L4_Source_Population_Channels** — organize binary mergers, supernovae, and continuous emitters.
+- **O2-L4_Detector_Response_and_Data** — connect source signals to interferometers and pulsar timing readouts.
+
 ## Family (L5) — (later)
-## Genus (L6)
+
+## Genus (L6) — (later)
 _(Insert `G*-L6_*` between Family and Species.)_
+
 ## Species (L7) — everyday exemplars
