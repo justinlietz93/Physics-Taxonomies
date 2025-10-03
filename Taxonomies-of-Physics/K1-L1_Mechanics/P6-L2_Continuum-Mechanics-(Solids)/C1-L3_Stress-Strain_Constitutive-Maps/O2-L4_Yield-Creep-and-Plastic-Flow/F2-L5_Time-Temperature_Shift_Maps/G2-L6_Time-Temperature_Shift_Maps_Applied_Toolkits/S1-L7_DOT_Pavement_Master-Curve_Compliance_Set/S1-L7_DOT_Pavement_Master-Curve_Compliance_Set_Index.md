@@ -1,5 +1,5 @@
-# G2-L6_Single-Particle_Variations_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for single-particle variations.
+# S1-L7_DOT_Pavement_Master-Curve_Compliance_Set — Species Index
+**Definition:** Field kit for checking asphalt master curves match highway specs before sign-off.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Spacecraft_Transfer_Delta-V_Action_Workup — Mission design worksheet for sizing burns with action-based tradeoffs.
-- S2-L7_Nanoresonator_Control_Action_Tuning_Sheet — Lab protocol applying action tweaks to steady nanoscale oscillators.
+## 60–90s Explanation Notes
+- Crews core drill mix samples, run time-temperature sweeps, and overlay the results on agency target bands before paving windows close.
+- The packet flags when lab shift factors drift, prompting recalibration of viscosity references or field oven temperatures.

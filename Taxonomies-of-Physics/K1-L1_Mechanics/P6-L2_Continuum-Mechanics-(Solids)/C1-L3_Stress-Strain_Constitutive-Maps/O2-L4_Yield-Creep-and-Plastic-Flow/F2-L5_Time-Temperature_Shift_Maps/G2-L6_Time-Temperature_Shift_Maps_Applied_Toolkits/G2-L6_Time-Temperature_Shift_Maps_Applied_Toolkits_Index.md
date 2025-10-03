@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_DOT_Pavement_Master-Curve_Compliance_Set — Highway agency checklist for verifying mix master curves stay within acceptance bands.
+- S2-L7_Plant_Polymer_Batch_Shift-Correction_Kit — Troubleshooting bundle for rescuing production lots whose cure curves drift.

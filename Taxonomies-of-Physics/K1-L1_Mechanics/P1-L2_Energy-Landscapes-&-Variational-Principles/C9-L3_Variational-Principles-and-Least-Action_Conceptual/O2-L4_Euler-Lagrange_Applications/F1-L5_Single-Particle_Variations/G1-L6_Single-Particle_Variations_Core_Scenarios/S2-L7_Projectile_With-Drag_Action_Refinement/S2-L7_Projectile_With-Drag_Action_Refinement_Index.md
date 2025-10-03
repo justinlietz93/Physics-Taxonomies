@@ -1,5 +1,5 @@
-# G2-L6_Single-Particle_Variations_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for single-particle variations.
+# S2-L7_Projectile_With-Drag_Action_Refinement — Species Index
+**Definition:** Workshop example iterating the action for a ball under quadratic drag until the path converges.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Spacecraft_Transfer_Delta-V_Action_Workup — Mission design worksheet for sizing burns with action-based tradeoffs.
-- S2-L7_Nanoresonator_Control_Action_Tuning_Sheet — Lab protocol applying action tweaks to steady nanoscale oscillators.
+## 60–90s Explanation Notes
+- Participants discretize the trajectory, tweak points, and watch the action drop as the Euler-Lagrange condition is approached.
+- Comparing drag-free and drag-laden solutions shows how dissipative forces reshape conserved quantities and required launch angles.

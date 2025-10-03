@@ -1,5 +1,5 @@
-# G2-L6_Single-Particle_Variations_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for single-particle variations.
+# S1-L7_Spacecraft_Transfer_Delta-V_Action_Workup — Species Index
+**Definition:** Mission design worksheet that uses action methods to size burns for interplanetary transfers.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Spacecraft_Transfer_Delta-V_Action_Workup — Mission design worksheet for sizing burns with action-based tradeoffs.
-- S2-L7_Nanoresonator_Control_Action_Tuning_Sheet — Lab protocol applying action tweaks to steady nanoscale oscillators.
+## 60–90s Explanation Notes
+- Planners set up the action integral with gravity assists, iterate candidate paths, and read off delta-v that minimizes propellant.
+- The sheet contrasts patched-conic shortcuts with full action solutions to flag when simplifications break mission margins.

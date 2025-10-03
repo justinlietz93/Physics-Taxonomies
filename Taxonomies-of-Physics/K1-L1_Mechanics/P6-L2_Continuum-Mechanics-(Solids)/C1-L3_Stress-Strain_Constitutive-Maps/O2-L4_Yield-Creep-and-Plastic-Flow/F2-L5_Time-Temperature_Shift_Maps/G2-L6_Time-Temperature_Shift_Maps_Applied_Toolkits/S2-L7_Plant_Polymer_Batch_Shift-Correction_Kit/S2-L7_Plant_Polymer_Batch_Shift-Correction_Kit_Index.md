@@ -1,5 +1,5 @@
-# G2-L6_Single-Particle_Variations_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for single-particle variations.
+# S2-L7_Plant_Polymer_Batch_Shift-Correction_Kit — Species Index
+**Definition:** Troubleshooting bundle for resetting polymer shift factors when plant batches cure off-spec.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Spacecraft_Transfer_Delta-V_Action_Workup — Mission design worksheet for sizing burns with action-based tradeoffs.
-- S2-L7_Nanoresonator_Control_Action_Tuning_Sheet — Lab protocol applying action tweaks to steady nanoscale oscillators.
+## 60–90s Explanation Notes
+- Technicians log rheometer curves, compare to golden batch overlays, and apply recommended horizontal/vertical shift tweaks.
+- The kit pairs quick-aging ovens with data sheets so crews can validate fixes before releasing material back to packaging.
