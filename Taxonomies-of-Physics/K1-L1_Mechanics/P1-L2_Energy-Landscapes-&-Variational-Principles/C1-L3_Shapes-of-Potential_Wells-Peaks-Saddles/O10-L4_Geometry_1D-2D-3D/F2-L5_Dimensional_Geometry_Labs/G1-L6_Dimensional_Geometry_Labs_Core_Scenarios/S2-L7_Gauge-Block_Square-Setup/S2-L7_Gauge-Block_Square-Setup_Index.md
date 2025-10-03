@@ -1,5 +1,5 @@
-# G1-L6_Cornered-vs_Smooth_Consequences_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for cornered-vs smooth consequences.
+# S2-L7_Gauge-Block_Square-Setup — Species Index
+**Definition:** Stacks gauge blocks and granite squares to confirm orthogonality in a metrology bench before data is trusted.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Cart-Track_Sharp-Corner_Run — contrast cart response in cornered versus filleted track turns.
-- S2-L7_Cam-Follower_Smooth-Lift_Trial — compare follower jerk on cam lifts with and without blended corners.
+## 60–90s Explanation Notes
+- Wring gauge blocks, clamp them with a try square, and sweep a dial indicator for alignment error.
+- Use the readings to decide if fixtures need shimming before dimensional reports go out.

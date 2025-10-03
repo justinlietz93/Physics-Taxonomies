@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Laser-Level_Foundation-Check — laser sweeps map slab flatness before precision rigs are bolted down.
+- S2-L7_Gauge-Block_Square-Setup — stacked gauge blocks verify right angles on metrology benches.

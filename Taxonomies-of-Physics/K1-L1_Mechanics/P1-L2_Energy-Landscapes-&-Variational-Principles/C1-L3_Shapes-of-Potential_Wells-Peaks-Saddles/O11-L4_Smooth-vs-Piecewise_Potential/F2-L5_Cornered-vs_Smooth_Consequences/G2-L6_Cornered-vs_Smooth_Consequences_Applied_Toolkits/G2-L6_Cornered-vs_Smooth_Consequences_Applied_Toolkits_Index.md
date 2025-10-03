@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Machine-Corner_Radius-Retrofit — retrofit kit rounds bruising corners on chutes and guides.
+- S2-L7_Cam-Lobe_Surface-Polish_Pack — polishing pack blends cam lobes for smoother follower lifts.

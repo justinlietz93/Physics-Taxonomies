@@ -1,5 +1,5 @@
-# G1-L6_Cornered-vs_Smooth_Consequences_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for cornered-vs smooth consequences.
+# S2-L7_Cam-Follower_Smooth-Lift_Trial — Species Index
+**Definition:** Compares follower vibration when a cam’s lift profile is left cornered versus blended with a smooth spline.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Cart-Track_Sharp-Corner_Run — contrast cart response in cornered versus filleted track turns.
-- S2-L7_Cam-Follower_Smooth-Lift_Trial — compare follower jerk on cam lifts with and without blended corners.
+## 60–90s Explanation Notes
+- Spin the cam at constant RPM and measure follower acceleration spikes for both profiles.
+- Relate the jerk reduction from smoothing to longer lifetimes for followers and springs.

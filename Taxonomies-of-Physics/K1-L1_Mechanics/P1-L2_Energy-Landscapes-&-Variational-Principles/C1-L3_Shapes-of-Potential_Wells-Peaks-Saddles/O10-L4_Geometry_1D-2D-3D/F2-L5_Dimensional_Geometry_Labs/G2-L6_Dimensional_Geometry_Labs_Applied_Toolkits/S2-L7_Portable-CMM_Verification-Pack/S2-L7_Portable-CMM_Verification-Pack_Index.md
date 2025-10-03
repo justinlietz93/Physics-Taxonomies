@@ -1,5 +1,5 @@
-# G1-L6_Cornered-vs_Smooth_Consequences_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for cornered-vs smooth consequences.
+# S2-L7_Portable-CMM_Verification-Pack — Species Index
+**Definition:** Bundles ball bars, thermal sensors, and quick charts so portable CMM crews can validate accuracy on site.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Cart-Track_Sharp-Corner_Run — contrast cart response in cornered versus filleted track turns.
-- S2-L7_Cam-Follower_Smooth-Lift_Trial — compare follower jerk on cam lifts with and without blended corners.
+## 60–90s Explanation Notes
+- Assemble the ball bar, capture probe deviations, and compare to quick-reference tolerance sheets.
+- Log ambient temperature and humidity so measurement drift can be corrected during field reports.

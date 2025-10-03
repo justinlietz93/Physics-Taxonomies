@@ -1,5 +1,5 @@
-# G1-L6_Cornered-vs_Smooth_Consequences_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for cornered-vs smooth consequences.
+# S1-L7_Lab-Drop_Quadratic-Fit_Audit — Species Index
+**Definition:** Replays motion-capture data from a controlled drop test to see where the quadratic fit deviates from gravity.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Cart-Track_Sharp-Corner_Run — contrast cart response in cornered versus filleted track turns.
-- S2-L7_Cam-Follower_Smooth-Lift_Trial — compare follower jerk on cam lifts with and without blended corners.
+## 60–90s Explanation Notes
+- Fit the trajectory, plot residuals, and note when air drag or timing jitter pushes the curve off.
+- Use the audit to decide if a quadratic model is valid for the drop heights in the lab.

@@ -1,5 +1,5 @@
-# G1-L6_Cornered-vs_Smooth_Consequences_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for cornered-vs smooth consequences.
+# S1-L7_Cart-Track_Sharp-Corner_Run — Species Index
+**Definition:** Drives a dynamics cart through an abrupt track corner versus a filleted bend to show jerk and energy loss differences.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Cart-Track_Sharp-Corner_Run — contrast cart response in cornered versus filleted track turns.
-- S2-L7_Cam-Follower_Smooth-Lift_Trial — compare follower jerk on cam lifts with and without blended corners.
+## 60–90s Explanation Notes
+- Time the cart through the sharp elbow and the smoothed version to highlight velocity drop and vibration spikes.
+- Overlay accelerometer traces to contrast impulses from corners with gentler curvature transitions.
