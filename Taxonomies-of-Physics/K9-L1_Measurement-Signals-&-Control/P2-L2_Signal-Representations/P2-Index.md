@@ -23,4 +23,3 @@
 - STFT tuning guides, sample-rate selectors, anti-alias filters, codec comparisons, error-correction planners, and scalogram interpreters.
 ## Species (L7) — everyday exemplars
 - Audio interface anti-alias tune-ups, subway spectrogram audits, streaming codec balances, satellite LDPC setups, and seizure wavelet scans.
-
