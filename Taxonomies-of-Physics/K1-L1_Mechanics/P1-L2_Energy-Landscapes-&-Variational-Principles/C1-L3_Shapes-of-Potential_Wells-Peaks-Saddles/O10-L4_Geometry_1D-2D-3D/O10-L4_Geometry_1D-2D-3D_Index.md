@@ -1,5 +1,4 @@
 # O10-L4_Geometry_1D-2D-3D — Order Index
-
 **Definition:** Same idea drawn in 1D tracks, 2D surfaces, or 3D bowls/ridges.
 
 ## Overarching Lenses
@@ -12,7 +11,8 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Family (canonical problems)
+## Family (L5) — index
+- **F1-L5_Dimensional_Geometry_Comparisons** — contrasts how wells behave in one, two, or three dimensions.
 
 ## Genus (L6)
 

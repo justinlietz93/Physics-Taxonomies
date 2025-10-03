@@ -12,8 +12,12 @@
 
 ## Order (L4) — index
 - O1-L4_Fourier-&-Spectrum-Views — steady-state decompositions that expose tone strength and phase.
-- O2-L4_Wavelet-&-Time-Frequency-Tiles — multiscale windows that trade time for frequency resolution.
-## Family (L5) — (later)
-## Genus (L6)
-_(Insert `G*-L6_*` between Family and Species.)_
+- O2-L4_Wavelet-&-Time-Frequency-Tiles — multiscale tiles that chase bursts and chirps through time.
+## Family (L5) — highlights
+- O1 > F1-L5_Audio-&-Vibration-Spectra — FFT diagnostics for mixes, machines, and tonal signatures.
+- O2 > F1-L5_Short-Time_Windowing_Patterns — plan spectrogram windows to frame transients cleanly.
+- O2 > F2-L5_Wavelet_Bank_Playbooks — pick mother wavelets and scales that surface hidden events.
+## Genus (L6) — toolkits in play
+- Music-mix vs machine-diagnostic comparisons, anti-alias design guides, STFT tuning charts, multi-resolution planners, wavelet family pickers, and scalogram interpreters.
 ## Species (L7) — everyday exemplars
+- Podcast EQ fixes, factory vibration audits, subway spectrogram reviews, power quality wavelet alarms, and seizure scalogram scans.

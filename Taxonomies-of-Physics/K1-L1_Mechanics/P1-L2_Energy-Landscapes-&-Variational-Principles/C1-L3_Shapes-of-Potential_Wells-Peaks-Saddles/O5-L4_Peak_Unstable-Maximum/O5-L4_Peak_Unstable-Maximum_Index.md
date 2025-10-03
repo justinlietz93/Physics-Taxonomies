@@ -1,5 +1,4 @@
 # O5-L4_Peak_Unstable-Maximum — Order Index
-
 **Definition:** A hilltop state; any small push runs away (unstable).
 
 ## Overarching Lenses
@@ -12,7 +11,8 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Family (canonical problems)
+## Family (L5) — index
+- **F1-L5_Unstable-Peak_Balance-Scenarios** — knife-edge peaks where the tiniest nudges send motion racing downhill.
 
 ## Genus (L6)
 

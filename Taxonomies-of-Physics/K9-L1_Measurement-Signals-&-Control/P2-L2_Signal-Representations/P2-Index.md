@@ -13,7 +13,14 @@
 ## Class (L3) — index
 - C1-L3_Time-Frequency-Transforms — toggling between temporal stories and spectral fingerprints.
 - C2-L3_Digital-Sampling-&-Coding — representing signals with bits, symbols, and compression schemes.
-## Order (L4) — (later)
-## Family (L5) — (later)
-## Genus (L6) — (later)
-## Species (L7) — (later)
+## Order (L4) — active trails
+- C1: O1-L4_Fourier-&-Spectrum-Views, O2-L4_Wavelet-&-Time-Frequency-Tiles — spectrum and multiresolution storytelling.
+- C2: O1-L4_Sampling-Theorem-&-Aliasing, O2-L4_Coding-&-Compression_Frameworks — discrete-time planning and robust bitstreams.
+## Family (L5) — featured playbooks
+- Anti-alias planning, alias remediation, sampling workflows, and FFT diagnostics anchor the C1 class.
+- Wavelet windowing, wavelet bank selection, source coding, and channel coding kits power C2.
+## Genus (L6) — go-to toolkits
+- STFT tuning guides, sample-rate selectors, anti-alias filters, codec comparisons, error-correction planners, and scalogram interpreters.
+## Species (L7) — everyday exemplars
+- Audio interface anti-alias tune-ups, subway spectrogram audits, streaming codec balances, satellite LDPC setups, and seizure wavelet scans.
+

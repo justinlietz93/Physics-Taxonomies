@@ -12,6 +12,7 @@
 
 ## Family (L5) — index
 - F1-L5_Audio-&-Vibration-Spectra — reading FFT magnitudes to diagnose tones and balance rotors.
-## Genus (L6)
-_(Insert `G*-L6_*` here.)_
+## Genus (L6) — harmonic toolkits
+- G1-L6_Music-Mix-vs-Machine-Diagnostics — contrast studio EQ tweaks with maintenance vibration checks.
 ## Species (L7) — everyday exemplars
+- Podcast noise EQ fixes and factory motor vibration spectrum checks anchor the concepts.

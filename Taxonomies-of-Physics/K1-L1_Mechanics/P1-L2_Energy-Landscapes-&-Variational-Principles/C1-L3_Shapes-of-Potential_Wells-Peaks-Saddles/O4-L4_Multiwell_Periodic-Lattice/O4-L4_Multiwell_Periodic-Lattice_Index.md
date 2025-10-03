@@ -1,5 +1,4 @@
 # O4-L4_Multiwell_Periodic-Lattice — Order Index
-
 **Definition:** Many repeated valleys/ridges (crystal- or lattice-like).
 
 ## Overarching Lenses
@@ -12,7 +11,8 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Family (canonical problems)
+## Family (L5) — index
+- **F1-L5_Periodic-Well_Array_Playbooks** — repeated wells that trap, guide, and resonate with travelers across a lattice.
 
 ## Genus (L6)
 

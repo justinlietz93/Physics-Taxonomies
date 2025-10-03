@@ -1,5 +1,4 @@
 # O12-L4_Local-Quadratic_Approximation — Order Index
-
 **Definition:** Near any minimum, the bowl looks quadratic (spring-like).
 
 ## Overarching Lenses
@@ -12,7 +11,8 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Family (canonical problems)
+## Family (L5) — index
+- **F1-L5_Taylor-Bowl_Modeling-Kits** — using local parabolas to approximate complicated shapes.
 
 ## Genus (L6)
 
