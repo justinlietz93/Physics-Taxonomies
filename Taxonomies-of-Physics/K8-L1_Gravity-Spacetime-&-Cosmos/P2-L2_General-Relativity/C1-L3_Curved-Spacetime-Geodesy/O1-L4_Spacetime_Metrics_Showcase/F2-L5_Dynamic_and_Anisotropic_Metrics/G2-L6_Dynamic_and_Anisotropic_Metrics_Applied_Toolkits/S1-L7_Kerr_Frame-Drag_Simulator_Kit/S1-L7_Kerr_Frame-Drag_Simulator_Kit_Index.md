@@ -1,5 +1,5 @@
-# G2-L6_Dynamic_and_Anisotropic_Metrics_Applied_Toolkits — Genus Index
-**Definition:** Bundles ready-to-run kits that help labs and outreach crews demonstrate rotating or evolving spacetime effects.
+# S1-L7_Kerr_Frame-Drag_Simulator_Kit — Species Index
+**Definition:** Planetariums run a laptop-plus-turntable kit that visualizes Kerr frame-dragging so visitors can steer probes through a spinning spacetime.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- **S1-L7_Kerr_Frame-Drag_Simulator_Kit** — Portable exhibits let visitors feel how Kerr frame-dragging steers probe trajectories.
-- **S2-L7_Anisotropic_Lensing_Map_Toolset** — Survey software turns distorted galaxy arcs into shareable anisotropic metric maps.
+## 60–90s Explanation Notes
+- The simulator couples a spinning platform to projection software so learners feel how inertial frames twist around a rotating mass.
+- Scenario cards walk through spacecraft trajectory planning, highlighting when anisotropic spacetime forces crews to burn or coast differently.

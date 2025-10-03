@@ -1,5 +1,5 @@
-# G2-L6_Dynamic_and_Anisotropic_Metrics_Applied_Toolkits — Genus Index
-**Definition:** Bundles ready-to-run kits that help labs and outreach crews demonstrate rotating or evolving spacetime effects.
+# S1-L7_Frame-Dragging_Ring-Laser_Array — Species Index
+**Definition:** University gyroscope arrays watch Sagnac phase shifts modulate with Earth’s rotation to isolate frame-dragging signatures of the Kerr metric.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- **S1-L7_Kerr_Frame-Drag_Simulator_Kit** — Portable exhibits let visitors feel how Kerr frame-dragging steers probe trajectories.
-- **S2-L7_Anisotropic_Lensing_Map_Toolset** — Survey software turns distorted galaxy arcs into shareable anisotropic metric maps.
+## 60–90s Explanation Notes
+- The array logs beat frequencies as Earth’s spin drags inertial frames, matching Kerr predictions for latitude and ring orientation.
+- Data runs feed calibration models used later to strip out Newtonian rotation so subtle anisotropic spacetime twists remain.

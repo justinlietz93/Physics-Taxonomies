@@ -1,5 +1,5 @@
-# G2-L6_Dynamic_and_Anisotropic_Metrics_Applied_Toolkits — Genus Index
-**Definition:** Bundles ready-to-run kits that help labs and outreach crews demonstrate rotating or evolving spacetime effects.
+# S1-L7_GPS_Clock_Gravity-Shift_Tuning — Species Index
+**Definition:** GPS navigation crews pre-shift satellite clocks so the Schwarzschild time dilation matches ground receivers from day one.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- **S1-L7_Kerr_Frame-Drag_Simulator_Kit** — Portable exhibits let visitors feel how Kerr frame-dragging steers probe trajectories.
-- **S2-L7_Anisotropic_Lensing_Map_Toolset** — Survey software turns distorted galaxy arcs into shareable anisotropic metric maps.
+## 60–90s Explanation Notes
+- Engineers compare the onboard atomic clock rate with Schwarzschild predictions for Earth’s mass to set the pre-launch frequency offset.
+- Field monitors later verify navigation accuracy by logging that range solutions stay within meters once the gravitational shift is applied.

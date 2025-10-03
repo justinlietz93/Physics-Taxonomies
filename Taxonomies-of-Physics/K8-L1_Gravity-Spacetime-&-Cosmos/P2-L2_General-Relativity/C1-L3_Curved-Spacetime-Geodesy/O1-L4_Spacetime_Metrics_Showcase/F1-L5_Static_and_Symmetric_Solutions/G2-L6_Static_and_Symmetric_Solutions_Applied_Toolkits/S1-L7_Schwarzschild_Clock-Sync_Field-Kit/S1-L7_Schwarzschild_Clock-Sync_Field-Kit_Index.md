@@ -1,5 +1,5 @@
-# G2-L6_Dynamic_and_Anisotropic_Metrics_Applied_Toolkits — Genus Index
-**Definition:** Bundles ready-to-run kits that help labs and outreach crews demonstrate rotating or evolving spacetime effects.
+# S1-L7_Schwarzschild_Clock-Sync_Field-Kit — Species Index
+**Definition:** Calibration teams keep a traveling kit of fiber links, microwave transponders, and scripts that bake in Schwarzschild redshift when syncing remote clocks.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- **S1-L7_Kerr_Frame-Drag_Simulator_Kit** — Portable exhibits let visitors feel how Kerr frame-dragging steers probe trajectories.
-- **S2-L7_Anisotropic_Lensing_Map_Toolset** — Survey software turns distorted galaxy arcs into shareable anisotropic metric maps.
+## 60–90s Explanation Notes
+- The kit bundles lookup tables for Earth’s potential, letting techs dial in gravitational offsets when comparing hilltop and valley lab clocks.
+- Portable phase comparators confirm that once the static correction is toggled on, cross-site drift falls back below the nanosecond level.

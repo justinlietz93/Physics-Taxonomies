@@ -1,5 +1,5 @@
 # G2-L6_Static_and_Symmetric_Solutions_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for static and symmetric solutions.
+**Definition:** Curates field and outreach kits that help crews apply spherical, static metrics on demand.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Schwarzschild_Clock-Sync_Field-Kit** — Traveling timing carts preload gravitational redshift when syncing distant labs.
+- **S2-L7_Radial_Potential_Modeling_Workshop-Pack** — Outreach trunks let audiences build Schwarzschild wells and visualize clock slowdown.
