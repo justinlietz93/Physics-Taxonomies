@@ -1,5 +1,5 @@
-# C5-L3_Conservative-vs-Nonconservative-Forces — Class Index
-**Definition:** Compares force landscapes that either preserve energy on every loop or bleed/gain work depending on the route.
+# S2-L7_Superconductor_Maglev_Check — Species Index
+**Definition:** Engineering teams monitor levitating train prototypes to show magnetic energy swaps without resistive loss.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,11 +10,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Order (L4) — index
-- O1-L4_Path-Independent_Work-Fields — explore situations where potentials alone set the energy bookends.
-- O2-L4_Path-Dependent_Work-Loops — inspect cycles where friction or drives make work hinge on the journey.
-## Family (L5) — (later)
-## Genus (L6)
-_(Insert `G*-L6_*` between Family and Species.)_
-
-## Species (L7) — everyday exemplars
+## 60–90s Explanation Notes
+- Track how stored magnetic energy turns into motion and back without heating because superconductors kill resistance.
+- Point out that consistent levitation height proves the field behaves like a conservative potential well.
+- Mention that engineers still monitor for stray eddy currents that could introduce nonconservative losses.

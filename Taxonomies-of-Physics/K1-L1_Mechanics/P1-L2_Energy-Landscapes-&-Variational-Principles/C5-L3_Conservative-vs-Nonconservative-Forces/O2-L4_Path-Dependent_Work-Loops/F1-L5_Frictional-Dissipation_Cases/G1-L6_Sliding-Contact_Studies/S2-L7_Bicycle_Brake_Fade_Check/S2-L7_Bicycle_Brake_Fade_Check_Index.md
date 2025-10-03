@@ -1,5 +1,5 @@
-# C5-L3_Conservative-vs-Nonconservative-Forces — Class Index
-**Definition:** Compares force landscapes that either preserve energy on every loop or bleed/gain work depending on the route.
+# S2-L7_Bicycle_Brake_Fade_Check — Species Index
+**Definition:** Cyclists measure downhill runs and braking force to show friction converts mechanical work into heat.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,11 +10,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Order (L4) — index
-- O1-L4_Path-Independent_Work-Fields — explore situations where potentials alone set the energy bookends.
-- O2-L4_Path-Dependent_Work-Loops — inspect cycles where friction or drives make work hinge on the journey.
-## Family (L5) — (later)
-## Genus (L6)
-_(Insert `G*-L6_*` between Family and Species.)_
-
-## Species (L7) — everyday exemplars
+## 60–90s Explanation Notes
+- Record temperature rise on brake pads after repeated stops to visualize energy loss as heat.
+- Contrast power needed to climb back up versus the heat dumped going down to show path dependence.
+- Encourage maintenance actions like pad replacement and rotor cleaning when fade appears.

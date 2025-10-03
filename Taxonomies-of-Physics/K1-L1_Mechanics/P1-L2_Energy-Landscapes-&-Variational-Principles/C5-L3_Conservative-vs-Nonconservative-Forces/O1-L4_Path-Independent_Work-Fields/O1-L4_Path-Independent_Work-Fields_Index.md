@@ -1,5 +1,5 @@
-# C5-L3_Conservative-vs-Nonconservative-Forces — Class Index
-**Definition:** Compares force landscapes that either preserve energy on every loop or bleed/gain work depending on the route.
+# O1-L4_Path-Independent_Work-Fields — Order Index
+**Definition:** Systems where forces derive from a potential so work depends only on start and finish, not on the wander between.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,11 +10,10 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Order (L4) — index
-- O1-L4_Path-Independent_Work-Fields — explore situations where potentials alone set the energy bookends.
-- O2-L4_Path-Dependent_Work-Loops — inspect cycles where friction or drives make work hinge on the journey.
-## Family (L5) — (later)
+## Family (L5) — index
+- F1-L5_Potential-Field_Mapping — chart potential surfaces that guarantee path-independent work.
+- F2-L5_Conservative_System_Diagnostics — audit energy ledgers to confirm nothing leaks away.
 ## Genus (L6)
-_(Insert `G*-L6_*` between Family and Species.)_
+_(Insert `G*-L6_*` here.)_
 
 ## Species (L7) — everyday exemplars
