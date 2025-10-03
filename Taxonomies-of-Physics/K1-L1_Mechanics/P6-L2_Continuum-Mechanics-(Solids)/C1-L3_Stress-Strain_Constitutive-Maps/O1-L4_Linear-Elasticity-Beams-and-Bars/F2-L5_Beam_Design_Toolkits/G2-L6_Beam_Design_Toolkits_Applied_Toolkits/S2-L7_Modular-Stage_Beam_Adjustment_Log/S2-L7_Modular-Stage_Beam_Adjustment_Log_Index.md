@@ -1,5 +1,5 @@
-# G2-L6_Beam-Bending-Cases_Extension_Portfolios — Genus Index
-**Definition:** Supplemental case bundles that stretch the base beam-bending playbook to weathered members, retrofits, and special inspection asks.
+# S2-L7_Modular-Stage_Beam_Adjustment_Log — Species Index
+**Definition:** Adjustment log for touring stage beams that must recheck loads for new rigging, spans, and crowd layouts.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- **S1-L7_Historic-Timber_Beam-Survey_Extension-Checklist** — site notebook translating sagging, checks, and notches into adjusted deflection and capacity checks.
-- **S2-L7_Retrofitted-Steel_Beam_Load-Rating_Portfolio** — rating package showing how plated or wrapped steel beams regain margin for new live loads.
+## 60–90s Explanation Notes
+- Document how each venue tweak shifts spans, ballast, or suspended loads so the beam schedule can be retuned before doors open.
+- Include quick pass/fail checks for deflection and shear so riggers know when to add shoring or redistribute fixtures.

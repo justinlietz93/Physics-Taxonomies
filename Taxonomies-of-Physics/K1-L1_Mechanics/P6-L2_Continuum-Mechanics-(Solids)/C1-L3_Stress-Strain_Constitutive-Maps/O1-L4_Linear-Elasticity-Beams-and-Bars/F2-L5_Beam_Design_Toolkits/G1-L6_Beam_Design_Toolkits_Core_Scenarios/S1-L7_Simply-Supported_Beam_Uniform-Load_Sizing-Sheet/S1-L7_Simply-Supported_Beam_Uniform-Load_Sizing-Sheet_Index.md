@@ -1,5 +1,5 @@
-# G2-L6_Beam-Bending-Cases_Extension_Portfolios — Genus Index
-**Definition:** Supplemental case bundles that stretch the base beam-bending playbook to weathered members, retrofits, and special inspection asks.
+# S1-L7_Simply-Supported_Beam_Uniform-Load_Sizing-Sheet — Species Index
+**Definition:** Quick-sizing worksheet that walks through span, load, and allowable stress checks for a textbook simply supported beam.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- **S1-L7_Historic-Timber_Beam-Survey_Extension-Checklist** — site notebook translating sagging, checks, and notches into adjusted deflection and capacity checks.
-- **S2-L7_Retrofitted-Steel_Beam_Load-Rating_Portfolio** — rating package showing how plated or wrapped steel beams regain margin for new live loads.
+## 60–90s Explanation Notes
+- Plug in span and uniform load to get shear/moment diagrams, then read off required section modulus from allowable stresses.
+- Convert deflection limits into stiffness targets so builders know whether to double up members or switch to a deeper profile.

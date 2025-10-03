@@ -1,5 +1,5 @@
-# G2-L6_Beam-Bending-Cases_Extension_Portfolios — Genus Index
-**Definition:** Supplemental case bundles that stretch the base beam-bending playbook to weathered members, retrofits, and special inspection asks.
+# S1-L7_Historic-Timber_Beam-Survey_Extension-Checklist — Species Index
+**Definition:** Field checklist for extending baseline beam-bending cases to aging timber joists in heritage buildings.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- **S1-L7_Historic-Timber_Beam-Survey_Extension-Checklist** — site notebook translating sagging, checks, and notches into adjusted deflection and capacity checks.
-- **S2-L7_Retrofitted-Steel_Beam_Load-Rating_Portfolio** — rating package showing how plated or wrapped steel beams regain margin for new live loads.
+## 60–90s Explanation Notes
+- Start with the standard simply supported span equations, then factor in moisture, checks, and notches logged during the site walk.
+- Pair deflection sketches with quick stiffness back-calculations to flag members that need reinforcement or load re-routing.

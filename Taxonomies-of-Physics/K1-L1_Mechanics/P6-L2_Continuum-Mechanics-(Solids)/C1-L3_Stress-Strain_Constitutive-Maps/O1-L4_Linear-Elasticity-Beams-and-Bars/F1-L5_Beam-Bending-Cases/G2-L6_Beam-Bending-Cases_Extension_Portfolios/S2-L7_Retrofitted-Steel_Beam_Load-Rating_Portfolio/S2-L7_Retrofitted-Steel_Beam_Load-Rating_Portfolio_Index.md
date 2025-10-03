@@ -1,5 +1,5 @@
-# G2-L6_Beam-Bending-Cases_Extension_Portfolios — Genus Index
-**Definition:** Supplemental case bundles that stretch the base beam-bending playbook to weathered members, retrofits, and special inspection asks.
+# S2-L7_Retrofitted-Steel_Beam_Load-Rating_Portfolio — Species Index
+**Definition:** Worked load-rating packet for steel beams strengthened with bolted plates or CFRP wraps.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- **S1-L7_Historic-Timber_Beam-Survey_Extension-Checklist** — site notebook translating sagging, checks, and notches into adjusted deflection and capacity checks.
-- **S2-L7_Retrofitted-Steel_Beam_Load-Rating_Portfolio** — rating package showing how plated or wrapped steel beams regain margin for new live loads.
+## 60–90s Explanation Notes
+- Start with the original section modulus, then layer on composite action factors from the retrofit details to re-score moment capacity.
+- Walk through live load envelopes, weld and bolt checks, and serviceability limits so inspectors can sign off on reopened occupancy.

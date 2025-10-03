@@ -1,5 +1,5 @@
-# G2-L6_Beam-Bending-Cases_Extension_Portfolios — Genus Index
-**Definition:** Supplemental case bundles that stretch the base beam-bending playbook to weathered members, retrofits, and special inspection asks.
+# S2-L7_Polymer-Sealant_Relaxation_Shift-Chart — Species Index
+**Definition:** Shift chart translating polymer sealant lab creep data into installation temperature guidance.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- **S1-L7_Historic-Timber_Beam-Survey_Extension-Checklist** — site notebook translating sagging, checks, and notches into adjusted deflection and capacity checks.
-- **S2-L7_Retrofitted-Steel_Beam_Load-Rating_Portfolio** — rating package showing how plated or wrapped steel beams regain margin for new live loads.
+## 60–90s Explanation Notes
+- Convert bench creep curves into a master curve, then read shift factors to know how fast joints relax in summer or winter installs.
+- Feed back field pull tests so crews can choose primers and cure windows that keep sealants serviceable for decades.

@@ -1,5 +1,5 @@
-# G2-L6_Beam-Bending-Cases_Extension_Portfolios — Genus Index
-**Definition:** Supplemental case bundles that stretch the base beam-bending playbook to weathered members, retrofits, and special inspection asks.
+# S1-L7_Custom-Auto-Panel_Deep-Draw_Troubleshooting-Kit — Species Index
+**Definition:** Troubleshooting kit for extending deep-draw examples to custom car body panels with wrinkling or tearing risks.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- **S1-L7_Historic-Timber_Beam-Survey_Extension-Checklist** — site notebook translating sagging, checks, and notches into adjusted deflection and capacity checks.
-- **S2-L7_Retrofitted-Steel_Beam_Load-Rating_Portfolio** — rating package showing how plated or wrapped steel beams regain margin for new live loads.
+## 60–90s Explanation Notes
+- Adjust blank-holder force, lube choice, and draw bead layout to tame wrinkles while staying under thinning limits.
+- Cross-check with forming limit diagrams and on-press strain measurements to lock in settings before production runs.

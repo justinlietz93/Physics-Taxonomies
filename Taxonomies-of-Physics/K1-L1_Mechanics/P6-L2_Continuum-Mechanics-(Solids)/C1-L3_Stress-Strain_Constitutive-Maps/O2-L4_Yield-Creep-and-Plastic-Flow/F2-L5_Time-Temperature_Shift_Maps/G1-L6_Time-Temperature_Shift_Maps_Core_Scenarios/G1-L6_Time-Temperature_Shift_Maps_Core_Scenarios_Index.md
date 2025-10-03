@@ -1,5 +1,5 @@
 # G1-L6_Time-Temperature_Shift_Maps_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for time-temperature shift maps.
+**Definition:** Core examples that teach how to build and read shift maps before layering on rare materials or extreme climates.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Asphalt-Mix_Master-Curve_Field-Builder** — toolkit for DOT crews fusing lab and truck data into a pavement master curve.
+- **S2-L7_Polymer-Sealant_Relaxation_Shift-Chart** — installer chart translating sealant creep tests into seasonal work windows.
