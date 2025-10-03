@@ -1,5 +1,5 @@
-# C1-L3_State-Postulates-&-Wavefunctions — Class Index
-**Definition:** Lay out quantum state spaces, basis choices, and how we prepare useful superpositions.
+# C2-L3_Measurement-Probabilities-&-Updates — Class Index
+**Definition:** Translate the Born rule and measurement postulates into repeatable lab and data routines.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,8 +11,8 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Order (L4) — index
-- O1-L4_State-Space_Building — choose bases and lab prep routines that realize target states.
-- O2-L4_Operator-Algebra_Studios — drill commutators and spectra until operator math feels concrete.
+- O1-L4_Projective-Measurement_Routines — run textbook projectors with hardware and good recordkeeping.
+- O2-L4_Generalized-Measurement_Playbooks — build POVM and weak-measurement gear with live probability updates.
 ## Family (L5) — (later)
 ## Genus (L6)
 ## Species (L7) — everyday exemplars

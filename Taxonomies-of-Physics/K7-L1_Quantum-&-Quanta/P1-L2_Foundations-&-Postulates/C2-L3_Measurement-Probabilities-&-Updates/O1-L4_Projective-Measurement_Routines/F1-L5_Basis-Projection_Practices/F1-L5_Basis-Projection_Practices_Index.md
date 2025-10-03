@@ -1,5 +1,5 @@
-# C1-L3_State-Postulates-&-Wavefunctions — Class Index
-**Definition:** Lay out quantum state spaces, basis choices, and how we prepare useful superpositions.
+# F1-L5_Basis-Projection_Practices — Family Index
+**Definition:** Alignment routines that make the chosen measurement basis show up cleanly on detectors.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,9 +10,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Order (L4) — index
-- O1-L4_State-Space_Building — choose bases and lab prep routines that realize target states.
-- O2-L4_Operator-Algebra_Studios — drill commutators and spectra until operator math feels concrete.
-## Family (L5) — (later)
-## Genus (L6)
+## Genus (L6) — index
+- G1-L6_Stern-Gerlach_Workflows — walk spin analyzers through calibration and sampling.
+- G2-L6_Optical_Polarizer_Stacks — stack and align polarizers for crisp projection outcomes.
 ## Species (L7) — everyday exemplars

@@ -1,5 +1,5 @@
-# C1-L3_State-Postulates-&-Wavefunctions — Class Index
-**Definition:** Lay out quantum state spaces, basis choices, and how we prepare useful superpositions.
+# S1-L7_Spin-Half_Pauli_Cycle_Lab — Species Index
+**Definition:** Rotate a single-spin trainer through Pauli X, Y, and Z to feel non-commuting steps.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,9 +10,5 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Order (L4) — index
-- O1-L4_State-Space_Building — choose bases and lab prep routines that realize target states.
-- O2-L4_Operator-Algebra_Studios — drill commutators and spectra until operator math feels concrete.
-## Family (L5) — (later)
-## Genus (L6)
-## Species (L7) — everyday exemplars
+## 60–90s Explanation Notes
+Walk a benchtop spin qubit through X, Y, and Z pulses, logging order-dependent outcomes so students see why [X,Y] ≠ 0 without algebra.

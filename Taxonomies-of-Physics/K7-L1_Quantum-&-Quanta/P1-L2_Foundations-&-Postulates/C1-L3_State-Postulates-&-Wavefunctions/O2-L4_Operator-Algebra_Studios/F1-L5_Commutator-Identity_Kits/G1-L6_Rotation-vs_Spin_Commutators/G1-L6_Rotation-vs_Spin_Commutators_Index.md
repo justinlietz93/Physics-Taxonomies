@@ -1,5 +1,5 @@
-# C1-L3_State-Postulates-&-Wavefunctions — Class Index
-**Definition:** Lay out quantum state spaces, basis choices, and how we prepare useful superpositions.
+# G1-L6_Rotation-vs_Spin_Commutators — Genus Index
+**Definition:** Side-by-side labs that show how spatial and spin rotations obey the same algebra.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,9 +10,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Order (L4) — index
-- O1-L4_State-Space_Building — choose bases and lab prep routines that realize target states.
-- O2-L4_Operator-Algebra_Studios — drill commutators and spectra until operator math feels concrete.
-## Family (L5) — (later)
-## Genus (L6)
 ## Species (L7) — everyday exemplars
+- S1-L7_Spin-Half_Pauli_Cycle_Lab — cycle through Pauli operators with a benchtop spin qubit trainer.
+- S2-L7_Light_Paddle_Commutator_Demo — use polarization paddles to feel non-commuting rotations on light.

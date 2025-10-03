@@ -1,5 +1,5 @@
-# C1-L3_State-Postulates-&-Wavefunctions — Class Index
-**Definition:** Lay out quantum state spaces, basis choices, and how we prepare useful superpositions.
+# S2-L7_Rigid-Rotor_Energy_Map — Species Index
+**Definition:** Chart microwave absorption peaks of a rigid rotor to set the eigenbasis for rotation operators.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,9 +10,5 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Order (L4) — index
-- O1-L4_State-Space_Building — choose bases and lab prep routines that realize target states.
-- O2-L4_Operator-Algebra_Studios — drill commutators and spectra until operator math feels concrete.
-## Family (L5) — (later)
-## Genus (L6)
-## Species (L7) — everyday exemplars
+## 60–90s Explanation Notes
+Record the microwave spectrum of a simple molecular rotor, annotate the J→J+1 ladder, and use it to pick eigenstates for later operator work.

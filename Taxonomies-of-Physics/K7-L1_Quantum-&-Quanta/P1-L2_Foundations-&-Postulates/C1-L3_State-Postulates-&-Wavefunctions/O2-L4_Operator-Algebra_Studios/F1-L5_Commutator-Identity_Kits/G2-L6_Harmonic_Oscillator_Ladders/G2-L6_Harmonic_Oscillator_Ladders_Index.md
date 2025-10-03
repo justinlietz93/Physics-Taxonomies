@@ -1,5 +1,5 @@
-# C1-L3_State-Postulates-&-Wavefunctions — Class Index
-**Definition:** Lay out quantum state spaces, basis choices, and how we prepare useful superpositions.
+# G2-L6_Harmonic_Oscillator_Ladders — Genus Index
+**Definition:** Guided labs that turn ladder-operator algebra into real oscillators you can adjust and record.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,9 +10,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Order (L4) — index
-- O1-L4_State-Space_Building — choose bases and lab prep routines that realize target states.
-- O2-L4_Operator-Algebra_Studios — drill commutators and spectra until operator math feels concrete.
-## Family (L5) — (later)
-## Genus (L6)
 ## Species (L7) — everyday exemplars
+- S1-L7_Laser_Mode_Ladder_Tune — tune optical cavity modes to mimic raising and lowering photons.
+- S2-L7_Spring-Ladder_Notebook_Session — document mass-spring energies as you add and remove quanta by hand.

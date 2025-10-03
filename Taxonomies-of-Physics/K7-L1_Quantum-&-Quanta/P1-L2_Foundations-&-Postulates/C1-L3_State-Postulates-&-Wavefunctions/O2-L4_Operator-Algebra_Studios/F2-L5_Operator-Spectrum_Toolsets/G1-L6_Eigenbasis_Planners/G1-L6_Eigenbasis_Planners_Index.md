@@ -1,5 +1,5 @@
-# C1-L3_State-Postulates-&-Wavefunctions — Class Index
-**Definition:** Lay out quantum state spaces, basis choices, and how we prepare useful superpositions.
+# G1-L6_Eigenbasis_Planners — Genus Index
+**Definition:** Layouts for aligning instruments with the eigenvectors that diagonalize target operators.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,9 +10,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Order (L4) — index
-- O1-L4_State-Space_Building — choose bases and lab prep routines that realize target states.
-- O2-L4_Operator-Algebra_Studios — drill commutators and spectra until operator math feels concrete.
-## Family (L5) — (later)
-## Genus (L6)
 ## Species (L7) — everyday exemplars
+- S1-L7_Qubit_Eigenstate_Checklist — confirm qubit axes with calibration pulses before experiments.
+- S2-L7_Rigid-Rotor_Energy_Map — map rotational energy levels to pick spectrometer channels.

@@ -1,5 +1,5 @@
-# C1-L3_State-Postulates-&-Wavefunctions — Class Index
-**Definition:** Lay out quantum state spaces, basis choices, and how we prepare useful superpositions.
+# O2-L4_Generalized-Measurement_Playbooks — Order Index
+**Definition:** Deploy POVM and weak-measurement techniques with matching data updates.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,9 +10,8 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Order (L4) — index
-- O1-L4_State-Space_Building — choose bases and lab prep routines that realize target states.
-- O2-L4_Operator-Algebra_Studios — drill commutators and spectra until operator math feels concrete.
-## Family (L5) — (later)
+## Family (L5) — index
+- F1-L5_POVM_Device_Libraries — hardware sets for generalized measurements.
+- F2-L5_Probability-Update_Workflows — software habits for updating states after gentle probes.
 ## Genus (L6)
 ## Species (L7) — everyday exemplars
