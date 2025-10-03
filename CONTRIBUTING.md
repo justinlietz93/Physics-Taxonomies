@@ -59,12 +59,12 @@ S (Species)    -> Concrete everyday exemplars
 ### Example Path
 ```
 K6-L1_Electromagnetism-&-Light/
-    └── P1-L2_Electrostatics-&-Potentials/
-        └── C2-L3_Boundary-Value-Playbooks/
-            └── O2-L4_Numerical-Potential-Solvers/
-                └── F1-L5_Mesh-&-Finite-Difference_Tools/
-                    └── G1-L6_Rectilinear-Grid_Solvers/
-                        └── S1-L7_Spreadsheet_Laplace-Lab/
+      |__  P1-L2_Electrostatics-&-Potentials/
+          |__  C2-L3_Boundary-Value-Playbooks/
+              |__  O2-L4_Numerical-Potential-Solvers/
+                  |__  F1-L5_Mesh-&-Finite-Difference_Tools/
+                      |__  G1-L6_Rectilinear-Grid_Solvers/
+                          |__  S1-L7_Spreadsheet_Laplace-Lab/
 ```
 
 ---
