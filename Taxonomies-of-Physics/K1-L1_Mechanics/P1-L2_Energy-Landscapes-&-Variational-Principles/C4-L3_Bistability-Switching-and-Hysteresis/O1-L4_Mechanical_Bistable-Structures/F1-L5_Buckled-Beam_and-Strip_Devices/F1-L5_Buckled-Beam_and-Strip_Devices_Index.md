@@ -1,5 +1,5 @@
-# C4-L3_Bistability-Switching-and-Hysteresis — Class Index
-**Definition:** Systems with two long-lived states and path-dependent switching thresholds that let them store memory or filter signals.
+# F1-L5_Buckled-Beam_and-Strip_Devices — Family Index
+**Definition:** Slender bands that bow into two preferred arcs, letting handheld tools and wearables stay coiled or straight on demand.
 
 ## Overarching Lenses
 
@@ -11,14 +11,8 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Order (L4) — index
-- **O1-L4_Mechanical_Bistable-Structures** — flexural bodies that buckle or snap between two shapes to latch hardware.
-- **O2-L4_Control-and-Feedback_Hysteresis** — thermal and fluid switches that add on/off deadbands for stable regulation.
-- **O3-L4_Field-Driven_Bistable-Media** — magnetic and electronic materials that hold digital memory through coercive loops.
-
-## Family (L5) — (later)
-
-## Genus (L6)
-_(Insert `G*-L6_*` between Family and Species.)_
+## Genus (L6) — index
+- **G1-L6_Curled_Measuring_Tapes** — hardened steel ribbons that pop between flat and coiled storage shapes.
+- **G2-L6_Slap_Bracelet_Strips** — spring-tempered bands that wrap around limbs when released from a flat state.
 
 ## Species (L7) — everyday exemplars

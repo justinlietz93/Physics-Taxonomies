@@ -1,5 +1,5 @@
-# C4-L3_Bistability-Switching-and-Hysteresis — Class Index
-**Definition:** Systems with two long-lived states and path-dependent switching thresholds that let them store memory or filter signals.
+# S1-L7_Coffee_Maker_Thermal_Cutoff — Species Index
+**Definition:** A snap-disc thermostat that opens the brew heater circuit once the water reaches its target temperature.
 
 ## Overarching Lenses
 
@@ -11,14 +11,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Order (L4) — index
-- **O1-L4_Mechanical_Bistable-Structures** — flexural bodies that buckle or snap between two shapes to latch hardware.
-- **O2-L4_Control-and-Feedback_Hysteresis** — thermal and fluid switches that add on/off deadbands for stable regulation.
-- **O3-L4_Field-Driven_Bistable-Media** — magnetic and electronic materials that hold digital memory through coercive loops.
-
-## Family (L5) — (later)
-
-## Genus (L6)
-_(Insert `G*-L6_*` between Family and Species.)_
-
-## Species (L7) — everyday exemplars
+## 60–90s Explanation Notes
+- Two bonded metals expand differently until the domed disc flips concave-to-convex.
+- The snap yanks contacts apart, breaking heater power while pressure and temperature settle.
+- Cooling reverses the dome and recloses the circuit for the next brewing cycle.

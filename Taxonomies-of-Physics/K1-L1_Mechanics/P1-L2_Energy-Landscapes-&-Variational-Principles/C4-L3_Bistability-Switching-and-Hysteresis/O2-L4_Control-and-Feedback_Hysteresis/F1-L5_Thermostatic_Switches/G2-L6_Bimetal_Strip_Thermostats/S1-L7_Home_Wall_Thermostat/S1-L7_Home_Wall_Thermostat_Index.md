@@ -1,5 +1,5 @@
-# C4-L3_Bistability-Switching-and-Hysteresis — Class Index
-**Definition:** Systems with two long-lived states and path-dependent switching thresholds that let them store memory or filter signals.
+# S1-L7_Home_Wall_Thermostat — Species Index
+**Definition:** A household thermostat whose bimetal strip rocks a mercury switch to cycle the furnace on and off.
 
 ## Overarching Lenses
 
@@ -11,14 +11,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Order (L4) — index
-- **O1-L4_Mechanical_Bistable-Structures** — flexural bodies that buckle or snap between two shapes to latch hardware.
-- **O2-L4_Control-and-Feedback_Hysteresis** — thermal and fluid switches that add on/off deadbands for stable regulation.
-- **O3-L4_Field-Driven_Bistable-Media** — magnetic and electronic materials that hold digital memory through coercive loops.
-
-## Family (L5) — (later)
-
-## Genus (L6)
-_(Insert `G*-L6_*` between Family and Species.)_
-
-## Species (L7) — everyday exemplars
+## 60–90s Explanation Notes
+- Warming air bends the bimetal strip, tilting the mercury switch until the circuit opens.
+- Cooling lets the strip rebound, tipping the vial back to close the contact and relight the furnace.
+- The small tilt gap sets the hysteresis band so the HVAC system avoids rapid cycling.

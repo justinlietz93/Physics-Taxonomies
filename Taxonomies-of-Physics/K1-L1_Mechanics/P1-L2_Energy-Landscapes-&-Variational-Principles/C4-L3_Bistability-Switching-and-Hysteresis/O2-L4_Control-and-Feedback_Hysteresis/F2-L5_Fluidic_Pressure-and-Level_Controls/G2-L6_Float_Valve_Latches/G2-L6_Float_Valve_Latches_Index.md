@@ -1,5 +1,5 @@
-# C4-L3_Bistability-Switching-and-Hysteresis — Class Index
-**Definition:** Systems with two long-lived states and path-dependent switching thresholds that let them store memory or filter signals.
+# G2-L6_Float_Valve_Latches — Genus Index
+**Definition:** Pivoted floats that trip linkages at different levels to switch pumps or valves with a clean deadband.
 
 ## Overarching Lenses
 
@@ -11,14 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Order (L4) — index
-- **O1-L4_Mechanical_Bistable-Structures** — flexural bodies that buckle or snap between two shapes to latch hardware.
-- **O2-L4_Control-and-Feedback_Hysteresis** — thermal and fluid switches that add on/off deadbands for stable regulation.
-- **O3-L4_Field-Driven_Bistable-Media** — magnetic and electronic materials that hold digital memory through coercive loops.
-
-## Family (L5) — (later)
-
-## Genus (L6)
-_(Insert `G*-L6_*` between Family and Species.)_
-
 ## Species (L7) — everyday exemplars
+- **S1-L7_Toilet_Fill_Valve_Snap** — float-arm valve that shuts water off once the tank reaches the high level.
+- **S2-L7_Sump_Pump_Float_Switch** — tethered float that latches a basement pump on and off based on water height.

@@ -1,5 +1,5 @@
-# C4-L3_Bistability-Switching-and-Hysteresis — Class Index
-**Definition:** Systems with two long-lived states and path-dependent switching thresholds that let them store memory or filter signals.
+# S2-L7_Breadboard_LED_Flip-Flop — Species Index
+**Definition:** A hobby flip-flop kit alternates LEDs because cross-coupled transistors form two identical voltage wells.
 
 ## Overarching Lenses
 
@@ -11,14 +11,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Order (L4) — index
-- **O1-L4_Mechanical_Bistable-Structures** — flexural bodies that buckle or snap between two shapes to latch hardware.
-- **O2-L4_Control-and-Feedback_Hysteresis** — thermal and fluid switches that add on/off deadbands for stable regulation.
-- **O3-L4_Field-Driven_Bistable-Media** — magnetic and electronic materials that hold digital memory through coercive loops.
-
-## Family (L5) — (later)
-
-## Genus (L6)
-_(Insert `G*-L6_*` between Family and Species.)_
-
-## Species (L7) — everyday exemplars
+## 60–90s Explanation Notes
+- Two transistors feed back on each other so only one conducts at a time; resistors set the barrier height.
+- A clock or noise spike drives the circuit past the midpoint, turning one LED off while the other lights.
+- Demonstrates how digital memory holds bits as symmetric energy wells separated by a saddle.

@@ -1,5 +1,5 @@
-# C4-L3_Bistability-Switching-and-Hysteresis — Class Index
-**Definition:** Systems with two long-lived states and path-dependent switching thresholds that let them store memory or filter signals.
+# F2-L5_Latched_Flexure_Mechanisms — Family Index
+**Definition:** Molded hinges that flex past center to hold panels closed without metal latches or screws.
 
 ## Overarching Lenses
 
@@ -11,14 +11,8 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Order (L4) — index
-- **O1-L4_Mechanical_Bistable-Structures** — flexural bodies that buckle or snap between two shapes to latch hardware.
-- **O2-L4_Control-and-Feedback_Hysteresis** — thermal and fluid switches that add on/off deadbands for stable regulation.
-- **O3-L4_Field-Driven_Bistable-Media** — magnetic and electronic materials that hold digital memory through coercive loops.
-
-## Family (L5) — (later)
-
-## Genus (L6)
-_(Insert `G*-L6_*` between Family and Species.)_
+## Genus (L6) — index
+- **G1-L6_Snap-Fit_Electronics_Covers** — plastic clips that bend and latch battery or sensor housings.
+- **G2-L6_Panel_Push-Latches** — spring-loaded catches that release with a gentle press on cabinet doors or fuel lids.
 
 ## Species (L7) — everyday exemplars

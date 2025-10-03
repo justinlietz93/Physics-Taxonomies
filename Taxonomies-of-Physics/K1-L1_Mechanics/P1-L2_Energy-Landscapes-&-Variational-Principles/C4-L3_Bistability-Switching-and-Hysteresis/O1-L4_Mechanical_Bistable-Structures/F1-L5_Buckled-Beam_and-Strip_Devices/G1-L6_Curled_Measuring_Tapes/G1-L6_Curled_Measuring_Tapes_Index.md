@@ -1,5 +1,5 @@
-# C4-L3_Bistability-Switching-and-Hysteresis — Class Index
-**Definition:** Systems with two long-lived states and path-dependent switching thresholds that let them store memory or filter signals.
+# G1-L6_Curled_Measuring_Tapes — Genus Index
+**Definition:** Spring-steel measuring blades that naturally curl yet can flatten when drawn across a surface.
 
 ## Overarching Lenses
 
@@ -11,14 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Order (L4) — index
-- **O1-L4_Mechanical_Bistable-Structures** — flexural bodies that buckle or snap between two shapes to latch hardware.
-- **O2-L4_Control-and-Feedback_Hysteresis** — thermal and fluid switches that add on/off deadbands for stable regulation.
-- **O3-L4_Field-Driven_Bistable-Media** — magnetic and electronic materials that hold digital memory through coercive loops.
-
-## Family (L5) — (later)
-
-## Genus (L6)
-_(Insert `G*-L6_*` between Family and Species.)_
-
 ## Species (L7) — everyday exemplars
+- **S1-L7_Retractable_Tape-Measure_Blade** — builder’s tape that coils inside a case until pulled straight.
+- **S2-L7_Pocket_Ruler_Steel_Coil** — keychain measuring tape that snaps flat during use then rewinds itself.

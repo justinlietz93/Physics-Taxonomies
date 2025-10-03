@@ -1,5 +1,5 @@
-# C4-L3_Bistability-Switching-and-Hysteresis — Class Index
-**Definition:** Systems with two long-lived states and path-dependent switching thresholds that let them store memory or filter signals.
+# F2-L5_Electronic_Threshold_Devices — Family Index
+**Definition:** Circuits and materials with hysteretic transfer curves that clean noisy signals into rock-solid logic levels.
 
 ## Overarching Lenses
 
@@ -11,14 +11,8 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Order (L4) — index
-- **O1-L4_Mechanical_Bistable-Structures** — flexural bodies that buckle or snap between two shapes to latch hardware.
-- **O2-L4_Control-and-Feedback_Hysteresis** — thermal and fluid switches that add on/off deadbands for stable regulation.
-- **O3-L4_Field-Driven_Bistable-Media** — magnetic and electronic materials that hold digital memory through coercive loops.
-
-## Family (L5) — (later)
-
-## Genus (L6)
-_(Insert `G*-L6_*` between Family and Species.)_
+## Genus (L6) — index
+- **G1-L6_Schmitt_Trigger_Stages** — comparator circuits with positive feedback that give two distinct switching thresholds.
+- **G2-L6_Memory_Material_Cells** — phase-change and resistive elements that stick in high or low conduction states.
 
 ## Species (L7) — everyday exemplars

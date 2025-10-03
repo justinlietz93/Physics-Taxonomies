@@ -12,10 +12,11 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Family (canonical problems)
+## Family (L5) — index
+- **F1-L5_Mechanical_Bistable-Switches** — linkages and shells that snap cleanly between twin mechanical states.
+- **F2-L5_Field-Driven_Two-State-Systems** — magnetic and electronic media where fields hold mirrored basins.
 
 ## Genus (L6)
-
-_(Insert Genus folders `G*-L6_*` between Family and Species; each Genus contains several Species.)_
+_(See each Family folder for detailed Genus breakdowns.)_
 
 ## Species (L7) — everyday exemplars
