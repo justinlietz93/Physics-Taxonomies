@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Fiber_Coating_Dispersion_Tuning_Checklist** — production checklist for adjusting fiber coatings to flatten dispersion.
+- **S2-L7_Projector_Lens_Refraction_Setup_Log** — installer log for dialing projector lens spacing to keep images crisp edge-to-edge.

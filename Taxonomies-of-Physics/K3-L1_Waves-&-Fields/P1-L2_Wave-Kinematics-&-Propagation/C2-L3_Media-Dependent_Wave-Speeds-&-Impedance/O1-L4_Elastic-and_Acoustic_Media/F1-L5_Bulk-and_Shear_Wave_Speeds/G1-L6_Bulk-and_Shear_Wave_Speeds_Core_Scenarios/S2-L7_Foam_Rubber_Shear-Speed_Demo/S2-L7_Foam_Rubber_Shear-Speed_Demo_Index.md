@@ -1,5 +1,5 @@
-# G1-L6_Impedance_Matching_Strategies_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for impedance matching strategies.
+# S2-L7_Foam_Rubber_Shear-Speed_Demo — Species Index
+**Definition:** Classroom exercise timing shear pulses in soft foam to illustrate slow transverse wave transport.
 
 ## Overarching Lenses
 
@@ -11,6 +11,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- **S1-L7_Speaker_to_Room_Match_Demo** — comparing speaker cone and air loading to keep bass from sounding thin.
-- **S2-L7_Sonar_Dome_Couplant_Swap** — tuning gel layers between transducer and seawater so pings keep their punch.
+## 60–90s Explanation Notes
+
+- Students stretch a foam block between clamps, flick one end, and track the ripple with stickers or a phone camera to calculate speed.
+- Comparing travel times with tensioned strings shows why shear-supporting solids move sound slower than compressional waves in fluids.

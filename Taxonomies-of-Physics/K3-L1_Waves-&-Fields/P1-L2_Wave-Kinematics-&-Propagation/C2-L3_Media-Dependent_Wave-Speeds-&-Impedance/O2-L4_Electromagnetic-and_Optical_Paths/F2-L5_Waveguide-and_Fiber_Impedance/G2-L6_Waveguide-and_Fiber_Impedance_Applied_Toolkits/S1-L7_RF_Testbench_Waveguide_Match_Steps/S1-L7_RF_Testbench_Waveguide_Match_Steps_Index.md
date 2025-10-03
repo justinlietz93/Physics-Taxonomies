@@ -1,5 +1,5 @@
-# G1-L6_Impedance_Matching_Strategies_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for impedance matching strategies.
+# S1-L7_RF_Testbench_Waveguide_Match_Steps — Species Index
+**Definition:** Lab steps for matching waveguides on an RF test bench before production runs.
 
 ## Overarching Lenses
 
@@ -11,6 +11,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- **S1-L7_Speaker_to_Room_Match_Demo** — comparing speaker cone and air loading to keep bass from sounding thin.
-- **S2-L7_Sonar_Dome_Couplant_Swap** — tuning gel layers between transducer and seawater so pings keep their punch.
+## 60–90s Explanation Notes
+
+- Engineers document probe positions, tuner adjustments, and return-loss plots before signing off on a waveguide assembly.
+- The repeatable steps let technicians recreate the match on the shop floor without burning time on extra sweeps.

@@ -1,5 +1,5 @@
-# G1-L6_Impedance_Matching_Strategies_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for impedance matching strategies.
+# S1-L7_Prism_Display_Color-Spread_Lab — Species Index
+**Definition:** Classroom lab showing how a prism splits white light into colors.
 
 ## Overarching Lenses
 
@@ -11,6 +11,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- **S1-L7_Speaker_to_Room_Match_Demo** — comparing speaker cone and air loading to keep bass from sounding thin.
-- **S2-L7_Sonar_Dome_Couplant_Swap** — tuning gel layers between transducer and seawater so pings keep their punch.
+## 60–90s Explanation Notes
+
+- Students shine a flashlight through prisms at different angles and trace the rainbow onto paper to see dispersion firsthand.
+- Measuring spread versus angle teaches how designers juggle glass choice and shape to guide colors where they want them.

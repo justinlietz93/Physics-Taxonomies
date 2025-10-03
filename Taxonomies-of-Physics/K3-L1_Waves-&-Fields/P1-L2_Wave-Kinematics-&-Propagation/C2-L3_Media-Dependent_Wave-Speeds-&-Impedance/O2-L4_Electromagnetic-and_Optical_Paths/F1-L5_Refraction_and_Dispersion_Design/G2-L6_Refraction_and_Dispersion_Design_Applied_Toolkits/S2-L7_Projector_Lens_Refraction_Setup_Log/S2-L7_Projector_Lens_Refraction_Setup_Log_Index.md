@@ -1,5 +1,5 @@
-# G1-L6_Impedance_Matching_Strategies_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for impedance matching strategies.
+# S2-L7_Projector_Lens_Refraction_Setup_Log — Species Index
+**Definition:** Installer log for dialing projector lens spacing to keep edges sharp.
 
 ## Overarching Lenses
 
@@ -11,6 +11,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- **S1-L7_Speaker_to_Room_Match_Demo** — comparing speaker cone and air loading to keep bass from sounding thin.
-- **S2-L7_Sonar_Dome_Couplant_Swap** — tuning gel layers between transducer and seawater so pings keep their punch.
+## 60–90s Explanation Notes
+
+- Technicians note room throw distance, screen angle, and micro-adjust each lens element until focus charts look crisp in corners.
+- Recording the spacing lets future service crews restore the sweet spot quickly after transport or lamp swaps.

@@ -1,5 +1,5 @@
-# G1-L6_Impedance_Matching_Strategies_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for impedance matching strategies.
+# S2-L7_Eyeglass_Lens_Index_Trial — Species Index
+**Definition:** Bench trial swapping eyeglass lens materials to cut chromatic blur.
 
 ## Overarching Lenses
 
@@ -11,6 +11,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- **S1-L7_Speaker_to_Room_Match_Demo** — comparing speaker cone and air loading to keep bass from sounding thin.
-- **S2-L7_Sonar_Dome_Couplant_Swap** — tuning gel layers between transducer and seawater so pings keep their punch.
+## 60–90s Explanation Notes
+
+- Opticians try high-index plastics versus glass in a test frame, reading line charts to see which keeps red and blue lines sharp together.
+- The quick swap helps pick the mix that balances weight, thickness, and color clarity for the wearer’s prescription.

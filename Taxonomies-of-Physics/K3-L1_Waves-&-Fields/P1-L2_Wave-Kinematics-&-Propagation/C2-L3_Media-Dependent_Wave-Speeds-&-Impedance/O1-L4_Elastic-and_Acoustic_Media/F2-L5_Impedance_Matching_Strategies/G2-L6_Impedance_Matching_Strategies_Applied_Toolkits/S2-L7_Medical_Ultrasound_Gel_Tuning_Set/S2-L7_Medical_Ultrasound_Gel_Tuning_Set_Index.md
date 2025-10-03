@@ -1,5 +1,5 @@
-# G1-L6_Impedance_Matching_Strategies_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for impedance matching strategies.
+# S2-L7_Medical_Ultrasound_Gel_Tuning_Set — Species Index
+**Definition:** Clinic kit for swapping ultrasound gels to match patient tissue and boost image brightness.
 
 ## Overarching Lenses
 
@@ -11,6 +11,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- **S1-L7_Speaker_to_Room_Match_Demo** — comparing speaker cone and air loading to keep bass from sounding thin.
-- **S2-L7_Sonar_Dome_Couplant_Swap** — tuning gel layers between transducer and seawater so pings keep their punch.
+## 60–90s Explanation Notes
+
+- Sonographers keep warm, hypoallergenic, and high-viscosity gels ready, swapping while watching screen brightness in real time.
+- Matching gel impedance to skin cuts reflection so more energy dives into tissue, clearing up vessels or tendons without boosting power.

@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Acoustic_Test_Tube_Matching_Log** — benchtop log sheet for tuning fluid layers in impedance tubes.
+- **S2-L7_Medical_Ultrasound_Gel_Tuning_Set** — clinic kit for swapping gels to maximize image brightness on tricky patients.

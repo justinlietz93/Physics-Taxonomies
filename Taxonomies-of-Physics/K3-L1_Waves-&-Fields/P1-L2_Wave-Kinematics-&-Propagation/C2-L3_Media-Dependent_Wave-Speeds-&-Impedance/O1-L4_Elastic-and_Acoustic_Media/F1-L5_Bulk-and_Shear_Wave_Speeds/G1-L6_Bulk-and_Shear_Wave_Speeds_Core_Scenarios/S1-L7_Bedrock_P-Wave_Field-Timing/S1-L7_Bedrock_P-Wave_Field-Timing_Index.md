@@ -1,5 +1,5 @@
-# G1-L6_Impedance_Matching_Strategies_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for impedance matching strategies.
+# S1-L7_Bedrock_P-Wave_Field-Timing — Species Index
+**Definition:** Field workflow for timing compressional waves through rock cores to gauge subsurface stiffness.
 
 ## Overarching Lenses
 
@@ -11,6 +11,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- **S1-L7_Speaker_to_Room_Match_Demo** — comparing speaker cone and air loading to keep bass from sounding thin.
-- **S2-L7_Sonar_Dome_Couplant_Swap** — tuning gel layers between transducer and seawater so pings keep their punch.
+## 60–90s Explanation Notes
+
+- Technicians coat the core with coupling gel, tap it with a hammer source, and read travel times on geophones to spot stiff versus fractured layers.
+- Speeds feed quick tables that predict how blasting or foundation vibrations will carry through surrounding rock.

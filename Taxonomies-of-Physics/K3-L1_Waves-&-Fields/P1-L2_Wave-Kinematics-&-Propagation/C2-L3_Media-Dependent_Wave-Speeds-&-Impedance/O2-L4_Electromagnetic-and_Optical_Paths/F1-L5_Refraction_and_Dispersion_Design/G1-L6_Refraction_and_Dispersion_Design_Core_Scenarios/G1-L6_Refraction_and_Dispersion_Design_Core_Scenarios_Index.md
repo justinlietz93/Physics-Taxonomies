@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Prism_Display_Color-Spread_Lab** — using a classroom prism to show how glass angle splits white light.
+- **S2-L7_Eyeglass_Lens_Index_Trial** — swapping materials in a lens kit to tame chromatic blur for everyday spectacles.

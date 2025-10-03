@@ -1,5 +1,5 @@
-# G1-L6_Impedance_Matching_Strategies_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for impedance matching strategies.
+# S2-L7_Sonar_Dome_Couplant_Swap — Species Index
+**Definition:** Dockside routine for refreshing the gel layer between a sonar dome and seawater.
 
 ## Overarching Lenses
 
@@ -11,6 +11,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- **S1-L7_Speaker_to_Room_Match_Demo** — comparing speaker cone and air loading to keep bass from sounding thin.
-- **S2-L7_Sonar_Dome_Couplant_Swap** — tuning gel layers between transducer and seawater so pings keep their punch.
+## 60–90s Explanation Notes
+
+- Divers peel away cloudy gel, clean the window, and roll on a fresh layer so the acoustic impedance sits between glass and seawater.
+- The smoother match keeps sonar pulses from reflecting back inside the ship, sharpening echoes from schools or seabed ridges.

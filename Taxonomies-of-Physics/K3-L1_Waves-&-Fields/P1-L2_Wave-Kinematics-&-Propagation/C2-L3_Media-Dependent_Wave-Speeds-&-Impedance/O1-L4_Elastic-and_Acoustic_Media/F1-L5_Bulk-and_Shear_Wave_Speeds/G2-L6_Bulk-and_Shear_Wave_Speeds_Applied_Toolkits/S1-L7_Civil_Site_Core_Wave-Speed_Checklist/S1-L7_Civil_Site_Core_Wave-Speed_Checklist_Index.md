@@ -1,5 +1,5 @@
-# G1-L6_Impedance_Matching_Strategies_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for impedance matching strategies.
+# S1-L7_Civil_Site_Core_Wave-Speed_Checklist — Species Index
+**Definition:** Pre-pour checklist for timing waves through boreholes and cores on civil sites.
 
 ## Overarching Lenses
 
@@ -11,6 +11,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- **S1-L7_Speaker_to_Room_Match_Demo** — comparing speaker cone and air loading to keep bass from sounding thin.
-- **S2-L7_Sonar_Dome_Couplant_Swap** — tuning gel layers between transducer and seawater so pings keep their punch.
+## 60–90s Explanation Notes
+
+- Crew logs moisture, coupling grease, source placement, and sensor spacing before firing hammer hits down each casing.
+- Travel-time sheets feed quick modulus estimates so engineers decide if the soilcrete or grout needs retouching before concrete arrives.
