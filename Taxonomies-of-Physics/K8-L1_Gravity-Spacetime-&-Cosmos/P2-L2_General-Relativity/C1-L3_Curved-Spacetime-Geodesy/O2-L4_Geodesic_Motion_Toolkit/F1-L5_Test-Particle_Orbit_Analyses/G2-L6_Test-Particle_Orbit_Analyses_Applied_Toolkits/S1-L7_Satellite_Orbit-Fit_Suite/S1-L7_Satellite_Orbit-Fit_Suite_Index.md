@@ -1,5 +1,5 @@
-# G1-L6_Equivalence_Tests_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for equivalence tests.
+# S1-L7_Satellite_Orbit-Fit_Suite — Species Index
+**Definition:** Mission analysts combine precise ephemeris codes, station tracking, and relativistic correction modules to tune orbital fits.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Elevator-Freefall_Equivalence-Demo — free-fall cabins let students feel weightlessness matching orbiting labs.
-- S2-L7_Centrifuge_Local-Gravity_Trial — spinning pods swap acceleration for gravity so crews can rehearse Einstein’s insight.
+## 60–90s Explanation Notes
+- Show how the suite ingests tracking data and applies Schwarzschild corrections to keep satellites aligned with predicted passes.
+- Emphasize that everyday GNSS accuracy depends on these relativistic tweaks, not just Newtonian mechanics.

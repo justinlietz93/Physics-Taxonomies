@@ -1,5 +1,5 @@
-# G1-L6_Equivalence_Tests_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for equivalence tests.
+# S1-L7_Elevator-Freefall_Equivalence-Demo — Species Index
+**Definition:** Riders feel weightless in a drop tower cab, mirroring astronauts in orbit so the equivalence principle becomes tactile.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Elevator-Freefall_Equivalence-Demo — free-fall cabins let students feel weightlessness matching orbiting labs.
-- S2-L7_Centrifuge_Local-Gravity_Trial — spinning pods swap acceleration for gravity so crews can rehearse Einstein’s insight.
+## 60–90s Explanation Notes
+- Start with passengers floating during the brief free-fall, linking the sensation directly to astronauts circling Earth.
+- Point out that both cases share locally gravity-free frames, highlighting why Einstein equated free-fall with inertial motion.

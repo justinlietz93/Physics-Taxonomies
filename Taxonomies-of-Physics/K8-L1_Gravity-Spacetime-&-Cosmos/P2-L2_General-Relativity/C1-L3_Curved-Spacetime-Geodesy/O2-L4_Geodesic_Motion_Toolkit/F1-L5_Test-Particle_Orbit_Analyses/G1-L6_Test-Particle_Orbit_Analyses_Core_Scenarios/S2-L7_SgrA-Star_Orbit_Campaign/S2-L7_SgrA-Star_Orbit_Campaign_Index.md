@@ -1,5 +1,5 @@
-# G1-L6_Equivalence_Tests_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for equivalence tests.
+# S2-L7_SgrA-Star_Orbit_Campaign — Species Index
+**Definition:** Infrared telescopes track S-stars whipping around the Milky Way’s core, revealing relativistic redshift and precession.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Elevator-Freefall_Equivalence-Demo — free-fall cabins let students feel weightlessness matching orbiting labs.
-- S2-L7_Centrifuge_Local-Gravity_Trial — spinning pods swap acceleration for gravity so crews can rehearse Einstein’s insight.
+## 60–90s Explanation Notes
+- Describe how adaptive optics yields yearly position maps that exhibit relativistic redshift and pericenter swing.
+- Connect those observations to test-particle predictions near supermassive black holes, validating GR deep in potential wells.

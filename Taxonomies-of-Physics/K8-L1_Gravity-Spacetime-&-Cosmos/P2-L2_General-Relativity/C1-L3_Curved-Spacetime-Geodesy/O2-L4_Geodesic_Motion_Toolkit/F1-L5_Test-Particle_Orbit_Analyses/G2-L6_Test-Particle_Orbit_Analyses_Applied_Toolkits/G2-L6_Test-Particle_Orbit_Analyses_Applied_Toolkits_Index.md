@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Satellite_Orbit-Fit_Suite — analysts blend tracking data with GR tweaks to keep spacecraft on schedule.
+- S2-L7_Black-Hole_Orbit_Visualizer — immersive sims let visitors fly near horizons to grasp geodesic behavior.

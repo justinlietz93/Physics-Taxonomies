@@ -1,5 +1,5 @@
-# G1-L6_Equivalence_Tests_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for equivalence tests.
+# S1-L7_Lensing-Survey_Imaging-Pack — Species Index
+**Definition:** Wide-field cameras, calibration lasers, and redshift software bundle into a kit for measuring light-arc distortions on mountaintops.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Elevator-Freefall_Equivalence-Demo — free-fall cabins let students feel weightlessness matching orbiting labs.
-- S2-L7_Centrifuge_Local-Gravity_Trial — spinning pods swap acceleration for gravity so crews can rehearse Einstein’s insight.
+## 60–90s Explanation Notes
+- Describe how survey teams set up the pack to capture background galaxy shears, turning images into maps of mass along the line of sight.
+- Stress that comparing multiple filters isolates time delays and color shifts, strengthening GR constraints in the field.

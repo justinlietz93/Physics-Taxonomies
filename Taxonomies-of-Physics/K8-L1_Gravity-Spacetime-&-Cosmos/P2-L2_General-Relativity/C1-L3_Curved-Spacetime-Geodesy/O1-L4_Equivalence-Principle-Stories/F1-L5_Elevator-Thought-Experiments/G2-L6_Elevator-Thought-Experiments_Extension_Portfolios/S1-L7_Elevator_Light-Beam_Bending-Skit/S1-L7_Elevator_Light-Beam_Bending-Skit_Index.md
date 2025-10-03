@@ -1,5 +1,5 @@
-# G1-L6_Equivalence_Tests_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for equivalence tests.
+# S1-L7_Elevator_Light-Beam_Bending-Skit — Species Index
+**Definition:** A laser pointer shot across a drop-cab mockup curves downward, dramatizing how gravity deflects light like acceleration does.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Elevator-Freefall_Equivalence-Demo — free-fall cabins let students feel weightlessness matching orbiting labs.
-- S2-L7_Centrifuge_Local-Gravity_Trial — spinning pods swap acceleration for gravity so crews can rehearse Einstein’s insight.
+## 60–90s Explanation Notes
+- Have facilitators mark the beam’s path on a transparent board while the cab drops or accelerates horizontally.
+- Relate the curved track to starlight bending around the Sun, showing how the thought experiment forecasts actual GR lensing.

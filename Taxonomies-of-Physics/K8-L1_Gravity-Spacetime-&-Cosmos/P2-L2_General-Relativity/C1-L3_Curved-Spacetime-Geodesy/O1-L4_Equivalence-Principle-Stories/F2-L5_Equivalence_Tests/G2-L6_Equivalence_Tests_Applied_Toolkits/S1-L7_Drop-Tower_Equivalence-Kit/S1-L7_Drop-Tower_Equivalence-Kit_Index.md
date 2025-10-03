@@ -1,5 +1,5 @@
-# G1-L6_Equivalence_Tests_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for equivalence tests.
+# S1-L7_Drop-Tower_Equivalence-Kit — Species Index
+**Definition:** Packs of release mechanisms, accelerometers, and video rigs let teams stage rapid drop-tower demos wherever they teach.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Elevator-Freefall_Equivalence-Demo — free-fall cabins let students feel weightlessness matching orbiting labs.
-- S2-L7_Centrifuge_Local-Gravity_Trial — spinning pods swap acceleration for gravity so crews can rehearse Einstein’s insight.
+## 60–90s Explanation Notes
+- Outline the kit contents and how they standardize simultaneous release and motion tracking to highlight inertial free-fall.
+- Emphasize that portable gear helps compare acceleration data to orbital profiles, cementing equivalence beyond anecdotes.

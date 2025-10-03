@@ -1,5 +1,5 @@
-# G1-L6_Equivalence_Tests_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for equivalence tests.
+# S2-L7_Deep-Space_Network_Light-Delay_Kit — Species Index
+**Definition:** DSN engineers rely on synchronized masers, telemetry scripts, and geometry planners to decode relativistic delays from probes.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Elevator-Freefall_Equivalence-Demo — free-fall cabins let students feel weightlessness matching orbiting labs.
-- S2-L7_Centrifuge_Local-Gravity_Trial — spinning pods swap acceleration for gravity so crews can rehearse Einstein’s insight.
+## 60–90s Explanation Notes
+- Detail how mission control scripts subtract Earth’s rotation and gravitational wells to extract clean light travel times.
+- Link those corrections to the same geodesic equations used in high-precision navigation and gravitational-wave timing arrays.

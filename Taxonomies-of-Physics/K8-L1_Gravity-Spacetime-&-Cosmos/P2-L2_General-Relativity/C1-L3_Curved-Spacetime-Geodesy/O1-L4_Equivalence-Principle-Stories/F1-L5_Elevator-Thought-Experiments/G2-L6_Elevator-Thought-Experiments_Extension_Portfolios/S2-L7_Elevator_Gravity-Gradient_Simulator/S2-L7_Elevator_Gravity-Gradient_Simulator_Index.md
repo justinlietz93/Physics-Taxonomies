@@ -1,5 +1,5 @@
-# G1-L6_Equivalence_Tests_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for equivalence tests.
+# S2-L7_Elevator_Gravity-Gradient_Simulator — Species Index
+**Definition:** Paired masses linked by springs inside a tall shaft show how tidal differences stretch or squeeze even in “weightless” frames.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Elevator-Freefall_Equivalence-Demo — free-fall cabins let students feel weightlessness matching orbiting labs.
-- S2-L7_Centrifuge_Local-Gravity_Trial — spinning pods swap acceleration for gravity so crews can rehearse Einstein’s insight.
+## 60–90s Explanation Notes
+- Explain how the top mass feels a slightly weaker pull than the bottom one, stretching the spring despite the shared free-fall frame.
+- Connect the demo to tidal forces near planets or black holes, showing where the equivalence principle has practical limits.

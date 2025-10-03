@@ -1,5 +1,5 @@
-# G1-L6_Equivalence_Tests_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for equivalence tests.
+# S2-L7_Pulsar-Timing_Light-Check — Species Index
+**Definition:** Radio astronomers track eclipsing binaries, watching pulses arrive late when spacetime curvature stretches the beam.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Elevator-Freefall_Equivalence-Demo — free-fall cabins let students feel weightlessness matching orbiting labs.
-- S2-L7_Centrifuge_Local-Gravity_Trial — spinning pods swap acceleration for gravity so crews can rehearse Einstein’s insight.
+## 60–90s Explanation Notes
+- Explain how precise pulsar clocks act like interstellar stopwatches, revealing curved light paths through timing residuals.
+- Connect the observation to the same geodesic rules guiding gravitational lensing maps in galaxy surveys.

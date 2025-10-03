@@ -1,5 +1,5 @@
-# G1-L6_Equivalence_Tests_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for equivalence tests.
+# S2-L7_Black-Hole_Orbit_Visualizer — Species Index
+**Definition:** Planetarium-grade renderers, VR headsets, and parameter sliders let visitors fly test particles near Kerr horizons.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Elevator-Freefall_Equivalence-Demo — free-fall cabins let students feel weightlessness matching orbiting labs.
-- S2-L7_Centrifuge_Local-Gravity_Trial — spinning pods swap acceleration for gravity so crews can rehearse Einstein’s insight.
+## 60–90s Explanation Notes
+- Highlight how adjusting spin, energy, and angular momentum shows precession and stable/unstable orbits in seconds.
+- Tie the visuals to real telescopic data like Sgr A* star tracks, underscoring the toolkit’s outreach punch.

@@ -1,5 +1,5 @@
-# G1-L6_Equivalence_Tests_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for equivalence tests.
+# S2-L7_Centrifuge_Local-Gravity_Trial — Species Index
+**Definition:** A rotating-arm centrifuge mimics gravity with outward normal forces so trainees feel how acceleration and weight become interchangeable.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Elevator-Freefall_Equivalence-Demo — free-fall cabins let students feel weightlessness matching orbiting labs.
-- S2-L7_Centrifuge_Local-Gravity_Trial — spinning pods swap acceleration for gravity so crews can rehearse Einstein’s insight.
+## 60–90s Explanation Notes
+- Describe the cabin pressing on riders as the arm spins, producing a “gravity” that depends on radius and speed.
+- Use it to emphasize Einstein’s message: local acceleration is indistinguishable from a gravitational pull to first approximation.
