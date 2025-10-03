@@ -1,5 +1,4 @@
 # O14-L4_Symmetry_Preserved-vs-Broken — Order Index
-
 **Definition:** Do symmetries hold (twin valleys) or is the terrain explicitly tilted?
 
 ## Overarching Lenses
@@ -12,7 +11,8 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Family (canonical problems)
+## Family (L5) — index
+- **F1-L5_Symmetry-Transition_Storyboards** — narratives of when symmetry holds and when it breaks.
 
 ## Genus (L6)
 

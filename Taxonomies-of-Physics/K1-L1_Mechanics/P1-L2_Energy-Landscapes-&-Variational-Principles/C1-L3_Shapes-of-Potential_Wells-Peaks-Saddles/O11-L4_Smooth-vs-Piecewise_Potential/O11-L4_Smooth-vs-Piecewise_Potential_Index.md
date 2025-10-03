@@ -1,5 +1,4 @@
 # O11-L4_Smooth-vs-Piecewise_Potential — Order Index
-
 **Definition:** Perfectly smooth vs kinked/segmented landscapes; affects motion.
 
 ## Overarching Lenses
@@ -12,7 +11,8 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Family (canonical problems)
+## Family (L5) — index
+- **F1-L5_Surface-Continuity_Audits** — checks that contrast gentle bowls with sharp-edged kinks.
 
 ## Genus (L6)
 

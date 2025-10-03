@@ -1,5 +1,4 @@
 # O9-L4_Separable-vs-Coupled_Dimensions — Order Index
-
 **Definition:** Terrain sums along axes (separable) or mixes directions (coupled).
 
 ## Overarching Lenses
@@ -12,7 +11,8 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Family (canonical problems)
+## Family (L5) — index
+- **F1-L5_Axis-Coupling_Diagnostics** — tests that reveal whether directions act independently or tug on each other.
 
 ## Genus (L6)
 
