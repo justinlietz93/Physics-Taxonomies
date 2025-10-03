@@ -1,5 +1,5 @@
-# P6–L2 Continuum Mechanics (Solids)
-**Definition:** Describes how solid materials deform, store stress, and sometimes flow under load.
+# G2-L6_Acoustic-Emission_Scouts — Genus Index
+**Definition:** Uses acoustic emission sensors to hear micro-cracks as loads cycle.
 
 ## Overarching Lenses
 
@@ -11,14 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Class (L3) — index
-- **C1-L3_Stress-Strain_Constitutive-Maps** — Link force, stress, and strain for beams, rods, and parts.
-- **C2-L3_Structural-Health_Workflows** — Monitor real structures so strain maps and crack records stay current.
-
-## Order (L4) — (later)
-
-## Family (L5) — (later)
-
-## Genus (L6) — (later)
-
-## Species (L7) — (later)
+## Species (L7) — everyday exemplars
+- **S1-L7_Pressure_Vessel_AE_Watch** — Monitor a vessel during hydro test for new crack sounds.
+- **S2-L7_Crane_Boom_AE_Patrol** — Mount sensors on a crane boom during heavy lifts.

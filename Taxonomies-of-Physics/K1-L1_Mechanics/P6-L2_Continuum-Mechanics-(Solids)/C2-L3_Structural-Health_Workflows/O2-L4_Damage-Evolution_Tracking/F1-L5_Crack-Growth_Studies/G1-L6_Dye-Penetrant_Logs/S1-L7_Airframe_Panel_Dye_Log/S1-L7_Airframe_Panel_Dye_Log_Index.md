@@ -1,5 +1,5 @@
-# P6–L2 Continuum Mechanics (Solids)
-**Definition:** Describes how solid materials deform, store stress, and sometimes flow under load.
+# S1-L7_Airframe_Panel_Dye_Log — Species Index
+**Definition:** Records dye-penetrant results on aircraft skin panels to track tiny cracks between heavy checks.
 
 ## Overarching Lenses
 
@@ -11,14 +11,5 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Class (L3) — index
-- **C1-L3_Stress-Strain_Constitutive-Maps** — Link force, stress, and strain for beams, rods, and parts.
-- **C2-L3_Structural-Health_Workflows** — Monitor real structures so strain maps and crack records stay current.
-
-## Order (L4) — (later)
-
-## Family (L5) — (later)
-
-## Genus (L6) — (later)
-
-## Species (L7) — (later)
+## 60–90s Explanation Notes
+- Clean the skin, apply dye and developer, measure indication length, and enter it into the fleet crack log.

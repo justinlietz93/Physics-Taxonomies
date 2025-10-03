@@ -1,5 +1,5 @@
-# P6–L2 Continuum Mechanics (Solids)
-**Definition:** Describes how solid materials deform, store stress, and sometimes flow under load.
+# G1-L6_Surface_Strain_Rosettes — Genus Index
+**Definition:** Positions rosette gauges to read strain in multiple directions with simple handheld gear.
 
 ## Overarching Lenses
 
@@ -11,14 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Class (L3) — index
-- **C1-L3_Stress-Strain_Constitutive-Maps** — Link force, stress, and strain for beams, rods, and parts.
-- **C2-L3_Structural-Health_Workflows** — Monitor real structures so strain maps and crack records stay current.
-
-## Order (L4) — (later)
-
-## Family (L5) — (later)
-
-## Genus (L6) — (later)
-
-## Species (L7) — (later)
+## Species (L7) — everyday exemplars
+- **S1-L7_Bridge_Girder_Rosette_Check** — Stick rosettes on a bridge girder to confirm stress directions.
+- **S2-L7_Press_Frame_Rosette_Map** — Map press frame strain during commissioning.

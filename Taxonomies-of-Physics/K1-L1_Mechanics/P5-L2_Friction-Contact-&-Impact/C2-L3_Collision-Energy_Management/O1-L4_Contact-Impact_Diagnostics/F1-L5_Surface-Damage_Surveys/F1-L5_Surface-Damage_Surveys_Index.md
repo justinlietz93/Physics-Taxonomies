@@ -1,5 +1,5 @@
-# P6–L2 Continuum Mechanics (Solids)
-**Definition:** Describes how solid materials deform, store stress, and sometimes flow under load.
+# F1-L5_Surface-Damage_Surveys — Family Index
+**Definition:** Walks through how to read sensors and scars on hardware right after an impact. It keeps the inspection steps beginner-friendly.
 
 ## Overarching Lenses
 
@@ -11,14 +11,8 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Class (L3) — index
-- **C1-L3_Stress-Strain_Constitutive-Maps** — Link force, stress, and strain for beams, rods, and parts.
-- **C2-L3_Structural-Health_Workflows** — Monitor real structures so strain maps and crack records stay current.
+## Genus (L6) — index
+- **G1-L6_Sensor-Embedded_Testbeds** — Built-in gauges and pads that log impact loads for you.
+- **G2-L6_High-Speed_Imaging_Shops** — Cameras and lighting rigs that freeze impact deformation.
 
-## Order (L4) — (later)
-
-## Family (L5) — (later)
-
-## Genus (L6) — (later)
-
-## Species (L7) — (later)
+## Species (L7) — everyday exemplars

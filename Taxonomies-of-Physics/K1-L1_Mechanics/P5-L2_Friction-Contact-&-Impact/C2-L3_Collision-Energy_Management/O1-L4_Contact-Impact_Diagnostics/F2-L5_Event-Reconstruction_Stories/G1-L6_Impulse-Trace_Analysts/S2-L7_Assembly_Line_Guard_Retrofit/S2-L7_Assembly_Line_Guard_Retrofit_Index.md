@@ -1,5 +1,5 @@
-# P6–L2 Continuum Mechanics (Solids)
-**Definition:** Describes how solid materials deform, store stress, and sometimes flow under load.
+# S2-L7_Assembly_Line_Guard_Retrofit — Species Index
+**Definition:** Compares guard sensor traces before and after new padding so safety teams can prove impact loads dropped.
 
 ## Overarching Lenses
 
@@ -11,14 +11,5 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Class (L3) — index
-- **C1-L3_Stress-Strain_Constitutive-Maps** — Link force, stress, and strain for beams, rods, and parts.
-- **C2-L3_Structural-Health_Workflows** — Monitor real structures so strain maps and crack records stay current.
-
-## Order (L4) — (later)
-
-## Family (L5) — (later)
-
-## Genus (L6) — (later)
-
-## Species (L7) — (later)
+## 60–90s Explanation Notes
+- Capture baseline guard data, install padding, rerun the test, and overlay the traces for management sign-off.

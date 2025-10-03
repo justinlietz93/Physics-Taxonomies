@@ -1,5 +1,5 @@
-# P6–L2 Continuum Mechanics (Solids)
-**Definition:** Describes how solid materials deform, store stress, and sometimes flow under load.
+# C2-L3_Collision-Energy_Management — Class Index
+**Definition:** Shows how we measure contact events and tune hardware so impact energy is steered into safe channels. Beginners see how diagnostics lead directly to absorber choices.
 
 ## Overarching Lenses
 
@@ -11,14 +11,13 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Class (L3) — index
-- **C1-L3_Stress-Strain_Constitutive-Maps** — Link force, stress, and strain for beams, rods, and parts.
-- **C2-L3_Structural-Health_Workflows** — Monitor real structures so strain maps and crack records stay current.
-
-## Order (L4) — (later)
+## Order (L4) — index
+- **O1-L4_Contact-Impact_Diagnostics** — Measure forces, timing, and scars to map how an impact unfolded.
+- **O2-L4_Energy-Absorber_Toolkits** — Choose pads, zones, and controls that tame collision energy in practice.
 
 ## Family (L5) — (later)
 
-## Genus (L6) — (later)
+## Genus (L6)
+_(Insert `G*-L6_*` between Family and Species.)_
 
-## Species (L7) — (later)
+## Species (L7) — everyday exemplars

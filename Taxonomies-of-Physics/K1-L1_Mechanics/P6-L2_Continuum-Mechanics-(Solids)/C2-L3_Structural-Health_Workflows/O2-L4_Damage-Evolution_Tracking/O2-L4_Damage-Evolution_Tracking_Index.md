@@ -1,5 +1,5 @@
-# P6–L2 Continuum Mechanics (Solids)
-**Definition:** Describes how solid materials deform, store stress, and sometimes flow under load.
+# O2-L4_Damage-Evolution_Tracking — Order Index
+**Definition:** Follows how cracks and fatigue damage grow so maintenance plans stay ahead of failure.
 
 ## Overarching Lenses
 
@@ -11,14 +11,11 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Class (L3) — index
-- **C1-L3_Stress-Strain_Constitutive-Maps** — Link force, stress, and strain for beams, rods, and parts.
-- **C2-L3_Structural-Health_Workflows** — Monitor real structures so strain maps and crack records stay current.
+## Family (L5) — index
+- **F1-L5_Crack-Growth_Studies** — Hands-on routines to spot and size cracks.
+- **F2-L5_Fatigue-and_Cycle_Analytics** — Track load histories and models that predict life.
 
-## Order (L4) — (later)
+## Genus (L6)
+_(Insert `G*-L6_*` here.)_
 
-## Family (L5) — (later)
-
-## Genus (L6) — (later)
-
-## Species (L7) — (later)
+## Species (L7) — everyday exemplars

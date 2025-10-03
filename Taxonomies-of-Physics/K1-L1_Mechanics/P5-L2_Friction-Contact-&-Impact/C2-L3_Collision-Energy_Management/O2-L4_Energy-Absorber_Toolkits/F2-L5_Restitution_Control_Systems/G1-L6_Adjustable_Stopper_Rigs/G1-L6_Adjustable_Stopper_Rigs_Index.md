@@ -1,5 +1,5 @@
-# P6–L2 Continuum Mechanics (Solids)
-**Definition:** Describes how solid materials deform, store stress, and sometimes flow under load.
+# G1-L6_Adjustable_Stopper_Rigs — Genus Index
+**Definition:** Focuses on mechanical stops and bumpers you can dial in to set end-of-travel behavior.
 
 ## Overarching Lenses
 
@@ -11,14 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Class (L3) — index
-- **C1-L3_Stress-Strain_Constitutive-Maps** — Link force, stress, and strain for beams, rods, and parts.
-- **C2-L3_Structural-Health_Workflows** — Monitor real structures so strain maps and crack records stay current.
-
-## Order (L4) — (later)
-
-## Family (L5) — (later)
-
-## Genus (L6) — (later)
-
-## Species (L7) — (later)
+## Species (L7) — everyday exemplars
+- **S1-L7_Parcel_Sorter_Stop_Dial-In** — Tune a sorter’s adjustable stop blocks for gentle catches.
+- **S2-L7_Hospital_Bed_Transfer_Stop_Tune** — Set hospital lift stoppers for quiet, safe transfers.

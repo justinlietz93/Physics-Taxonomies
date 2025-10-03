@@ -1,5 +1,5 @@
-# P6–L2 Continuum Mechanics (Solids)
-**Definition:** Describes how solid materials deform, store stress, and sometimes flow under load.
+# G2-L6_Smart-Fluid_Bumpers — Genus Index
+**Definition:** Covers dampers that change behavior with fluid valves, magnets, or pneumatics to smooth rebounds.
 
 ## Overarching Lenses
 
@@ -11,14 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Class (L3) — index
-- **C1-L3_Stress-Strain_Constitutive-Maps** — Link force, stress, and strain for beams, rods, and parts.
-- **C2-L3_Structural-Health_Workflows** — Monitor real structures so strain maps and crack records stay current.
-
-## Order (L4) — (later)
-
-## Family (L5) — (later)
-
-## Genus (L6) — (later)
-
-## Species (L7) — (later)
+## Species (L7) — everyday exemplars
+- **S1-L7_Automated_Warehouse_Fluid_Stop** — Commission a fluid bumper that cushions shuttle carts.
+- **S2-L7_Theme-Park_Pneumatic_Catcher** — Adjust pneumatic catchers for safe theme-park car docking.
