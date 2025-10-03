@@ -1,6 +1,5 @@
 # S1-L7_Air-Track_Cart-on-Spring — Species Index
-
-**Definition:** Low-friction cart attached to a spring glides and returns—clean translational harmonic motion.
+**Definition:** A gliding cart attached to a coil spring oscillates with negligible friction, making Hooke’s law visible.
 
 ## Overarching Lenses
 
@@ -12,7 +11,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## 60–90s Explanation Notes (plain words)
-- Picture: what moves, what restores, what resists.
-- What would double the tempo? What damps it?
-- Boundaries/assumptions: small displacement, near equilibrium.
+## 60–90s Explanation Notes
+- Picture: cart glides on air cushion; spring stretch sets restoring force.
+- Watch energy swap between kinetic glide and spring compression; period set by \(\sqrt{m/k}\).
+- Discuss deviations: residual friction or big stretches breaking the linear assumption.

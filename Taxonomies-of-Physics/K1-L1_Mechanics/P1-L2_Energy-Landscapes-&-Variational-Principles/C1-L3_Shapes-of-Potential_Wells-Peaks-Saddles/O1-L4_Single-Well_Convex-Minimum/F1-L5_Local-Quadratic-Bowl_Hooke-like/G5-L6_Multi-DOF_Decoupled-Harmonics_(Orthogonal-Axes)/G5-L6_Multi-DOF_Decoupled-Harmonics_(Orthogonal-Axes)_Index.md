@@ -1,6 +1,5 @@
 # G5-L6_Multi-DOF_Decoupled-Harmonics_(Orthogonal-Axes) — Genus Index
-
-**Definition:** Independent quadratic bowls along x/y/z; motion along each axis is a separate harmonic.
+**Definition:** Independent harmonic motions occur along multiple perpendicular axes, each with its own stiffness and mass.
 
 ## Overarching Lenses
 
@@ -13,4 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
-- (populate with 2–3 concrete objects; 60–90s explanations)
+- **S1-L7_2D_Puck_on_Perpendicular-Springs** — air-table puck tethered by two springs oscillates independently in x and y.
+- **S2-L7_Gimbal_Vibration_Isolated-Axes** — camera gimbals isolate pitch/yaw with near-independent spring-damper stages.

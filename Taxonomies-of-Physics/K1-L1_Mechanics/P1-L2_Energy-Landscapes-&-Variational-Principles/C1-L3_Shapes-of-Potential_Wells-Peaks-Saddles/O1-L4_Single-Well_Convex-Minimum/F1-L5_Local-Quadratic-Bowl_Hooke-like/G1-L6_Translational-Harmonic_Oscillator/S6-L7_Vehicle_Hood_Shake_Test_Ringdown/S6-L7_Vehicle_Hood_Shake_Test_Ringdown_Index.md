@@ -1,6 +1,5 @@
 # S6-L7_Vehicle_Hood_Shake_Test_Ringdown — Species Index
-
-**Definition:** Tap the hood; the front-end oscillates and decays as a near-linear translational mode around equilibrium.
+**Definition:** Tap a car hood and watch it oscillate and decay, revealing stiffness and damping of the sheet metal system.
 
 ## Overarching Lenses
 
@@ -12,8 +11,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## 60–90s Explanation Notes (plain words)
-- Picture: what moves, what restores, what resists.
-- What would double the tempo? What damps it?
-- Boundaries/assumptions: small displacement, near equilibrium.
-
+## 60–90s Explanation Notes
+- After a light tap, hood deflects and vibrates as a mass-spring-damper; count oscillations to find damping ratio.
+- Discuss design goals: enough stiffness to avoid flutter yet soft enough to absorb impacts.
+- Compare to structural tests on airplane skins or appliance panels.

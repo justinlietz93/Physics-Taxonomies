@@ -1,5 +1,5 @@
-# S4-L7_Seismograph_Mass-on-Spring_Frame-Motion — Species Index
-**Definition:** A suspended mass on a spring records ground motion as the frame shakes, turning relative oscillation into a trace.
+# S2-L7_Door-Handle_Return-Spring — Species Index
+**Definition:** Push down a door lever and release; the hidden torsion spring twists it back to level with a gentle oscillation.
 
 ## Overarching Lenses
 
@@ -12,6 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Frame moves with the ground; inertia keeps the mass nearly fixed, stretching the spring.
-- Adjust natural frequency to match target quake bands; damping avoids endless ringing.
-- Link to modern MEMS accelerometers as miniaturized versions of the same idea.
+- Lever rotates about a spindle; torsion spring stores energy and restores the handle.
+- Damping from friction keeps it from oscillating wildly; ideally it returns smoothly.
+- Relate to ergonomic design: torque must be light enough yet provide a reassuring snap-back.

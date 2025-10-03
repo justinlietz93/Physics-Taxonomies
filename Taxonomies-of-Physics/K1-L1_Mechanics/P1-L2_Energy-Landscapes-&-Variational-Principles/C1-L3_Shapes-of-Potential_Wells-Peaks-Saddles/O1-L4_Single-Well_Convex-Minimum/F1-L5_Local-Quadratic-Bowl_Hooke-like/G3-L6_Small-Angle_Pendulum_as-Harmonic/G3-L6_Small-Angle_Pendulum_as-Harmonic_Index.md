@@ -1,6 +1,5 @@
 # G3-L6_Small-Angle_Pendulum_as-Harmonic — Genus Index
-
-**Definition:** Pendulum under small angles where the arc looks like a quadratic bowl around the bottom.
+**Definition:** Pendula with tiny swings behave like linear oscillators, where angle is proportional to restoring torque.
 
 ## Overarching Lenses
 
@@ -13,4 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
-- (populate with 2–3 concrete objects; 60–90s explanations)
+- **S1-L7_Clock_Pendulum_Tiny-Swing** — regulated pendulum clocks maintain minute oscillations for steady timing.
+- **S2-L7_Playground_Swing_Soft-Push** — short, gentle pushes keep a swing in the near-linear regime.

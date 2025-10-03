@@ -1,5 +1,5 @@
-# S4-L7_Seismograph_Mass-on-Spring_Frame-Motion — Species Index
-**Definition:** A suspended mass on a spring records ground motion as the frame shakes, turning relative oscillation into a trace.
+# S2-L7_Playground_Swing_Soft-Push — Species Index
+**Definition:** Gentle pushes keep a playground swing in the small-angle regime where motion mimics a simple harmonic oscillator.
 
 ## Overarching Lenses
 
@@ -12,6 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Frame moves with the ground; inertia keeps the mass nearly fixed, stretching the spring.
-- Adjust natural frequency to match target quake bands; damping avoids endless ringing.
-- Link to modern MEMS accelerometers as miniaturized versions of the same idea.
+- Small pushes create nearly sinusoidal motion with period set by chain length.
+- Compare to large arcs where period lengthens—clue that linear approximation broke.
+- Use to introduce resonance: match push timing to reinforce amplitude.

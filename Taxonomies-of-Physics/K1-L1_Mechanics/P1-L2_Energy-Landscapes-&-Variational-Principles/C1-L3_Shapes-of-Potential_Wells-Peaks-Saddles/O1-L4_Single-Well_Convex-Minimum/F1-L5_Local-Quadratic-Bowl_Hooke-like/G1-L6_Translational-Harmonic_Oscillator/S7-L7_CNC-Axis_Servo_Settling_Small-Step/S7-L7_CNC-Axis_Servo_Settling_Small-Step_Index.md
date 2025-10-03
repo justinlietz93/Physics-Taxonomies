@@ -1,6 +1,5 @@
 # S7-L7_CNC-Axis_Servo_Settling_Small-Step — Species Index
-
-**Definition:** Axis commanded a tiny step; carriage overshoots then settles like a mass–spring–damper (linearized).
+**Definition:** A precision machine axis commanded with a tiny step overshoots and settles as its servo behaves like a damped oscillator.
 
 ## Overarching Lenses
 
@@ -12,8 +11,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## 60–90s Explanation Notes (plain words)
-- Picture: what moves, what restores, what resists.
-- What would double the tempo? What damps it?
-- Boundaries/assumptions: small displacement, near equilibrium.
-
+## 60–90s Explanation Notes
+- Commanded step gives initial energy; feedback loop behaves like spring + damper around target position.
+- Settling time and overshoot reveal system stiffness and damping ratios.
+- Mention tuning: adjust gains to trade speed vs ringing without causing instability.
