@@ -1,5 +1,4 @@
 # O13-L4_Barrier-Height_Regimes_Small-Medium-Large — Order Index
-
 **Definition:** Small vs medium vs large ridge height relative to typical pushes/noise.
 
 ## Overarching Lenses
@@ -12,7 +11,8 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Family (canonical problems)
+## Family (L5) — index
+- **F1-L5_Barrier-Scale_Comparisons** — contrasts low, medium, and high barriers relative to driving energy.
 
 ## Genus (L6)
 

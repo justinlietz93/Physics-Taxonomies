@@ -1,5 +1,4 @@
 # O8-L4_Confining-vs-Unbounded_Tails — Order Index
-
 **Definition:** Edges either keep you in (confining) or let you escape (unbounded).
 
 ## Overarching Lenses
@@ -12,7 +11,8 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Family (canonical problems)
+## Family (L5) — index
+- **F1-L5_Escape-Criterion_Studies** — deciding when energy walls confine motion versus let it run away.
 
 ## Genus (L6)
 

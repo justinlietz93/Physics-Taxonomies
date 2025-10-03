@@ -1,5 +1,4 @@
 # O3-L4_Double-Well_Biased-Asymmetric — Order Index
-
 **Definition:** Two valleys with one favored by a tilt; switching has bias.
 
 ## Overarching Lenses
@@ -12,7 +11,9 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Family (canonical problems)
+## Family (L5) — index
+- **F1-L5_Tilted-Bistable_Switching-Paths** — biased double wells guiding how systems hop between favored and unfavored states.
+- **F2-L5_Barrier-Bias_Control-Strategies** — ways engineers tune asymmetry or loads to manage which basin wins.
 
 ## Genus (L6)
 

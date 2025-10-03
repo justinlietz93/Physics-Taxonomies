@@ -1,5 +1,5 @@
-# Electromagnetism & Light (forces through space)
-
+# K6–L1 Electromagnetism & Light
+**Definition:** How electric charges, currents, and light share energy and information through space in everyday tech and nature.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,31 +10,13 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Phylum
-
-- **Electrostatics** — charges, fields, potentials; *balloon on wall*.
-- **Magnetostatics** — steady currents, magnets; *compasses, motors*.
-- **Circuits (Lumped Models)** — resistors/caps/inductors as springs-and-masses; *amps*.
-- **Maxwell Waves & Radiation** — light, antennas, EM propagation; *Wi-Fi, radio*.
-- **Materials & EM Response** — dielectrics, conductors, optics; *lenses, metals*.
-- **Waveguides, Cavities & Antennas** — shaping EM modes; *microwave ovens*.
-
-## Class (canonical models)
-
-- Circuits: DC; AC steady-state; Transients; Transmission lines.
-
-## Order (regimes/approximations)
-
-- Low vs high frequency; lumped vs distributed; weak vs strong coupling to atennas.
-
-## Family (canonical problems)
-
-- RC step response; RLC resonance; quarter-wave antenna; waveguide modes.
-
-## Genus (L6)
-
-_(Insert Genus folders `G*-L6_*` between Family and Species; each Genus contains several Species.)_
-
-## Species (L7) — everyday exemplars
-
-- Phone charging brick (RC), guitar pickup + amp, microwave oven cavity mode, Wi-Fi router antenna.
+## Phyla (L2) — index
+- P1-L2_Electrostatics-&-Potentials — how fixed charges build fields and stored energy.
+- P2-L2_Magnetostatics-&-Steady-Currents — how steady currents shape magnetic forces and circuits.
+- P3-L2_Electrodynamics-&-Induction — how changing fields move energy and spark voltage on demand.
+## Native questions
+- How do charges rearrange to balance forces or store energy in familiar gear?
+- When do steady currents tug, twist, or align tools around us?
+- How do changing magnetic fields move power between coils, rooms, and satellites?
+## Everyday anchors
+- Balloon-on-wall stick tests, lightning rods, fridge magnets, speaker coils, factory power rails, magnetic phone mounts, induction cooktops, transformers, wireless charging pads, maglev stations.

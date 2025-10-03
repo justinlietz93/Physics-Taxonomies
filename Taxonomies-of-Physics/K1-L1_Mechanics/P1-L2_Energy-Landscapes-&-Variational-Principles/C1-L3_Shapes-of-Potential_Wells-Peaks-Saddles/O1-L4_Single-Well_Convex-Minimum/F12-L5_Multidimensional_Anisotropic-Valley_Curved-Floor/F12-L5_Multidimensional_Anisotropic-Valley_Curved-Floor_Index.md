@@ -12,9 +12,9 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Genus (L6)
-
-_(Insert Genus folders `G*-L6_*` under this Family. Place Species inside each Genus.)_
+## Genus (L6) — index
+- **G1-L6_Principal_Axis_Diagnostics** — finding the fast and slow return lanes in the valley.
+- **G2-L6_Directional_Stiffness_Tuning** — tuning structure so every direction meets spec even when slopes differ.
 
 ## Species (L7) — everyday exemplars
-- (populate with 2–3 real objects; 60–90s explanations)
+_(See Genus folders for everyday case notes.)_

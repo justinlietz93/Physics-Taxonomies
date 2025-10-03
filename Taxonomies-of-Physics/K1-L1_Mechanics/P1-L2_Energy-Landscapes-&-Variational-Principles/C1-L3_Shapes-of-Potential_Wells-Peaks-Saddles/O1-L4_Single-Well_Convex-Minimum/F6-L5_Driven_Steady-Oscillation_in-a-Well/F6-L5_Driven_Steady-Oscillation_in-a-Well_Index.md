@@ -12,9 +12,9 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Genus (L6)
-
-_(Insert Genus folders `G*-L6_*` under this Family. Place Species inside each Genus.)_
+## Genus (L6) — index
+- **G1-L6_Resonant_Drive_Balancing** — keeping driven resonance tidy and even.
+- **G2-L6_Forced_Oscillation_Control** — closing loops on oscillators so phase and gain stay on script.
 
 ## Species (L7) — everyday exemplars
-- (populate with 2–3 real objects; 60–90s explanations)
+_(See Genus folders for everyday case notes.)_
