@@ -1,5 +1,5 @@
 # F1-L5_Color-Spread-Examples — Family Index
-**Definition:** Turns dispersion curves into concrete examples like rainbows, prisms, and shimmering CDs.
+**Definition:** Turns dispersion curves into concrete examples like rainbows, prisms, shimmering CDs, and sky halos you can spot by eye.
 
 ## Overarching Lenses
 
@@ -13,5 +13,6 @@
 
 ## Genus (L6) — index
 - **G1-L6_Prism-and-CD-Spectra** — comparing refracted beams with surface diffraction rainbows.
+- **G2-L6_Atmospheric_Color-Separation** — tracing how air or ice layers peel colors apart overhead.
 
 ## Species (L7) — everyday exemplars

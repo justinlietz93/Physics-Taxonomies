@@ -13,6 +13,7 @@
 
 ## Family (L5) — index
 - **F1-L5_Boundary-Condition-Patterns** — mapping how fixed or open ends sculpt node spacing.
+- **F2-L5_Node-Antinode_Choreography** — tracking how node locations slide when supports shift or flex.
 
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_

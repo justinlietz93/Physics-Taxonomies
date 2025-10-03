@@ -1,5 +1,5 @@
 # O2-L4_Group-vs-Phase-Speed — Order Index
-**Definition:** Distinguishes the speed of a wave packet’s envelope from the faster or slower phase wiggles inside.
+**Definition:** Compares how wave envelopes and carrier ripples move, plus how engineers steer each speed.
 
 ## Overarching Lenses
 
@@ -12,8 +12,10 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Family (L5) — index
-- **F1-L5_Packet-Speed-Comparisons** — linking envelope travel to signals like storms, sound beats, and fiber pulses.
+- **F1-L5_Packet-Speed-Comparisons** — side-by-side envelope versus carrier travel time stories from nature and tech.
+- **F2-L5_Group-Control_Strategies** — deliberate tweaks that slow, speed, or rebalance group motion for cleaner signals.
 
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
+
 ## Species (L7) — everyday exemplars
