@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Wind-Turbine_Yaw-Drive_Coupler_Service** — Service kit aligning yaw drives with smooth torque handoffs.
+- **S2-L7_Steel-Mill_Eddy-Current_Coupler_Tune-Up** — Tune-up workflow balancing electromagnetic start-up torque.

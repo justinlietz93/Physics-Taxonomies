@@ -1,5 +1,5 @@
-# G2-L6_Geartrain-and_Belt_Networks_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for geartrain-and belt networks.
+# S1-L7_Bicycle_Drivetrain_Torque-Mapping — Species Index
+**Definition:** A multi-speed bike drivetrain shows how gears trade pedaling cadence for wheel torque on demand.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- **S1-L7_Industrial_Line_Gear-Swap_Checklist** — Maintenance guide keeping parallel drivetrains synchronized.
-- **S2-L7_Robot_Arm_Gearbox_Diagnostic_Pass** — Test routine verifying precision gearboxes before restart.
+## 60–90s Explanation Notes
+- Shifting between chainrings and sprockets immediately changes wheel torque, making the angular momentum balance tangible.
+- Lubrication and tension adjustments keep efficiency high, highlighting how friction losses creep into coupled rotors.

@@ -1,5 +1,5 @@
-# G2-L6_Geartrain-and_Belt_Networks_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for geartrain-and belt networks.
+# S2-L7_Robot_Arm_Gearbox_Diagnostic_Pass — Species Index
+**Definition:** A robot arm gearbox diagnostic pass logs backlash, torque ripple, and heat before returning the cell to service.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- **S1-L7_Industrial_Line_Gear-Swap_Checklist** — Maintenance guide keeping parallel drivetrains synchronized.
-- **S2-L7_Robot_Arm_Gearbox_Diagnostic_Pass** — Test routine verifying precision gearboxes before restart.
+## 60–90s Explanation Notes
+- Jog tests at different speeds trace torque ripple, linking measured oscillations back to gear mesh stiffness models.
+- Thermal imaging after full-speed runs spots misalignment losses, giving a go/no-go check before production restarts.

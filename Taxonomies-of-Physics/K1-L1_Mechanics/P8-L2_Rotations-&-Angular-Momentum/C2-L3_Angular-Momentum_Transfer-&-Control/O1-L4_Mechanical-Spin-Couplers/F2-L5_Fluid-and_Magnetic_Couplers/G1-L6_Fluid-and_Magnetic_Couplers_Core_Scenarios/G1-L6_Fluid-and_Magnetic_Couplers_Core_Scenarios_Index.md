@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Hydraulic_Torque-Converter_Cutaway-Lab** — Cutaway rigs show fluid vortices trading angular momentum.
+- **S2-L7_Magnetic_Clutch_Slip-Test_Demo** — Lab demos tune contactless torque transfer via coil current.

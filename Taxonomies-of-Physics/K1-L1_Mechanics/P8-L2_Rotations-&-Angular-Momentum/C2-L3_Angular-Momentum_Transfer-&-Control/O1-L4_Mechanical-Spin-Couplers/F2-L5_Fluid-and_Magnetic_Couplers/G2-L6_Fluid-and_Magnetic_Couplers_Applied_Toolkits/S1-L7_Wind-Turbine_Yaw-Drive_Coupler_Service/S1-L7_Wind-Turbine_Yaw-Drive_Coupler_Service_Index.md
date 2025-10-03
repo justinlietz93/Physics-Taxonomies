@@ -1,5 +1,5 @@
-# G2-L6_Geartrain-and_Belt_Networks_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for geartrain-and belt networks.
+# S1-L7_Wind-Turbine_Yaw-Drive_Coupler_Service — Species Index
+**Definition:** A yaw-drive coupler service plan keeps wind turbines smoothly rotating into the wind without gearbox shocks.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- **S1-L7_Industrial_Line_Gear-Swap_Checklist** — Maintenance guide keeping parallel drivetrains synchronized.
-- **S2-L7_Robot_Arm_Gearbox_Diagnostic_Pass** — Test routine verifying precision gearboxes before restart.
+## 60–90s Explanation Notes
+- Torque trending before and after service shows how hydraulic couplers cushion gust loads during yaw corrections.
+- Oil sampling and seal checks prove that fluid condition ties directly to drivetrain life in remote turbines.

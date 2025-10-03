@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Bicycle_Drivetrain_Torque-Mapping** — Bike shifting shows torque-speed tradeoffs in real time.
+- **S2-L7_Clockwork_Gear-Train_Sync-Check** — Clock gear trains pace stored energy with precise ratios.

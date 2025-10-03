@@ -1,5 +1,5 @@
-# G2-L6_Geartrain-and_Belt_Networks_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for geartrain-and belt networks.
+# S2-L7_Clockwork_Gear-Train_Sync-Check — Species Index
+**Definition:** A wind-up clock gear train keeps gears in lockstep so stored spring energy is released at a steady pace.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- **S1-L7_Industrial_Line_Gear-Swap_Checklist** — Maintenance guide keeping parallel drivetrains synchronized.
-- **S2-L7_Robot_Arm_Gearbox_Diagnostic_Pass** — Test routine verifying precision gearboxes before restart.
+## 60–90s Explanation Notes
+- Escapement teeth meter angular momentum from the mainspring, illustrating discrete torque handoffs between gears.
+- Dust or wear changes backlash, so a quick inspection teaches how tolerances keep phase and timing aligned.

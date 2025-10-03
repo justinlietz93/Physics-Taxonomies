@@ -1,5 +1,5 @@
-# G2-L6_Geartrain-and_Belt_Networks_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for geartrain-and belt networks.
+# S1-L7_Hydraulic_Torque-Converter_Cutaway-Lab — Species Index
+**Definition:** A cutaway torque converter on a test stand shows how pump, turbine, and stator share angular momentum through fluid.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- **S1-L7_Industrial_Line_Gear-Swap_Checklist** — Maintenance guide keeping parallel drivetrains synchronized.
-- **S2-L7_Robot_Arm_Gearbox_Diagnostic_Pass** — Test routine verifying precision gearboxes before restart.
+## 60–90s Explanation Notes
+- Spinner speed sweeps reveal stall, coupling, and lockup regimes, directly linking flow circulation to torque multiplication.
+- Dye traces and pressure taps make the invisible vortex visible, translating textbook control volumes to shop-floor intuition.
