@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Inverted_Pendulum_Balance_Playbook — Lays out the steps for keeping an inverted pendulum upright in classroom demos.
+- S2-L7_Laser_Mode_Peak_Locking_Demo — Shows how to lock a laser onto a peak mode so it stops wandering.

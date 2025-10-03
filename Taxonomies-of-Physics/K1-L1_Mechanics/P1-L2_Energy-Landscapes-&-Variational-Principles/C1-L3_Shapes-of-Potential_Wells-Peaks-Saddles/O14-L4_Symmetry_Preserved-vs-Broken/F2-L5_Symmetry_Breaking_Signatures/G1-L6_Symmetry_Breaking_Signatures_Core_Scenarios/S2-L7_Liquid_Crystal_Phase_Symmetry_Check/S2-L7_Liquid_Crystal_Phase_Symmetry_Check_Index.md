@@ -1,5 +1,5 @@
-# G2-L6_Barrier_Crossing_Strategies_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for barrier crossing strategies.
+# S2-L7_Liquid_Crystal_Phase_Symmetry_Check — Species Index
+**Definition:** Examines how liquid crystal cells reveal symmetry breaking when switching between phases.
 
 ## Overarching Lenses
 
@@ -11,6 +11,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Catalyst_Surface_Barrier_Tuning_Checklist — Collects quick checks for tweaking catalyst surfaces so adsorbed molecules cross the rate-limiting hurdle.
-- S2-L7_Semiconductor_Junction_Barrier_Adjustment_Log — Tracks fine-tuning of diode or transistor junction barriers during device bring-up.
+## 60–90s Explanation Notes
+
+- Relate it to polarized sunglasses rotating to find the hidden image.
+- Capture texture changes, threshold voltages, and viewing-angle cues in a lab log.

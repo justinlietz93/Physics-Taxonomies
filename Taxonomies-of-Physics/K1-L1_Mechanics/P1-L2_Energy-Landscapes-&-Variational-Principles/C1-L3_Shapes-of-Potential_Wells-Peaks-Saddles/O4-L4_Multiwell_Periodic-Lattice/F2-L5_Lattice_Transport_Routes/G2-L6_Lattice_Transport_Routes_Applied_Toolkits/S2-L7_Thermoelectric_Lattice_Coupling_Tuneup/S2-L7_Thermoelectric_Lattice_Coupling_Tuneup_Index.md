@@ -1,5 +1,5 @@
-# G2-L6_Barrier_Crossing_Strategies_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for barrier crossing strategies.
+# S2-L7_Thermoelectric_Lattice_Coupling_Tuneup — Species Index
+**Definition:** Guides tweaks to lattice coupling in thermoelectric modules for better heat-to-power flow.
 
 ## Overarching Lenses
 
@@ -11,6 +11,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Catalyst_Surface_Barrier_Tuning_Checklist — Collects quick checks for tweaking catalyst surfaces so adsorbed molecules cross the rate-limiting hurdle.
-- S2-L7_Semiconductor_Junction_Barrier_Adjustment_Log — Tracks fine-tuning of diode or transistor junction barriers during device bring-up.
+## 60–90s Explanation Notes
+
+- Likens it to tightening guitar strings until both tone and feel snap into place.
+- Note contact resistances, leg polishing steps, and output delta-T to watch.

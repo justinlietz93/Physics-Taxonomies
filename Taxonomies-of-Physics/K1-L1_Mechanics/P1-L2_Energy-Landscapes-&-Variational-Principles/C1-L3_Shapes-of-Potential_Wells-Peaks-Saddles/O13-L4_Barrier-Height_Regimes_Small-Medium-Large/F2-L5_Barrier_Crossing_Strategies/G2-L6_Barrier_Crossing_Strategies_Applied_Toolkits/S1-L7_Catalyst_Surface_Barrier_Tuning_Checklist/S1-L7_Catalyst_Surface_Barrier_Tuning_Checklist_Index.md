@@ -1,5 +1,5 @@
-# G2-L6_Barrier_Crossing_Strategies_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for barrier crossing strategies.
+# S1-L7_Catalyst_Surface_Barrier_Tuning_Checklist — Species Index
+**Definition:** Collects quick checks for tweaking catalyst surfaces so adsorbed molecules cross the rate-limiting hurdle.
 
 ## Overarching Lenses
 
@@ -11,6 +11,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Catalyst_Surface_Barrier_Tuning_Checklist — Collects quick checks for tweaking catalyst surfaces so adsorbed molecules cross the rate-limiting hurdle.
-- S2-L7_Semiconductor_Junction_Barrier_Adjustment_Log — Tracks fine-tuning of diode or transistor junction barriers during device bring-up.
+## 60–90s Explanation Notes
+
+- Walk through surface cleaning, promoter dosing, and monitoring conversion pulses in a benchtop reactor.
+- Note red flags like coke buildup or temperature drift that rebuild the barrier.

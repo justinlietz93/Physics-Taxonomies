@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Battery_Cathode_Pathway_Audit — Audits transport routes inside a battery cathode to keep ions moving evenly.
+- S2-L7_Thermoelectric_Lattice_Coupling_Tuneup — Guides tweaks to lattice coupling in thermoelectric modules for better heat-to-power flow.

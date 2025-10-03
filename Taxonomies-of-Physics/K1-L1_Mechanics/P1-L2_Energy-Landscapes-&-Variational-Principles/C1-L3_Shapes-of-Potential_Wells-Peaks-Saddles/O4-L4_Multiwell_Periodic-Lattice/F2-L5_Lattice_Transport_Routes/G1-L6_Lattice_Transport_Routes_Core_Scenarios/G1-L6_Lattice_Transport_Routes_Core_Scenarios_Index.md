@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Ion_Hopping_Lattice_Path_Demo — Maps how ions hop between lattice sites in a solid electrolyte under gentle driving.
+- S2-L7_Electron_Band_Tunneling_Route_Sketch — Sketches how electrons tunnel through a periodic lattice when bands overlap.

@@ -1,5 +1,5 @@
-# G2-L6_Barrier_Crossing_Strategies_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for barrier crossing strategies.
+# S2-L7_Laser_Mode_Peak_Locking_Demo — Species Index
+**Definition:** Shows how to lock a laser onto a peak mode so it stops wandering.
 
 ## Overarching Lenses
 
@@ -11,6 +11,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Catalyst_Surface_Barrier_Tuning_Checklist — Collects quick checks for tweaking catalyst surfaces so adsorbed molecules cross the rate-limiting hurdle.
-- S2-L7_Semiconductor_Junction_Barrier_Adjustment_Log — Tracks fine-tuning of diode or transistor junction barriers during device bring-up.
+## 60–90s Explanation Notes
+
+- Compare it to tuning a radio dial until the signal snaps into focus.
+- List dithering, error signal watching, and thermal drift notes to capture.

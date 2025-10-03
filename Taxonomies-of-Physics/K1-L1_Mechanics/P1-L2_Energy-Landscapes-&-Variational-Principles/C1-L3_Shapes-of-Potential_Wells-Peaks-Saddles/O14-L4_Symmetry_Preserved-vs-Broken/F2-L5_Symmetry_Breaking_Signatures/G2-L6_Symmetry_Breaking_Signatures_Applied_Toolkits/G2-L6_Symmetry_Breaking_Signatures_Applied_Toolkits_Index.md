@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Alloy_Heat_Treatment_Symmetry_Log — Provides a quick logging format for spotting symmetry changes during alloy heat treatments.
+- S2-L7_Beamline_Symmetry_Break_Diagnostics_Set — Bundles beamline diagnostics for catching unintended symmetry breaking in accelerator lattices.

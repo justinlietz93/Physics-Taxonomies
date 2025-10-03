@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Ferromagnet_Curie_Point_Signature_Walkthrough — Shows the telltale signals as a ferromagnet drops through the Curie point and picks a direction.
+- S2-L7_Liquid_Crystal_Phase_Symmetry_Check — Examines how liquid crystal cells reveal symmetry breaking when switching between phases.
