@@ -1,5 +1,5 @@
-# G2-L6_Friction_Tuning_Recipes_Applied_Toolkits — Genus Index
-**Definition:** Packs turnkey kits for teams who need friction tweaks ready to deploy in the field.
+# S2-L7_Laptop-Drop_Padding-Check — Species Index
+**Definition:** Electronics teams drop-testing laptops with different corner pads to confirm rebound and damage limits.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Factory-Conveyor_Friction-Kit — keep belts moving by tuning slip without shutting lines down.
-- S2-L7_MTB-Tire_Trail-Prep — field-ready tread prep balancing grip and glide before a ride.
+## 60–90s Explanation Notes
+- Compare high-speed footage with accelerometer traces to spot when pads rebound too sharply.
+- Tune padding stacks until impacts stay below damage thresholds without feeling mushy in daily use.

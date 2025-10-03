@@ -1,5 +1,5 @@
 # G2-L6_Block-on-Surface-Cases_Extension_Portfolios — Genus Index
-**Definition:** Maps extension portfolios surrounding block-on-surface-cases.
+**Definition:** Curates extended case studies that push block-on-surface friction scenarios into real-world prep guides.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Furniture-Slider_Field-Notes — document how sliders and floor prep cut moving effort.
+- S2-L7_Snowboard-Bench_Tuning — tune wax and brush sequences to manage glide vs grip on snow.

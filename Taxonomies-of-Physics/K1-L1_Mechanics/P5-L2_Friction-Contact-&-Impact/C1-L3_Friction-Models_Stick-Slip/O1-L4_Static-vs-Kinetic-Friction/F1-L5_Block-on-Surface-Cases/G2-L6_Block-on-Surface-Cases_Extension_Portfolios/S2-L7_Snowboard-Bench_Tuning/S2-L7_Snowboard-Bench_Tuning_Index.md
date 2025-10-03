@@ -1,5 +1,5 @@
-# G2-L6_Friction_Tuning_Recipes_Applied_Toolkits — Genus Index
-**Definition:** Packs turnkey kits for teams who need friction tweaks ready to deploy in the field.
+# S2-L7_Snowboard-Bench_Tuning — Species Index
+**Definition:** Wax techs bench-testing wax blends and brush patterns to tune board glide for varied snow.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Factory-Conveyor_Friction-Kit — keep belts moving by tuning slip without shutting lines down.
-- S2-L7_MTB-Tire_Trail-Prep — field-ready tread prep balancing grip and glide before a ride.
+## 60–90s Explanation Notes
+- Run timed push tests on a wax bench to compare glide after hot scrape, nylon brush, or textured finish.
+- Show riders how small prep changes keep starts smooth without sacrificing edge bite on icy corners.

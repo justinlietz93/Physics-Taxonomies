@@ -1,5 +1,5 @@
-# G2-L6_Friction_Tuning_Recipes_Applied_Toolkits — Genus Index
-**Definition:** Packs turnkey kits for teams who need friction tweaks ready to deploy in the field.
+# S1-L7_Pendulum-Impact_Test-Rig — Species Index
+**Definition:** Classic pendulum rigs swinging weighted strikers into samples to record impact energy and rebound.
 
 ## Overarching Lenses
 
@@ -11,6 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Species (L7) — everyday exemplars
-- S1-L7_Factory-Conveyor_Friction-Kit — keep belts moving by tuning slip without shutting lines down.
-- S2-L7_MTB-Tire_Trail-Prep — field-ready tread prep balancing grip and glide before a ride.
+## 60–90s Explanation Notes
+- Walk through calibrating height, striker mass, and energy readout before each series of hits.
+- Show how rebound angle and sample deformation signal whether materials absorb or reflect energy.
