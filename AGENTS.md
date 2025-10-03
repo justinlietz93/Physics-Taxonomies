@@ -1,4 +1,4 @@
-# AGENTS.md — Documentation Agent Contribution Rules
+# Agent Contribution Rules
 **Version:** 2025-10-03
 
 This repo is an analogy-first, top-down taxonomy of physics. The **Documentation Agent** must populate every missing folder and index (K→P→C→O→F→G→S), maintain naming/numbering, and keep entries plain-English and short.
@@ -54,10 +54,10 @@ Folder pattern: `<PREFIX><n>-L<level>_<Title>` (ASCII, underscores for chunks; h
 ## Class (L3) — index
 - C1-L3_<...> — one-line gist
 - C2-L3_<...> — one-line gist
-## Order (L4) — (later)
-## Family (L5) — (later)
-## Genus (L6) — (later)
-## Species (L7) — (later)
+## Order (L4) — (decide on what to do with nested indexes later)
+## Family (L5) — (decide on what to do with nested indexes later)
+## Genus (L6) — (decide on what to do with nested indexes later)
+## Species (L7) — (decide on what to do with nested indexes later)
 ```
 
 **L3 Class (`{BASENAME}_Index.md`)**
@@ -69,8 +69,8 @@ Folder pattern: `<PREFIX><n>-L<level>_<Title>` (ASCII, underscores for chunks; h
 ## Order (L4) — index
 - O1-L4_<...> — one-line gist
 - O2-L4_<...> — one-line gist
-## Family (L5) — (later)
-## Genus (L6)
+## Family (L5) — (decide on what to do with nested indexes later)
+## Genus (L6)  — (decide on what to do with nested indexes later)
 _(Insert `G*-L6_*` between Family and Species.)_
 ## Species (L7) — everyday exemplars
 ```
