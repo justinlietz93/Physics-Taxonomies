@@ -12,6 +12,7 @@
 
 ## Class (L3) — index
 - C1-L3_Current-Path_Field-Designs — relate conductor geometry to magnetic field control and forces.
+- C2-L3_Magnetic-Circuit_Engineering — steer flux through materials and loops for devices and shielding.
 ## Order (L4) — (later)
 ## Family (L5) — (later)
 ## Genus (L6) — (later)

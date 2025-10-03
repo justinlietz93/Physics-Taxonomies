@@ -13,5 +13,6 @@
 
 ## Genus (L6) — index
 - **G1-L6_String-vs-Pipe-Modes** — contrasting fixed strings with open or closed air columns.
+- **G2-L6_Mixed-Boundary_Scenarios** — hybrid setups with one clamped and one free end that skew harmonic spacing.
 
 ## Species (L7) — everyday exemplars
