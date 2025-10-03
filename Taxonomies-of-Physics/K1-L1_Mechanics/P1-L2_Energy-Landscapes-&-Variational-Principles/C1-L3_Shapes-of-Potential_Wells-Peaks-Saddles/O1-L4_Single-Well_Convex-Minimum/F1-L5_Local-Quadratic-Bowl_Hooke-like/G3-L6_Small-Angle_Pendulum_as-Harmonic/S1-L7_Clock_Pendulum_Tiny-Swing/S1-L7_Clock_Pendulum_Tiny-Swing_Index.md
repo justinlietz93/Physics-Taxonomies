@@ -1,5 +1,5 @@
-# S4-L7_Seismograph_Mass-on-Spring_Frame-Motion — Species Index
-**Definition:** A suspended mass on a spring records ground motion as the frame shakes, turning relative oscillation into a trace.
+# S1-L7_Clock_Pendulum_Tiny-Swing — Species Index
+**Definition:** A pendulum clock keeps small, nearly linear swings using escapement kicks to offset damping.
 
 ## Overarching Lenses
 
@@ -12,6 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Frame moves with the ground; inertia keeps the mass nearly fixed, stretching the spring.
-- Adjust natural frequency to match target quake bands; damping avoids endless ringing.
-- Link to modern MEMS accelerometers as miniaturized versions of the same idea.
+- Escapement adds small impulses to counter air drag, keeping amplitude small.
+- Period depends on length, not amplitude, in this linear regime; great for timekeeping.
+- Deviations (large swings) introduce nonlinearity and drift.

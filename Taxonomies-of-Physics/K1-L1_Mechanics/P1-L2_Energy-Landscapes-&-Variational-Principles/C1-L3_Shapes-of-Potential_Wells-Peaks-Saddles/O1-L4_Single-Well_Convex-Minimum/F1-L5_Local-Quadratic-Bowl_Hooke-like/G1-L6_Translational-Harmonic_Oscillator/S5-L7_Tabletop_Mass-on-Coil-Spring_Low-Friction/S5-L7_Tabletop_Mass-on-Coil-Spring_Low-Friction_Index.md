@@ -1,6 +1,5 @@
 # S5-L7_Tabletop_Mass-on-Coil-Spring_Low-Friction — Species Index
-
-**Definition:** Classic benchtop coil-spring with glider or puck; near-frictionless oscillations for small displacements.
+**Definition:** A puck or glider attached to a coil spring slides on a smooth surface, exchanging kinetic and spring energy.
 
 ## Overarching Lenses
 
@@ -12,8 +11,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## 60–90s Explanation Notes (plain words)
-- Picture: what moves, what restores, what resists.
-- What would double the tempo? What damps it?
-- Boundaries/assumptions: small displacement, near equilibrium.
-
+## 60–90s Explanation Notes
+- Visual: puck oscillates back and forth with almost constant amplitude.
+- Track how period stays constant even if amplitude is modest—signature of linear response.
+- Invite what-if: add friction or hit harder to preview nonlinear regimes.

@@ -1,6 +1,5 @@
 # G2-L6_Torsional-Harmonic_Oscillator — Genus Index
-
-**Definition:** Twist around an axis with a torsion spring; angle is the coordinate in the quadratic bowl.
+**Definition:** Rotational analog of Hooke’s law: twist angle is proportional to restoring torque about a pivot.
 
 ## Overarching Lenses
 
@@ -13,4 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
-- (populate with 2–3 concrete objects; 60–90s explanations)
+- **S1-L7_Torsion-Balance_Thin-Fiber** — Cavendish-style torsion balances twist on a fiber to measure tiny forces.
+- **S2-L7_Door-Handle_Return-Spring** — door levers twist a torsion bar and relax back to horizontal.

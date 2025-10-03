@@ -1,5 +1,5 @@
-# S4-L7_Seismograph_Mass-on-Spring_Frame-Motion — Species Index
-**Definition:** A suspended mass on a spring records ground motion as the frame shakes, turning relative oscillation into a trace.
+# S1-L7_Torsion-Balance_Thin-Fiber — Species Index
+**Definition:** A lightweight bar suspended by a thin fiber twists when tiny forces act, oscillating with a torsional period.
 
 ## Overarching Lenses
 
@@ -12,6 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Frame moves with the ground; inertia keeps the mass nearly fixed, stretching the spring.
-- Adjust natural frequency to match target quake bands; damping avoids endless ringing.
-- Link to modern MEMS accelerometers as miniaturized versions of the same idea.
+- Visualize a bar suspended by a fiber; gravity torques twist it, fiber supplies restoring torque.
+- Period reveals torsion constant; damping from air or internal friction sets decay.
+- Use-case: Cavendish experiment measuring gravitational constant via tiny twists.

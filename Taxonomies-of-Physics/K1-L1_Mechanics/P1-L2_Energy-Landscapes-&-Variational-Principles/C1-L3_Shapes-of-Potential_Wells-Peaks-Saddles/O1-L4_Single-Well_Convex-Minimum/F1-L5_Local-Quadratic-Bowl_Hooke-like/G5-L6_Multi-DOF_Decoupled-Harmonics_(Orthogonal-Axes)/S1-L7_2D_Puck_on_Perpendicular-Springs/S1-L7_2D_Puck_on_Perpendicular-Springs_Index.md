@@ -1,5 +1,5 @@
-# S4-L7_Seismograph_Mass-on-Spring_Frame-Motion — Species Index
-**Definition:** A suspended mass on a spring records ground motion as the frame shakes, turning relative oscillation into a trace.
+# S1-L7_2D_Puck_on_Perpendicular-Springs — Species Index
+**Definition:** An air-table puck pulled by two perpendicular springs oscillates independently along each axis.
 
 ## Overarching Lenses
 
@@ -12,6 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Frame moves with the ground; inertia keeps the mass nearly fixed, stretching the spring.
-- Adjust natural frequency to match target quake bands; damping avoids endless ringing.
-- Link to modern MEMS accelerometers as miniaturized versions of the same idea.
+- Each spring acts along its axis; motions decouple into x and y simple oscillators.
+- Trajectories trace Lissajous figures when frequencies differ.
+- Great for visualizing normal modes in higher dimensions.

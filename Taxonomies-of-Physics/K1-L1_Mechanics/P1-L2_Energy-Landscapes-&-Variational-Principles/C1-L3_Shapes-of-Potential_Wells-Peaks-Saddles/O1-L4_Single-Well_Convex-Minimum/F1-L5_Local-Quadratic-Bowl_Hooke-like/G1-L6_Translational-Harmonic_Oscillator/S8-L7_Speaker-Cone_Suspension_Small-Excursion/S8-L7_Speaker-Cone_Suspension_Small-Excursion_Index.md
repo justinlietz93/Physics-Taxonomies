@@ -1,6 +1,5 @@
 # S8-L7_Speaker-Cone_Suspension_Small-Excursion — Species Index
-
-**Definition:** Speaker cone suspended by compliant surround/spider; small excursion ≈ harmonic about rest.
+**Definition:** A loudspeaker cone vibrates within its linear suspension range, acting like a mass-spring-damper tuned for sound.
 
 ## Overarching Lenses
 
@@ -12,8 +11,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## 60–90s Explanation Notes (plain words)
-- Picture: what moves, what restores, what resists.
-- What would double the tempo? What damps it?
-- Boundaries/assumptions: small displacement, near equilibrium.
-
+## 60–90s Explanation Notes
+- Voice coil current pushes cone; spider and surround supply restoring force like springs.
+- At small excursions response is linear; near resonance amplitude peaks unless damping (air + suspension) tames it.
+- Connect to hi-fi tuning: designers pick mass, compliance, and damping to hit target bass response.

@@ -1,5 +1,5 @@
-# S4-L7_Seismograph_Mass-on-Spring_Frame-Motion — Species Index
-**Definition:** A suspended mass on a spring records ground motion as the frame shakes, turning relative oscillation into a trace.
+# S2-L7_Elevator-Counterweight_Spring-Balancer — Species Index
+**Definition:** Overhead spring balancers hold a tool or counterweight nearly weightless by stretching to a new equilibrium.
 
 ## Overarching Lenses
 
@@ -12,6 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Frame moves with the ground; inertia keeps the mass nearly fixed, stretching the spring.
-- Adjust natural frequency to match target quake bands; damping avoids endless ringing.
-- Link to modern MEMS accelerometers as miniaturized versions of the same idea.
+- Spring counterbalances weight so the tool hovers; small motions act like gentle oscillations.
+- Adjusting preload changes the new equilibrium height.
+- Compare to counterweighted elevators or adjustable task lights using springs.

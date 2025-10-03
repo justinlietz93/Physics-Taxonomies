@@ -1,5 +1,5 @@
-# S4-L7_Seismograph_Mass-on-Spring_Frame-Motion — Species Index
-**Definition:** A suspended mass on a spring records ground motion as the frame shakes, turning relative oscillation into a trace.
+# S1-L7_Hanging-Mass_Spring-Extension — Species Index
+**Definition:** Clamp a spring, hang a mass, watch it stretch to a new rest point and oscillate about it.
 
 ## Overarching Lenses
 
@@ -12,6 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Frame moves with the ground; inertia keeps the mass nearly fixed, stretching the spring.
-- Adjust natural frequency to match target quake bands; damping avoids endless ringing.
-- Link to modern MEMS accelerometers as miniaturized versions of the same idea.
+- Gravity shifts equilibrium: mg balances kx; oscillations happen around that offset.
+- Demonstrate energy conversion between gravitational potential, spring energy, and kinetic.
+- Explore measuring g or k by timing oscillations.

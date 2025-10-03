@@ -1,6 +1,5 @@
 # G4-L6_Vertical-Spring_Shifted-Equilibrium — Genus Index
-
-**Definition:** Vertical spring with gravity; equilibrium is shifted but the local bowl is still quadratic.
+**Definition:** Gravity shifts the rest length of a vertical spring; oscillations occur about the new equilibrium point.
 
 ## Overarching Lenses
 
@@ -13,4 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
-- (populate with 2–3 concrete objects; 60–90s explanations)
+- **S1-L7_Hanging-Mass_Spring-Extension** — lab masses hang from springs and bounce about a shifted rest length.
+- **S2-L7_Elevator-Counterweight_Spring-Balancer** — shop tools hang from spring balancers that counter weight over a range.

@@ -1,6 +1,5 @@
 # S3-L7_Drawer-Slider_Bounce_Stop — Species Index
-
-**Definition:** Drawer hits stop and bounces once or twice around the closed position (small-amplitude ringdown).
+**Definition:** A kitchen drawer hits its soft-close mechanism, compresses a spring-damper, and settles without slamming.
 
 ## Overarching Lenses
 
@@ -12,8 +11,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## 60–90s Explanation Notes (plain words)
-- Picture: what moves, what restores, what resists.
-- What would double the tempo? What damps it?
-- Boundaries/assumptions: small displacement, near equilibrium.
-
+## 60–90s Explanation Notes
+- Motion converts to spring compression; damper bleeds energy so the drawer rests gently.
+- The “catch” sets initial conditions; spring stiffness sets how far it rebounds before stopping.
+- Relate to design trade-offs: too little damping and it slams; too much and it feels sluggish.

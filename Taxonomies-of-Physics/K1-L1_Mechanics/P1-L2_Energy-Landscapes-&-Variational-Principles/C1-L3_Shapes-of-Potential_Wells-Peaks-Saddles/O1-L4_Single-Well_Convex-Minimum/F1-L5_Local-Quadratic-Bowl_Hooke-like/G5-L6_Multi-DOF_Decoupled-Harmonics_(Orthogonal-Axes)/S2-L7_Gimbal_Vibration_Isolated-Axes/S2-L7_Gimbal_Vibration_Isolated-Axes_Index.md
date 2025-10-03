@@ -1,5 +1,5 @@
-# S4-L7_Seismograph_Mass-on-Spring_Frame-Motion — Species Index
-**Definition:** A suspended mass on a spring records ground motion as the frame shakes, turning relative oscillation into a trace.
+# S2-L7_Gimbal_Vibration_Isolated-Axes — Species Index
+**Definition:** A camera gimbal suspends payloads on orthogonal spring-damper stages so pitch and yaw oscillate independently when nudged.
 
 ## Overarching Lenses
 
@@ -12,6 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Frame moves with the ground; inertia keeps the mass nearly fixed, stretching the spring.
-- Adjust natural frequency to match target quake bands; damping avoids endless ringing.
-- Link to modern MEMS accelerometers as miniaturized versions of the same idea.
+- Small disturbances cause isolated pitch or yaw oscillations thanks to decoupled suspensions.
+- Electronics sense and actively damp the motion, extending the mechanical linear regime.
+- Highlights multi-axis design: treat each axis as its own harmonic oscillator.
