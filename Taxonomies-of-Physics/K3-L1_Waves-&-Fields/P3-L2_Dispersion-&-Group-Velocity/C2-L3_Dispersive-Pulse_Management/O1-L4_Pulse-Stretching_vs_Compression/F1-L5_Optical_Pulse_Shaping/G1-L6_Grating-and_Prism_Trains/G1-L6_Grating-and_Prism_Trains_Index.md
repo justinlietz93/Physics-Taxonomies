@@ -1,5 +1,5 @@
-# O1-L4_Material-Dispersion_Curves — Order Index
-**Definition:** Connects refractive index or stiffness data with how different frequencies accelerate or slow in a medium.
+# G1-L6_Grating-and_Prism_Trains — Genus Index
+**Definition:** Uses reflective gratings and prism pairs to tailor dispersion in open-air optical benches.
 
 ## Overarching Lenses
 
@@ -11,11 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Family (L5) — index
-- **F1-L5_Color-Spread-Examples** — translating dispersion curves into visible, audible, and atmospheric separations.
-- **F2-L5_Telecom_Dispersion_Control** — engineering toolkits that reshape pulses before and after a fiber span.
-
-## Genus (L6)
-_(Insert `G*-L6_*` here.)_
-
 ## Species (L7) — everyday exemplars
+- **S1-L7_TiSa_Chirped_Pulse_Setup** — ultrafast labs stretch pulses before amplification using grating trestles.
+- **S2-L7_Laser_Show_Pulse_Trimmer** — entertainment rigs add prism compressors to keep show pulses tight and bright.

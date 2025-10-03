@@ -1,5 +1,5 @@
-# O1-L4_Material-Dispersion_Curves — Order Index
-**Definition:** Connects refractive index or stiffness data with how different frequencies accelerate or slow in a medium.
+# O1-L4_Pulse-Stretching_vs_Compression — Order Index
+**Definition:** Balances modules that lengthen pulses for safety with hardware that recompresses them for delivery.
 
 ## Overarching Lenses
 
@@ -12,8 +12,8 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Family (L5) — index
-- **F1-L5_Color-Spread-Examples** — translating dispersion curves into visible, audible, and atmospheric separations.
-- **F2-L5_Telecom_Dispersion_Control** — engineering toolkits that reshape pulses before and after a fiber span.
+- **F1-L5_Optical_Pulse_Shaping** — optical benches that chirp, stretch, and realign ultrafast bursts.
+- **F2-L5_Acoustic_Pulse_Care** — acoustic setups that soften or reshape shock-like pulses before use.
 
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_

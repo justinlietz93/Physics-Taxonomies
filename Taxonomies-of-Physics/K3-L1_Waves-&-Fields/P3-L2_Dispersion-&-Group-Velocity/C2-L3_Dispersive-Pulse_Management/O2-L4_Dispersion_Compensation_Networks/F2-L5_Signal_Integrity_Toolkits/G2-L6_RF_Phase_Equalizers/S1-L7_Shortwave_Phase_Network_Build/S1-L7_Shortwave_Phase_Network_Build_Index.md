@@ -1,5 +1,5 @@
-# O1-L4_Material-Dispersion_Curves — Order Index
-**Definition:** Connects refractive index or stiffness data with how different frequencies accelerate or slow in a medium.
+# S1-L7_Shortwave_Phase_Network_Build — Species Index
+**Definition:** Radio hobbyists build phase-equalized filters so speech sounds natural after long-distance hops.
 
 ## Overarching Lenses
 
@@ -11,11 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Family (L5) — index
-- **F1-L5_Color-Spread-Examples** — translating dispersion curves into visible, audible, and atmospheric separations.
-- **F2-L5_Telecom_Dispersion_Control** — engineering toolkits that reshape pulses before and after a fiber span.
-
-## Genus (L6)
-_(Insert `G*-L6_*` here.)_
-
-## Species (L7) — everyday exemplars
+## 60–90s Explanation Notes
+- Tuned LC sections add phase lead or lag so audio frequencies arrive together.
+- Listening tests and scope traces confirm the equalizer counters dispersion from the ionosphere and gear.

@@ -1,5 +1,5 @@
-# O1-L4_Material-Dispersion_Curves — Order Index
-**Definition:** Connects refractive index or stiffness data with how different frequencies accelerate or slow in a medium.
+# G2-L6_RF_Phase_Equalizers — Genus Index
+**Definition:** RF and microwave networks that align phase and group delay for communication or sensing links.
 
 ## Overarching Lenses
 
@@ -11,11 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Family (L5) — index
-- **F1-L5_Color-Spread-Examples** — translating dispersion curves into visible, audible, and atmospheric separations.
-- **F2-L5_Telecom_Dispersion_Control** — engineering toolkits that reshape pulses before and after a fiber span.
-
-## Genus (L6)
-_(Insert `G*-L6_*` here.)_
-
 ## Species (L7) — everyday exemplars
+- **S1-L7_Shortwave_Phase_Network_Build** — hobbyists build phase-equalized filters to sharpen shortwave audio.
+- **S2-L7_Satellite_IF_EQ_Adjust** — satellite techs tweak IF equalizers to keep demodulators happy.

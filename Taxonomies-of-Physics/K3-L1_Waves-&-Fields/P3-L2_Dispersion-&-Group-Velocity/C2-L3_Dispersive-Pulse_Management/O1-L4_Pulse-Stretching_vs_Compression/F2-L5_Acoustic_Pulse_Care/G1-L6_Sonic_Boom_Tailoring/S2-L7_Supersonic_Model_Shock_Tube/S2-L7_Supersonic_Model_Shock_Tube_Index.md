@@ -1,5 +1,5 @@
-# O1-L4_Material-Dispersion_Curves — Order Index
-**Definition:** Connects refractive index or stiffness data with how different frequencies accelerate or slow in a medium.
+# S2-L7_Supersonic_Model_Shock_Tube — Species Index
+**Definition:** Small shock tubes fire scaled supersonic pulses so engineers can test dispersion control hardware indoors.
 
 ## Overarching Lenses
 
@@ -11,11 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Family (L5) — index
-- **F1-L5_Color-Spread-Examples** — translating dispersion curves into visible, audible, and atmospheric separations.
-- **F2-L5_Telecom_Dispersion_Control** — engineering toolkits that reshape pulses before and after a fiber span.
-
-## Genus (L6)
-_(Insert `G*-L6_*` here.)_
-
-## Species (L7) — everyday exemplars
+## 60–90s Explanation Notes
+- Adjustable inserts and vents reshape the shock profile, mimicking boom softening in a safe lab.
+- High-speed sensors capture how dispersion tweaks translate into lower peak pressures for communities.

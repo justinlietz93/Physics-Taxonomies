@@ -1,5 +1,5 @@
-# O1-L4_Material-Dispersion_Curves — Order Index
-**Definition:** Connects refractive index or stiffness data with how different frequencies accelerate or slow in a medium.
+# G2-L6_WDM_Slope_Control — Genus Index
+**Definition:** Manages dispersion slope across dense wavelength-division multiplexing (WDM) systems so all colors stay aligned.
 
 ## Overarching Lenses
 
@@ -11,11 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Family (L5) — index
-- **F1-L5_Color-Spread-Examples** — translating dispersion curves into visible, audible, and atmospheric separations.
-- **F2-L5_Telecom_Dispersion_Control** — engineering toolkits that reshape pulses before and after a fiber span.
-
-## Genus (L6)
-_(Insert `G*-L6_*` here.)_
-
 ## Species (L7) — everyday exemplars
+- **S1-L7_DWDM_Module_Swap** — technicians swap dispersion-compensation modules to rebalance busy fiber rings.
+- **S2-L7_DataCenter_Link_Audit** — data center teams test patch panels to keep multiwavelength links timed together.

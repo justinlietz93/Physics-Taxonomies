@@ -1,5 +1,5 @@
 # F1-L5_Packet-Speed-Comparisons — Family Index
-**Definition:** Compares situations where the signal envelope and the underlying oscillations move at different speeds.
+**Definition:** Sets up comparisons where the energy envelope and carrier waves travel at visibly different speeds.
 
 ## Overarching Lenses
 
@@ -12,6 +12,7 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Genus (L6) — index
-- **G1-L6_Storm-vs_Swell-Speed** — contrasting visible envelopes with hidden phase motion.
+- **G1-L6_Storm-vs_Swell-Speed** — contrasting how weather pulses and ocean waves outrun or lag each other.
+- **G2-L6_Digital_Pulse_Walkoff** — tracking how data bursts drift relative to their carriers in cables and fiber.
 
 ## Species (L7) — everyday exemplars

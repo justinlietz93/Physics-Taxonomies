@@ -1,5 +1,5 @@
-# O1-L4_Material-Dispersion_Curves — Order Index
-**Definition:** Connects refractive index or stiffness data with how different frequencies accelerate or slow in a medium.
+# S2-L7_DataCenter_Link_Audit — Species Index
+**Definition:** Data center teams run dispersion audits so short fiber jumpers keep multiwavelength links timed together.
 
 ## Overarching Lenses
 
@@ -11,11 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Family (L5) — index
-- **F1-L5_Color-Spread-Examples** — translating dispersion curves into visible, audible, and atmospheric separations.
-- **F2-L5_Telecom_Dispersion_Control** — engineering toolkits that reshape pulses before and after a fiber span.
-
-## Genus (L6)
-_(Insert `G*-L6_*` here.)_
-
-## Species (L7) — everyday exemplars
+## 60–90s Explanation Notes
+- Test sets measure chromatic dispersion of each jumper so wavelengths stay within timing budgets.
+- Swapping patch cords shows how even short runs need dispersion awareness in dense photonic networks.

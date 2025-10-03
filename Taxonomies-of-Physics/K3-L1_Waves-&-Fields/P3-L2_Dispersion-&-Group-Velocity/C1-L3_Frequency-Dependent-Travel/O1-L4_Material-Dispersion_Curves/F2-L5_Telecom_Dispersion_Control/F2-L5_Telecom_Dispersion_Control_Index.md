@@ -1,5 +1,5 @@
-# O1-L4_Material-Dispersion_Curves — Order Index
-**Definition:** Connects refractive index or stiffness data with how different frequencies accelerate or slow in a medium.
+# F2-L5_Telecom_Dispersion_Control — Family Index
+**Definition:** Collects hands-on tricks telecom teams use to tame chromatic dispersion before pulses blur together.
 
 ## Overarching Lenses
 
@@ -11,11 +11,8 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Family (L5) — index
-- **F1-L5_Color-Spread-Examples** — translating dispersion curves into visible, audible, and atmospheric separations.
-- **F2-L5_Telecom_Dispersion_Control** — engineering toolkits that reshape pulses before and after a fiber span.
-
-## Genus (L6)
-_(Insert `G*-L6_*` here.)_
+## Genus (L6) — index
+- **G1-L6_Fiber-Design_Tradeoffs** — weighing glass recipes and core profiles to flatten dispersion windows.
+- **G2-L6_Pulse-Stretch_Compress_Kits** — modular benches that stretch or squeeze pulses before launching them down the line.
 
 ## Species (L7) — everyday exemplars

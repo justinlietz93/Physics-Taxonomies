@@ -1,5 +1,5 @@
-# O1-L4_Material-Dispersion_Curves — Order Index
-**Definition:** Connects refractive index or stiffness data with how different frequencies accelerate or slow in a medium.
+# F2-L5_Acoustic_Pulse_Care — Family Index
+**Definition:** Dials in how acoustic pulses spread or soften so structures and sensors get usable signals.
 
 ## Overarching Lenses
 
@@ -11,11 +11,8 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Family (L5) — index
-- **F1-L5_Color-Spread-Examples** — translating dispersion curves into visible, audible, and atmospheric separations.
-- **F2-L5_Telecom_Dispersion_Control** — engineering toolkits that reshape pulses before and after a fiber span.
-
-## Genus (L6)
-_(Insert `G*-L6_*` here.)_
+## Genus (L6) — index
+- **G1-L6_Sonic_Boom_Tailoring** — reshaping shock-like pulses so they meet safety limits.
+- **G2-L6_Medical_Ultrasound_Tuning** — tuning coupling and timing for clear ultrasound or inspection images.
 
 ## Species (L7) — everyday exemplars

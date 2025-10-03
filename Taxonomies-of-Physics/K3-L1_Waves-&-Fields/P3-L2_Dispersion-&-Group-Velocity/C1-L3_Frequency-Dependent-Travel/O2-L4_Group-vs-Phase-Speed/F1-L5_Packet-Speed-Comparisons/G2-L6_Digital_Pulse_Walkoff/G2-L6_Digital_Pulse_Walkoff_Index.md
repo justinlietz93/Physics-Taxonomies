@@ -1,5 +1,5 @@
-# O1-L4_Material-Dispersion_Curves — Order Index
-**Definition:** Connects refractive index or stiffness data with how different frequencies accelerate or slow in a medium.
+# G2-L6_Digital_Pulse_Walkoff — Genus Index
+**Definition:** Highlights home and lab setups where digital pulses drift apart from their carriers over distance.
 
 ## Overarching Lenses
 
@@ -11,11 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Family (L5) — index
-- **F1-L5_Color-Spread-Examples** — translating dispersion curves into visible, audible, and atmospheric separations.
-- **F2-L5_Telecom_Dispersion_Control** — engineering toolkits that reshape pulses before and after a fiber span.
-
-## Genus (L6)
-_(Insert `G*-L6_*` here.)_
-
 ## Species (L7) — everyday exemplars
+- **S1-L7_Coax_HDMI_Cable_Test** — measuring arrival skew between color channels shows dispersion in copper links.
+- **S2-L7_Fiber_Burst_Stretch** — fast test bursts widen after a fiber coil, revealing group delay versus carrier wave.

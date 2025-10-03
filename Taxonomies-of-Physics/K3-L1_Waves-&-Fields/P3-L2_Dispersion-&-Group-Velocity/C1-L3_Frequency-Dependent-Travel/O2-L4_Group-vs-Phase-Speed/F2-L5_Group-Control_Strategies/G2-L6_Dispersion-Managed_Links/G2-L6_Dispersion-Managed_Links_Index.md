@@ -1,5 +1,5 @@
-# O1-L4_Material-Dispersion_Curves — Order Index
-**Definition:** Connects refractive index or stiffness data with how different frequencies accelerate or slow in a medium.
+# G2-L6_Dispersion-Managed_Links — Genus Index
+**Definition:** Profiles deployed systems that weave compensators and amplifiers to keep pulses synchronized over distance.
 
 ## Overarching Lenses
 
@@ -11,11 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Family (L5) — index
-- **F1-L5_Color-Spread-Examples** — translating dispersion curves into visible, audible, and atmospheric separations.
-- **F2-L5_Telecom_Dispersion_Control** — engineering toolkits that reshape pulses before and after a fiber span.
-
-## Genus (L6)
-_(Insert `G*-L6_*` here.)_
-
 ## Species (L7) — everyday exemplars
+- **S1-L7_Submarine_Cable_Amplifier_Sync** — undersea repeaters juggle dispersion maps so pulses arrive aligned across oceans.
+- **S2-L7_Lab_Bragg_Grating_Spool** — engineers tune matched gratings and fiber spools to flatten group delay in prototypes.

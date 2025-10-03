@@ -1,5 +1,5 @@
-# O1-L4_Material-Dispersion_Curves — Order Index
-**Definition:** Connects refractive index or stiffness data with how different frequencies accelerate or slow in a medium.
+# C2-L3_Dispersive-Pulse_Management — Class Index
+**Definition:** Focuses on toolkits that stretch, compress, and equalize pulses so they survive dispersive journeys.
 
 ## Overarching Lenses
 
@@ -11,11 +11,11 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Family (L5) — index
-- **F1-L5_Color-Spread-Examples** — translating dispersion curves into visible, audible, and atmospheric separations.
-- **F2-L5_Telecom_Dispersion_Control** — engineering toolkits that reshape pulses before and after a fiber span.
+## Order (L4) — index
+- **O1-L4_Pulse-Stretching_vs_Compression** — pairing stretchers and compressors to keep high-energy pulses healthy.
+- **O2-L4_Dispersion_Compensation_Networks** — chaining equalizers along real links so data stays synchronized.
 
+## Family (L5) — (later)
 ## Genus (L6)
-_(Insert `G*-L6_*` here.)_
-
+_(Insert `G*-L6_*` between Family and Species.)_
 ## Species (L7) — everyday exemplars

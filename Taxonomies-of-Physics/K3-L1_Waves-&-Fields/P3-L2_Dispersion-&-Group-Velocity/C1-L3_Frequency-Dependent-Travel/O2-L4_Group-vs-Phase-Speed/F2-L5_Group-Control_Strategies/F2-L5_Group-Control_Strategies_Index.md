@@ -1,5 +1,5 @@
-# O1-L4_Material-Dispersion_Curves — Order Index
-**Definition:** Connects refractive index or stiffness data with how different frequencies accelerate or slow in a medium.
+# F2-L5_Group-Control_Strategies — Family Index
+**Definition:** Showcases techniques that deliberately slow, speed, or balance group velocity to keep signals usable.
 
 ## Overarching Lenses
 
@@ -11,11 +11,8 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Family (L5) — index
-- **F1-L5_Color-Spread-Examples** — translating dispersion curves into visible, audible, and atmospheric separations.
-- **F2-L5_Telecom_Dispersion_Control** — engineering toolkits that reshape pulses before and after a fiber span.
-
-## Genus (L6)
-_(Insert `G*-L6_*` here.)_
+## Genus (L6) — index
+- **G1-L6_Slow-Light_Demonstrators** — tabletop rigs that make pulses crawl using resonant media or long paths.
+- **G2-L6_Dispersion-Managed_Links** — field systems that stitch compensators into real communication routes.
 
 ## Species (L7) — everyday exemplars
