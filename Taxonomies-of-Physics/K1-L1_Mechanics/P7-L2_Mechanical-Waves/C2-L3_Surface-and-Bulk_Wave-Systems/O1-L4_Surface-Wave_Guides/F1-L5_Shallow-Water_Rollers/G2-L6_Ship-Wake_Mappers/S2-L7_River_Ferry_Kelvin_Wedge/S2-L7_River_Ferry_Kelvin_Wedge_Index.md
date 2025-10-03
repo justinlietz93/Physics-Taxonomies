@@ -1,5 +1,5 @@
-# P7–L2 Mechanical Waves
-**Definition:** Traces how disturbances travel through strings, rods, and materials to move energy.
+# S2-L7_River_Ferry_Kelvin_Wedge — Species Index
+**Definition:** Survey boats trace the V-shaped wake from commuter ferries to see where it erodes riverbanks.
 
 ## Overarching Lenses
 
@@ -11,14 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Class (L3) — index
-- **C1-L3_String-and-Rod-Wave-Motions** — Explain pulses that travel and stand on strings or rods.
-- **C2-L3_Surface-and-Bulk_Wave-Systems** — Guide waves that skim surfaces or cross volumes in everyday materials.
-
-## Order (L4) — (later)
-
-## Family (L5) — (later)
-
-## Genus (L6) — (later)
-
-## Species (L7) — (later)
+## 60–90s Explanation Notes
+- GPS-tagged transects show where wake crests focus, guiding berm reinforcement schedules.
+- Comparing weekday and weekend runs reveals how service frequency alters erosion risk for nearby parks.

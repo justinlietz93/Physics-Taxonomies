@@ -1,5 +1,5 @@
-# P7–L2 Mechanical Waves
-**Definition:** Traces how disturbances travel through strings, rods, and materials to move energy.
+# G1-L6_Seismic-Surface_Clinics — Genus Index
+**Definition:** Field diagnostics that sense Rayleigh waves so towns can brace before shaking peaks.
 
 ## Overarching Lenses
 
@@ -11,14 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Class (L3) — index
-- **C1-L3_String-and-Rod-Wave-Motions** — Explain pulses that travel and stand on strings or rods.
-- **C2-L3_Surface-and-Bulk_Wave-Systems** — Guide waves that skim surfaces or cross volumes in everyday materials.
-
-## Order (L4) — (later)
-
-## Family (L5) — (later)
-
-## Genus (L6) — (later)
-
-## Species (L7) — (later)
+## Species (L7) — everyday exemplars
+- **S1-L7_Urban_Rayleigh_Sensor_Run** — Pop-up arrays along city streets to spot soft-soil amplification.
+- **S2-L7_Stadium_Vibration_Walk** — Engineers pace stadium concourses to locate wave-focusing slabs.

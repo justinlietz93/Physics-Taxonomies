@@ -1,5 +1,5 @@
-# P7–L2 Mechanical Waves
-**Definition:** Traces how disturbances travel through strings, rods, and materials to move energy.
+# S1-L7_Home-Theater_Blockroom_Mockup — Species Index
+**Definition:** Remodelers build a trial wall in a blockroom to compare insulation packages for bass control.
 
 ## Overarching Lenses
 
@@ -11,14 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Class (L3) — index
-- **C1-L3_String-and-Rod-Wave-Motions** — Explain pulses that travel and stand on strings or rods.
-- **C2-L3_Surface-and-Bulk_Wave-Systems** — Guide waves that skim surfaces or cross volumes in everyday materials.
-
-## Order (L4) — (later)
-
-## Family (L5) — (later)
-
-## Genus (L6) — (later)
-
-## Species (L7) — (later)
+## 60–90s Explanation Notes
+- Sweep subwoofers through the wall to measure how studs, insulation, and clips block low-frequency waves.
+- Customers hear before buying, while contractors collect data to justify premium soundproofing packages.

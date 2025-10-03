@@ -1,5 +1,5 @@
-# P7–L2 Mechanical Waves
-**Definition:** Traces how disturbances travel through strings, rods, and materials to move energy.
+# O2-L4_Bulk-Wave_Mapping — Order Index
+**Definition:** Compares body-wave speeds and paths inside solids and fluids so designs avoid damaging resonance.
 
 ## Overarching Lenses
 
@@ -11,14 +11,11 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Class (L3) — index
-- **C1-L3_String-and-Rod-Wave-Motions** — Explain pulses that travel and stand on strings or rods.
-- **C2-L3_Surface-and-Bulk_Wave-Systems** — Guide waves that skim surfaces or cross volumes in everyday materials.
+## Family (L5) — index
+- **F1-L5_Longitudinal-vs-Shear_Comparisons** — Bench tests that contrast compression and shear travel times.
+- **F2-L5_Material-Wave_Testbeds** — Full-scale rooms and rigs that tune wave paths through built structures.
 
-## Order (L4) — (later)
+## Genus (L6)
+_(Insert `G*-L6_*` between Family and Species.)_
 
-## Family (L5) — (later)
-
-## Genus (L6) — (later)
-
-## Species (L7) — (later)
+## Species (L7) — everyday exemplars

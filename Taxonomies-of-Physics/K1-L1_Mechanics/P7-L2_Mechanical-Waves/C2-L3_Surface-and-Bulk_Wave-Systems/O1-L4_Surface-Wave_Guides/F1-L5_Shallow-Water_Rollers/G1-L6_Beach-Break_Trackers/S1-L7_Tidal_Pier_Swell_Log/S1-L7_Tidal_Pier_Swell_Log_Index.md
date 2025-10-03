@@ -1,5 +1,5 @@
-# P7–L2 Mechanical Waves
-**Definition:** Traces how disturbances travel through strings, rods, and materials to move energy.
+# S1-L7_Tidal_Pier_Swell_Log — Species Index
+**Definition:** A volunteer keeps a tide-and-swell diary beside a fishing pier to see when waves overtop the deck.
 
 ## Overarching Lenses
 
@@ -11,14 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Class (L3) — index
-- **C1-L3_String-and-Rod-Wave-Motions** — Explain pulses that travel and stand on strings or rods.
-- **C2-L3_Surface-and-Bulk_Wave-Systems** — Guide waves that skim surfaces or cross volumes in everyday materials.
-
-## Order (L4) — (later)
-
-## Family (L5) — (later)
-
-## Genus (L6) — (later)
-
-## Species (L7) — (later)
+## 60–90s Explanation Notes
+- Mark tide height, breaker height, and bar position each visit to predict splash risk for weekend crowds.
+- Photos and notes feed into city maintenance meetings so crews know when to reshuffle sand or add rails.

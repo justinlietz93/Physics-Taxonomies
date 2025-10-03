@@ -1,5 +1,5 @@
-# P7–L2 Mechanical Waves
-**Definition:** Traces how disturbances travel through strings, rods, and materials to move energy.
+# F1-L5_Shallow-Water_Rollers — Family Index
+**Definition:** Looks at shoreline setups that reshape slow, depth-sensitive waves for safer coasts and harbors.
 
 ## Overarching Lenses
 
@@ -11,14 +11,8 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Class (L3) — index
-- **C1-L3_String-and-Rod-Wave-Motions** — Explain pulses that travel and stand on strings or rods.
-- **C2-L3_Surface-and-Bulk_Wave-Systems** — Guide waves that skim surfaces or cross volumes in everyday materials.
+## Genus (L6) — index
+- **G1-L6_Beach-Break_Trackers** — Survey sandbar shapes to calm breakers near swimmers and piers.
+- **G2-L6_Ship-Wake_Mappers** — Map vessel wakes so marinas can tune walls and channels to reduce slap.
 
-## Order (L4) — (later)
-
-## Family (L5) — (later)
-
-## Genus (L6) — (later)
-
-## Species (L7) — (later)
+## Species (L7) — everyday exemplars

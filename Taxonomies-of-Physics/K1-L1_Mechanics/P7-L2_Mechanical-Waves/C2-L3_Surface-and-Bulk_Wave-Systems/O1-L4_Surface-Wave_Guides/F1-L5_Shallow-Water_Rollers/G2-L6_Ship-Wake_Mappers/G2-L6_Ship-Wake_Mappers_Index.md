@@ -1,5 +1,5 @@
-# P7–L2 Mechanical Waves
-**Definition:** Traces how disturbances travel through strings, rods, and materials to move energy.
+# G2-L6_Ship-Wake_Mappers — Genus Index
+**Definition:** Captures how boat traffic stirs harbors so planners can size walls, channels, and speed limits.
 
 ## Overarching Lenses
 
@@ -11,14 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Class (L3) — index
-- **C1-L3_String-and-Rod-Wave-Motions** — Explain pulses that travel and stand on strings or rods.
-- **C2-L3_Surface-and-Bulk_Wave-Systems** — Guide waves that skim surfaces or cross volumes in everyday materials.
-
-## Order (L4) — (later)
-
-## Family (L5) — (later)
-
-## Genus (L6) — (later)
-
-## Species (L7) — (later)
+## Species (L7) — everyday exemplars
+- **S1-L7_Marina_Wake_Diary** — Dock staff log wake heights to adjust slow-zone signs.
+- **S2-L7_River_Ferry_Kelvin_Wedge** — City teams survey ferry wakes to reshape riverbank berms.

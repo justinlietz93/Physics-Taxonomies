@@ -1,5 +1,5 @@
-# P7–L2 Mechanical Waves
-**Definition:** Traces how disturbances travel through strings, rods, and materials to move energy.
+# F2-L5_Material-Wave_Testbeds — Family Index
+**Definition:** Full-scale rooms and rigs that steer body waves through structures to quiet noise or vibration.
 
 ## Overarching Lenses
 
@@ -11,14 +11,8 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Class (L3) — index
-- **C1-L3_String-and-Rod-Wave-Motions** — Explain pulses that travel and stand on strings or rods.
-- **C2-L3_Surface-and-Bulk_Wave-Systems** — Guide waves that skim surfaces or cross volumes in everyday materials.
+## Genus (L6) — index
+- **G1-L6_Acoustic_Blockrooms** — Facilities that measure how materials soak up booming sound.
+- **G2-L6_Vibration-Isolation_Rigs** — Platforms that choreograph bulk waves to shield sensitive gear.
 
-## Order (L4) — (later)
-
-## Family (L5) — (later)
-
-## Genus (L6) — (later)
-
-## Species (L7) — (later)
+## Species (L7) — everyday exemplars

@@ -1,5 +1,5 @@
-# P7–L2 Mechanical Waves
-**Definition:** Traces how disturbances travel through strings, rods, and materials to move energy.
+# G2-L6_Plate-Wave_Test_Beds — Genus Index
+**Definition:** Lab rigs that drive Love-like plate waves to refine sensors, adhesives, and thin-structure models.
 
 ## Overarching Lenses
 
@@ -11,14 +11,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Class (L3) — index
-- **C1-L3_String-and-Rod-Wave-Motions** — Explain pulses that travel and stand on strings or rods.
-- **C2-L3_Surface-and-Bulk_Wave-Systems** — Guide waves that skim surfaces or cross volumes in everyday materials.
-
-## Order (L4) — (later)
-
-## Family (L5) — (later)
-
-## Genus (L6) — (later)
-
-## Species (L7) — (later)
+## Species (L7) — everyday exemplars
+- **S1-L7_Factory_Floor_Plate_Scan** — Maintenance teams excite flooring panels to map delamination spots.
+- **S2-L7_Lab_Love-Wave_Strip** — Researchers tune adhesive strips on a bench-top Love-wave sensor kit.
