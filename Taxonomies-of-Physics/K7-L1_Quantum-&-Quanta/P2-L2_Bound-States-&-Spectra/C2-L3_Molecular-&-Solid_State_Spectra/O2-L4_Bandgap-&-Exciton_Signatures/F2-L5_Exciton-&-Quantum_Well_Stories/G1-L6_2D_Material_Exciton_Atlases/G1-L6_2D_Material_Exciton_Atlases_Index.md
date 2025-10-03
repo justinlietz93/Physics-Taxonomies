@@ -1,5 +1,5 @@
-# K7–L1 Quantum & Quanta
-**Definition:** The staircase world where energy, momentum, and information come in discrete packets that reshape how matter behaves.
+# G1-L6_2D_Material_Exciton_Atlases — Genus Index
+**Definition:** Catalogs of exciton resonances in monolayer semiconductors for sensing and optoelectronics.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,11 +10,6 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Phyla (L2) — index
-- P1-L2_Foundations-&-Postulates — core rules for quantum states, measurement, and uncertainty.
-- P2-L2_Bound-States-&-Spectra — discrete energy levels that color atoms, molecules, and devices.
-## Native questions
-- How do we describe a system when outcomes are inherently probabilistic?
-- What do discrete energy ladders reveal about atoms, lasers, and nanoscale devices?
-## Everyday anchors
-- Single-photon labs, MRI magnets, LED color bins, quantum key demos, superconducting qubits, scanning tunneling microscopes.
+## Species (L7) — everyday exemplars
+- S1-L7_Lab_TMDC_Exciton_Map_Build — researchers map excitons in transition metal dichalcogenides.
+- S2-L7_Strain-Tunable_Exciton_Sensor_Pilot — startups prototype strain sensors using exciton shifts.

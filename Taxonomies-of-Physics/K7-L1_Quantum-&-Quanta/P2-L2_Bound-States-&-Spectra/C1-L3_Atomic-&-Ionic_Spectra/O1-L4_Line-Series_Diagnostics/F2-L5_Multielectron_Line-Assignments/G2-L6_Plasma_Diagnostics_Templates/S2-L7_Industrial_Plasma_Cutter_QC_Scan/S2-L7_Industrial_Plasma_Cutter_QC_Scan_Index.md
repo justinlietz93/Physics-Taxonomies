@@ -1,5 +1,5 @@
-# K7–L1 Quantum & Quanta
-**Definition:** The staircase world where energy, momentum, and information come in discrete packets that reshape how matter behaves.
+# S2-L7_Industrial_Plasma_Cutter_QC_Scan — Species Index
+**Definition:** Factory technicians monitor plasma cutter emission lines to keep cuts clean and consumables healthy.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,11 +10,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Phyla (L2) — index
-- P1-L2_Foundations-&-Postulates — core rules for quantum states, measurement, and uncertainty.
-- P2-L2_Bound-States-&-Spectra — discrete energy levels that color atoms, molecules, and devices.
-## Native questions
-- How do we describe a system when outcomes are inherently probabilistic?
-- What do discrete energy ladders reveal about atoms, lasers, and nanoscale devices?
-## Everyday anchors
-- Single-photon labs, MRI magnets, LED color bins, quantum key demos, superconducting qubits, scanning tunneling microscopes.
+## 60–90s Explanation Notes
+- Link the color shift to electrode wear and gas purity.
+- Note how keeping spectra within range avoids scrap metal waste.
+- Frame the measurement as a quick, non-contact quality check.

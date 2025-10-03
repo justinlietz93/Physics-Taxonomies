@@ -1,5 +1,5 @@
-# K7–L1 Quantum & Quanta
-**Definition:** The staircase world where energy, momentum, and information come in discrete packets that reshape how matter behaves.
+# O2-L4_Wireless_Power-&-Charging — Order Index
+**Definition:** Pair coils and resonators so energy leaps gaps safely for chargers and autonomous gear.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,11 +10,8 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Phyla (L2) — index
-- P1-L2_Foundations-&-Postulates — core rules for quantum states, measurement, and uncertainty.
-- P2-L2_Bound-States-&-Spectra — discrete energy levels that color atoms, molecules, and devices.
-## Native questions
-- How do we describe a system when outcomes are inherently probabilistic?
-- What do discrete energy ladders reveal about atoms, lasers, and nanoscale devices?
-## Everyday anchors
-- Single-photon labs, MRI magnets, LED color bins, quantum key demos, superconducting qubits, scanning tunneling microscopes.
+## Family (L5) — index
+- F1-L5_Near-Field_Couplers — tightly coupled pads and cradles for everyday devices.
+- F2-L5_Mid-Range_Power_Links — resonant couplers that deliver watts over larger gaps.
+## Genus (L6)
+## Species (L7) — everyday exemplars

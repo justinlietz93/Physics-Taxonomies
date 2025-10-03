@@ -1,5 +1,5 @@
-# K7–L1 Quantum & Quanta
-**Definition:** The staircase world where energy, momentum, and information come in discrete packets that reshape how matter behaves.
+# F1-L5_Transformer_Energy_Shuttles — Family Index
+**Definition:** Configure transformer windings, cores, and cooling so voltage conversion stays safe and efficient.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,11 +10,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Phyla (L2) — index
-- P1-L2_Foundations-&-Postulates — core rules for quantum states, measurement, and uncertainty.
-- P2-L2_Bound-States-&-Spectra — discrete energy levels that color atoms, molecules, and devices.
-## Native questions
-- How do we describe a system when outcomes are inherently probabilistic?
-- What do discrete energy ladders reveal about atoms, lasers, and nanoscale devices?
-## Everyday anchors
-- Single-photon labs, MRI magnets, LED color bins, quantum key demos, superconducting qubits, scanning tunneling microscopes.
+## Genus (L6) — index
+- G1-L6_Step-Down_Service_Plans — practical checklists for low-voltage distribution units.
+- G2-L6_Core-Loss_Optimization — strategies that trim magnetization losses for continuous duty.
+## Species (L7) — everyday exemplars

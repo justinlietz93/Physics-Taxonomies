@@ -1,5 +1,5 @@
-# K7–L1 Quantum & Quanta
-**Definition:** The staircase world where energy, momentum, and information come in discrete packets that reshape how matter behaves.
+# C2-L3_Molecular-&-Solid_State_Spectra — Class Index
+**Definition:** How molecules and crystals reveal quantized vibrations and bandgaps through infrared, Raman, and optical probes.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -10,11 +10,9 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Phyla (L2) — index
-- P1-L2_Foundations-&-Postulates — core rules for quantum states, measurement, and uncertainty.
-- P2-L2_Bound-States-&-Spectra — discrete energy levels that color atoms, molecules, and devices.
-## Native questions
-- How do we describe a system when outcomes are inherently probabilistic?
-- What do discrete energy ladders reveal about atoms, lasers, and nanoscale devices?
-## Everyday anchors
-- Single-photon labs, MRI magnets, LED color bins, quantum key demos, superconducting qubits, scanning tunneling microscopes.
+## Order (L4) — index
+- O1-L4_Vibrational-&-Rotational_Bands — tracking molecule fingerprints in infrared and microwave ranges.
+- O2-L4_Bandgap-&-Exciton_Signatures — mapping solid-state energy gaps and excitons for devices.
+## Family (L5) — (later)
+## Genus (L6)
+## Species (L7) — everyday exemplars

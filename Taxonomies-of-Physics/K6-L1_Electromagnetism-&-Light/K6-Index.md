@@ -13,8 +13,10 @@
 ## Phyla (L2) — index
 - P1-L2_Electrostatics-&-Potentials — how fixed charges build fields and stored energy.
 - P2-L2_Magnetostatics-&-Steady-Currents — how steady currents shape magnetic forces and circuits.
+- P3-L2_Electrodynamics-&-Induction — how changing fields move energy and spark voltage on demand.
 ## Native questions
 - How do charges rearrange to balance forces or store energy in familiar gear?
 - When do steady currents tug, twist, or align tools around us?
+- How do changing magnetic fields move power between coils, rooms, and satellites?
 ## Everyday anchors
-- Balloon-on-wall stick tests, lightning rods, fridge magnets, speaker coils, factory power rails, magnetic phone mounts.
+- Balloon-on-wall stick tests, lightning rods, fridge magnets, speaker coils, factory power rails, magnetic phone mounts, induction cooktops, transformers, wireless charging pads, maglev stations.
