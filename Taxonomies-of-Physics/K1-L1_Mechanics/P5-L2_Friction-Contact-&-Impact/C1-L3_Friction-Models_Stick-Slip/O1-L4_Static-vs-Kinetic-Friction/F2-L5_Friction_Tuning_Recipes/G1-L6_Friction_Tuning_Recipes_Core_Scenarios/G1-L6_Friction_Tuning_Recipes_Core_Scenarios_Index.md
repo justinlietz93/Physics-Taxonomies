@@ -1,5 +1,5 @@
 # G1-L6_Friction_Tuning_Recipes_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for friction tuning recipes.
+**Definition:** Spotlights staple lab and shop setups for dialing in friction before full product trials.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Workbench-Slipmat_Swap — rotate liners to feel how surface swaps nudge static friction thresholds.
+- S2-L7_Robot-Gripper_Regrip-Drill — cycle gripper pad inserts to lock in repeatable grip without crushing parts.

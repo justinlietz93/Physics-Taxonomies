@@ -1,5 +1,5 @@
 # G2-L6_Impact_Testing_Methods_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for impact testing methods.
+**Definition:** Bundles specialized gear and workflows so teams can deploy impact testing outside flagship labs.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Auto-CrashLab_Field-Pack — portable sleds and sensors for on-site vehicle impact recreations.
+- S2-L7_Sports-Helmet_Cert-Kit — turnkey certification rigs for helmet makers and league auditors.

@@ -1,5 +1,5 @@
 # G1-L6_Dynamic_and_Anisotropic_Metrics_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for dynamic and anisotropic metrics.
+**Definition:** Captures go-to observations where rotating or evolving masses reveal spacetime anisotropy in real data streams.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Frame-Dragging_Ring-Laser_Array** — Ring lasers watch Earth’s frame-dragging twist inertial axes just like a Kerr spacetime.
+- **S2-L7_Binary_Pulsar_Timing_Campaign** — Timing teams track pulse shifts that map the anisotropic metric of a tight binary pair.

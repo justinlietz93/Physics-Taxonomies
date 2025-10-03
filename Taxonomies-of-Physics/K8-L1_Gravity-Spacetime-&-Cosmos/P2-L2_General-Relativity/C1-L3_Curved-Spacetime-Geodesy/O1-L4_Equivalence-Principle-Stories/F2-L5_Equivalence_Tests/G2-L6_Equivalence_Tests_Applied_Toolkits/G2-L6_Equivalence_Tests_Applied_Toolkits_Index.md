@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Drop-Tower_Equivalence-Kit — portable rigs standardize release-and-measure runs for classroom free-fall tests.
+- S2-L7_Mobile-Coriolis_Demo-Pack — rolling carts let facilitators stage rotating-frame illusions to compare with gravity labs.

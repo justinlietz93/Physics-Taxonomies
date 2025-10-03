@@ -1,5 +1,5 @@
 # G2-L6_Dynamic_and_Anisotropic_Metrics_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for dynamic and anisotropic metrics.
+**Definition:** Bundles ready-to-run kits that help labs and outreach crews demonstrate rotating or evolving spacetime effects.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Kerr_Frame-Drag_Simulator_Kit** — Portable exhibits let visitors feel how Kerr frame-dragging steers probe trajectories.
+- **S2-L7_Anisotropic_Lensing_Map_Toolset** — Survey software turns distorted galaxy arcs into shareable anisotropic metric maps.

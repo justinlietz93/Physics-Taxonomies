@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_GPS-Shapiro_Delay-Run — navigation teams log solar-grazing signal slowdowns to confirm curved light geodesics.
+- S2-L7_Pulsar-Timing_Light-Check — radio arrays watch pulses lag through binary eclipses to map spacetime detours.

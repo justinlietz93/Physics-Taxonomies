@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Modular-Fixture_Squareness-Kit — travel set keeps modular fixtures square on any machine base.
+- S2-L7_Portable-CMM_Verification-Pack — field pack verifies portable CMM accuracy before inspection runs.

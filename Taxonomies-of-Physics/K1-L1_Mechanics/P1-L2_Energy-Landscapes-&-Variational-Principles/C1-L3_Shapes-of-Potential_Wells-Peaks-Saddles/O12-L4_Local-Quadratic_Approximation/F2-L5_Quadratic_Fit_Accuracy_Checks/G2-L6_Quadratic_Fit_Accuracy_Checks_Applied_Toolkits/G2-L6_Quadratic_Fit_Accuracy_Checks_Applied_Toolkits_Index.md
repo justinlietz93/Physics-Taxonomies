@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Test-Stand_Quadratic-Residual-Kit — toolkit benchmarks quadratic-fit residuals on lab stands.
+- S2-L7_Field-Sensor_Quadratic-Drift-Pouch — pouch keeps field crews honest about quadratic fit drift.

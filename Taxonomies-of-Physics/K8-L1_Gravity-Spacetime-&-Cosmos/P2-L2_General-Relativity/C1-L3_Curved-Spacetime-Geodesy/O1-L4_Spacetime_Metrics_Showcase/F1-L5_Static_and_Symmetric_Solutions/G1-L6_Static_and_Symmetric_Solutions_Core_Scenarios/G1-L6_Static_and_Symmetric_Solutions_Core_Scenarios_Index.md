@@ -1,5 +1,5 @@
 # G1-L6_Static_and_Symmetric_Solutions_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for static and symmetric solutions.
+**Definition:** Tracks how spherical, time-independent metrics guide real navigation and ranging routines.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_GPS_Clock_Gravity-Shift_Tuning** — Satellite ops teams preload Schwarzschild time offsets before launching GPS clocks.
+- **S2-L7_Lunar_Laser_Schwarzschild-Range_Campaign** — Lunar ranging crews fold static-metric timing corrections into nightly distance plots.

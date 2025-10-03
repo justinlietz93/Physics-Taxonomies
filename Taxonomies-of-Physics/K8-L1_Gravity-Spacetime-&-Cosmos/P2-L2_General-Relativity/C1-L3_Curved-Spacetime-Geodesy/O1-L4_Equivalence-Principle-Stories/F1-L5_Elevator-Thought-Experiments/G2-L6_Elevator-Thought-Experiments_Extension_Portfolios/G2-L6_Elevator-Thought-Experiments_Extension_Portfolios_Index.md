@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Elevator_Light-Beam_Bending-Skit — staged laser arcs make curvature of light feel as real as a falling apple.
+- S2-L7_Elevator_Gravity-Gradient_Simulator — spring-coupled props reveal tidal stretching inside “weightless” labs.

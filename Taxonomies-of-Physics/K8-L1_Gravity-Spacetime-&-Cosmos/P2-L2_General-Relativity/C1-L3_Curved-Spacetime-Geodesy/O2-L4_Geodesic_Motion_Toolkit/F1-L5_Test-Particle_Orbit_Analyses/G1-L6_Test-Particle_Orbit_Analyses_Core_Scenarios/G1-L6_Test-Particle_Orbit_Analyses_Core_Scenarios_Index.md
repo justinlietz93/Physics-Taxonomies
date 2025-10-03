@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Mercury_Perihelion-Shift_Run — long-baseline observations expose the extra GR precession in the innermost planet’s path.
+- S2-L7_SgrA-Star_Orbit_Campaign — infrared tracking of galactic-center stars reveals relativistic swings near a black hole.

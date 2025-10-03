@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Elevator-Freefall_Equivalence-Demo — free-fall cabins let students feel weightlessness matching orbiting labs.
+- S2-L7_Centrifuge_Local-Gravity_Trial — spinning pods swap acceleration for gravity so crews can rehearse Einstein’s insight.

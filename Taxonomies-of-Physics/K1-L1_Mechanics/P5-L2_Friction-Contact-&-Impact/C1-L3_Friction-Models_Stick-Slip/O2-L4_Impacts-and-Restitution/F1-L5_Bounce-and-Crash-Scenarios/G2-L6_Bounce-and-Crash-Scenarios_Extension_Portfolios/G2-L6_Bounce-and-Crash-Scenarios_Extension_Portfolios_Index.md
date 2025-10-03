@@ -1,5 +1,5 @@
 # G2-L6_Bounce-and-Crash-Scenarios_Extension_Portfolios — Genus Index
-**Definition:** Maps extension portfolios surrounding bounce-and-crash-scenarios.
+**Definition:** Extends impact-and-bounce stories into applied playbooks that stress-test safety margins.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Roller-Coaster_Test-Drop — validate coaster rebounds with instrumented pre-opening drops.
+- S2-L7_Laptop-Drop_Padding-Check — iterate corner padding to absorb shocks without damage.

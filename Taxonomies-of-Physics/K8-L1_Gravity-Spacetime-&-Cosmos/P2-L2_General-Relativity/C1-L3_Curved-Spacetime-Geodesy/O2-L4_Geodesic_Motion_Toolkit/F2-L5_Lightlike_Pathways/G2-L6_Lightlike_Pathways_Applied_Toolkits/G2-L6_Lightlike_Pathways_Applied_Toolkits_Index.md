@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Lensing-Survey_Imaging-Pack — observatories deploy matched cameras and calibration lasers to chart lensed arcs.
+- S2-L7_Deep-Space_Network_Light-Delay_Kit — deep-space ops sync masers and scripts to decode relativistic telecom lag.

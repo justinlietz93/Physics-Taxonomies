@@ -1,5 +1,5 @@
 # G1-L6_Impact_Testing_Methods_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for impact testing methods.
+**Definition:** Covers foundational lab setups for measuring impact response before specialized add-ons.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Pendulum-Impact_Test-Rig — swing-and-strike rigs translating height into precise impact energy.
+- S2-L7_Drop-Tower_Sample-Line — automated drops charting failure thresholds across production batches.

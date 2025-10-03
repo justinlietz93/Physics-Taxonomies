@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Lab-Drop_Quadratic-Fit_Audit — replay drop data to see when quadratic motion no longer holds.
+- S2-L7_Beam-Deflection_Quadratic-Check — compare measured beam curves to a quadratic approximation.
