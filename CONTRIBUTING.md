@@ -42,7 +42,7 @@ This repository reimagines physics as a **7-level biological taxonomy**, organiz
 - **Plain English** explanations
 - **Everyday analogies** and examples
 - **Hierarchical organization** that shows relationships
-- **No equations** - focus on conceptual understanding
+- **No equations initially** - focus on conceptual understanding (equations will be added later per AGENTS.md section 8)
 
 ### Taxonomy Structure
 
@@ -98,7 +98,7 @@ K6-L1_Electromagnetism-&-Light/
 - **Be conversational** - write like you're explaining to a curious friend
 - **Use everyday examples** - bicycles, smartphones, cooking, weather
 - **Avoid jargon** - or explain it naturally when unavoidable
-- **No equations** - focus on the "what" and "why," not the "how to calculate"
+- **No equations initially** - focus on the "what" and "why," not the "how to calculate" (equations will be added in future phases per AGENTS.md section 8)
 - **Be brief** - respect the length limits (see STANDARDS.md)
 
 #### Good Example (Species Level)
@@ -268,7 +268,7 @@ checklist = {
     "utf8_encoding": True,  # Ensure UTF-8
     "lf_endings": all(line.endswith('\n') for line in lines),
     "trailing_newline": content.endswith('\n'),
-    "no_equations": not has_equations(content),
+    "no_equations": not has_equations(content),  # For now - will change per AGENTS.md section 8
 }
 ```
 
@@ -335,7 +335,7 @@ Before submitting:
 - [ ] Definitions are plain English, within length limits
 - [ ] Overarching Lenses block present (L1-L6)
 - [ ] Parent indices updated with new children
-- [ ] No equations in content
+- [ ] No equations in content (for now - see AGENTS.md section 8 for future timeline)
 - [ ] ASCII characters only
 - [ ] Commit messages follow conventional format
 - [ ] No trailing whitespace
@@ -350,7 +350,7 @@ Before submitting:
 **Good indicators:**
 - YES: A high school student can understand it
 - YES: Uses concrete, everyday examples
-- YES: Explains "what" and "why" without equations
+- YES: Explains "what" and "why" without equations (for now)
 - YES: Builds on established metaphors
 - YES: Respects length limits
 - YES: Fits naturally in the hierarchy
@@ -359,7 +359,7 @@ Before submitting:
 - WARNING: Requires physics degree to understand
 - WARNING: Abstract with no examples
 - WARNING: Heavy use of technical jargon
-- WARNING: Mathematical notation or equations
+- WARNING: Mathematical notation or equations (not yet allowed - see AGENTS.md section 8)
 - WARNING: Overly long or overly terse
 - WARNING: Doesn't relate to parent concepts
 
@@ -409,7 +409,7 @@ If you're unsure about:
 ### Common Questions
 
 **Q: Can I add equations or formulas?**  
-A: No. This project focuses on conceptual understanding without mathematics. Equations belong in linked resources or appendices, not in the taxonomy entries.
+A: Not yet. Initially, this project focuses on conceptual understanding without mathematics. However, per AGENTS.md section 8, equations will be allowed in the future once all folders (except Species) have at least 2 subfolders, and all Species folders have at least 2 file exemplars. At that point, commonly used equations specific to each tier will be added to index files. Until then, equations belong in linked resources or appendices, not in the taxonomy entries.
 
 **Q: What if a concept doesn't fit the hierarchy?**  
 A: Open an issue to discuss. The taxonomy is flexible and can evolve. Cross-references are okay.
