@@ -13,5 +13,6 @@
 
 ## Genus (L6) — index
 - **G1-L6_Playground-and-Bridge-Resonances** — Swings and bridges reacting to rhythmic pushes.
+- **G2-L6_Precision-Actuator_Response** — Instrument shakers tuned to stay stable through resonance.
 
 ## Species (L7) — everyday exemplars

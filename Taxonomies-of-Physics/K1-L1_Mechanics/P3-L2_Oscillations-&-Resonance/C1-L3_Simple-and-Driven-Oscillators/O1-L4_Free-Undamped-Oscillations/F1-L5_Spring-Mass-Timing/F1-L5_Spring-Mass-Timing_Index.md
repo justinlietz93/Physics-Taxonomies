@@ -13,5 +13,6 @@
 
 ## Genus (L6) — index
 - **G1-L6_Block-and-Spring-Cycles** — Bench springs and hinges showing smooth cycles.
+- **G2-L6_Pendulum-Period_Checks** — Timing swings that expose how length and gravity tune the beat.
 
 ## Species (L7) — everyday exemplars

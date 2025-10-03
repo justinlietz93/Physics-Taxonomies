@@ -12,6 +12,7 @@
 
 ## Family (L5) — index
 - F1-L5_Surface-Control-Techniques — practical tricks to tame or delay separation.
+- F2-L5_Transition-Delay_Devices — passive add-ons that stretch the calm region before turbulence erupts.
 
 ## Genus (L6)
 _(Insert `G*-L6_*` here.)_
