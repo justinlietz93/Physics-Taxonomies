@@ -12,6 +12,7 @@
 
 ## Class (L3) — index
 - C1-L3_Supersonic-Patterns — Mach cones, expansions, and shock fans that reorganize fast flows.
+- **C2-L3_Shock_Formation-and_Propagation** — studies how shocks form, travel, and get controlled.
 
 ## Order (L4) — (later)
 ## Family (L5) — (later)

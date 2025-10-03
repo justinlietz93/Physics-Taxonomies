@@ -13,6 +13,7 @@
 
 ## Class (L3) — index
 - **C1-L3_Viscoelastic-Response_Flows** — Show how gels and pastes mix springy and syrupy behavior.
+- **C2-L3_Microstructure_Response-&-Flow** — relates soft microstructures to squish-and-flow responses.
 
 ## Order (L4) — (later)
 

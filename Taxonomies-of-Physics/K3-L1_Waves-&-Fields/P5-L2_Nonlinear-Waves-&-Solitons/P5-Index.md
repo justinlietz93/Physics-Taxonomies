@@ -13,6 +13,7 @@
 
 ## Class (L3) — index
 - **C1-L3_Wave-Steepening-&-Self-Shaping** — how nonlinear effects sharpen or stabilize traveling waves.
+- **C2-L3_Energy-Focusing_and_Soliton_Control** — explores how nonlinear media focus energy or spawn solitons.
 
 ## Order (L4) — (later)
 ## Family (L5) — (later)

@@ -11,8 +11,8 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Class (L3) — index
-- C1-L3_Uncertainty-Budgets-&-Propagation — combining errors from instruments, models, and statistics transparently.
-- C2-L3_Experimental-Workflow-Design — planning sequences, controls, and documentation for defensible conclusions.
+- **C1-L3_Measurement_Strategy-&-Uncertainty** — plans measurements to manage uncertainty and sensitivity.
+- **C2-L3_Instrumentation_Calibration-&-Traceability** — keeps instruments calibrated and traceable over time.
 ## Order (L4) — (later)
 ## Family (L5) — (later)
 ## Genus (L6) — (later)

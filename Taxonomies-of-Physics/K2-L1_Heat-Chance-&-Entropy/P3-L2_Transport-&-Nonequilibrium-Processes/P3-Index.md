@@ -13,6 +13,7 @@
 
 ## Class (L3) — index
 - **C1-L3_Fluxes-Gradients-&-Response** — linking driving gradients to resulting flows.
+- **C2-L3_Flows_Driving-Forces-&-Couplings** — maps coupled flux laws that push heat, particles, and momentum together.
 
 ## Order (L4) — (later)
 ## Family (L5) — (later)

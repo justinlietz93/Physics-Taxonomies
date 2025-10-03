@@ -12,6 +12,7 @@
 
 ## Class (L3) — index
 - C1-L3_Wave-Sources-and-Signatures — what systems radiate gravity waves and how the signals look.
+- **C2-L3_Sources_Detectors-and_Data** — connects gravitational-wave sources to the detectors that catch them.
 ## Order (L4) — (later)
 ## Family (L5) — (later)
 ## Genus (L6) — (later)

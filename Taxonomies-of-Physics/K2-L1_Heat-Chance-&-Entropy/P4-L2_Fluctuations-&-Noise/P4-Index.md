@@ -13,6 +13,7 @@
 
 ## Class (L3) — index
 - **C1-L3_Stochastic-Processes-&-Brownian-Motion** — modeling random forces, walks, and spectra.
+- **C2-L3_Stochastic_Drivers-&-Filtering** — surveys noise sources and the filters that tame or exploit them.
 
 ## Order (L4) — (later)
 ## Family (L5) — (later)

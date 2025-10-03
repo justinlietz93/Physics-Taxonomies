@@ -13,6 +13,7 @@
 
 ## Class (L3) — index
 - **C1-L3_Topological-Order_Edge-Modes** — Explain why edge channels stay conducting even when bulk is insulating.
+- **C2-L3_Protected_Edges-&-Quasiparticles** — highlights boundary states and exotic quasiparticles protected by topology.
 
 ## Order (L4) — (later)
 

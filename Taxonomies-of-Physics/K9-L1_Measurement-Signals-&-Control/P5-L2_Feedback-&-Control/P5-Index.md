@@ -11,8 +11,8 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Class (L3) — index
-- C1-L3_Control-Stability-Basics — balancing feedback strength with dynamics to avoid oscillation.
-- C2-L3_Advanced-Control-Architectures — layering feedforward, adaptive, and robust strategies for tougher plants.
+- **C1-L3_Control_Loops-and_Stability-Design** — designs feedback loop structures for stability and response.
+- **C2-L3_Implementation_Sensors-&-Actuators** — focuses on sensors and actuators that close control loops.
 ## Order (L4) — (later)
 ## Family (L5) — (later)
 ## Genus (L6) — (later)

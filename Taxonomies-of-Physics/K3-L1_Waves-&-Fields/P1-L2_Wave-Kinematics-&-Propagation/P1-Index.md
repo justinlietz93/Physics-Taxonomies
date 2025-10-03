@@ -13,6 +13,7 @@
 
 ## Class (L3) — index
 - **C1-L3_Traveling-Wave-Kinematics** — amplitude, wavelength, and phase speed relationships in uniform media.
+- **C2-L3_Media-Dependent_Wave-Speeds-&-Impedance** — shows how material properties set wave speed, impedance, and refraction.
 
 ## Order (L4) — (later)
 ## Family (L5) — (later)

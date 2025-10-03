@@ -13,6 +13,7 @@
 
 ## Class (L3) — index
 - **C1-L3_Order-Parameters_Landau-Views** — Describe how order grows, melts, or fluctuates at transitions.
+- **C2-L3_Symmetry_Breaking_Paths-&-Textures** — follows how order parameters form domains and textures.
 
 ## Order (L4) — (later)
 

@@ -13,6 +13,7 @@
 
 ## Class (L3) — index
 - **C1-L3_Superposition-Patterns** — phase differences shaping stripes, spots, and quiet zones.
+- **C2-L3_Coherence_Sources-&-Detection** — keeps interference sharp by controlling sources and reading fringes.
 
 ## Order (L4) — (later)
 ## Family (L5) — (later)

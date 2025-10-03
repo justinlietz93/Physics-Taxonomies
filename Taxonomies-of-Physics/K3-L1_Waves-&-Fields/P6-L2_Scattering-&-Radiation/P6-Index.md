@@ -13,6 +13,7 @@
 
 ## Class (L3) — index
 - **C1-L3_Source-Patterns-&-Emission** — comparing dipoles, beams, and scattered wave signatures.
+- **C2-L3_Cross-Sections_Sources-&-Detectors** — links emitters, targets, and detectors through scattering signatures.
 
 ## Order (L4) — (later)
 ## Family (L5) — (later)

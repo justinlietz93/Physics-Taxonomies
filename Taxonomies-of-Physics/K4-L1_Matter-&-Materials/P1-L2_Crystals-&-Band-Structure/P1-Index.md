@@ -13,6 +13,7 @@
 
 ## Class (L3) — index
 - C1-L3_Lattice-Structure-&-Symmetry — map how atoms tile space and how waves sample that order.
+- **C2-L3_Electron_Dynamics_in_Periodic-Media** — tracks charge carriers reacting to bands and external fields.
 
 ## Order (L4) — (later)
 ## Family (L5) — (later)

@@ -12,6 +12,7 @@
 
 ## Class (L3) — index
 - C1-L3_Stellar-Remnant-Structure — balancing gravity and quantum pressure in dead stars.
+- **C2-L3_Accretion_Bursts-and_Magnetic-Funnels** — looks at accretion flows and outbursts around dense objects.
 ## Order (L4) — (later)
 ## Family (L5) — (later)
 ## Genus (L6) — (later)

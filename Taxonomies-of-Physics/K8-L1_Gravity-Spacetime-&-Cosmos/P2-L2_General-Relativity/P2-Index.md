@@ -12,6 +12,7 @@
 
 ## Class (L3) — index
 - C1-L3_Curved-Spacetime-Geodesy — geodesics, curvature, and how free fall follows the shape of spacetime.
+- **C2-L3_Spacetime_Solutions-and_Geodesics** — catalogs key metrics and how paths curve through them.
 ## Order (L4) — (later)
 ## Family (L5) — (later)
 ## Genus (L6) — (later)
