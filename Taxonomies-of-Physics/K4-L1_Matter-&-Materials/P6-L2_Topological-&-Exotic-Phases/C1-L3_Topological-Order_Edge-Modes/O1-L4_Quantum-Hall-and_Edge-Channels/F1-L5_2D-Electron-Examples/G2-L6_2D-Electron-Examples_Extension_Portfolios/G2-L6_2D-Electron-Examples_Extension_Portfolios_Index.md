@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_2D-Electron-Examples_Everyday_Snapshot — A weekend hike prep that makes 2d electron examples extension portfolios feel hands-on.
+- S2-L7_2D-Electron-Examples_Applied_Field_Kit — A DIY repair night turning 2d electron examples extension portfolios into a team-ready playbook.

@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Domain-Growth-Coarsening_Everyday_Snapshot — A garden hose balance drill that makes domain growth and coarsening applied feel hands-on.
+- S2-L7_Domain-Growth-Coarsening_Applied_Field_Kit — A studio rehearsal turning domain growth and coarsening applied into a team-ready playbook.

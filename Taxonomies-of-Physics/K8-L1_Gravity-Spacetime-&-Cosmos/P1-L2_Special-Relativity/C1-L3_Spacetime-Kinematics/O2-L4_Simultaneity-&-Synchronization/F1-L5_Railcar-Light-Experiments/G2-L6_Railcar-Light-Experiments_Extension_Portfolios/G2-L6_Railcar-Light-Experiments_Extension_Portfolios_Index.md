@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Railcar-Light-Experiments_Everyday_Snapshot — A city traffic light timing that makes railcar light experiments extension portfolios feel hands-on.
+- S2-L7_Railcar-Light-Experiments_Applied_Field_Kit — A school outreach visit turning railcar light experiments extension portfolios into a team-ready playbook.

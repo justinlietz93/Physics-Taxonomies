@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Wave-Interference-Focusing_Everyday_Snapshot — A school science night that makes wave interference and focusing core feel hands-on.
+- S2-L7_Wave-Interference-Focusing_Applied_Field_Kit — A museum floor demo turning wave interference and focusing core into a team-ready playbook.

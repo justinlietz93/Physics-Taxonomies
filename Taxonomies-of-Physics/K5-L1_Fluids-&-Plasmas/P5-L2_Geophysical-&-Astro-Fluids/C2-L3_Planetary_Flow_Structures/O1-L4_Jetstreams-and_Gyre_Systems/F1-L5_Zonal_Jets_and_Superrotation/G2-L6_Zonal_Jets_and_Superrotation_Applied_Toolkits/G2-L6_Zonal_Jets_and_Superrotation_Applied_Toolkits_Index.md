@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Zonal-Jets-Superrotation_Everyday_Snapshot — A local library program that makes zonal jets and superrotation applied feel hands-on.
+- S2-L7_Zonal-Jets-Superrotation_Applied_Field_Kit — A weekend workshop turning zonal jets and superrotation applied into a team-ready playbook.

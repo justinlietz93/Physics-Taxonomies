@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Electromagnetic-Pumps-Generators_Everyday_Snapshot — A garden hose balance drill that makes electromagnetic pumps and generators applied feel hands-on.
+- S2-L7_Electromagnetic-Pumps-Generators_Applied_Field_Kit — An after-school project turning electromagnetic pumps and generators applied into a team-ready playbook.

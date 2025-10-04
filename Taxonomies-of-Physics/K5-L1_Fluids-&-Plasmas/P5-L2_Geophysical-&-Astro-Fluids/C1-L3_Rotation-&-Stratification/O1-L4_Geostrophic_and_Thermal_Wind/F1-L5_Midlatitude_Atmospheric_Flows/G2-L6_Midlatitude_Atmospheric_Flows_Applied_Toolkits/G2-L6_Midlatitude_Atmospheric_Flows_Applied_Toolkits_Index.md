@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Midlatitude-Atmospheric-Flows_Everyday_Snapshot — A school science night that makes midlatitude atmospheric flows applied toolkits feel hands-on.
+- S2-L7_Midlatitude-Atmospheric-Flows_Applied_Field_Kit — A garage build turning midlatitude atmospheric flows applied toolkits into a team-ready playbook.

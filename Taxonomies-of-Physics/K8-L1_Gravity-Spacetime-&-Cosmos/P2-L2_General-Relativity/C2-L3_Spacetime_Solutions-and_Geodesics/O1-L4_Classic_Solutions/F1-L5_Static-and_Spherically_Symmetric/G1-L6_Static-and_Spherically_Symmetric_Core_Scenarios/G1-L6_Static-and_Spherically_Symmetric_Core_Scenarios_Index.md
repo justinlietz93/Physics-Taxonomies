@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Static-Spherically-Symmetric_Everyday_Snapshot — A commuter train schedule review that makes static and spherically symmetric core feel hands-on.
+- S2-L7_Static-Spherically-Symmetric_Applied_Field_Kit — A farmers market stand turning static and spherically symmetric core into a team-ready playbook.

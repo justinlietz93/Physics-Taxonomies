@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Work-Hardening-Recovery_Everyday_Snapshot — A garden hose balance drill that makes work hardening and recovery core feel hands-on.
+- S2-L7_Work-Hardening-Recovery_Applied_Field_Kit — A studio rehearsal turning work hardening and recovery core into a team-ready playbook.

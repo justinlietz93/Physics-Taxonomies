@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Thermal-Convection-Patterns_Everyday_Snapshot — A bike workshop check that makes thermal convection patterns core scenarios feel hands-on.
+- S2-L7_Thermal-Convection-Patterns_Applied_Field_Kit — An after-school project turning thermal convection patterns core scenarios into a team-ready playbook.

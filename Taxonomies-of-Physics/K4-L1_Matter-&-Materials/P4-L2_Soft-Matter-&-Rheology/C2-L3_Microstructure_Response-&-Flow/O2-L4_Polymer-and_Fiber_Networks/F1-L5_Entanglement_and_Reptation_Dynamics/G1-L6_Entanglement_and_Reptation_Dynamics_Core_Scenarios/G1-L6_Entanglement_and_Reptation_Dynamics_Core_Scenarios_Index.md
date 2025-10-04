@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Entanglement-Reptation-Dynamics_Everyday_Snapshot — A weekend hike prep that makes entanglement and reptation dynamics core feel hands-on.
+- S2-L7_Entanglement-Reptation-Dynamics_Applied_Field_Kit — A weekend workshop turning entanglement and reptation dynamics core into a team-ready playbook.

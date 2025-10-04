@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Bubble-Film-Merging_Everyday_Snapshot — A grocery aisle restock that makes bubble and film merging core feel hands-on.
+- S2-L7_Bubble-Film-Merging_Applied_Field_Kit — A robotics club sprint turning bubble and film merging core into a team-ready playbook.

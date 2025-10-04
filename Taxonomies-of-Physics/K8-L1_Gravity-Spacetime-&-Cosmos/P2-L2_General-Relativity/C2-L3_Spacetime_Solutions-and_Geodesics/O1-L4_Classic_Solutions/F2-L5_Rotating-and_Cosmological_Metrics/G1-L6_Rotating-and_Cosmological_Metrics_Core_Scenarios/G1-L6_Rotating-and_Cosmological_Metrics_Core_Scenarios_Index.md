@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Rotating-Cosmological-Metrics_Everyday_Snapshot — A city traffic light timing that makes rotating and cosmological metrics core feel hands-on.
+- S2-L7_Rotating-Cosmological-Metrics_Applied_Field_Kit — A neighborhood festival booth turning rotating and cosmological metrics core into a team-ready playbook.

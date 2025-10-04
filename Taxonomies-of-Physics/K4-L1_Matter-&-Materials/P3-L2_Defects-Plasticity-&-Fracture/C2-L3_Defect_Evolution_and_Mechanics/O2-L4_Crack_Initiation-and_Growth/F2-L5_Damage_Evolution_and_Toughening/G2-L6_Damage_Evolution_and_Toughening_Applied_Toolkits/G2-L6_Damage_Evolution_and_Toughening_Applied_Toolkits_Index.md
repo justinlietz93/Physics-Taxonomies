@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Damage-Evolution-Toughening_Everyday_Snapshot — A home weather station tune-up that makes damage evolution and toughening applied feel hands-on.
+- S2-L7_Damage-Evolution-Toughening_Applied_Field_Kit — A pop-up science fair turning damage evolution and toughening applied into a team-ready playbook.

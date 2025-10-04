@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Timelike-Null-Trajectories_Everyday_Snapshot — A city traffic light timing that makes timelike and null trajectories core feel hands-on.
+- S2-L7_Timelike-Null-Trajectories_Applied_Field_Kit — A robotics club sprint turning timelike and null trajectories core into a team-ready playbook.

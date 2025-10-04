@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Fluctuation-Scaling-Cases_Everyday_Snapshot — A laundry day sorting that makes fluctuation and scaling cases extension feel hands-on.
+- S2-L7_Fluctuation-Scaling-Cases_Applied_Field_Kit — A citizen science route turning fluctuation and scaling cases extension into a team-ready playbook.

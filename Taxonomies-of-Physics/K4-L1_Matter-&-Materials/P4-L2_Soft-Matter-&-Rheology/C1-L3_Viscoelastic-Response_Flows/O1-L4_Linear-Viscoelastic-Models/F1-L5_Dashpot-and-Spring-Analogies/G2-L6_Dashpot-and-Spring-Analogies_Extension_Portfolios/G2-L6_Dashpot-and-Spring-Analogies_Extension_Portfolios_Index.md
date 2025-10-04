@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Dashpot-Spring-Analogies_Everyday_Snapshot — A garden hose balance drill that makes dashpot and spring analogies extension feel hands-on.
+- S2-L7_Dashpot-Spring-Analogies_Applied_Field_Kit — An after-school project turning dashpot and spring analogies extension into a team-ready playbook.

@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Topological-Device-Galleries_Everyday_Snapshot — A garden hose balance drill that makes topological device galleries core scenarios feel hands-on.
+- S2-L7_Topological-Device-Galleries_Applied_Field_Kit — A farmers market stand turning topological device galleries core scenarios into a team-ready playbook.

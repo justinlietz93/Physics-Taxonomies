@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Acoustic-Environmental-Effects_Everyday_Snapshot — A kitchen sink test that makes acoustic and environmental effects applied feel hands-on.
+- S2-L7_Acoustic-Environmental-Effects_Applied_Field_Kit — A pop-up science fair turning acoustic and environmental effects applied into a team-ready playbook.

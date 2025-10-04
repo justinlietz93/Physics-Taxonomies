@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Bubble-Droplet-Coalescence_Everyday_Snapshot — A local library program that makes bubble and droplet coalescence core feel hands-on.
+- S2-L7_Bubble-Droplet-Coalescence_Applied_Field_Kit — A DIY repair night turning bubble and droplet coalescence core into a team-ready playbook.

@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Meridional-Cells-Gyres_Everyday_Snapshot — A school science night that makes meridional cells and gyres core feel hands-on.
+- S2-L7_Meridional-Cells-Gyres_Applied_Field_Kit — A robotics club sprint turning meridional cells and gyres core into a team-ready playbook.

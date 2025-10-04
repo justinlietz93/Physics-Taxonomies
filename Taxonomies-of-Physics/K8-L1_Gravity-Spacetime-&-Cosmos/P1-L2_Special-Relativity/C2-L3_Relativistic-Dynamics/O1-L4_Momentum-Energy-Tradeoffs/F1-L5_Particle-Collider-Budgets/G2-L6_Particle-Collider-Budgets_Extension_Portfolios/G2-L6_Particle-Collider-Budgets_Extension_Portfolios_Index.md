@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Particle-Collider-Budgets_Everyday_Snapshot — A commuter train schedule review that makes particle collider budgets extension portfolios feel hands-on.
+- S2-L7_Particle-Collider-Budgets_Applied_Field_Kit — A citizen science route turning particle collider budgets extension portfolios into a team-ready playbook.

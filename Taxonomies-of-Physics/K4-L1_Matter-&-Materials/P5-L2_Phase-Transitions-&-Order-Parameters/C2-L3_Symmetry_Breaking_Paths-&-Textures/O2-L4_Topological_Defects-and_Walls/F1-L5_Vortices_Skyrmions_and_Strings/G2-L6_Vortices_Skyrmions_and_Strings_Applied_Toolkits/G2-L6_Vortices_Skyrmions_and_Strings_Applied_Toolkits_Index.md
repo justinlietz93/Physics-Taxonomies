@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Vortices-Skyrmions-Strings_Everyday_Snapshot — A local library program that makes vortices skyrmions and strings applied feel hands-on.
+- S2-L7_Vortices-Skyrmions-Strings_Applied_Field_Kit — A museum floor demo turning vortices skyrmions and strings applied into a team-ready playbook.

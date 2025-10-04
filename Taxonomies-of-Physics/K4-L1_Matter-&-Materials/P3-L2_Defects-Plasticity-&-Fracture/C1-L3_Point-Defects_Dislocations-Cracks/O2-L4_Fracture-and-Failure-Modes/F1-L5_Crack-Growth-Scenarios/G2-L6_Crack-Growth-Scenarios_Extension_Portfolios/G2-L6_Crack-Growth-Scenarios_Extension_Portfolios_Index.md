@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Crack-Growth-Scenarios_Everyday_Snapshot — A coffee shop workflow that makes crack growth scenarios extension portfolios feel hands-on.
+- S2-L7_Crack-Growth-Scenarios_Applied_Field_Kit — A weekend workshop turning crack growth scenarios extension portfolios into a team-ready playbook.

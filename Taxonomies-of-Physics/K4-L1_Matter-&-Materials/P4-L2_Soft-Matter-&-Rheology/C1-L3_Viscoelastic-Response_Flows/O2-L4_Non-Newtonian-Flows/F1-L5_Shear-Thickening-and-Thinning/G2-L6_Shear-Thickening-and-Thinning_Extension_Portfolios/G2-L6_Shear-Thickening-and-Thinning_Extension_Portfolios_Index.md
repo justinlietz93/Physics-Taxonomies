@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Shear-Thickening-Thinning_Everyday_Snapshot — A makerspace build day that makes shear thickening and thinning extension feel hands-on.
+- S2-L7_Shear-Thickening-Thinning_Applied_Field_Kit — A city park activation turning shear thickening and thinning extension into a team-ready playbook.

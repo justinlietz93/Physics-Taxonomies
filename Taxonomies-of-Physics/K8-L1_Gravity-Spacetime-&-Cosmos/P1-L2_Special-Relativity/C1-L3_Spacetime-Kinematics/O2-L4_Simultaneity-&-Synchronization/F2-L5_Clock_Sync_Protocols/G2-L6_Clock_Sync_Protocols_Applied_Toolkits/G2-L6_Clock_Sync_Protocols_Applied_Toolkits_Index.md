@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Clock-Sync-Protocols_Everyday_Snapshot — A neighborhood watch patrol that makes clock sync protocols applied toolkits feel hands-on.
+- S2-L7_Clock-Sync-Protocols_Applied_Field_Kit — A classroom lab turning clock sync protocols applied toolkits into a team-ready playbook.

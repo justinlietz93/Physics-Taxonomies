@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Slip-Systems-Peierls_Everyday_Snapshot — A laundry day sorting that makes slip systems and peierls barriers feel hands-on.
+- S2-L7_Slip-Systems-Peierls_Applied_Field_Kit — A garage build turning slip systems and peierls barriers into a team-ready playbook.

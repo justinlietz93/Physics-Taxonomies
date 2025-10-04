@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Anisotropic-Turbulence-Models_Everyday_Snapshot — A campfire cooking plan that makes anisotropic turbulence models core scenarios feel hands-on.
+- S2-L7_Anisotropic-Turbulence-Models_Applied_Field_Kit — A city park activation turning anisotropic turbulence models core scenarios into a team-ready playbook.

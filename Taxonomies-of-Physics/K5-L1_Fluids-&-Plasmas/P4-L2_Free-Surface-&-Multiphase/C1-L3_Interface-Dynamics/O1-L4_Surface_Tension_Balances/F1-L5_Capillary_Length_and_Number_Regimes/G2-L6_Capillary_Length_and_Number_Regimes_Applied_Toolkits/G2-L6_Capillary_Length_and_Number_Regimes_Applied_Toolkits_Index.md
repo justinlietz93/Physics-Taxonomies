@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Capillary-Length-Number_Everyday_Snapshot — A grocery aisle restock that makes capillary length and number regimes feel hands-on.
+- S2-L7_Capillary-Length-Number_Applied_Field_Kit — A community challenge turning capillary length and number regimes into a team-ready playbook.

@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Nucleation-Spinodal-Routes_Everyday_Snapshot — A smartphone calibration that makes nucleation and spinodal routes applied feel hands-on.
+- S2-L7_Nucleation-Spinodal-Routes_Applied_Field_Kit — A garage build turning nucleation and spinodal routes applied into a team-ready playbook.

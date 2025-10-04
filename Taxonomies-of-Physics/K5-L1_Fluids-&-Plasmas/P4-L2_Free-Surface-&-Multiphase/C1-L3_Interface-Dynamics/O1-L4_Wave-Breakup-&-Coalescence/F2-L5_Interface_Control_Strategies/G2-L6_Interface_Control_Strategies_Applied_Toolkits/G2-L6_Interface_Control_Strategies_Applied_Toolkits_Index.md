@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Interface-Control-Strategies_Everyday_Snapshot — A smartphone calibration that makes interface control strategies applied toolkits feel hands-on.
+- S2-L7_Interface-Control-Strategies_Applied_Field_Kit — A garage build turning interface control strategies applied toolkits into a team-ready playbook.
