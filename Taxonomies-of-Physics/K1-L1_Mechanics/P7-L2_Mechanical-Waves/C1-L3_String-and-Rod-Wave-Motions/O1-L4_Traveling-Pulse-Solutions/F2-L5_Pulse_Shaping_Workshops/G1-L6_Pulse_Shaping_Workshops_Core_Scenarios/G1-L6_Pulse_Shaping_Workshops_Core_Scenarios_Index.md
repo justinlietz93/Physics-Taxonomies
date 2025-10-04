@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Pulse_Shaping_Workshops_Lab_Walkthrough — Lab walkthrough that rehearses pulse shaping workshops steps.
+- S2-L7_Pulse_Shaping_Workshops_Field_Checklist — Field checklist that keeps pulse shaping workshops behavior on track.

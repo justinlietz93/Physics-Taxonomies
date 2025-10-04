@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Thermoelectric_and_Peltier_Lab_Walkthrough — Lab walkthrough that rehearses thermoelectric and peltier steps.
+- S2-L7_Thermoelectric_and_Peltier_Field_Checklist — Field checklist that keeps thermoelectric and peltier behavior on track.

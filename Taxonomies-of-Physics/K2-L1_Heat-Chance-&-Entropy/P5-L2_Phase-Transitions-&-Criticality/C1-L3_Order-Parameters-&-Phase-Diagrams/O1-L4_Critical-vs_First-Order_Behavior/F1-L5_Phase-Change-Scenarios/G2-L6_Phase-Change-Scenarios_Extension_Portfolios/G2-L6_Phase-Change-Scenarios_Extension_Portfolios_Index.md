@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Phase-Change-Scenarios_Lab_Walkthrough — Lab walkthrough that rehearses phase change scenarios steps.
+- S2-L7_Phase-Change-Scenarios_Field_Checklist — Field checklist that keeps phase change scenarios behavior on track.

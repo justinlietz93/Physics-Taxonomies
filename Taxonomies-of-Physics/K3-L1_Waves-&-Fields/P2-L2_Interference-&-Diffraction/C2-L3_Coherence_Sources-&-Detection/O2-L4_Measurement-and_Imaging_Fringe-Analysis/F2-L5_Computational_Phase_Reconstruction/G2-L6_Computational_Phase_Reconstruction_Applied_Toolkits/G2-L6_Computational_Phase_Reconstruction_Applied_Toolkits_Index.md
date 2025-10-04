@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Computational_Phase_Reconstruction_Lab_Walkthrough — Lab walkthrough that rehearses computational phase reconstruction steps.
+- S2-L7_Computational_Phase_Reconstruction_Field_Checklist — Field checklist that keeps computational phase reconstruction behavior on track.

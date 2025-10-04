@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Daily-Scattering-Scenes_Lab_Walkthrough — Lab walkthrough that rehearses daily scattering scenes steps.
+- S2-L7_Daily-Scattering-Scenes_Field_Checklist — Field checklist that keeps daily scattering scenes behavior on track.

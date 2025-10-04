@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_High-Gradient_and_Turbulent_Lab_Walkthrough — Lab walkthrough that rehearses high gradient and turbulent steps.
+- S2-L7_High-Gradient_and_Turbulent_Field_Checklist — Field checklist that keeps high gradient and turbulent behavior on track.

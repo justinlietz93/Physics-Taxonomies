@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Discrete_Order_Lab_Walkthrough — Lab walkthrough that rehearses discrete order steps.
+- S2-L7_Discrete_Order_Field_Checklist — Field checklist that keeps discrete order behavior on track.

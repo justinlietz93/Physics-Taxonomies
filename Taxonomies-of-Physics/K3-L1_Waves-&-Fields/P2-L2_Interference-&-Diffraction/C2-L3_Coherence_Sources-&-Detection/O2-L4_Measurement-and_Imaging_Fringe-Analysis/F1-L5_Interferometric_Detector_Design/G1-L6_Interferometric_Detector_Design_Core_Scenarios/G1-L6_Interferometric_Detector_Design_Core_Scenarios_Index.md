@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Interferometric_Detector_Design_Lab_Walkthrough — Lab walkthrough that rehearses interferometric detector design steps.
+- S2-L7_Interferometric_Detector_Design_Field_Checklist — Field checklist that keeps interferometric detector design behavior on track.

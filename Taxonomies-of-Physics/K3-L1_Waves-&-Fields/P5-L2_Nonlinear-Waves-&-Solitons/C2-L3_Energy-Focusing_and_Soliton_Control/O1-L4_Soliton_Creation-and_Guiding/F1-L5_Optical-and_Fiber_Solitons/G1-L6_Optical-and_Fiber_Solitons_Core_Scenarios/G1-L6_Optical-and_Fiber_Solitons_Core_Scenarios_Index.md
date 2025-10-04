@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Optical-and_Fiber_Solitons_Lab_Walkthrough — Lab walkthrough that rehearses optical and fiber solitons steps.
+- S2-L7_Optical-and_Fiber_Solitons_Field_Checklist — Field checklist that keeps optical and fiber solitons behavior on track.

@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Real-vs-Reciprocal-Maps_Lab_Walkthrough — Lab walkthrough that rehearses real vs reciprocal maps steps.
+- S2-L7_Real-vs-Reciprocal-Maps_Field_Checklist — Field checklist that keeps real vs reciprocal maps behavior on track.

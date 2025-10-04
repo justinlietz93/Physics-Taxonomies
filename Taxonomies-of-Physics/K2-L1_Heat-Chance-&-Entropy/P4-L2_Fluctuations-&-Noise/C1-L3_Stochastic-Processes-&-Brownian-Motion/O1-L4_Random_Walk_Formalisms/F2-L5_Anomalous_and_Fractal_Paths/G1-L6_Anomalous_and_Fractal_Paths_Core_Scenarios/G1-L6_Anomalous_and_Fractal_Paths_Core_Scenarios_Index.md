@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Anomalous_and_Fractal_Lab_Walkthrough — Lab walkthrough that rehearses anomalous and fractal steps.
+- S2-L7_Anomalous_and_Fractal_Field_Checklist — Field checklist that keeps anomalous and fractal behavior on track.

@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Specific-Heat_and_Population_Lab_Walkthrough — Lab walkthrough that rehearses specific heat and population steps.
+- S2-L7_Specific-Heat_and_Population_Field_Checklist — Field checklist that keeps specific heat and population behavior on track.

@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Mean-Field_and_Landau_Lab_Walkthrough — Lab walkthrough that rehearses mean field and landau steps.
+- S2-L7_Mean-Field_and_Landau_Field_Checklist — Field checklist that keeps mean field and landau behavior on track.

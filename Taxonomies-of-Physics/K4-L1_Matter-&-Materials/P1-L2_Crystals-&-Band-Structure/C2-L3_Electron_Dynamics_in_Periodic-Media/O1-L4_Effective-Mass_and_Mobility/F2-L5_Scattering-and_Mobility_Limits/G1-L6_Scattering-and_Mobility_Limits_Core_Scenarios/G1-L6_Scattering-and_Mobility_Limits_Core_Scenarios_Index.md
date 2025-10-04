@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Scattering-and_Mobility_Limits_Lab_Walkthrough — Lab walkthrough that rehearses scattering and mobility limits steps.
+- S2-L7_Scattering-and_Mobility_Limits_Field_Checklist — Field checklist that keeps scattering and mobility limits behavior on track.

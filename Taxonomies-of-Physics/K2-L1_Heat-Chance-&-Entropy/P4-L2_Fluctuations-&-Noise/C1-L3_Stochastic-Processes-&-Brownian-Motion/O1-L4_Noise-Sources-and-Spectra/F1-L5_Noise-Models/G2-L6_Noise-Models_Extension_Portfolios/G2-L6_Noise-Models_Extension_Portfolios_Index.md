@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Noise-Models_Lab_Walkthrough — Lab walkthrough that rehearses noise models steps.
+- S2-L7_Noise-Models_Field_Checklist — Field checklist that keeps noise models behavior on track.

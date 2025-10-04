@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Field-and_Quantum_Tuning_Lab_Walkthrough — Lab walkthrough that rehearses field and quantum tuning steps.
+- S2-L7_Field-and_Quantum_Tuning_Field_Checklist — Field checklist that keeps field and quantum tuning behavior on track.

@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Wave_Speed_Lab_Walkthrough — Lab walkthrough that rehearses wave speed steps.
+- S2-L7_Wave_Speed_Field_Checklist — Field checklist that keeps wave speed behavior on track.

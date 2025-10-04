@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Slit-Width-Effects_Lab_Walkthrough — Lab walkthrough that rehearses slit width effects steps.
+- S2-L7_Slit-Width-Effects_Field_Checklist — Field checklist that keeps slit width effects behavior on track.

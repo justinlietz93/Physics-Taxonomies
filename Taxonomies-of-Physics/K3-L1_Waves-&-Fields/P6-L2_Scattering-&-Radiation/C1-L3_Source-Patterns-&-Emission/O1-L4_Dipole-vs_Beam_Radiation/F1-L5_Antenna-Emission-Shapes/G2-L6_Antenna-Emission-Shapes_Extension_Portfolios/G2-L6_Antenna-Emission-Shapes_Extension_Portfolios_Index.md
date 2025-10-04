@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Antenna-Emission-Shapes_Lab_Walkthrough — Lab walkthrough that rehearses antenna emission shapes steps.
+- S2-L7_Antenna-Emission-Shapes_Field_Checklist — Field checklist that keeps antenna emission shapes behavior on track.

@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Fixed-Ends-Resonances_Lab_Walkthrough — Lab walkthrough that rehearses fixed ends resonances steps.
+- S2-L7_Fixed-Ends-Resonances_Field_Checklist — Field checklist that keeps fixed ends resonances behavior on track.

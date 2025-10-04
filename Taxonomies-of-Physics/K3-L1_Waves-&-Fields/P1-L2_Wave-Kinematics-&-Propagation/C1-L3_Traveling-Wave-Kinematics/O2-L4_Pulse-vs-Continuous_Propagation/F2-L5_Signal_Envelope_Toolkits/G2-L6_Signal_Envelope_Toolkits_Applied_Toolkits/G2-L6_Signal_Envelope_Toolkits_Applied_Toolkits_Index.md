@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Signal_Envelope_Lab_Walkthrough — Lab walkthrough that rehearses signal envelope steps.
+- S2-L7_Signal_Envelope_Field_Checklist — Field checklist that keeps signal envelope behavior on track.

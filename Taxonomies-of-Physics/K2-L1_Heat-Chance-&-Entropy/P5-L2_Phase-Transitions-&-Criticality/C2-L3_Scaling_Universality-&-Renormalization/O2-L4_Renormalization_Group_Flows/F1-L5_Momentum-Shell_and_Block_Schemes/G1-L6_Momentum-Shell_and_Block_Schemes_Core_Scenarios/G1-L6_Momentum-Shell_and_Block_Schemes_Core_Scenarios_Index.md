@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Momentum-Shell_and_Block_Lab_Walkthrough — Lab walkthrough that rehearses momentum shell and block steps.
+- S2-L7_Momentum-Shell_and_Block_Field_Checklist — Field checklist that keeps momentum shell and block behavior on track.

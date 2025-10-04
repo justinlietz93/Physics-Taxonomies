@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Interference_Design_Patterns_Lab_Walkthrough — Lab walkthrough that rehearses interference design patterns steps.
+- S2-L7_Interference_Design_Patterns_Field_Checklist — Field checklist that keeps interference design patterns behavior on track.

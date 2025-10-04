@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Memory-and_Anomalous_Processes_Lab_Walkthrough — Lab walkthrough that rehearses memory and anomalous processes steps.
+- S2-L7_Memory-and_Anomalous_Processes_Field_Checklist — Field checklist that keeps memory and anomalous processes behavior on track.

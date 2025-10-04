@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Boundary-and_Defect_Scattering_Lab_Walkthrough — Lab walkthrough that rehearses boundary and defect scattering steps.
+- S2-L7_Boundary-and_Defect_Scattering_Field_Checklist — Field checklist that keeps boundary and defect scattering behavior on track.

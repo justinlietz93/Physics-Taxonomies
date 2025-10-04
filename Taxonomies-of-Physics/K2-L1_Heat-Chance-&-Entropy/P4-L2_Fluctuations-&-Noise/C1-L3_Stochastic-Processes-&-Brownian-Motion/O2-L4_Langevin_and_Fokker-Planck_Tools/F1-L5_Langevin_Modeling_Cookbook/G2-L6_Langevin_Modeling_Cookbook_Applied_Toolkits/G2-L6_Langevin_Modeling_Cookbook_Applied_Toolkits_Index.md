@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Langevin_Modeling_Cookbook_Lab_Walkthrough — Lab walkthrough that rehearses langevin modeling cookbook steps.
+- S2-L7_Langevin_Modeling_Cookbook_Field_Checklist — Field checklist that keeps langevin modeling cookbook behavior on track.

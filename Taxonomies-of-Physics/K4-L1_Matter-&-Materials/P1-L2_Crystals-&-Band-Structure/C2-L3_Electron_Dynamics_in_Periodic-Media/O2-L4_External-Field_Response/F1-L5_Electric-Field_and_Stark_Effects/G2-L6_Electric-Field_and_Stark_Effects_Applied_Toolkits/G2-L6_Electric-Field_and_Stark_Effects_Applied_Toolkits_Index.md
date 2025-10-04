@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Electric-Field_and_Stark_Lab_Walkthrough — Lab walkthrough that rehearses electric field and stark steps.
+- S2-L7_Electric-Field_and_Stark_Field_Checklist — Field checklist that keeps electric field and stark behavior on track.

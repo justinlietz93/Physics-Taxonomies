@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Laser-and_Oscillator_Locking_Lab_Walkthrough — Lab walkthrough that rehearses laser and oscillator locking steps.
+- S2-L7_Laser-and_Oscillator_Locking_Field_Checklist — Field checklist that keeps laser and oscillator locking behavior on track.
