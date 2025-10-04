@@ -26,7 +26,7 @@ $$(\mathbf{J} = \int_{t_{-}}^{t_{+}} \mathbf{F}(t) \, dt)$$
 
 $$(\mathbf{v}(\mathbf{r}) = \mathbf{v}_{\text{cm}} + \boldsymbol{\omega} \times (\mathbf{r} - \mathbf{r}_{\text{cm}}))$$
 
-- The velocity at location $(\mathbf{r})$ combines center-of-mass motion $(\mathbf{v}_{\text{cm}})$ with rotational sweep from angular velocity $(\boldsymbol{\omega})$ about the center $(\mathbf{r}_{\text{cm}})$.
+- The velocity at location $(\mathbf{r})$ combines center-of-mass motion $(\mathbf{v\}\_{\text{cm}})$ with rotational sweep from angular velocity $(\boldsymbol{\omega})$ about the center $(\mathbf{r}_{\text{cm}})$\.
 
 **Rigid-body acceleration:**
 
