@@ -1,5 +1,5 @@
 # G2-L6_Instanton-and_Saddle_Pathways_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for instanton-and saddle pathways.
+**Definition:** Applied toolkits that use optimal transition paths to guide mitigation and switching plans.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Nanoparticle_Switching_Instanton_Kit** — materials kit that maps instanton paths for magnetization flips.
+- **S2-L7_Cyber_Response_Saddle_Path_Playbook** — incident response playbook charting least-action moves between secure states.

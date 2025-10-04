@@ -1,5 +1,5 @@
 # G2-L6_Second-Order_and_Hessian-Guided_Methods_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for second-order and hessian-guided methods.
+**Definition:** Applied toolkits that bring curvature-aware optimization to field deployments.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Airfoil_Hessian_Optimization_Field_Set** — aero test set that feeds Hessian data into wing shape tweaks onsite.
+- **S2-L7_Supply_Portfolio_Curvature_Adjustment_Log** — planning log using Hessian cues to rebalance procurement portfolios.

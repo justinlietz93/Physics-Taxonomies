@@ -1,5 +1,5 @@
 # G1-L6_Oscillatory_and_Hopf_Onsets_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for oscillatory and hopf onsets.
+**Definition:** Core studies that show when steady states flip into self-sustained oscillations.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Bridgelab_Hopf_Bifurcation_Demo** — wind tunnel tabletop where increasing flow tips a bridge model into rhythmic sway.
+- **S2-L7_Electrochemical_Oscillation_Startup_Run** — beaker run tracking how electrode feedback seeds spontaneous voltage waves.

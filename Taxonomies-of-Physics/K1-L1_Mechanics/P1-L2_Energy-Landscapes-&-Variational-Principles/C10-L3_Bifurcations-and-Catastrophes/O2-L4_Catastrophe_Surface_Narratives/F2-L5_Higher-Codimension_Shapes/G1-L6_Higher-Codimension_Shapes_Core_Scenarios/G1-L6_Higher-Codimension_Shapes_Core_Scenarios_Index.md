@@ -1,5 +1,5 @@
 # G1-L6_Higher-Codimension_Shapes_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for higher-codimension shapes.
+**Definition:** Core demonstrations of butterfly, swallowtail, and other multi-parameter catastrophes.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Trifold_Catastrophe_Board_Model** — classroom board model that lets students tune three knobs and trace the swallowtail.
+- **S2-L7_Magnetic_Trap_Butterfly_Scan** — lab scan showing how combined field biases sculpt a butterfly catastrophe in traps.

@@ -1,5 +1,5 @@
 # G1-L6_Instanton-and_Saddle_Pathways_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for instanton-and saddle pathways.
+**Definition:** Core explorations of optimal fluctuation paths that hop over saddles.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Superconductor_Instanton_Path_Demo** — cryo lab demo tracing instanton paths through a Josephson washboard.
+- **S2-L7_Double_Well_Saddle_Pulse_Lab** — tabletop double-well experiment measuring pulse shapes that crest the saddle.

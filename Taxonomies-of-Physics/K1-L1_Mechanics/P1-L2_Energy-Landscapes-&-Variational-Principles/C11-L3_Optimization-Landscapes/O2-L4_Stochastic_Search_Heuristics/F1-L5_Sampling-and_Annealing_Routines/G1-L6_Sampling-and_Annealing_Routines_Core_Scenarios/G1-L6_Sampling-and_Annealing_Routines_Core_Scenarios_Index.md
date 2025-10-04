@@ -1,5 +1,5 @@
 # G1-L6_Sampling-and_Annealing_Routines_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for sampling-and annealing routines.
+**Definition:** Core labs for cooling schedules and random walks that escape local traps.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Simulated_Annealing_Batch_Demo** — coding lab that cools a toy landscape and tracks acceptance ratios.
+- **S2-L7_MCMC_Posterior_Walkthrough** — statistics walkthrough measuring how Markov chains mix across modes.

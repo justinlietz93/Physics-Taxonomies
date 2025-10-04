@@ -1,5 +1,5 @@
 # G1-L6_Coupling_Mitigation_Toolkits_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for coupling mitigation toolkits.
+**Definition:** Core playbooks for spotting unwanted mode coupling and carving clean, mostly independent directions.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Mode_Coupling_Lab_Separation_Drill** — lab exercise that shims fixtures and retunes sensors to keep orthogonal modes apart.
+- **S2-L7_Spin_Qubit_Crosstalk_Baseline_Check** — baseline scan mapping microwave spillover before qubits start to talk to each other.

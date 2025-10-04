@@ -1,5 +1,5 @@
 # G1-L6_Population-and_Evolutionary_Methods_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for population-and evolutionary methods.
+**Definition:** Core walk-throughs of how populations of solutions evolve toward better fits.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Genetic_Algorithm_Benchmark_Runs** — hands-on benchmark evolving traveling-sales routes and tracking fitness curves.
+- **S2-L7_Evolution_Strategy_Control_Room_Demo** — control-room sim that mutates controller gains to meet ramp targets.

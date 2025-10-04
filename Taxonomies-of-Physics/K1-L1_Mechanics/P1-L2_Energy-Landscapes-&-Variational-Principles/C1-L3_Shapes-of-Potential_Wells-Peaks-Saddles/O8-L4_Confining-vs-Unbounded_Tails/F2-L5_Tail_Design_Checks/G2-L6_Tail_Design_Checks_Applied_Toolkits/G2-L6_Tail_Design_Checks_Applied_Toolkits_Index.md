@@ -1,5 +1,5 @@
 # G2-L6_Tail_Design_Checks_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for tail design checks.
+**Definition:** Applied toolkits that keep confining-tail checks running in production settings.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Cryostat_Field_Tail_Maintenance_Set** — maintenance steps for sustaining steep magnetic tails inside a dilution fridge.
+- **S2-L7_Pharmaceutical_Blend_Tail_Screening_Log** — QC log watching powder mix distributions for runaway heavy tails.

@@ -1,5 +1,5 @@
 # G1-L6_First-Order_Techniques_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for first-order techniques.
+**Definition:** Core lessons for gradient and subgradient methods walking downhill with only slope info.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Gradient_Descent_Tuning_Workshop** — coding workshop that tunes step size and momentum on a simple loss bowl.
+- **S2-L7_Subgradient_Supply_Planning_Demo** — logistics sandbox showing how subgradients steer piecewise cost plans.

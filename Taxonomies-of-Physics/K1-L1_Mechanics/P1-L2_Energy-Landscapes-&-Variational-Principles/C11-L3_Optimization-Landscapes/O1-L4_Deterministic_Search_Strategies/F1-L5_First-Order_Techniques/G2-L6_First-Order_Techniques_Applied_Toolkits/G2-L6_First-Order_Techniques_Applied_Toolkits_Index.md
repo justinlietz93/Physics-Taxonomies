@@ -1,5 +1,5 @@
 # G2-L6_First-Order_Techniques_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for first-order techniques.
+**Definition:** Applied toolkits that keep gradient-style updates humming inside production systems.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Warehouse_Routing_First-Order_Kit** — operations kit using gradients to smooth warehouse picker routes.
+- **S2-L7_DSP_Filter_First-Order_Retuning_Log** — signal lab log capturing first-order tweaks during live filter retuning.

@@ -1,5 +1,5 @@
 # G1-L6_Plateau_Control_Plans_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for plateau control plans.
+**Definition:** Core runbooks for noticing when flat energy lanes stall progress and nudging systems back into motion.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Catalysis_Rate_Plateau_Tuneup_Walkthrough** — bench routine that adds temperature and agitator nudges when reaction rates flatten.
+- **S2-L7_Battery_Test_Charge_Plateau_Diagnosis** — diagnostics path that flags charge plateaus before they hide pack health issues.

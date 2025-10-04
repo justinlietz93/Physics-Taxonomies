@@ -1,5 +1,5 @@
 # G2-L6_Large-Deviation_Roadmaps_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for large-deviation roadmaps.
+**Definition:** Applied toolkits that turn rare-event math into emergency planning and risk dashboards.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Power_Grid_Blackout_Large-Deviation_Pack** — grid reliability pack tracing least-action paths to cascading outages.
+- **S2-L7_Insurance_Risk_Tail_Plan_Set** — actuarial toolkit translating tail estimates into capital buffers and alerts.
