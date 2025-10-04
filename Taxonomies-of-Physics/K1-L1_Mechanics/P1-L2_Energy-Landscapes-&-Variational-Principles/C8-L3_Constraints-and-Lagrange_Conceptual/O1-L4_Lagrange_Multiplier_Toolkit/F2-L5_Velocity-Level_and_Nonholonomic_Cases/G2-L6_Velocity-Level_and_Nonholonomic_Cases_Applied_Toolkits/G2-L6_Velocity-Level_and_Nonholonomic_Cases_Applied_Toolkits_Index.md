@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_AGV_Nonholonomic_Planning_Log — Planning log enforcing nonholonomic limits for automated guided vehicles.
+- S2-L7_Self_Balancing_Scooter_Control_Checklist — Control checklist applying velocity constraints on self-balancing scooters.

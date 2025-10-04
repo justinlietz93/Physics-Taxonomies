@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Rolling_Contact_No_Slip_Demo — Cylinder slope demo contrasting pure rolling and slip onset.
+- S2-L7_Skate_Wheel_Contact_Patch_Lab — Skate wheel lab examining rolling contact patches and forces.

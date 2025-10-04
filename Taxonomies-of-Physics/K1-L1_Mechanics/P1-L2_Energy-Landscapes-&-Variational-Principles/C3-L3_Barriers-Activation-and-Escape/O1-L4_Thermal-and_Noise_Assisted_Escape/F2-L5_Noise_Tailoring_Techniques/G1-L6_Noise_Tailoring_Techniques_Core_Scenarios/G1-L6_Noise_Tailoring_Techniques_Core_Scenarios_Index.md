@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Noise_Shaping_Filter_Bench_Demo — Bench demo reshaping noise spectra to modulate escape rates.
+- S2-L7_Dither_Controlled_Escape_Study — Controlled dither experiment tuning effective noise in stick-slip.

@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Parallel_Robot_Minimal_Model_Log — Modeling log for selecting minimal coordinates in parallel robots.
+- S2-L7_Aeroelastic_Minimal_Set_Review_Pack — Review pack guiding minimal coordinate choices in aeroelastic models.

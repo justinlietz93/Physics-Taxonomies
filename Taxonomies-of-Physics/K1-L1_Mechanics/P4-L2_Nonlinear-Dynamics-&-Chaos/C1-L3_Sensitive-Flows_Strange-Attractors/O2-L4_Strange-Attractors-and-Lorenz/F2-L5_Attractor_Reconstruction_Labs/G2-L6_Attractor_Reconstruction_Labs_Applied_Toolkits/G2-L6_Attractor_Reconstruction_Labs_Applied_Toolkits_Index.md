@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Machinery_Vibration_Attractor_Log — Log reconstructing vibration attractors to detect machinery faults.
+- S2-L7_Climate_Index_Attractor_Workflow — Workflow rebuilding climate attractors to monitor regime changes.

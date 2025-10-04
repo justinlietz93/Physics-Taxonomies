@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Beam_Element_Action_Template — Template translating continuum actions into beam finite elements.
+- S2-L7_Fluid_Flow_Action_Model_Log — Modeling log applying action formulations to incompressible flow problems.

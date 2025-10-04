@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Clamped_Beam_Mode_Sweep_Demo — Beam sweep lab that maps the first clamped mode shapes.
+- S2-L7_Membrane_Mode_Chladni_Run — Chladni plate run showing membrane mode patterns.

@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Self_Excited_Vibration_Risk_Log — Maintenance log for load-dependent vibration noise limits.
+- S2-L7_Bio_Reactor_State_Noise_Adjustment_Kit — Toolkit for retuning bioreactors when concentration-driven noise rises.

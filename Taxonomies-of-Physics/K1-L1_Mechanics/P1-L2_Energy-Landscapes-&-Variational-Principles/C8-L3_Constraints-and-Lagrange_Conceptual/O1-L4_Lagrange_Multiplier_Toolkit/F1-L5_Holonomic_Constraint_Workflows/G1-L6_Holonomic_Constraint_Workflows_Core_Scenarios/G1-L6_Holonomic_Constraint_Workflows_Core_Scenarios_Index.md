@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Simple_Pendulum_Lagrange_Worked_Example — Worked Lagrange multiplier example for a simple pendulum constraint.
+- S2-L7_Double_Slider_Holonomic_Derivation — Double-slider derivation showing holonomic constraint equations in action.

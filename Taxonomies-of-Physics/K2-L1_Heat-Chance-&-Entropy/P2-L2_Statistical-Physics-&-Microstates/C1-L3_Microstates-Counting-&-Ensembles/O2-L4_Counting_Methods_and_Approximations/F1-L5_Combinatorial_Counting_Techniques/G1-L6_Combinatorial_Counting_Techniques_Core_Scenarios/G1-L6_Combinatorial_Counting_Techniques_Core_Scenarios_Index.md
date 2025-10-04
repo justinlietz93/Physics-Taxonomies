@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Stars_and_Bars_Particle_Counting_Demo — Stars-and-bars demo counting particle arrangements across boxes.
+- S2-L7_Permutation_With_Constraints_Workshop — Workshop computing constrained permutations for fermion-like occupancy.

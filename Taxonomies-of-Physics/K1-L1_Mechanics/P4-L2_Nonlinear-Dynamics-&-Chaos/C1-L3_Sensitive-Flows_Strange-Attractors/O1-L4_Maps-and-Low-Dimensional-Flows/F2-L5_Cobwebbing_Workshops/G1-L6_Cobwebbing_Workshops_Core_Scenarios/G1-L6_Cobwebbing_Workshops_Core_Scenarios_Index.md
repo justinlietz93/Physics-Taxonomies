@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Cobweb_Map_Convergence_Lab — Cobweb lab showing convergence to a stable fixed point.
+- S2-L7_Cobweb_Chaos_Exploration_Session — Cobweb session revealing sensitive dependence in chaotic maps.

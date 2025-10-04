@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Network_Traffic_MaxEnt_Analyzer — Analyzer template applying maximum entropy to network traffic inference.
+- S2-L7_Materials_Alloy_MaxEnt_Checklist — Checklist applying maximum entropy to infer alloy composition distributions.

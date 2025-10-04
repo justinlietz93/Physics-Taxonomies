@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Data_Center_Microstate_Capacity_Sheet — Capacity sheet applying combinatorial counts to data center configurations.
+- S2-L7_Polymers_Sequence_Counting_Log — Log applying combinatorial counting to polymer sequence design.

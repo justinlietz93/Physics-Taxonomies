@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_String_Action_Density_Worked_Example — Vibrating string action density derivation yielding the wave equation.
+- S2-L7_Elastic_Rod_Action_Demo — Continuum action example for an elastic rod with bending energy.

@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_RF_Cavity_Field_Variation_Log — Log applying field variations to tune accelerator RF cavity modes.
+- S2-L7_Metamaterial_Gauge_Design_Checklist — Checklist for selecting and validating gauges in metamaterial field models.

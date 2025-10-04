@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Logistic_Map_Parameter_Scan_Set — Parameter scan set documenting logistic map bifurcations.
+- S2-L7_Tent_Map_Symbolic_Coding_Workshop — Workshop on symbolic coding for tent map chaotic orbits.

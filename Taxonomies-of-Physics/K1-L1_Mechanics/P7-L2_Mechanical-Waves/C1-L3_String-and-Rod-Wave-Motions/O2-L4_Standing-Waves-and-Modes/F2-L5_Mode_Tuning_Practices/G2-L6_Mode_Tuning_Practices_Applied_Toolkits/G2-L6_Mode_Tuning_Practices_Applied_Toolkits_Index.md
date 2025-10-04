@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Concert_Hall_Mode_Survey_Set — Toolkit for measuring and tuning concert hall standing wave modes.
+- S2-L7_Manufacturing_Line_Mode_Control_Log — Log for adjusting machinery modes to reduce vibration and noise.

@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Double_Pendulum_Minimal_Coordinates_Derivation — Derivation reducing a double pendulum to minimal generalized coordinates.
+- S2-L7_Spherical_Pendulum_Minimal_Set_Walkthrough — Walkthrough choosing minimal coordinates for a spherical pendulum.

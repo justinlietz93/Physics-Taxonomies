@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Bearing_Contact_Compliance_Checklist — Checklist auditing rolling contact compliance in high-speed bearings.
+- S2-L7_Track_Shoe_Slip_Monitor_Log — Site log for tracking sliding ratios on heavy equipment tracks.

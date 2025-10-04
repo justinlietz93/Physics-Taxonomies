@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Spin_System_Equivalence_Workshop — Workshop comparing ensembles on a lattice spin system to show equivalence.
+- S2-L7_Ideal_Gas_Ensemble_Comparison_Lab — Lab verifying ensemble equivalence for an ideal gas example.

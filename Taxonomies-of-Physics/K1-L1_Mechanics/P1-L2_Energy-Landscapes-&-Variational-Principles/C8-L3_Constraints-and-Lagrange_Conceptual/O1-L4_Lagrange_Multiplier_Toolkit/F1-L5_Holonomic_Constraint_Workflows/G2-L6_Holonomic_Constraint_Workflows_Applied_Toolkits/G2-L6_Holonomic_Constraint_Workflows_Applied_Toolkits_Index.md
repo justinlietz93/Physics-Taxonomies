@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Satellite_Gimbal_Holonomic_Audit — Audit sheet for holonomic constraint verification in satellite gimbals.
+- S2-L7_Packaging_Line_Linkage_Checklist — Checklist ensuring holonomic linkage constraints on packaging lines.

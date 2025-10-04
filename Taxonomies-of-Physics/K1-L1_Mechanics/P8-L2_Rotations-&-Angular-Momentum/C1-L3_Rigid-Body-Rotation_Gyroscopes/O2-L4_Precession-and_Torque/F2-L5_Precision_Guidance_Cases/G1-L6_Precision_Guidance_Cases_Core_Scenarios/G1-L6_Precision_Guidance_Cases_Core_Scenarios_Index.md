@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Missile_IMU_Precession_Demo — Demo detailing IMU precession handling in missile guidance.
+- S2-L7_Satellite_Reaction_Wheel_Guidance_Model — Model illustrating reaction wheel guidance under disturbance torques.

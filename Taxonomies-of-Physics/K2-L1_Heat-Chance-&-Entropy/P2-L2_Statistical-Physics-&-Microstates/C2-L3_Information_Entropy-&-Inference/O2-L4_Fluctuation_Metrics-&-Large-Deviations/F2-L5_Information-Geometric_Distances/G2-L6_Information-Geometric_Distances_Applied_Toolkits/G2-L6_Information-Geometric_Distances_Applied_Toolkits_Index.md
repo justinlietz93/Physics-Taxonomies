@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Sensor_Array_Fisher_Metric_Log — Log applying Fisher information metrics to optimize sensor array placement.
+- S2-L7_Data_Model_KL_Validation_Checklist — Checklist using KL divergence to validate models against observed data.

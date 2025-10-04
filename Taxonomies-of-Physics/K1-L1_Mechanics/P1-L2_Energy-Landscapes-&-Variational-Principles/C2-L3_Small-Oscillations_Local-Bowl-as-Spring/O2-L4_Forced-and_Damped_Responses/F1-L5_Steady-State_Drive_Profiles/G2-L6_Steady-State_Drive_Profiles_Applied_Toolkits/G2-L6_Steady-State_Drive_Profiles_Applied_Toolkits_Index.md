@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Shaker_Table_Sweep_Playbook — Playbook for steady-state sweeps on industrial shaker tables.
+- S2-L7_Rotating_Machinery_Steady_Profile_Kit — Maintenance kit for checking steady drive profiles on rotating equipment.

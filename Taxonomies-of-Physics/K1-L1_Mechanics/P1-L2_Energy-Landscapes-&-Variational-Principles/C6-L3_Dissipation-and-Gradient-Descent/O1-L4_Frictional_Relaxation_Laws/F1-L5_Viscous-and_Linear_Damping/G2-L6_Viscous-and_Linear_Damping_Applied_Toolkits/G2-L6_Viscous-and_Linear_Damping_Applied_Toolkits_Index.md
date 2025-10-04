@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Industrial_Shock_Absorber_Service_Card — Service card for verifying viscous shock absorber performance.
+- S2-L7_Precision_Slider_Damping_Adjustment_Log — Adjustment log for linear damping pads on precision stages.

@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_String_Mode_Tuning_Workshop — Workshop tuning string length and tension for desired standing modes.
+- S2-L7_Rod_Mode_Balancing_Demo — Demo adjusting rod supports to balance standing wave modes.

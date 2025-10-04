@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Parametric_Pendulum_Pump_Demo — Pendulum demo showing parametric pumping and threshold behavior.
+- S2-L7_RF_Trap_Parametric_Cooling_Run — RF trap model illustrating parametric cooling and heating effects.

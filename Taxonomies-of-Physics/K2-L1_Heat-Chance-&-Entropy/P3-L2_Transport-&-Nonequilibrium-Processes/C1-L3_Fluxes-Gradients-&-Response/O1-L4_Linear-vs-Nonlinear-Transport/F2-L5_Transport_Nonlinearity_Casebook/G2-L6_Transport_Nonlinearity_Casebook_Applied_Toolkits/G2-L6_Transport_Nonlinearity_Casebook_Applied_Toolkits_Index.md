@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Battery_Pack_Nonlinear_Transport_Log — Log capturing nonlinear transport observations in fast-charging batteries.
+- S2-L7_Chemical_Reactor_Nonlinear_Flux_Checklist — Checklist spotting nonlinear transport behavior during reactor troubleshooting.

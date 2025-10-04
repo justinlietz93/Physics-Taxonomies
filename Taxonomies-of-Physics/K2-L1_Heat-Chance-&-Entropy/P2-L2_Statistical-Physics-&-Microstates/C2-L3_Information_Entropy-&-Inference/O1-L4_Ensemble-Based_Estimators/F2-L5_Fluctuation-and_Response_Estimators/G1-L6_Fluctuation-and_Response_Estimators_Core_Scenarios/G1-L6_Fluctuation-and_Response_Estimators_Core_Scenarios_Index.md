@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Fluctuation_Dissipation_Lab — Lab verifying fluctuation-dissipation relation with resistor noise measurements.
+- S2-L7_Susceptibility_from_Fluctuations_Workshop — Workshop deriving susceptibilities from fluctuation measurements in a model magnet.

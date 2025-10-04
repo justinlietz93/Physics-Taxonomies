@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Coin_Toss_Large_Deviation_Worked_Example — Worked example deriving large-deviation rate function for biased coins.
+- S2-L7_Current_Fluctuation_Large_Deviation_Lab — Lab estimating large-deviation functions from electrical current fluctuation data.

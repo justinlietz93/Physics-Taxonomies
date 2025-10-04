@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Spacecraft_Attitude_Coordinate_Selection_Set — Guidance set for selecting symmetry-aligned coordinates in spacecraft attitude models.
+- S2-L7_Turbine_Casing_Mode_Basis_Log — Log for constructing symmetry-aligned coordinate bases in turbine modal analysis.

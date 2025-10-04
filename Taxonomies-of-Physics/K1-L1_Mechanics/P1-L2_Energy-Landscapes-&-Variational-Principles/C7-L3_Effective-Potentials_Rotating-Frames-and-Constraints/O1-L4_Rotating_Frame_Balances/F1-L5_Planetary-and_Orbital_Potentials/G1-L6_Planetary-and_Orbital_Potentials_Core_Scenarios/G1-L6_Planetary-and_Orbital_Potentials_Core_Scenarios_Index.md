@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_L1_Libration_Sheet_Exercise — Worksheet exploring L1 effective potential saddles and balance.
+- S2-L7_Geostationary_Basin_Demo — Spinning table demo visualizing geostationary effective potential basins.

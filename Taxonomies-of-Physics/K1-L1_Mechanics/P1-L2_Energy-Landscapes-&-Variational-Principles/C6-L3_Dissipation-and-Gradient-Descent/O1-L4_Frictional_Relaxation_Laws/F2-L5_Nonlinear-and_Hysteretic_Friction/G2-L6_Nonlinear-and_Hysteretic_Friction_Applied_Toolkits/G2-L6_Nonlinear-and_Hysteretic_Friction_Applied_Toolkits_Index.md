@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Drilling_String_Friction_Mitigation_Set — Mitigation set for nonlinear friction along drilling strings.
+- S2-L7_Precision_Slider_Hysteresis_Adjustment_Guide — Guide for conditioning precision sliders to cut hysteretic friction.

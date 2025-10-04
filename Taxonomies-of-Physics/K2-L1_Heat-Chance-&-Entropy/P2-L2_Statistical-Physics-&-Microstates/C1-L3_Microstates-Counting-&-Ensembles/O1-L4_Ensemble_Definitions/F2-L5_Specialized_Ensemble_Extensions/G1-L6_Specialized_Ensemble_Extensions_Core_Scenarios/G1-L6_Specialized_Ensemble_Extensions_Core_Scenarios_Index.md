@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Isothermal_Isobaric_Worked_Example — Worked NPT ensemble example showing volume fluctuations in a fluid cell.
+- S2-L7_Isothermal_Isothermal_Shear_Demo — Demo applying specialized ensembles to shear-driven systems.

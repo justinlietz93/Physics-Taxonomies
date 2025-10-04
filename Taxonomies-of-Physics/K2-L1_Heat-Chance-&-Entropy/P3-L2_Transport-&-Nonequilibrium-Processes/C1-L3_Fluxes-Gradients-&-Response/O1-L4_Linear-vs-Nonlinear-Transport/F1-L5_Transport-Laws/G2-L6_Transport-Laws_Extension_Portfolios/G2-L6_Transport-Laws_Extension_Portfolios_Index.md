@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Fourier_Law_Extension_Lab — Lab probing Fourier's law deviations under large temperature gradients.
+- S2-L7_Fick_Law_Crossover_Workshop — Workshop examining when diffusion deviates from Fick's linear law.

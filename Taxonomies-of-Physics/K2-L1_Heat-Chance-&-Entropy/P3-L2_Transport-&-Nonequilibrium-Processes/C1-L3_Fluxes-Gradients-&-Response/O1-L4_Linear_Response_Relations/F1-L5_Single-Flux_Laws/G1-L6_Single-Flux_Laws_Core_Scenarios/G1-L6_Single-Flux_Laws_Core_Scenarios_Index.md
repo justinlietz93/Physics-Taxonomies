@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Fourier_Law_Benchmark_Lab — Lab benchmarking Fourier's law with steady heat conduction measurements.
+- S2-L7_Darcy_Law_Flow_Cart_Demo — Porous flow demo illustrating Darcy's single flux–gradient law.

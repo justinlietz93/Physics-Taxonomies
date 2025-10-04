@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Nonlinear_Thermal_Conductivity_Case — Case study modeling temperature-dependent conductivity in nonlinear heat transport.
+- S2-L7_Nonlinear_Electrical_Transport_Demo — Demo showing nonlinear electrical transport in high-field semiconductors.

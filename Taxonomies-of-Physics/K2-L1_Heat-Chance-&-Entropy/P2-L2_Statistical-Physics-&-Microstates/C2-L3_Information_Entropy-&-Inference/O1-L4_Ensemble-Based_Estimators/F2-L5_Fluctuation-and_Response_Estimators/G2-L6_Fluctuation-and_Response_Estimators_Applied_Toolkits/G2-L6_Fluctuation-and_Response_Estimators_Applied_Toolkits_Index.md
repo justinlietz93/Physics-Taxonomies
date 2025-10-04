@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Materials_Response_Estimator_Log — Log using thermal fluctuations to estimate material response coefficients.
+- S2-L7_Climate_Index_Response_Checklist — Checklist inferring climate response functions from fluctuation data.

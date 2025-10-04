@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Supply_Chain_Risk_Large_Deviation_Log — Risk log using large-deviation functions for supply chain disruptions.
+- S2-L7_Financial_Drawdown_Large_Deviation_Checklist — Checklist applying large-deviation metrics to financial drawdown analysis.

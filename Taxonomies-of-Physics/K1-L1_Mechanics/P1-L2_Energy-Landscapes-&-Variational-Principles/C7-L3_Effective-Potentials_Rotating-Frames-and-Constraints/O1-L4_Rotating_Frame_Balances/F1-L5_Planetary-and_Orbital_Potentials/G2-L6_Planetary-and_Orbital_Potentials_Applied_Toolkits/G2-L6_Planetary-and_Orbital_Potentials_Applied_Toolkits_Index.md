@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Libration_Point_Station_Keeping_Plan — Worksheets for station-keeping plans around libration points.
+- S2-L7_GNSS_Slot_Potential_Monitor — Monitor procedure for GNSS effective potential drift and maneuvers.

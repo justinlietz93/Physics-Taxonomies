@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Three_Mass_Coupled_Mode_Lab — Three-mass bench demo highlighting coupled normal modes.
+- S2-L7_Long_Chain_Dispersion_Tabletop — Cart-and-spring line showing dispersion and edge reflections.

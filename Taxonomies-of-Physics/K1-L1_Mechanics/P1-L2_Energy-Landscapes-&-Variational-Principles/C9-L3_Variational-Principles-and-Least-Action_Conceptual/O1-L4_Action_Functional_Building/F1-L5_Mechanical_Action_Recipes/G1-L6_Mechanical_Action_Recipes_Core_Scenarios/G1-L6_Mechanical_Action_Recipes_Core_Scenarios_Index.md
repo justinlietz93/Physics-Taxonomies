@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Action_On_Free_Particle_Derivation — Free particle action derivation yielding straight-line motion.
+- S2-L7_Action_For_Spring_Mass_Walkthrough — Mass-spring action walkthrough recovering harmonic oscillator equations.

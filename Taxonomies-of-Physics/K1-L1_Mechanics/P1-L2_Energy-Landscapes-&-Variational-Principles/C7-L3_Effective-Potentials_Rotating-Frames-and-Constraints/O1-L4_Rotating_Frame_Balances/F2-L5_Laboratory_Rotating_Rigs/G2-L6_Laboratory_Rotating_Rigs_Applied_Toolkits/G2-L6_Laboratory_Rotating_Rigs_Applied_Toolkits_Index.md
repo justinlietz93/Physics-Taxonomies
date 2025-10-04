@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Rotating_Rig_Safety_Check_Pack — Safety and alignment pack for rotating-frame teaching rigs.
+- S2-L7_Rotor_Dynamics_Testbed_Setup_Log — Setup log for research rotating rigs probing effective potentials.

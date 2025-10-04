@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Piston_Velocity_Damping_Bench — Dashpot piston test showing linear damping force versus velocity.
+- S2-L7_Pendulum_Air_Damping_Study — Pendulum decay study revealing viscous air damping behavior.

@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Canonical_vs_Microcanonical_Comparison_Set — Comparison set contrasting canonical and microcanonical ensemble predictions.
+- S2-L7_Grand_Canonical_Particle_Bath_Exercise — Exercise modeling particle exchange with the grand canonical ensemble.

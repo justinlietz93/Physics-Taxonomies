@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_HVAC_Heat_Flux_Survey_Kit — Survey kit applying Fourier's law to assess building envelope heat flux.
+- S2-L7_Groundwater_Flow_Assessment_Log — Log validating Darcy's law during groundwater remediation assessments.

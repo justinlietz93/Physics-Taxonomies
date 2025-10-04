@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Steam_Bottoming_Plant_Walkthrough — Walkthrough of steam bottoming cycle integration in a gas turbine plant.
+- S2-L7_Organic_Rankine_Hybrid_Demo — Demo of an organic Rankine hybrid recovering low-grade waste heat.

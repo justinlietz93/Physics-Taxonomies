@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Thermoelectric_Coupling_Workshop — Workshop measuring coupled thermoelectric transport coefficients and Onsager symmetry.
+- S2-L7_Cross_Diffusion_Model_Demo — Demo showing cross-diffusion and coupled transport coefficients in mixtures.

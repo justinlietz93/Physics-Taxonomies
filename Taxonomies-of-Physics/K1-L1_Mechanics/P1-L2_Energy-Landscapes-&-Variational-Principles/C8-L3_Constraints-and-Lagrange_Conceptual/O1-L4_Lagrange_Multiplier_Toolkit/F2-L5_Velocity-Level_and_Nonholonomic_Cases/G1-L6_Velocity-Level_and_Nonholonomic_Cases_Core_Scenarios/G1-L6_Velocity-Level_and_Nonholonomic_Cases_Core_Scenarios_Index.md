@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Rolling_Wheel_Nonholonomic_Derivation — Rolling wheel derivation illustrating velocity-level nonholonomic constraints.
+- S2-L7_Robot_Car_Kinematic_Workshop — Workshop deriving differential-drive robot nonholonomic motion limits.

@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Multiplicative_Noise_Bead_Channel_Demo — Bead-in-channel lab showing multiplicative noise growing with position.
+- S2-L7_State_Dependent_Duffing_Response_Run — Duffing oscillator run revealing energy-dependent noise escape rates.
