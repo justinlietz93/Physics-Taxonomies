@@ -1,5 +1,5 @@
 # S1-L7_Oceanic-Current-Systems_Everyday_Snapshot — Species Index
-**Definition:** Walks through oceanic current systems applied toolkits via a home weather station tune-up so the idea feels tangible.
+**Definition:** Walks through Oceanic Current Systems with a patient-family waiting room chat so the idea feels rooted in daily life.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Start with the home weather station tune-up story, then map each cue back to the oceanic current systems applied toolkits levers.
-- Emphasize what listeners can touch, hear, or time in that setting.
+- Start inside that patient-family waiting room chat moment, pointing to cues that stand for the oceanic current systems levers.
+- Invite listeners to spot the same beats the next time they stage a patient-family waiting room chat.

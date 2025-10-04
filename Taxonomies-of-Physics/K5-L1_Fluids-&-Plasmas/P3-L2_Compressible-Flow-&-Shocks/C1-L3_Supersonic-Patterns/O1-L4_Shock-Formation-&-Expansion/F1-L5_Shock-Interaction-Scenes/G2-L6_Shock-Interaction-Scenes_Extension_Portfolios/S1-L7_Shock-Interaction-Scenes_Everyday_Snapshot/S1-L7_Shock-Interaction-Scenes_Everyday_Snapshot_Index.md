@@ -1,5 +1,5 @@
 # S1-L7_Shock-Interaction-Scenes_Everyday_Snapshot — Species Index
-**Definition:** Walks through shock interaction scenes extension portfolios via a coffee shop workflow so the idea feels tangible.
+**Definition:** Walks through Shock Interaction Scenes with an after-school club meetup so the idea feels rooted in daily life.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Start with the coffee shop workflow story, then map each cue back to the shock interaction scenes extension portfolios levers.
-- Emphasize what listeners can touch, hear, or time in that setting.
+- Start inside that after-school club meetup moment, pointing to cues that stand for the shock interaction scenes levers.
+- Invite listeners to spot the same beats the next time they stage a after-school club meetup.

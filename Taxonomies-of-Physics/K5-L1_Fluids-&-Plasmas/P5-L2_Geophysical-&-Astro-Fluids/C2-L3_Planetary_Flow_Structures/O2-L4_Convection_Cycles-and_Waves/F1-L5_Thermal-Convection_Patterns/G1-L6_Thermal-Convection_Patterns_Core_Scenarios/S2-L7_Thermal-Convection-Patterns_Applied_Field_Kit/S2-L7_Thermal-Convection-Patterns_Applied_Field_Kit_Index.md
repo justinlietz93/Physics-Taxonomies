@@ -1,5 +1,5 @@
 # S2-L7_Thermal-Convection-Patterns_Applied_Field_Kit — Species Index
-**Definition:** Packages thermal convection patterns core scenarios into an after-school project that a small crew could run.
+**Definition:** Packages Thermal Convection Patterns into a pilot plant action log that a small team can run without special gear.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Frame it as prepping an after-school project, highlighting roles that mirror the physics pieces.
-- Close by inviting a quick sketch or checklist the audience could adapt.
+- Frame the steps as assembling the pilot plant action log, mapping each move to the thermal convection patterns checkpoints.
+- Close by suggesting a quick debrief so the crew can tune the thermal convection patterns playbook.

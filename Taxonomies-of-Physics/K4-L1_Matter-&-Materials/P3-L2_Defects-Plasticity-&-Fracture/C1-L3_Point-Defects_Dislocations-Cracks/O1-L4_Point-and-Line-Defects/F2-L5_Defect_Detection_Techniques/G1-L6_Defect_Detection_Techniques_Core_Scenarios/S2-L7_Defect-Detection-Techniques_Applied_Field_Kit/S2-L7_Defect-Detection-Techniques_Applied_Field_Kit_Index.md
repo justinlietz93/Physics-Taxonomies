@@ -1,5 +1,5 @@
 # S2-L7_Defect-Detection-Techniques_Applied_Field_Kit — Species Index
-**Definition:** Packages defect detection techniques core scenarios into a robotics club sprint that a small crew could run.
+**Definition:** Packages Defect Detection Techniques into a pop-up field lab kit that a small team can run without special gear.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Frame it as prepping a robotics club sprint, highlighting roles that mirror the physics pieces.
-- Close by inviting a quick sketch or checklist the audience could adapt.
+- Frame the steps as assembling the pop-up field lab kit, mapping each move to the defect detection techniques checkpoints.
+- Close by suggesting a quick debrief so the crew can tune the defect detection techniques playbook.

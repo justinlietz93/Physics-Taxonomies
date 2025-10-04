@@ -12,5 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
-- S1-L7_Fracture-Mechanics-Criteria_Everyday_Snapshot — A coffee shop workflow that makes fracture mechanics criteria applied toolkits feel hands-on.
-- S2-L7_Fracture-Mechanics-Criteria_Applied_Field_Kit — An urban planning walk turning fracture mechanics criteria applied toolkits into a team-ready playbook.
+- S1-L7_Fracture-Mechanics-Criteria_Everyday_Snapshot — A community garden tour story that grounds Fracture Mechanics Criteria in familiar cues.
+- S2-L7_Fracture-Mechanics-Criteria_Applied_Field_Kit — A portable briefing deck teams can deploy to try Fracture Mechanics Criteria in the field.

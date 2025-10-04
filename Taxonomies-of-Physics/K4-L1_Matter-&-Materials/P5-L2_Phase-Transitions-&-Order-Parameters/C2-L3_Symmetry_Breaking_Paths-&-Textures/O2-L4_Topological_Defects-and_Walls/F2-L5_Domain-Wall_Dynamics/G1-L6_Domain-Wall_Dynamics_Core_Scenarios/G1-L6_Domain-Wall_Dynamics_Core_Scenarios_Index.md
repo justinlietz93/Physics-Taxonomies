@@ -1,5 +1,5 @@
 # G1-L6_Domain-Wall_Dynamics_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for domain-wall dynamics.
+**Definition:** Spotlights core scenarios for domain wall dynamics.
 
 ## Overarching Lenses
 
@@ -12,5 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
-- S1-L7_Domain-Wall-Dynamics_Everyday_Snapshot — A local library program that makes domain wall dynamics core scenarios feel hands-on.
-- S2-L7_Domain-Wall-Dynamics_Applied_Field_Kit — A weekend workshop turning domain wall dynamics core scenarios into a team-ready playbook.
+- S1-L7_Domain-Wall-Dynamics_Everyday_Snapshot — A farmers-market tasting table story that grounds Domain Wall Dynamics in familiar cues.
+- S2-L7_Domain-Wall-Dynamics_Applied_Field_Kit — A response rehearsal guide teams can deploy to try Domain Wall Dynamics in the field.

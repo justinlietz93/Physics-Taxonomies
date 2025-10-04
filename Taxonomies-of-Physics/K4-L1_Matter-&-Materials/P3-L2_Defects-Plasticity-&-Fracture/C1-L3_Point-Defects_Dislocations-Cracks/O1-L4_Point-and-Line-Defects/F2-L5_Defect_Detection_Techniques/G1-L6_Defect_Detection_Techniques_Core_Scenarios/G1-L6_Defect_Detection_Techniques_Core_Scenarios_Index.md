@@ -12,5 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
-- S1-L7_Defect-Detection-Techniques_Everyday_Snapshot — A grocery aisle restock that makes defect detection techniques core scenarios feel hands-on.
-- S2-L7_Defect-Detection-Techniques_Applied_Field_Kit — A robotics club sprint turning defect detection techniques core scenarios into a team-ready playbook.
+- S1-L7_Defect-Detection-Techniques_Everyday_Snapshot — A kitchen-table sketch story that grounds Defect Detection Techniques in familiar cues.
+- S2-L7_Defect-Detection-Techniques_Applied_Field_Kit — A pop-up field lab kit teams can deploy to try Defect Detection Techniques in the field.

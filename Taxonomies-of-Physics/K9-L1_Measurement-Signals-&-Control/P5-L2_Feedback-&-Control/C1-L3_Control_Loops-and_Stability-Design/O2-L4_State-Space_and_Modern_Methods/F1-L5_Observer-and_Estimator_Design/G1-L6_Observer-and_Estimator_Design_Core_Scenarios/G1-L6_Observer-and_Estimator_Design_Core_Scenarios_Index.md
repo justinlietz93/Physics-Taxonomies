@@ -1,5 +1,5 @@
 # G1-L6_Observer-and_Estimator_Design_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for observer-and estimator design.
+**Definition:** Spotlights core scenarios for observer and estimator design.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Observer-and-Estimator-Design_Everyday_Snapshot — A train platform wait story that grounds Observer and Estimator Design in familiar cues.
+- S2-L7_Observer-and-Estimator-Design_Applied_Field_Kit — A shift-change navigator teams can deploy to try Observer and Estimator Design in the field.

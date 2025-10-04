@@ -1,5 +1,5 @@
 # S1-L7_Surface-Only-Conduction_Everyday_Snapshot — Species Index
-**Definition:** Walks through surface only conduction extension portfolios via a makerspace build day so the idea feels tangible.
+**Definition:** Walks through Surface Only Conduction with a neighborhood watch walk so the idea feels rooted in daily life.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Start with the makerspace build day story, then map each cue back to the surface only conduction extension portfolios levers.
-- Emphasize what listeners can touch, hear, or time in that setting.
+- Start inside that neighborhood watch walk moment, pointing to cues that stand for the surface only conduction levers.
+- Invite listeners to spot the same beats the next time they stage a neighborhood watch walk.

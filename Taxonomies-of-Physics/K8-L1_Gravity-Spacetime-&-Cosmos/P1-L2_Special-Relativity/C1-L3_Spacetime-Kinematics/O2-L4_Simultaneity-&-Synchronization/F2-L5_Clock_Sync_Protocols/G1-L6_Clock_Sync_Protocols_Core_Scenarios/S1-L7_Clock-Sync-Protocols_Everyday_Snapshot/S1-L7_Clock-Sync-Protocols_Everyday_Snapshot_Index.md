@@ -1,5 +1,5 @@
 # S1-L7_Clock-Sync-Protocols_Everyday_Snapshot — Species Index
-**Definition:** Walks through clock sync protocols core scenarios via a neighborhood watch patrol so the idea feels tangible.
+**Definition:** Walks through Clock Sync Protocols with a backyard stargazing chat so the idea feels rooted in daily life.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Start with the neighborhood watch patrol story, then map each cue back to the clock sync protocols core scenarios levers.
-- Emphasize what listeners can touch, hear, or time in that setting.
+- Start inside that backyard stargazing chat moment, pointing to cues that stand for the clock sync protocols levers.
+- Invite listeners to spot the same beats the next time they stage a backyard stargazing chat.

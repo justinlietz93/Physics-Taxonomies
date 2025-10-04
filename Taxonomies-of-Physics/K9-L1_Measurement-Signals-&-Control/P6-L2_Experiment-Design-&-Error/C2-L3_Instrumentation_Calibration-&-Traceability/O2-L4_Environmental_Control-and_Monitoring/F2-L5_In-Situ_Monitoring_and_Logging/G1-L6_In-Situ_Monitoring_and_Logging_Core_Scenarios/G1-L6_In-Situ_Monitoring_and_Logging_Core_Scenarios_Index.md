@@ -1,5 +1,5 @@
 # G1-L6_In-Situ_Monitoring_and_Logging_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for in-situ monitoring and logging.
+**Definition:** Spotlights core scenarios for in situ monitoring and logging.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_In-Situ-Monitoring-and-Logging_Everyday_Snapshot — A garage tinkering session story that grounds In Situ Monitoring and Logging in familiar cues.
+- S2-L7_In-Situ-Monitoring-and-Logging_Applied_Field_Kit — A expedition field notebook teams can deploy to try In Situ Monitoring and Logging in the field.

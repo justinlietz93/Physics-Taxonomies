@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Nonlinear-Collapse-and-Halo-Building_Everyday_Snapshot — A community theater backstage warmup story that grounds Nonlinear Collapse and Halo Building in familiar cues.
+- S2-L7_Nonlinear-Collapse-and-Halo-Building_Applied_Field_Kit — A transition stand-up script teams can deploy to try Nonlinear Collapse and Halo Building in the field.

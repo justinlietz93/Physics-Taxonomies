@@ -1,5 +1,5 @@
 # G2-L6_Reynolds-Number-Stories_Extension_Portfolios — Genus Index
-**Definition:** Maps extension portfolios surrounding reynolds-number-stories.
+**Definition:** Maps extension portfolios surrounding reynolds number stories.
 
 ## Overarching Lenses
 
@@ -12,5 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
-- S1-L7_Reynolds-Number-Stories_Everyday_Snapshot — A school science night that makes reynolds number stories extension portfolios feel hands-on.
-- S2-L7_Reynolds-Number-Stories_Applied_Field_Kit — A garage build turning reynolds number stories extension portfolios into a team-ready playbook.
+- S1-L7_Reynolds-Number-Stories_Everyday_Snapshot — A weekend hiking lookout break story that grounds Reynolds Number Stories in familiar cues.
+- S2-L7_Reynolds-Number-Stories_Applied_Field_Kit — A prototype retrofit binder teams can deploy to try Reynolds Number Stories in the field.

@@ -1,5 +1,5 @@
 # S2-L7_Vehicle-Aerodynamic-Impacts_Applied_Field_Kit — Species Index
-**Definition:** Packages vehicle aerodynamic impacts core scenarios into a pop-up science fair that a small crew could run.
+**Definition:** Packages Vehicle Aerodynamic Impacts into a process rehearsal storyboard that a small team can run without special gear.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Frame it as prepping a pop-up science fair, highlighting roles that mirror the physics pieces.
-- Close by inviting a quick sketch or checklist the audience could adapt.
+- Frame the steps as assembling the process rehearsal storyboard, mapping each move to the vehicle aerodynamic impacts checkpoints.
+- Close by suggesting a quick debrief so the crew can tune the vehicle aerodynamic impacts playbook.

@@ -1,5 +1,5 @@
 # S1-L7_Protected-State-Applications_Everyday_Snapshot — Species Index
-**Definition:** Walks through protected state applications core scenarios via a skatepark line check so the idea feels tangible.
+**Definition:** Walks through Protected State Applications with a community radio call-in so the idea feels rooted in daily life.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Start with the skatepark line check story, then map each cue back to the protected state applications core scenarios levers.
-- Emphasize what listeners can touch, hear, or time in that setting.
+- Start inside that community radio call-in moment, pointing to cues that stand for the protected state applications levers.
+- Invite listeners to spot the same beats the next time they stage a community radio call-in.

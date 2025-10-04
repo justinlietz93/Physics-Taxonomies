@@ -12,5 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
-- S1-L7_Critical-Point-Simulators_Everyday_Snapshot — A laundry day sorting that makes critical point simulators applied toolkits feel hands-on.
-- S2-L7_Critical-Point-Simulators_Applied_Field_Kit — An after-school project turning critical point simulators applied toolkits into a team-ready playbook.
+- S1-L7_Critical-Point-Simulators_Everyday_Snapshot — A urban park observation walk story that grounds Critical Point Simulators in familiar cues.
+- S2-L7_Critical-Point-Simulators_Applied_Field_Kit — A interdisciplinary stand-up kit teams can deploy to try Critical Point Simulators in the field.

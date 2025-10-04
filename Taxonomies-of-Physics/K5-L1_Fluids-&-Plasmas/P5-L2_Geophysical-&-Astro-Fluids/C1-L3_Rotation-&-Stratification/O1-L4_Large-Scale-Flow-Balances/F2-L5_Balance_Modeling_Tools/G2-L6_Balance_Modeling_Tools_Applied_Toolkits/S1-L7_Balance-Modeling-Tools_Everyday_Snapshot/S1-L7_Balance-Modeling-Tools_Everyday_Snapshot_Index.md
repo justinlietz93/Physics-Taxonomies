@@ -1,5 +1,5 @@
 # S1-L7_Balance-Modeling-Tools_Everyday_Snapshot — Species Index
-**Definition:** Walks through balance modeling tools applied toolkits via a school science night so the idea feels tangible.
+**Definition:** Walks through Balance Modeling Tools with a makerspace tool orientation so the idea feels rooted in daily life.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Start with the school science night story, then map each cue back to the balance modeling tools applied toolkits levers.
-- Emphasize what listeners can touch, hear, or time in that setting.
+- Start inside that makerspace tool orientation moment, pointing to cues that stand for the balance modeling tools levers.
+- Invite listeners to spot the same beats the next time they stage a makerspace tool orientation.

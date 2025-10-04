@@ -1,5 +1,5 @@
 # S1-L7_Process-Tailoring-Guides_Everyday_Snapshot — Species Index
-**Definition:** Walks through process tailoring guides core scenarios via a weekend hike prep so the idea feels tangible.
+**Definition:** Walks through Process Tailoring Guides with a team stand-up check-in so the idea feels rooted in daily life.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Start with the weekend hike prep story, then map each cue back to the process tailoring guides core scenarios levers.
-- Emphasize what listeners can touch, hear, or time in that setting.
+- Start inside that team stand-up check-in moment, pointing to cues that stand for the process tailoring guides levers.
+- Invite listeners to spot the same beats the next time they stage a team stand-up check-in.

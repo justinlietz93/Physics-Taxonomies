@@ -1,5 +1,5 @@
 # S2-L7_Flux-Freezing-Breakdowns_Applied_Field_Kit — Species Index
-**Definition:** Packages flux freezing breakdowns applied toolkits into a library maker cart that a small crew could run.
+**Definition:** Packages Flux Freezing Breakdowns into a frontline coaching kit that a small team can run without special gear.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Frame it as prepping a library maker cart, highlighting roles that mirror the physics pieces.
-- Close by inviting a quick sketch or checklist the audience could adapt.
+- Frame the steps as assembling the frontline coaching kit, mapping each move to the flux freezing breakdowns checkpoints.
+- Close by suggesting a quick debrief so the crew can tune the flux freezing breakdowns playbook.

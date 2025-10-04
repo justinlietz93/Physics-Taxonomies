@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Averaging-and-Batch-Strategies_Everyday_Snapshot — A community theater backstage warmup story that grounds Averaging and Batch Strategies in familiar cues.
+- S2-L7_Averaging-and-Batch-Strategies_Applied_Field_Kit — A weekend pilot playbook teams can deploy to try Averaging and Batch Strategies in the field.

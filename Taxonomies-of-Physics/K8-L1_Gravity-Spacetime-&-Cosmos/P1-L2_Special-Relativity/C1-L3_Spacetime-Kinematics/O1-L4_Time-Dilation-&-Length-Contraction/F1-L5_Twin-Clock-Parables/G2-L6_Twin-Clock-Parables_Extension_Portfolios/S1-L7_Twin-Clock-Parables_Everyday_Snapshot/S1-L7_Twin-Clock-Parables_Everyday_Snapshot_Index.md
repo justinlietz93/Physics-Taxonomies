@@ -1,5 +1,5 @@
 # S1-L7_Twin-Clock-Parables_Everyday_Snapshot — Species Index
-**Definition:** Walks through twin clock parables extension portfolios via a city traffic light timing so the idea feels tangible.
+**Definition:** Walks through Twin Clock Parables with a farm co-op weigh-in so the idea feels rooted in daily life.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Start with the city traffic light timing story, then map each cue back to the twin clock parables extension portfolios levers.
-- Emphasize what listeners can touch, hear, or time in that setting.
+- Start inside that farm co-op weigh-in moment, pointing to cues that stand for the twin clock parables levers.
+- Invite listeners to spot the same beats the next time they stage a farm co-op weigh-in.

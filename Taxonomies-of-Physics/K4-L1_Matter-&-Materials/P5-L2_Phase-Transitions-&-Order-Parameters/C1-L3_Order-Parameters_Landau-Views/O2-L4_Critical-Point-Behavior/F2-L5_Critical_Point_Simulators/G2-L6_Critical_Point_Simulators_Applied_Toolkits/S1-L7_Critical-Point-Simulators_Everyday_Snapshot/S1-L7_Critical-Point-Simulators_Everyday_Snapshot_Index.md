@@ -1,5 +1,5 @@
 # S1-L7_Critical-Point-Simulators_Everyday_Snapshot — Species Index
-**Definition:** Walks through critical point simulators applied toolkits via a laundry day sorting so the idea feels tangible.
+**Definition:** Walks through Critical Point Simulators with an urban park observation walk so the idea feels rooted in daily life.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Start with the laundry day sorting story, then map each cue back to the critical point simulators applied toolkits levers.
-- Emphasize what listeners can touch, hear, or time in that setting.
+- Start inside that urban park observation walk moment, pointing to cues that stand for the critical point simulators levers.
+- Invite listeners to spot the same beats the next time they stage a urban park observation walk.

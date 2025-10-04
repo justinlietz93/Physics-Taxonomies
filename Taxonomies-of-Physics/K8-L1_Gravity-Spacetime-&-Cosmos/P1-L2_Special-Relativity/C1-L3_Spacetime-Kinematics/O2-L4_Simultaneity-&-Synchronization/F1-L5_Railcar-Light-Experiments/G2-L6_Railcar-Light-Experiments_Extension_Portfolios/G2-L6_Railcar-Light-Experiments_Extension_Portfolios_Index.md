@@ -1,5 +1,5 @@
 # G2-L6_Railcar-Light-Experiments_Extension_Portfolios — Genus Index
-**Definition:** Maps extension portfolios surrounding railcar-light-experiments.
+**Definition:** Maps extension portfolios surrounding railcar light experiments.
 
 ## Overarching Lenses
 
@@ -12,5 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
-- S1-L7_Railcar-Light-Experiments_Everyday_Snapshot — A city traffic light timing that makes railcar light experiments extension portfolios feel hands-on.
-- S2-L7_Railcar-Light-Experiments_Applied_Field_Kit — A school outreach visit turning railcar light experiments extension portfolios into a team-ready playbook.
+- S1-L7_Railcar-Light-Experiments_Everyday_Snapshot — A coffee shop napkin huddle story that grounds Railcar Light Experiments in familiar cues.
+- S2-L7_Railcar-Light-Experiments_Applied_Field_Kit — A rapid response drill teams can deploy to try Railcar Light Experiments in the field.

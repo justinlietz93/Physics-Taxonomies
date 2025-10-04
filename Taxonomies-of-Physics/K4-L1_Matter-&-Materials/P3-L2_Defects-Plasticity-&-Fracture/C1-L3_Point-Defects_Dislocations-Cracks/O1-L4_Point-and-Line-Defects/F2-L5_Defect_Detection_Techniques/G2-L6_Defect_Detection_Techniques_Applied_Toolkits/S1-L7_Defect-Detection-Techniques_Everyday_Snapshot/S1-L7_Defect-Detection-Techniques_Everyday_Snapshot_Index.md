@@ -1,5 +1,5 @@
 # S1-L7_Defect-Detection-Techniques_Everyday_Snapshot — Species Index
-**Definition:** Walks through defect detection techniques applied toolkits via a grocery aisle restock so the idea feels tangible.
+**Definition:** Walks through Defect Detection Techniques with a coffee shop napkin huddle so the idea feels rooted in daily life.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Start with the grocery aisle restock story, then map each cue back to the defect detection techniques applied toolkits levers.
-- Emphasize what listeners can touch, hear, or time in that setting.
+- Start inside that coffee shop napkin huddle moment, pointing to cues that stand for the defect detection techniques levers.
+- Invite listeners to spot the same beats the next time they stage a coffee shop napkin huddle.

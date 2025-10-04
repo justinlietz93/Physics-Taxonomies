@@ -1,5 +1,5 @@
 # G1-L6_Continuous-and_Stochastic_Sources_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for continuous-and stochastic sources.
+**Definition:** Spotlights core scenarios for continuous and stochastic sources.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Continuous-and-Stochastic-Sources_Everyday_Snapshot — A morning weather briefing story that grounds Continuous and Stochastic Sources in familiar cues.
+- S2-L7_Continuous-and-Stochastic-Sources_Applied_Field_Kit — A lab-to-floor translation kit teams can deploy to try Continuous and Stochastic Sources in the field.

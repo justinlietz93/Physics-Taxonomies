@@ -1,5 +1,5 @@
 # S1-L7_Midlatitude-Atmospheric-Flows_Everyday_Snapshot — Species Index
-**Definition:** Walks through midlatitude atmospheric flows core scenarios via a school science night so the idea feels tangible.
+**Definition:** Walks through Midlatitude Atmospheric Flows with a town hall open mic so the idea feels rooted in daily life.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Start with the school science night story, then map each cue back to the midlatitude atmospheric flows core scenarios levers.
-- Emphasize what listeners can touch, hear, or time in that setting.
+- Start inside that town hall open mic moment, pointing to cues that stand for the midlatitude atmospheric flows levers.
+- Invite listeners to spot the same beats the next time they stage a town hall open mic.

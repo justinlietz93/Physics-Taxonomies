@@ -1,5 +1,5 @@
 # S2-L7_Particle-Collider-Budgets_Applied_Field_Kit — Species Index
-**Definition:** Packages particle collider budgets extension portfolios into a citizen science route that a small crew could run.
+**Definition:** Packages Particle Collider Budgets into a portable briefing deck that a small team can run without special gear.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Frame it as prepping a citizen science route, highlighting roles that mirror the physics pieces.
-- Close by inviting a quick sketch or checklist the audience could adapt.
+- Frame the steps as assembling the portable briefing deck, mapping each move to the particle collider budgets checkpoints.
+- Close by suggesting a quick debrief so the crew can tune the particle collider budgets playbook.

@@ -1,5 +1,5 @@
 # S2-L7_Viscoelastic-Model-Fitting_Applied_Field_Kit — Species Index
-**Definition:** Packages viscoelastic model fitting core scenarios into a garage build that a small crew could run.
+**Definition:** Packages Viscoelastic Model Fitting into an on-call troubleshooting kit that a small team can run without special gear.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Frame it as prepping a garage build, highlighting roles that mirror the physics pieces.
-- Close by inviting a quick sketch or checklist the audience could adapt.
+- Frame the steps as assembling the on-call troubleshooting kit, mapping each move to the viscoelastic model fitting checkpoints.
+- Close by suggesting a quick debrief so the crew can tune the viscoelastic model fitting playbook.

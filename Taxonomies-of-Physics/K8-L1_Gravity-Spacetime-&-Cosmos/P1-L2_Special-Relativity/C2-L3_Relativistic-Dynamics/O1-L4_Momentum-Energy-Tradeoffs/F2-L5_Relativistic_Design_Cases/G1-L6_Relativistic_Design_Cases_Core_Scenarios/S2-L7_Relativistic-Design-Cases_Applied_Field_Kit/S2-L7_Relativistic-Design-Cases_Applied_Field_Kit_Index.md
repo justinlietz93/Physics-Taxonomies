@@ -1,5 +1,5 @@
 # S2-L7_Relativistic-Design-Cases_Applied_Field_Kit — Species Index
-**Definition:** Packages relativistic design cases core scenarios into a farmers market stand that a small crew could run.
+**Definition:** Packages Relativistic Design Cases into an on-call troubleshooting kit that a small team can run without special gear.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Frame it as prepping a farmers market stand, highlighting roles that mirror the physics pieces.
-- Close by inviting a quick sketch or checklist the audience could adapt.
+- Frame the steps as assembling the on-call troubleshooting kit, mapping each move to the relativistic design cases checkpoints.
+- Close by suggesting a quick debrief so the crew can tune the relativistic design cases playbook.

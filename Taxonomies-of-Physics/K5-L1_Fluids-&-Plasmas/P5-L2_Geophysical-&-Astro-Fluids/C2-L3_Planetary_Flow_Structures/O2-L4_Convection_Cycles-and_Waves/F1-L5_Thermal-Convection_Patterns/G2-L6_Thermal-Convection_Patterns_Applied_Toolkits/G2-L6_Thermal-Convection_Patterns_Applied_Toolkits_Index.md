@@ -1,5 +1,5 @@
 # G2-L6_Thermal-Convection_Patterns_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for thermal-convection patterns.
+**Definition:** Collects applied toolkits for thermal convection patterns.
 
 ## Overarching Lenses
 
@@ -12,5 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
-- S1-L7_Thermal-Convection-Patterns_Everyday_Snapshot — A bike workshop check that makes thermal convection patterns applied toolkits feel hands-on.
-- S2-L7_Thermal-Convection-Patterns_Applied_Field_Kit — An after-school project turning thermal convection patterns applied toolkits into a team-ready playbook.
+- S1-L7_Thermal-Convection-Patterns_Everyday_Snapshot — A city bike share pit stop story that grounds Thermal Convection Patterns in familiar cues.
+- S2-L7_Thermal-Convection-Patterns_Applied_Field_Kit — A response jump kit teams can deploy to try Thermal Convection Patterns in the field.

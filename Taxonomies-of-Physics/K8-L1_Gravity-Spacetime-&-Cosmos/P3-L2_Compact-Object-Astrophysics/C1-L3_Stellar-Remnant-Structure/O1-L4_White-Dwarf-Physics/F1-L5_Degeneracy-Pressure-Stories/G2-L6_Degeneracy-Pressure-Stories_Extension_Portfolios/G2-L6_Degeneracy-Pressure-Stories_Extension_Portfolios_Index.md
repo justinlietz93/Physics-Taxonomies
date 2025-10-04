@@ -1,5 +1,5 @@
 # G2-L6_Degeneracy-Pressure-Stories_Extension_Portfolios — Genus Index
-**Definition:** Maps extension portfolios surrounding degeneracy-pressure-stories.
+**Definition:** Maps extension portfolios surrounding degeneracy pressure stories.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Degeneracy-Pressure-Stories_Everyday_Snapshot — A maker-space open lab hour story that grounds Degeneracy Pressure Stories in familiar cues.
+- S2-L7_Degeneracy-Pressure-Stories_Applied_Field_Kit — A lab-to-floor translation kit teams can deploy to try Degeneracy Pressure Stories in the field.

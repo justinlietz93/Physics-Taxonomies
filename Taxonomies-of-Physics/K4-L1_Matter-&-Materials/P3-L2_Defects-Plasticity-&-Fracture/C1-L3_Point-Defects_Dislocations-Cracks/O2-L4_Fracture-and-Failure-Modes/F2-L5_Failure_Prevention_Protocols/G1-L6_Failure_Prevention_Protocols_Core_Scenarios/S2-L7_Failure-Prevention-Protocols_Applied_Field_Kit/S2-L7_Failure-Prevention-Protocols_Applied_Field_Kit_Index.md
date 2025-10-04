@@ -1,5 +1,5 @@
 # S2-L7_Failure-Prevention-Protocols_Applied_Field_Kit — Species Index
-**Definition:** Packages failure prevention protocols core scenarios into a field kit that a small crew could run.
+**Definition:** Packages Failure Prevention Protocols into a rapid response drill that a small team can run without special gear.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Frame it as prepping a field kit, highlighting roles that mirror the physics pieces.
-- Close by inviting a quick sketch or checklist the audience could adapt.
+- Frame the steps as assembling the rapid response drill, mapping each move to the failure prevention protocols checkpoints.
+- Close by suggesting a quick debrief so the crew can tune the failure prevention protocols playbook.

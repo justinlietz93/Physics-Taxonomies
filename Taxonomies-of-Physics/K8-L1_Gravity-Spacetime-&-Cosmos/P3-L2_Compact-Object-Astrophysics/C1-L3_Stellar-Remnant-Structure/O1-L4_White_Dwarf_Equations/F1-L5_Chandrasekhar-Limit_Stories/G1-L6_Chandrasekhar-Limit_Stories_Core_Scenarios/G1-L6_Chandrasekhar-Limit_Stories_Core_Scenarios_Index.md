@@ -1,5 +1,5 @@
 # G1-L6_Chandrasekhar-Limit_Stories_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for chandrasekhar-limit stories.
+**Definition:** Spotlights core scenarios for chandrasekhar limit stories.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Chandrasekhar-Limit-Stories_Everyday_Snapshot — A design studio whiteboard jam story that grounds Chandrasekhar Limit Stories in familiar cues.
+- S2-L7_Chandrasekhar-Limit-Stories_Applied_Field_Kit — A response rehearsal guide teams can deploy to try Chandrasekhar Limit Stories in the field.

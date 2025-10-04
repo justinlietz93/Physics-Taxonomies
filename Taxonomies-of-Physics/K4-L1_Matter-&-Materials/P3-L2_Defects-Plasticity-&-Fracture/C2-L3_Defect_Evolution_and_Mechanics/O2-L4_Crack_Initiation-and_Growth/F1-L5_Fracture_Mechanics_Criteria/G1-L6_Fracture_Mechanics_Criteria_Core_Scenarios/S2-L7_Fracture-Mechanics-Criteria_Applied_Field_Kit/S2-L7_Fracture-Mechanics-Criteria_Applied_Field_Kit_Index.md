@@ -1,5 +1,5 @@
 # S2-L7_Fracture-Mechanics-Criteria_Applied_Field_Kit — Species Index
-**Definition:** Packages fracture mechanics criteria core scenarios into an urban planning walk that a small crew could run.
+**Definition:** Packages Fracture Mechanics Criteria into a studio storyboard sprint that a small team can run without special gear.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Frame it as prepping an urban planning walk, highlighting roles that mirror the physics pieces.
-- Close by inviting a quick sketch or checklist the audience could adapt.
+- Frame the steps as assembling the studio storyboard sprint, mapping each move to the fracture mechanics criteria checkpoints.
+- Close by suggesting a quick debrief so the crew can tune the fracture mechanics criteria playbook.

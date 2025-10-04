@@ -12,5 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
-- S1-L7_Microstructure-Control-Techniques_Everyday_Snapshot — A backyard telescope setup that makes microstructure control techniques applied toolkits feel hands-on.
-- S2-L7_Microstructure-Control-Techniques_Applied_Field_Kit — A pop-up science fair turning microstructure control techniques applied toolkits into a team-ready playbook.
+- S1-L7_Microstructure-Control-Techniques_Everyday_Snapshot — A maker-space open lab hour story that grounds Microstructure Control Techniques in familiar cues.
+- S2-L7_Microstructure-Control-Techniques_Applied_Field_Kit — A shared dashboard sprint teams can deploy to try Microstructure Control Techniques in the field.

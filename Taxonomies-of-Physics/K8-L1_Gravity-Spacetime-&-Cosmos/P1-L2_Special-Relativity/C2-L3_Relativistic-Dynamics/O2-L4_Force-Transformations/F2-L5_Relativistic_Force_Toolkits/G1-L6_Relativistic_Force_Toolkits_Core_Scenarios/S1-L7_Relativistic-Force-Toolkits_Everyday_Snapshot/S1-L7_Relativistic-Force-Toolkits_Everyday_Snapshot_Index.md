@@ -1,5 +1,5 @@
 # S1-L7_Relativistic-Force-Toolkits_Everyday_Snapshot — Species Index
-**Definition:** Walks through relativistic force toolkits core scenarios via a community garden harvest so the idea feels tangible.
+**Definition:** Walks through Relativistic Force Toolkits with a school hallway demo so the idea feels rooted in daily life.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Start with the community garden harvest story, then map each cue back to the relativistic force toolkits core scenarios levers.
-- Emphasize what listeners can touch, hear, or time in that setting.
+- Start inside that school hallway demo moment, pointing to cues that stand for the relativistic force toolkits levers.
+- Invite listeners to spot the same beats the next time they stage a school hallway demo.

@@ -1,5 +1,5 @@
 # S1-L7_Failure-Prevention-Protocols_Everyday_Snapshot — Species Index
-**Definition:** Walks through failure prevention protocols core scenarios via a makerspace build day so the idea feels tangible.
+**Definition:** Walks through Failure Prevention Protocols with a museum floor walkthrough so the idea feels rooted in daily life.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Start with the makerspace build day story, then map each cue back to the failure prevention protocols core scenarios levers.
-- Emphasize what listeners can touch, hear, or time in that setting.
+- Start inside that museum floor walkthrough moment, pointing to cues that stand for the failure prevention protocols levers.
+- Invite listeners to spot the same beats the next time they stage a museum floor walkthrough.

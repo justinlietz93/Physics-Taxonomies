@@ -1,5 +1,5 @@
 # G2-L6_Pressure-&-Strain-Sensing_Extension_Portfolios — Genus Index
-**Definition:** Maps extension portfolios surrounding pressure-&-strain-sensing.
+**Definition:** Maps extension portfolios surrounding pressure & strain sensing.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Pressure-&-Strain-Sensing_Everyday_Snapshot — A farmers-market tasting table story that grounds Pressure & Strain Sensing in familiar cues.
+- S2-L7_Pressure-&-Strain-Sensing_Applied_Field_Kit — A mentor-onboarding folio teams can deploy to try Pressure & Strain Sensing in the field.

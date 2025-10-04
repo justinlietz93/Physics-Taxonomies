@@ -1,5 +1,5 @@
 # S2-L7_Microstructure-Control-Techniques_Applied_Field_Kit — Species Index
-**Definition:** Packages microstructure control techniques applied toolkits into a pop-up science fair that a small crew could run.
+**Definition:** Packages Microstructure Control Techniques into a shared dashboard sprint that a small team can run without special gear.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Frame it as prepping a pop-up science fair, highlighting roles that mirror the physics pieces.
-- Close by inviting a quick sketch or checklist the audience could adapt.
+- Frame the steps as assembling the shared dashboard sprint, mapping each move to the microstructure control techniques checkpoints.
+- Close by suggesting a quick debrief so the crew can tune the microstructure control techniques playbook.

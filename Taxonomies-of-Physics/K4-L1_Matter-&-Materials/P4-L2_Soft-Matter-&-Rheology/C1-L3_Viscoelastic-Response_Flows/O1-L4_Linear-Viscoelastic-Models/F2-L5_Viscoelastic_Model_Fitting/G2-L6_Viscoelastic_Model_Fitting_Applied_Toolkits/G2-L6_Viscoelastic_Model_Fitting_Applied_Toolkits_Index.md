@@ -12,5 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
-- S1-L7_Viscoelastic-Model-Fitting_Everyday_Snapshot — A smartphone calibration that makes viscoelastic model fitting applied toolkits feel hands-on.
-- S2-L7_Viscoelastic-Model-Fitting_Applied_Field_Kit — A garage build turning viscoelastic model fitting applied toolkits into a team-ready playbook.
+- S1-L7_Viscoelastic-Model-Fitting_Everyday_Snapshot — A library quiet corner activity story that grounds Viscoelastic Model Fitting in familiar cues.
+- S2-L7_Viscoelastic-Model-Fitting_Applied_Field_Kit — A prototype sprint pack teams can deploy to try Viscoelastic Model Fitting in the field.

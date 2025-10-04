@@ -1,5 +1,5 @@
 # G2-L6_Surface-Only-Conduction_Extension_Portfolios — Genus Index
-**Definition:** Maps extension portfolios surrounding surface-only-conduction.
+**Definition:** Maps extension portfolios surrounding surface only conduction.
 
 ## Overarching Lenses
 
@@ -12,5 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
-- S1-L7_Surface-Only-Conduction_Everyday_Snapshot — A makerspace build day that makes surface only conduction extension portfolios feel hands-on.
-- S2-L7_Surface-Only-Conduction_Applied_Field_Kit — A DIY repair night turning surface only conduction extension portfolios into a team-ready playbook.
+- S1-L7_Surface-Only-Conduction_Everyday_Snapshot — A neighborhood watch walk story that grounds Surface Only Conduction in familiar cues.
+- S2-L7_Surface-Only-Conduction_Applied_Field_Kit — A cross-team drill card set teams can deploy to try Surface Only Conduction in the field.

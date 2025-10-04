@@ -1,5 +1,5 @@
 # S1-L7_Transition-Diagnostics-Toolkits_Everyday_Snapshot — Species Index
-**Definition:** Walks through transition diagnostics toolkits core scenarios via a backyard telescope setup so the idea feels tangible.
+**Definition:** Walks through Transition Diagnostics Toolkits with a science museum pop-up so the idea feels rooted in daily life.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Start with the backyard telescope setup story, then map each cue back to the transition diagnostics toolkits core scenarios levers.
-- Emphasize what listeners can touch, hear, or time in that setting.
+- Start inside that science museum pop-up moment, pointing to cues that stand for the transition diagnostics toolkits levers.
+- Invite listeners to spot the same beats the next time they stage a science museum pop-up.

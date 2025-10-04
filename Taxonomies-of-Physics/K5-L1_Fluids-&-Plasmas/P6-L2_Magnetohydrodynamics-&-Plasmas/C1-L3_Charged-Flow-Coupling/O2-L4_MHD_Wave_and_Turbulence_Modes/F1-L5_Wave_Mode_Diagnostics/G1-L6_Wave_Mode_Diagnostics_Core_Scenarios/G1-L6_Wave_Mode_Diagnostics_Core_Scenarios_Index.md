@@ -12,5 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
-- S1-L7_Wave-Mode-Diagnostics_Everyday_Snapshot — A city traffic light timing that makes wave mode diagnostics core scenarios feel hands-on.
-- S2-L7_Wave-Mode-Diagnostics_Applied_Field_Kit — A school outreach visit turning wave mode diagnostics core scenarios into a team-ready playbook.
+- S1-L7_Wave-Mode-Diagnostics_Everyday_Snapshot — A mountain overlook picnic story that grounds Wave Mode Diagnostics in familiar cues.
+- S2-L7_Wave-Mode-Diagnostics_Applied_Field_Kit — A maintenance pop-up case teams can deploy to try Wave Mode Diagnostics in the field.

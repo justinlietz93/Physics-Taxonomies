@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Relativistic-Jets-and-Outflows_Everyday_Snapshot — A market stall sampling pause story that grounds Relativistic Jets and Outflows in familiar cues.
+- S2-L7_Relativistic-Jets-and-Outflows_Applied_Field_Kit — A process rehearsal storyboard teams can deploy to try Relativistic Jets and Outflows in the field.

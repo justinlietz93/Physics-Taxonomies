@@ -1,5 +1,5 @@
 # G2-L6_Epoch-Storyboards_Extension_Portfolios — Genus Index
-**Definition:** Maps extension portfolios surrounding epoch-storyboards.
+**Definition:** Maps extension portfolios surrounding epoch storyboards.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Epoch-Storyboards_Everyday_Snapshot — A science festival booth tour story that grounds Epoch Storyboards in familiar cues.
+- S2-L7_Epoch-Storyboards_Applied_Field_Kit — A operations practice grid teams can deploy to try Epoch Storyboards in the field.

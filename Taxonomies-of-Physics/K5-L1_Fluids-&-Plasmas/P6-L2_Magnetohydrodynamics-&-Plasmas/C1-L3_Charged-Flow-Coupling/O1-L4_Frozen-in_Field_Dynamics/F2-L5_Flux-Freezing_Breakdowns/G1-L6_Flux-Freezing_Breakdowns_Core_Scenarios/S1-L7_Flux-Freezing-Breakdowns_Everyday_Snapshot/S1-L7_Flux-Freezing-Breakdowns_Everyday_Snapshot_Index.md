@@ -1,5 +1,5 @@
 # S1-L7_Flux-Freezing-Breakdowns_Everyday_Snapshot — Species Index
-**Definition:** Walks through flux freezing breakdowns core scenarios via a smartphone calibration so the idea feels tangible.
+**Definition:** Walks through Flux Freezing Breakdowns with a firehouse open house demo so the idea feels rooted in daily life.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Start with the smartphone calibration story, then map each cue back to the flux freezing breakdowns core scenarios levers.
-- Emphasize what listeners can touch, hear, or time in that setting.
+- Start inside that firehouse open house demo moment, pointing to cues that stand for the flux freezing breakdowns levers.
+- Invite listeners to spot the same beats the next time they stage a firehouse open house demo.

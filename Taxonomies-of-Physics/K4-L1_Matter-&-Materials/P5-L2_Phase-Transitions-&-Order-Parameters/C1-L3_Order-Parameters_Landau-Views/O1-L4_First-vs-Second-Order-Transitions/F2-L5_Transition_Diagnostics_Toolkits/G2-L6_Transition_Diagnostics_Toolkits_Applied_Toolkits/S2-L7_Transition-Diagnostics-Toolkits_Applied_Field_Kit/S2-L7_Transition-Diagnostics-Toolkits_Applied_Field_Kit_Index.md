@@ -1,5 +1,5 @@
 # S2-L7_Transition-Diagnostics-Toolkits_Applied_Field_Kit — Species Index
-**Definition:** Packages transition diagnostics toolkits applied toolkits into a bike kitchen shift that a small crew could run.
+**Definition:** Packages Transition Diagnostics Toolkits into a lab-to-floor translation kit that a small team can run without special gear.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Frame it as prepping a bike kitchen shift, highlighting roles that mirror the physics pieces.
-- Close by inviting a quick sketch or checklist the audience could adapt.
+- Frame the steps as assembling the lab-to-floor translation kit, mapping each move to the transition diagnostics toolkits checkpoints.
+- Close by suggesting a quick debrief so the crew can tune the transition diagnostics toolkits playbook.

@@ -1,5 +1,5 @@
 # S2-L7_Critical-Point-Simulators_Applied_Field_Kit — Species Index
-**Definition:** Packages critical point simulators core scenarios into an after-school project that a small crew could run.
+**Definition:** Packages Critical Point Simulators into an operations jumpstart casefile that a small team can run without special gear.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Frame it as prepping an after-school project, highlighting roles that mirror the physics pieces.
-- Close by inviting a quick sketch or checklist the audience could adapt.
+- Frame the steps as assembling the operations jumpstart casefile, mapping each move to the critical point simulators checkpoints.
+- Close by suggesting a quick debrief so the crew can tune the critical point simulators playbook.

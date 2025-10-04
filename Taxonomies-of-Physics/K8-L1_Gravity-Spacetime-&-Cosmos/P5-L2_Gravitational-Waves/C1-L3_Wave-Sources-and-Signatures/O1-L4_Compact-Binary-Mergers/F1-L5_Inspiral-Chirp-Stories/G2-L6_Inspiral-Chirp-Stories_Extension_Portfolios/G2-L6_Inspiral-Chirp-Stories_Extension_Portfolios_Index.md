@@ -1,5 +1,5 @@
 # G2-L6_Inspiral-Chirp-Stories_Extension_Portfolios — Genus Index
-**Definition:** Maps extension portfolios surrounding inspiral-chirp-stories.
+**Definition:** Maps extension portfolios surrounding inspiral chirp stories.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Inspiral-Chirp-Stories_Everyday_Snapshot — A science cafe roundtable story that grounds Inspiral Chirp Stories in familiar cues.
+- S2-L7_Inspiral-Chirp-Stories_Applied_Field_Kit — A weekend pilot playbook teams can deploy to try Inspiral Chirp Stories in the field.

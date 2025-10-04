@@ -12,5 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
-- S1-L7_Process-Tailoring-Guides_Everyday_Snapshot — A weekend hike prep that makes process tailoring guides core scenarios feel hands-on.
-- S2-L7_Process-Tailoring-Guides_Applied_Field_Kit — A library maker cart turning process tailoring guides core scenarios into a team-ready playbook.
+- S1-L7_Process-Tailoring-Guides_Everyday_Snapshot — A team stand-up check-in story that grounds Process Tailoring Guides in familiar cues.
+- S2-L7_Process-Tailoring-Guides_Applied_Field_Kit — A site walkthrough binder teams can deploy to try Process Tailoring Guides in the field.

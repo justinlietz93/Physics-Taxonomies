@@ -1,5 +1,5 @@
 # S2-L7_2D-Electron-Examples_Applied_Field_Kit — Species Index
-**Definition:** Packages 2d electron examples extension portfolios into a DIY repair night that a small crew could run.
+**Definition:** Packages 2D Electron Examples into a mission patchwork planner that a small team can run without special gear.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Frame it as prepping a DIY repair night, highlighting roles that mirror the physics pieces.
-- Close by inviting a quick sketch or checklist the audience could adapt.
+- Frame the steps as assembling the mission patchwork planner, mapping each move to the 2d electron examples checkpoints.
+- Close by suggesting a quick debrief so the crew can tune the 2d electron examples playbook.

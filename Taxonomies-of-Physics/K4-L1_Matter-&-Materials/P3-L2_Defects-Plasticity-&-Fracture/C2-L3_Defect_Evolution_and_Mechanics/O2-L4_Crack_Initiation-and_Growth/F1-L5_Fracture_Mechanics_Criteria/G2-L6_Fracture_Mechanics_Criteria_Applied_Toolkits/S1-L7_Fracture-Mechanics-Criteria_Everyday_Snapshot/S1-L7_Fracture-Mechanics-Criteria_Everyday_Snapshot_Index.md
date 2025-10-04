@@ -1,5 +1,5 @@
 # S1-L7_Fracture-Mechanics-Criteria_Everyday_Snapshot — Species Index
-**Definition:** Walks through fracture mechanics criteria applied toolkits via a coffee shop workflow so the idea feels tangible.
+**Definition:** Walks through Fracture Mechanics Criteria with a community garden tour so the idea feels rooted in daily life.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Start with the coffee shop workflow story, then map each cue back to the fracture mechanics criteria applied toolkits levers.
-- Emphasize what listeners can touch, hear, or time in that setting.
+- Start inside that community garden tour moment, pointing to cues that stand for the fracture mechanics criteria levers.
+- Invite listeners to spot the same beats the next time they stage a community garden tour.

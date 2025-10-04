@@ -1,5 +1,5 @@
 # S1-L7_Anisotropic-Turbulence-Models_Everyday_Snapshot — Species Index
-**Definition:** Walks through anisotropic turbulence models core scenarios via a campfire cooking plan so the idea feels tangible.
+**Definition:** Walks through Anisotropic Turbulence Models with a public library maker cart drop-in so the idea feels rooted in daily life.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Start with the campfire cooking plan story, then map each cue back to the anisotropic turbulence models core scenarios levers.
-- Emphasize what listeners can touch, hear, or time in that setting.
+- Start inside that public library maker cart drop-in moment, pointing to cues that stand for the anisotropic turbulence models levers.
+- Invite listeners to spot the same beats the next time they stage a public library maker cart drop-in.

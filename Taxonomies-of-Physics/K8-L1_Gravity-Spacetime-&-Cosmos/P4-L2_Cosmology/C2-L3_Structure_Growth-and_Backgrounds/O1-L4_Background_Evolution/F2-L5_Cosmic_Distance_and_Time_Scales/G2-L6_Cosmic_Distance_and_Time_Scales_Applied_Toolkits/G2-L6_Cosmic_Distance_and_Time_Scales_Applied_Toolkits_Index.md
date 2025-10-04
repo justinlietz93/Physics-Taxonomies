@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Cosmic-Distance-and-Time-Scales_Everyday_Snapshot — A firehouse open house demo story that grounds Cosmic Distance and Time Scales in familiar cues.
+- S2-L7_Cosmic-Distance-and-Time-Scales_Applied_Field_Kit — A maintenance pop-up case teams can deploy to try Cosmic Distance and Time Scales in the field.

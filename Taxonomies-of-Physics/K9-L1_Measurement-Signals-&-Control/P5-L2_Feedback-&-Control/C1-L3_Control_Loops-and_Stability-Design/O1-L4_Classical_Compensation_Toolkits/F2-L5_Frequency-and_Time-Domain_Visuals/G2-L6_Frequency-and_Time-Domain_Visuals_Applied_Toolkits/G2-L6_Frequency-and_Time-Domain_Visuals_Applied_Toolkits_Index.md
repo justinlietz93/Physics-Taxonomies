@@ -1,5 +1,5 @@
 # G2-L6_Frequency-and_Time-Domain_Visuals_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for frequency-and time-domain visuals.
+**Definition:** Collects applied toolkits for frequency and time domain visuals.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Frequency-and-Time-Domain-Visuals_Everyday_Snapshot — A student poster session lap story that grounds Frequency and Time Domain Visuals in familiar cues.
+- S2-L7_Frequency-and-Time-Domain-Visuals_Applied_Field_Kit — A observation campaign crate teams can deploy to try Frequency and Time Domain Visuals in the field.

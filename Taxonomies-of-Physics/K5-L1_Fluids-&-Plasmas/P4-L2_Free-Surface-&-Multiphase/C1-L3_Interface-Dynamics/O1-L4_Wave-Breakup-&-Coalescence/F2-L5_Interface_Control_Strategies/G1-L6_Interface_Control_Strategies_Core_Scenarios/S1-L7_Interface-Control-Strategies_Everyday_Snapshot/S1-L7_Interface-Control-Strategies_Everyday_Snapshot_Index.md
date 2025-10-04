@@ -1,5 +1,5 @@
 # S1-L7_Interface-Control-Strategies_Everyday_Snapshot — Species Index
-**Definition:** Walks through interface control strategies core scenarios via a smartphone calibration so the idea feels tangible.
+**Definition:** Walks through Interface Control Strategies with a train platform wait so the idea feels rooted in daily life.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Start with the smartphone calibration story, then map each cue back to the interface control strategies core scenarios levers.
-- Emphasize what listeners can touch, hear, or time in that setting.
+- Start inside that train platform wait moment, pointing to cues that stand for the interface control strategies levers.
+- Invite listeners to spot the same beats the next time they stage a train platform wait.

@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Dark-Energy-and-Modified-Drivers_Everyday_Snapshot — A town hall open mic story that grounds Dark Energy and Modified Drivers in familiar cues.
+- S2-L7_Dark-Energy-and-Modified-Drivers_Applied_Field_Kit — A shift-change navigator teams can deploy to try Dark Energy and Modified Drivers in the field.

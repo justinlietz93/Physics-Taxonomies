@@ -1,5 +1,5 @@
 # S2-L7_Process-Tailoring-Guides_Applied_Field_Kit — Species Index
-**Definition:** Packages process tailoring guides core scenarios into a library maker cart that a small crew could run.
+**Definition:** Packages Process Tailoring Guides into a site walkthrough binder that a small team can run without special gear.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Frame it as prepping a library maker cart, highlighting roles that mirror the physics pieces.
-- Close by inviting a quick sketch or checklist the audience could adapt.
+- Frame the steps as assembling the site walkthrough binder, mapping each move to the process tailoring guides checkpoints.
+- Close by suggesting a quick debrief so the crew can tune the process tailoring guides playbook.

@@ -1,5 +1,5 @@
 # G2-L6_PID-and_Lead-Lag_Design_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for pid-and lead-lag design.
+**Definition:** Collects applied toolkits for pid and lead lag design.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_PID-and-Lead-Lag-Design_Everyday_Snapshot — A hardware store aisle chat story that grounds PID and Lead Lag Design in familiar cues.
+- S2-L7_PID-and-Lead-Lag-Design_Applied_Field_Kit — A systems alignment brief teams can deploy to try PID and Lead Lag Design in the field.

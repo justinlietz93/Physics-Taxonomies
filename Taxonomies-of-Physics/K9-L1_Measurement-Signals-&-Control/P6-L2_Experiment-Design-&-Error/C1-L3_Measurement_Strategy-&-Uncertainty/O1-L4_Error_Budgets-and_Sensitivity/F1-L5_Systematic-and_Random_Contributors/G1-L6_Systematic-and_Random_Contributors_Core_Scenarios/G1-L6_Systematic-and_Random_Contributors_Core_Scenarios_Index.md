@@ -1,5 +1,5 @@
 # G1-L6_Systematic-and_Random_Contributors_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for systematic-and random contributors.
+**Definition:** Spotlights core scenarios for systematic and random contributors.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Systematic-and-Random-Contributors_Everyday_Snapshot — A solar farm visitor tour story that grounds Systematic and Random Contributors in familiar cues.
+- S2-L7_Systematic-and-Random-Contributors_Applied_Field_Kit — A survey sprint backpack teams can deploy to try Systematic and Random Contributors in the field.

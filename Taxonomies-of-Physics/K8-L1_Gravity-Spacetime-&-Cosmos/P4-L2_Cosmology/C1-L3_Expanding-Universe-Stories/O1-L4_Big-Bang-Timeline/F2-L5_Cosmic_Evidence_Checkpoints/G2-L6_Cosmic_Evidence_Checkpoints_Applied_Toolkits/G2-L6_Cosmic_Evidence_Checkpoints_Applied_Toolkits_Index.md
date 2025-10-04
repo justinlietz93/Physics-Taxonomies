@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Cosmic-Evidence-Checkpoints_Everyday_Snapshot — A patient-family waiting room chat story that grounds Cosmic Evidence Checkpoints in familiar cues.
+- S2-L7_Cosmic-Evidence-Checkpoints_Applied_Field_Kit — A expedition prep dossier teams can deploy to try Cosmic Evidence Checkpoints in the field.

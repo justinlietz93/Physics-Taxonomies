@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Compact-Binary-Mergers_Everyday_Snapshot — A kitchen-table sketch story that grounds Compact Binary Mergers in familiar cues.
+- S2-L7_Compact-Binary-Mergers_Applied_Field_Kit — A community science toolkit teams can deploy to try Compact Binary Mergers in the field.

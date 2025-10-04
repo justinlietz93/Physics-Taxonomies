@@ -1,5 +1,5 @@
 # G1-L6_Bursting-and_Transient_Events_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for bursting-and transient events.
+**Definition:** Spotlights core scenarios for bursting and transient events.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Bursting-and-Transient-Events_Everyday_Snapshot — A hardware store aisle chat story that grounds Bursting and Transient Events in familiar cues.
+- S2-L7_Bursting-and-Transient-Events_Applied_Field_Kit — A integration scrum packet teams can deploy to try Bursting and Transient Events in the field.

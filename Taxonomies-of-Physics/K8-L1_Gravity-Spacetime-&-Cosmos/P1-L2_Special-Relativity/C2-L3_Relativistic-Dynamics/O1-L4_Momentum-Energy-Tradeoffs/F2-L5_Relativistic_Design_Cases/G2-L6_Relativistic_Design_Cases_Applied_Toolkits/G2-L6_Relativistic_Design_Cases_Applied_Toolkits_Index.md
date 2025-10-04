@@ -12,5 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
-- S1-L7_Relativistic-Design-Cases_Everyday_Snapshot — A community garden harvest that makes relativistic design cases applied toolkits feel hands-on.
-- S2-L7_Relativistic-Design-Cases_Applied_Field_Kit — A farmers market stand turning relativistic design cases applied toolkits into a team-ready playbook.
+- S1-L7_Relativistic-Design-Cases_Everyday_Snapshot — A community garden tour story that grounds Relativistic Design Cases in familiar cues.
+- S2-L7_Relativistic-Design-Cases_Applied_Field_Kit — A prototype sprint pack teams can deploy to try Relativistic Design Cases in the field.

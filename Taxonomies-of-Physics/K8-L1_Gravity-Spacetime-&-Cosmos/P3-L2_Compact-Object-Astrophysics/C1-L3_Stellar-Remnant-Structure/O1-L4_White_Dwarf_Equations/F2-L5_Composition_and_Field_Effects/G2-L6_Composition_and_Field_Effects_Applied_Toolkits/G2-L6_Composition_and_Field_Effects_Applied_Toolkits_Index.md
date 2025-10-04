@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Composition-and-Field-Effects_Everyday_Snapshot — A riverbank field note stop story that grounds Composition and Field Effects in familiar cues.
+- S2-L7_Composition-and-Field-Effects_Applied_Field_Kit — A pop-up command center case teams can deploy to try Composition and Field Effects in the field.

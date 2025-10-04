@@ -1,5 +1,5 @@
 # S2-L7_Wave-Mode-Diagnostics_Applied_Field_Kit — Species Index
-**Definition:** Packages wave mode diagnostics applied toolkits into a school outreach visit that a small crew could run.
+**Definition:** Packages Wave Mode Diagnostics into a survey sprint backpack that a small team can run without special gear.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Frame it as prepping a school outreach visit, highlighting roles that mirror the physics pieces.
-- Close by inviting a quick sketch or checklist the audience could adapt.
+- Frame the steps as assembling the survey sprint backpack, mapping each move to the wave mode diagnostics checkpoints.
+- Close by suggesting a quick debrief so the crew can tune the wave mode diagnostics playbook.

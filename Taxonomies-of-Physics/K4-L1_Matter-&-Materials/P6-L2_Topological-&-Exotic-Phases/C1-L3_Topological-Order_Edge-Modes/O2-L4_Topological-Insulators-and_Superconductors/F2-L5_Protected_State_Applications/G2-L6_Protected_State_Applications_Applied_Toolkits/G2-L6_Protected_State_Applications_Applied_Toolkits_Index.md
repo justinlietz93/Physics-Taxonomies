@@ -12,5 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
-- S1-L7_Protected-State-Applications_Everyday_Snapshot — A skatepark line check that makes protected state applications applied toolkits feel hands-on.
-- S2-L7_Protected-State-Applications_Applied_Field_Kit — A museum floor demo turning protected state applications applied toolkits into a team-ready playbook.
+- S1-L7_Protected-State-Applications_Everyday_Snapshot — A downtown art crawl pause story that grounds Protected State Applications in familiar cues.
+- S2-L7_Protected-State-Applications_Applied_Field_Kit — A portable sensor drop kit teams can deploy to try Protected State Applications in the field.

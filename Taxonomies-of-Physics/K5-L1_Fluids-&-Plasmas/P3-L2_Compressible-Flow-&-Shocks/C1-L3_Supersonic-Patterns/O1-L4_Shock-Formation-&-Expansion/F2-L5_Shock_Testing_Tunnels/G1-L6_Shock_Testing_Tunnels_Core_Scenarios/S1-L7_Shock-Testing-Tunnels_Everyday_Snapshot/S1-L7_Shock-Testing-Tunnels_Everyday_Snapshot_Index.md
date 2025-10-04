@@ -1,5 +1,5 @@
 # S1-L7_Shock-Testing-Tunnels_Everyday_Snapshot — Species Index
-**Definition:** Walks through shock testing tunnels core scenarios via a commuter train schedule review so the idea feels tangible.
+**Definition:** Walks through Shock Testing Tunnels with a market stall sampling pause so the idea feels rooted in daily life.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Start with the commuter train schedule review story, then map each cue back to the shock testing tunnels core scenarios levers.
-- Emphasize what listeners can touch, hear, or time in that setting.
+- Start inside that market stall sampling pause moment, pointing to cues that stand for the shock testing tunnels levers.
+- Invite listeners to spot the same beats the next time they stage a market stall sampling pause.

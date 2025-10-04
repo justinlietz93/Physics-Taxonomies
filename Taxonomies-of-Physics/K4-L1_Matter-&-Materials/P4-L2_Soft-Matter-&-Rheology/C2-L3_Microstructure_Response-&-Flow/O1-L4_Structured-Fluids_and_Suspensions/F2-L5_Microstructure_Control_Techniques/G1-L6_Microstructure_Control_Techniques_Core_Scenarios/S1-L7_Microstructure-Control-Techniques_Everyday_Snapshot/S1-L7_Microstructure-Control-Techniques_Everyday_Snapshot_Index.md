@@ -1,5 +1,5 @@
 # S1-L7_Microstructure-Control-Techniques_Everyday_Snapshot — Species Index
-**Definition:** Walks through microstructure control techniques core scenarios via a backyard telescope setup so the idea feels tangible.
+**Definition:** Walks through Microstructure Control Techniques with an evening porch conversation so the idea feels rooted in daily life.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Start with the backyard telescope setup story, then map each cue back to the microstructure control techniques core scenarios levers.
-- Emphasize what listeners can touch, hear, or time in that setting.
+- Start inside that evening porch conversation moment, pointing to cues that stand for the microstructure control techniques levers.
+- Invite listeners to spot the same beats the next time they stage a evening porch conversation.

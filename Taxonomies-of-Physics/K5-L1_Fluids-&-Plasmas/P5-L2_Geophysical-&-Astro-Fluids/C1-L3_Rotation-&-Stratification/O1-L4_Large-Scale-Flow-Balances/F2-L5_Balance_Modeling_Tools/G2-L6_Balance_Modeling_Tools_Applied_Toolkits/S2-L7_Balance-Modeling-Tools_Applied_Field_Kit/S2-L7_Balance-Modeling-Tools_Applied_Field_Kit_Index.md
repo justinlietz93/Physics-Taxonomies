@@ -1,5 +1,5 @@
 # S2-L7_Balance-Modeling-Tools_Applied_Field_Kit — Species Index
-**Definition:** Packages balance modeling tools applied toolkits into a field kit that a small crew could run.
+**Definition:** Packages Balance Modeling Tools into an expedition prep dossier that a small team can run without special gear.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Frame it as prepping a field kit, highlighting roles that mirror the physics pieces.
-- Close by inviting a quick sketch or checklist the audience could adapt.
+- Frame the steps as assembling the expedition prep dossier, mapping each move to the balance modeling tools checkpoints.
+- Close by suggesting a quick debrief so the crew can tune the balance modeling tools playbook.

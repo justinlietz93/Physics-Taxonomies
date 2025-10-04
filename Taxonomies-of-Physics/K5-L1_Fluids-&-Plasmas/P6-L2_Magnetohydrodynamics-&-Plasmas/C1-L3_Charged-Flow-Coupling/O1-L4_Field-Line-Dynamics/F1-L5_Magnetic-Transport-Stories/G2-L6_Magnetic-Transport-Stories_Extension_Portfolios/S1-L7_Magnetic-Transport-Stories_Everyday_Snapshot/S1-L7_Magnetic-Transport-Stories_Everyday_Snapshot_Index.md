@@ -1,5 +1,5 @@
 # S1-L7_Magnetic-Transport-Stories_Everyday_Snapshot — Species Index
-**Definition:** Walks through magnetic transport stories extension portfolios via a bike workshop check so the idea feels tangible.
+**Definition:** Walks through Magnetic Transport Stories with a hospital shift overlap so the idea feels rooted in daily life.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Start with the bike workshop check story, then map each cue back to the magnetic transport stories extension portfolios levers.
-- Emphasize what listeners can touch, hear, or time in that setting.
+- Start inside that hospital shift overlap moment, pointing to cues that stand for the magnetic transport stories levers.
+- Invite listeners to spot the same beats the next time they stage a hospital shift overlap.

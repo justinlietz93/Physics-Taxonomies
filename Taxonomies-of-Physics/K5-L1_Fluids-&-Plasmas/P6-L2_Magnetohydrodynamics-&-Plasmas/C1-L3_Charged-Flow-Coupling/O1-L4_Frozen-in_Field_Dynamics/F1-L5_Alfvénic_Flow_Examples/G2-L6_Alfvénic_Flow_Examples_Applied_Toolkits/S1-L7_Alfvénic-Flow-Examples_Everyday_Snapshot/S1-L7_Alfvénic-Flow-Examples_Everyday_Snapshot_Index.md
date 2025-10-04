@@ -1,5 +1,5 @@
 # S1-L7_Alfvénic-Flow-Examples_Everyday_Snapshot — Species Index
-**Definition:** Walks through alfvénic flow examples applied toolkits via a kitchen sink test so the idea feels tangible.
+**Definition:** Walks through Alfvénic Flow Examples with a solar farm visitor tour so the idea feels rooted in daily life.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Start with the kitchen sink test story, then map each cue back to the alfvénic flow examples applied toolkits levers.
-- Emphasize what listeners can touch, hear, or time in that setting.
+- Start inside that solar farm visitor tour moment, pointing to cues that stand for the alfvénic flow examples levers.
+- Invite listeners to spot the same beats the next time they stage a solar farm visitor tour.

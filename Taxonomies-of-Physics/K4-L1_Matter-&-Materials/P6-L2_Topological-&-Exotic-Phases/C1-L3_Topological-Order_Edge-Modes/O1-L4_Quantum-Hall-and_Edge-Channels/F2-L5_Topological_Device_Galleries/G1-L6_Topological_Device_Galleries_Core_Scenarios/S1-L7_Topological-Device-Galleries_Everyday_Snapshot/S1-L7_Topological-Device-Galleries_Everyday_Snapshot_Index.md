@@ -1,5 +1,5 @@
 # S1-L7_Topological-Device-Galleries_Everyday_Snapshot — Species Index
-**Definition:** Walks through topological device galleries core scenarios via a garden hose balance drill so the idea feels tangible.
+**Definition:** Walks through Topological Device Galleries with a block-party planning huddle so the idea feels rooted in daily life.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Start with the garden hose balance drill story, then map each cue back to the topological device galleries core scenarios levers.
-- Emphasize what listeners can touch, hear, or time in that setting.
+- Start inside that block-party planning huddle moment, pointing to cues that stand for the topological device galleries levers.
+- Invite listeners to spot the same beats the next time they stage a block-party planning huddle.

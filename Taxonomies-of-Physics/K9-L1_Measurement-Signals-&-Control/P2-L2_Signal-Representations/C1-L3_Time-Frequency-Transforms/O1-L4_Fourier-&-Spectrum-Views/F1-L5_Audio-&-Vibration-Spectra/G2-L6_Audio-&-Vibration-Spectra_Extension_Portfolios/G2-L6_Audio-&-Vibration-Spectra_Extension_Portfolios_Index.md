@@ -1,5 +1,5 @@
 # G2-L6_Audio-&-Vibration-Spectra_Extension_Portfolios — Genus Index
-**Definition:** Maps extension portfolios surrounding audio-&-vibration-spectra.
+**Definition:** Maps extension portfolios surrounding audio & vibration spectra.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Audio-&-Vibration-Spectra_Everyday_Snapshot — A weekend hiking lookout break story that grounds Audio & Vibration Spectra in familiar cues.
+- S2-L7_Audio-&-Vibration-Spectra_Applied_Field_Kit — A process rehearsal storyboard teams can deploy to try Audio & Vibration Spectra in the field.

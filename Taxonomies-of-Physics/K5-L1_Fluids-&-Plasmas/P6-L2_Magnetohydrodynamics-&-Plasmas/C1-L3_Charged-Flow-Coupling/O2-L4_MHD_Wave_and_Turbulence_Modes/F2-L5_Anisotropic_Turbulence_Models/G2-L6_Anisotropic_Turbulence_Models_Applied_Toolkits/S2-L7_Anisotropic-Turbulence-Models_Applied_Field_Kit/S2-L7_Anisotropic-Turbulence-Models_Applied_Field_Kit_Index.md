@@ -1,5 +1,5 @@
 # S2-L7_Anisotropic-Turbulence-Models_Applied_Field_Kit — Species Index
-**Definition:** Packages anisotropic turbulence models applied toolkits into a city park activation that a small crew could run.
+**Definition:** Packages Anisotropic Turbulence Models into a transition stand-up script that a small team can run without special gear.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Frame it as prepping a city park activation, highlighting roles that mirror the physics pieces.
-- Close by inviting a quick sketch or checklist the audience could adapt.
+- Frame the steps as assembling the transition stand-up script, mapping each move to the anisotropic turbulence models checkpoints.
+- Close by suggesting a quick debrief so the crew can tune the anisotropic turbulence models playbook.

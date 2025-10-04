@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Burst-and-Continuous-Emitters_Everyday_Snapshot — A backyard stargazing chat story that grounds Burst and Continuous Emitters in familiar cues.
+- S2-L7_Burst-and-Continuous-Emitters_Applied_Field_Kit — A portable briefing deck teams can deploy to try Burst and Continuous Emitters in the field.

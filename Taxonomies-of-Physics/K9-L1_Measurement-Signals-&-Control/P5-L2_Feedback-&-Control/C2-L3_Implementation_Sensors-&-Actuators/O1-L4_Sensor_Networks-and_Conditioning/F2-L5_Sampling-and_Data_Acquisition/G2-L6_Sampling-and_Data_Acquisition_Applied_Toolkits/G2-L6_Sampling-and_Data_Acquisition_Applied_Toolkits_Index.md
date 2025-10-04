@@ -1,5 +1,5 @@
 # G2-L6_Sampling-and_Data_Acquisition_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for sampling-and data acquisition.
+**Definition:** Collects applied toolkits for sampling and data acquisition.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Sampling-and-Data-Acquisition_Everyday_Snapshot — A makerspace tool orientation story that grounds Sampling and Data Acquisition in familiar cues.
+- S2-L7_Sampling-and-Data-Acquisition_Applied_Field_Kit — A bridge watch turnover log teams can deploy to try Sampling and Data Acquisition in the field.

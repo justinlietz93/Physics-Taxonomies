@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Neutron-Star-State-Models_Everyday_Snapshot — A block-party planning huddle story that grounds Neutron Star State Models in familiar cues.
+- S2-L7_Neutron-Star-State-Models_Applied_Field_Kit — A cross-team drill card set teams can deploy to try Neutron Star State Models in the field.

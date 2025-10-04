@@ -1,5 +1,5 @@
 # S1-L7_Reynolds-Number-Stories_Everyday_Snapshot — Species Index
-**Definition:** Walks through reynolds number stories extension portfolios via a school science night so the idea feels tangible.
+**Definition:** Walks through Reynolds Number Stories with a weekend hiking lookout break so the idea feels rooted in daily life.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Start with the school science night story, then map each cue back to the reynolds number stories extension portfolios levers.
-- Emphasize what listeners can touch, hear, or time in that setting.
+- Start inside that weekend hiking lookout break moment, pointing to cues that stand for the reynolds number stories levers.
+- Invite listeners to spot the same beats the next time they stage a weekend hiking lookout break.

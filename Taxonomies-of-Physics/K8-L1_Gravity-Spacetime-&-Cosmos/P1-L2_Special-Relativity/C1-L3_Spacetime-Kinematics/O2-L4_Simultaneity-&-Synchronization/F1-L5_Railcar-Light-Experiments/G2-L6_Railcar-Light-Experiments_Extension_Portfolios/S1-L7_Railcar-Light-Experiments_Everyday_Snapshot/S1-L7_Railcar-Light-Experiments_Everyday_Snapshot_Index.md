@@ -1,5 +1,5 @@
 # S1-L7_Railcar-Light-Experiments_Everyday_Snapshot — Species Index
-**Definition:** Walks through railcar light experiments extension portfolios via a city traffic light timing so the idea feels tangible.
+**Definition:** Walks through Railcar Light Experiments with a coffee shop napkin huddle so the idea feels rooted in daily life.
 ## Overarching Lenses
 
 - **Lens A: Symmetry -> Conservation (Noether)**: sameness across time/space/rotation → energy/momentum/angular momentum conserved.
@@ -11,5 +11,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## 60–90s Explanation Notes
-- Start with the city traffic light timing story, then map each cue back to the railcar light experiments extension portfolios levers.
-- Emphasize what listeners can touch, hear, or time in that setting.
+- Start inside that coffee shop napkin huddle moment, pointing to cues that stand for the railcar light experiments levers.
+- Invite listeners to spot the same beats the next time they stage a coffee shop napkin huddle.

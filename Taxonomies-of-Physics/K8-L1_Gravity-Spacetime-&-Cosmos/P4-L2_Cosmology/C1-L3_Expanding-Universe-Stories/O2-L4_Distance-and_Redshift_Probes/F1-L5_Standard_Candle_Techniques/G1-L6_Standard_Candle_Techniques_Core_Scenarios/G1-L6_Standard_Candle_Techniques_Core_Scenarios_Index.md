@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Standard-Candle-Techniques_Everyday_Snapshot — A planetarium foyer queue story that grounds Standard Candle Techniques in familiar cues.
+- S2-L7_Standard-Candle-Techniques_Applied_Field_Kit — A pilot plant action log teams can deploy to try Standard Candle Techniques in the field.
