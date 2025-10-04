@@ -32,7 +32,7 @@ $$(0 \leq \lambda \perp g(\mathbf{q}) \geq 0)$$
 
 $$(\mathbf{v}_{\text{contact}} = J_{c} \, \dot{\mathbf{q}})$$
 
-- The relative velocity at contact $(\mathbf{v}_{\text{contact}})$ arises from generalized speeds $(\dot{\mathbf{q}})$ through the contact Jacobian $(J_{c})$.
+- The relative velocity at contact $(\mathbf{v}\_{\text{contact}})$ arises from generalized speeds $(\dot{\mathbf{q}})$ through the contact Jacobian $(J_{c})$.
 
 ## Impact Dynamics
 **Impulse-momentum balance across impact:**
