@@ -81,7 +81,7 @@ The taxonomy currently includes 9 top-level kingdoms:
 
 Physics should be accessible to everyone. This taxonomy:
 
-- **Demystifies** complex topics through analogy
+- **Demystifies** complex topics through Analogical and Constructivist learning methods
 - **Organizes** knowledge hierarchically  
 - **Connects** abstract concepts to daily life
 - **Welcomes** contributions from all backgrounds
