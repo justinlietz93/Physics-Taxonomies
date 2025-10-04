@@ -3,9 +3,23 @@
 Gravity links geometry with motion, so the kingdom-level equations highlight how spacetime curvature, energy, and cosmic content steer trajectories and expansion.
 
 ## Spacetime Structure
-- **Minkowski interval:** \(s^{2} = - c^{2} \Delta t^{2} + \Delta x^{2} + \Delta y^{2} + \Delta z^{2}\). The invariant interval \(s^{2}\) mixes time separation \(\Delta t\) with spatial separations \(\Delta x, \Delta y, \Delta z\) scaled by the speed of light \(c\), encoding flat spacetime geometry.
-- **Proper time:** \(d\tau = \sqrt{1 - \frac{v^{2}}{c^{2}}} \, dt\). Proper time \(\tau\) ticks slower than coordinate time \(t\) for motion with speed \(v\), capturing time dilation in special relativity.
-- **Lorentz factor:** \(\gamma = \frac{1}{\sqrt{1 - \frac{v^{2}}{c^{2}}}}\). The dimensionless factor \(\gamma\) scales relativistic momentum, energy, and time dilation based on the speed-to-light ratio.
+ **Minkowski interval:**
+ 
+ $$(s^{2} = - c^{2} \Delta t^{2} + \Delta x^{2} + \Delta y^{2} + \Delta z^{2})$$
+
+- The invariant interval $(s^{2})$ mixes time separation $(\Delta t)$ with spatial separations $(\Delta x, \Delta y, \Delta z)$ scaled by the speed of light $(c)$\, encoding flat spacetime geometry.
+  
+**Proper time:** 
+
+$$(d\tau = \sqrt{1 - \frac{v^{2}}{c^{2}}} \, dt)$$
+
+- Proper time $(\tau)$ ticks slower than coordinate time $(t)$ for motion with speed $(v)$\, capturing time dilation in special relativity.
+
+**Lorentz factor:** 
+
+$$(\gamma = \frac{1}{\sqrt{1 - \frac{v^{2}}{c^{2}}}})$$
+
+- The dimensionless factor $(\gamma)$ scales relativistic momentum, energy, and time dilation based on the speed-to-light ratio.
 
 ## Gravity as Geometry
 - **Einstein field equations:** \(G_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8 \pi G}{c^{4}} T_{\mu\nu}\). The Einstein tensor \(G_{\mu\nu}\) plus cosmological constant term \(\Lambda g_{\mu\nu}\) equates spacetime curvature to the stress-energy tensor \(T_{\mu\nu}\) via Newton's constant \(G\) and the speed of light \(c\).
