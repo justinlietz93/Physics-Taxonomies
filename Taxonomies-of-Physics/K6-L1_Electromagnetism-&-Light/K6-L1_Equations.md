@@ -7,13 +7,13 @@ This kingdom expresses how electric and magnetic fields evolve, interact with ma
 
 $$(\nabla \cdot \mathbf{E} = \tfrac{\rho}{\epsilon_{0}})$$
 
-- Electric flux divergence equals charge density \(\rho\) scaled by permittivity \(\epsilon_{0}\).
+- Electric flux divergence equals charge density $(\rho)$ scaled by permittivity $(\epsilon_{0})$.
 
 **Gauss's law for magnetism:**
 
 $$(\nabla \cdot \mathbf{B} = 0)$$
 
-- Magnetic fields \(\mathbf{B}\) have no monopole sources; flux lines are continuous.
+- Magnetic fields $(\mathbf{B})$ have no monopole sources; flux lines are continuous.
 
 **Faraday's law of induction:**
 
@@ -25,33 +25,33 @@ $$(\nabla \times \mathbf{E} = -\tfrac{\partial \mathbf{B}}{\partial t})$$
 
 $$(\nabla \times \mathbf{B} = \mu_{0} \mathbf{J} + \mu_{0} \epsilon_{0} \tfrac{\partial \mathbf{E}}{\partial t})$$
 
-- Currents \(\mathbf{J}\) and changing electric fields produce magnetic circulation with permeability \(\mu_{0}\).
+- Currents $(\mathbf{J})$ and changing electric fields produce magnetic circulation with permeability $(\mu_{0})$.
 
 ## Forces & Potentials
 **Lorentz force law:**
 
 $$(\mathbf{F} = q (\mathbf{E} + \mathbf{v} \times \mathbf{B}))$$
 
-- Charge \(q\) moving at velocity \(\mathbf{v}\) feels electric and magnetic forces.
+- Charge $(q)$ moving at velocity $(\mathbf{v})$ feels electric and magnetic forces.
 
 **Electric potential relation:**
 
 $$(\mathbf{E} = -\nabla V - \tfrac{\partial \mathbf{A}}{\partial t})$$
 
-- Scalar potential \(V\) and vector potential \(\mathbf{A}\) generate the electric field.
+- Scalar potential $(V)$ and vector potential $(\mathbf{A})$ generate the electric field.
 
 **Magnetic field from vector potential:**
 
 $$(\mathbf{B} = \nabla \times \mathbf{A})$$
 
-- Curl of \(\mathbf{A}\) recovers the magnetic field and guarantees \(\nabla \cdot \mathbf{B} = 0\).
+- Curl of $(\mathbf{A})$ recovers the magnetic field and guarantees $(\nabla \cdot \mathbf{B} = 0)$.
 
 ## Wave & Radiation Forms
 **Electromagnetic wave equation:**
 
 $$(\nabla^{2} \mathbf{E} - \mu_{0} \epsilon_{0} \tfrac{\partial^{2} \mathbf{E}}{\partial t^{2}} = 0)$$
 
-- In vacuum the electric field obeys this wave equation; the magnetic field \(\mathbf{B}\) satisfies the same form, revealing light speed \(c = 1/\sqrt{\mu_{0}\epsilon_{0}}\).
+- In vacuum the electric field obeys this wave equation; the magnetic field $(\mathbf{B})$ satisfies the same form, revealing light speed $(c = 1/\sqrt{\mu_{0}\epsilon_{0}})$.
 
 **Poynting vector:**
 
@@ -70,19 +70,19 @@ $$(I = \langle |\mathbf{S}| \rangle)$$
 
 $$(\mathbf{D} = \epsilon \mathbf{E}), (\mathbf{B} = \mu \mathbf{H}), (\mathbf{J} = \sigma \mathbf{E})$$
 
-- Permittivity \(\epsilon\), permeability \(\mu\), and conductivity \(\sigma\) connect fields to material polarization and currents.
+- Permittivity $(\epsilon)$, permeability $(\mu)$, and conductivity $(\sigma)$ connect fields to material polarization and currents.
 
 **Polarization current:**
 
 $$(\mathbf{J}_{\text{pol}} = \tfrac{\partial \mathbf{P}}{\partial t})$$
 
-- Time-changing polarization \(\mathbf{P}\) acts like a current in Maxwell's equations.
+- Time-changing polarization $(\mathbf{P})$ acts like a current in Maxwell's equations.
 
 **Displacement field divergence:**
 
 $$(\nabla \cdot \mathbf{D} = \rho_{\text{free}})$$
 
-- Free charges source the displacement field, separating bound-charge effects into \(\mathbf{P}\).
+- Free charges source the displacement field, separating bound-charge effects into $(\mathbf{P})$.
 
 ## Energy & Momentum
 **Energy density:**
@@ -101,6 +101,6 @@ $$(T_{ij} = \epsilon E_{i} E_{j} + \tfrac{1}{\mu} B_{i} B_{j} - \tfrac{1}{2} (\e
 
 $$(P_{\text{rad}} = \tfrac{I}{c})$$
 
-- Intensity \(I\) divided by light speed \(c\) gives pressure exerted on absorbing surfaces.
+- Intensity $(I)$ divided by light speed $(c)$ gives pressure exerted on absorbing surfaces.
 
 These expressions establish the universal language of fields, potentials, and radiation that threads through every phylum of electromagnetism and optics.
