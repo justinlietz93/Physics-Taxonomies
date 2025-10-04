@@ -1,5 +1,5 @@
 # G1-L6_Flux-Freezing_Breakdowns_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for flux-freezing breakdowns.
+**Definition:** Spotlights core scenarios for flux freezing breakdowns.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Flux-Freezing-Breakdowns_Everyday_Snapshot — A firehouse open house demo story that grounds Flux Freezing Breakdowns in familiar cues.
+- S2-L7_Flux-Freezing-Breakdowns_Applied_Field_Kit — A evidence chase binder teams can deploy to try Flux Freezing Breakdowns in the field.

@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Black-Hole-Metric-Comparisons_Everyday_Snapshot — A neighborhood watch walk story that grounds Black Hole Metric Comparisons in familiar cues.
+- S2-L7_Black-Hole-Metric-Comparisons_Applied_Field_Kit — A portable sensor drop kit teams can deploy to try Black Hole Metric Comparisons in the field.

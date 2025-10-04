@@ -1,5 +1,5 @@
 # G2-L6_Optimal-and_Robust_Control_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for optimal-and robust control.
+**Definition:** Collects applied toolkits for optimal and robust control.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Optimal-and-Robust-Control_Everyday_Snapshot — A science festival booth tour story that grounds Optimal and Robust Control in familiar cues.
+- S2-L7_Optimal-and-Robust-Control_Applied_Field_Kit — A expedition prep dossier teams can deploy to try Optimal and Robust Control in the field.

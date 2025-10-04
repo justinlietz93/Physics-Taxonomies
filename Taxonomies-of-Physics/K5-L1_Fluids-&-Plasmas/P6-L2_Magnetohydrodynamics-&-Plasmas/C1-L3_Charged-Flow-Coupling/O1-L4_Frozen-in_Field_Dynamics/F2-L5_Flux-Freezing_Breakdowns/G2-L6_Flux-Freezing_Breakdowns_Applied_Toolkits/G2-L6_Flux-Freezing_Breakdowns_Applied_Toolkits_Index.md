@@ -1,5 +1,5 @@
 # G2-L6_Flux-Freezing_Breakdowns_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for flux-freezing breakdowns.
+**Definition:** Collects applied toolkits for flux freezing breakdowns.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Flux-Freezing-Breakdowns_Everyday_Snapshot — A university quad tabling stop story that grounds Flux Freezing Breakdowns in familiar cues.
+- S2-L7_Flux-Freezing-Breakdowns_Applied_Field_Kit — A frontline coaching kit teams can deploy to try Flux Freezing Breakdowns in the field.

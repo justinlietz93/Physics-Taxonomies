@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Transducers-and-Signal-Conditioning_Everyday_Snapshot — A factory floor stand-up story that grounds Transducers and Signal Conditioning in familiar cues.
+- S2-L7_Transducers-and-Signal-Conditioning_Applied_Field_Kit — A pilot plant action log teams can deploy to try Transducers and Signal Conditioning in the field.

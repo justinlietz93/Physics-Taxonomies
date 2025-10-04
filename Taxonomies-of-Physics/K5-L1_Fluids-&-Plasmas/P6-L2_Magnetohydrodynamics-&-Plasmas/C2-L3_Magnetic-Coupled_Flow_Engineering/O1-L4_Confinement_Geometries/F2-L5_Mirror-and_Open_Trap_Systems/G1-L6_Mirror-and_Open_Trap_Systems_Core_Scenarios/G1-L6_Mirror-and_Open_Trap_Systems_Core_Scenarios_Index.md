@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Mirror-Open-Trap_Everyday_Snapshot — A local library program that makes mirror and open trap systems feel hands-on.
+- S2-L7_Mirror-Open-Trap_Applied_Field_Kit — A museum floor demo turning mirror and open trap systems into a team-ready playbook.

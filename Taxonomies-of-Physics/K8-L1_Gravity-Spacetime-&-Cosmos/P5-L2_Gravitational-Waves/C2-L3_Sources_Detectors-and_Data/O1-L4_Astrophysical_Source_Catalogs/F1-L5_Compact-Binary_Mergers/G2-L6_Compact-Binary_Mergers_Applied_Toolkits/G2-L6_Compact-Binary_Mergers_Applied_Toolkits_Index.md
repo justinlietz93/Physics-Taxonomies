@@ -1,5 +1,5 @@
 # G2-L6_Compact-Binary_Mergers_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for compact-binary mergers.
+**Definition:** Collects applied toolkits for compact binary mergers.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Compact-Binary-Mergers_Everyday_Snapshot — A team stand-up check-in story that grounds Compact Binary Mergers in familiar cues.
+- S2-L7_Compact-Binary-Mergers_Applied_Field_Kit — A train-the-trainer bundle teams can deploy to try Compact Binary Mergers in the field.

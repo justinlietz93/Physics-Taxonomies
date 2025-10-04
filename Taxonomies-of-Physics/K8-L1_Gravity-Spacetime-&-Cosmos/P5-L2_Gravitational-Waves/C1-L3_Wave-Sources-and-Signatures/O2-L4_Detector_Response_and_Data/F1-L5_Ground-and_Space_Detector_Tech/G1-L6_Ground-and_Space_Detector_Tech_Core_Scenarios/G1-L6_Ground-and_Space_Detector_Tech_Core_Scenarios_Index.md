@@ -1,5 +1,5 @@
 # G1-L6_Ground-and_Space_Detector_Tech_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for ground-and space detector tech.
+**Definition:** Spotlights core scenarios for ground and space detector tech.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Ground-and-Space-Detector-Tech_Everyday_Snapshot — A subway commute story story that grounds Ground and Space Detector Tech in familiar cues.
+- S2-L7_Ground-and-Space-Detector-Tech_Applied_Field_Kit — A prototype sprint pack teams can deploy to try Ground and Space Detector Tech in the field.

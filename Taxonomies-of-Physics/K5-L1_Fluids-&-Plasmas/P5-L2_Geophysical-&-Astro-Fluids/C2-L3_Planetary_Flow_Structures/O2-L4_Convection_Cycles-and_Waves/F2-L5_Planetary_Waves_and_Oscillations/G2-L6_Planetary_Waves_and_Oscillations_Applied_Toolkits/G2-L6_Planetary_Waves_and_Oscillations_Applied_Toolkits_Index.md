@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Planetary-Waves-Oscillations_Everyday_Snapshot — A skatepark line check that makes planetary waves and oscillations applied feel hands-on.
+- S2-L7_Planetary-Waves-Oscillations_Applied_Field_Kit — A neighborhood festival booth turning planetary waves and oscillations applied into a team-ready playbook.

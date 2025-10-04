@@ -1,5 +1,5 @@
 # G2-L6_Ground-and_Space_Interferometers_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for ground-and space interferometers.
+**Definition:** Collects applied toolkits for ground and space interferometers.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Ground-and-Space-Interferometers_Everyday_Snapshot — A science museum pop-up story that grounds Ground and Space Interferometers in familiar cues.
+- S2-L7_Ground-and-Space-Interferometers_Applied_Field_Kit — A response rehearsal guide teams can deploy to try Ground and Space Interferometers in the field.

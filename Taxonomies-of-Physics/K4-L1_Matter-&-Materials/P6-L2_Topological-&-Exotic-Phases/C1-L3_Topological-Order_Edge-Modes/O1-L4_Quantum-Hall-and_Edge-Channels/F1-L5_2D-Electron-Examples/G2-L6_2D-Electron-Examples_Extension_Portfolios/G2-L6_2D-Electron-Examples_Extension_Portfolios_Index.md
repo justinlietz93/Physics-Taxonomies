@@ -1,5 +1,5 @@
 # G2-L6_2D-Electron-Examples_Extension_Portfolios — Genus Index
-**Definition:** Maps extension portfolios surrounding 2d-electron-examples.
+**Definition:** Maps extension portfolios surrounding 2d electron examples.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_2D-Electron-Examples_Everyday_Snapshot — A city council listening session story that grounds 2D Electron Examples in familiar cues.
+- S2-L7_2D-Electron-Examples_Applied_Field_Kit — A mission patchwork planner teams can deploy to try 2D Electron Examples in the field.

@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Thermal-History-and-Energy-Budgets_Everyday_Snapshot — A co-op grocery demo story that grounds Thermal History and Energy Budgets in familiar cues.
+- S2-L7_Thermal-History-and-Energy-Budgets_Applied_Field_Kit — A evidence chase binder teams can deploy to try Thermal History and Energy Budgets in the field.

@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Droplet-Jet-Fragmentation_Everyday_Snapshot — A kitchen sink test that makes droplet and jet fragmentation applied feel hands-on.
+- S2-L7_Droplet-Jet-Fragmentation_Applied_Field_Kit — A pop-up science fair turning droplet and jet fragmentation applied into a team-ready playbook.

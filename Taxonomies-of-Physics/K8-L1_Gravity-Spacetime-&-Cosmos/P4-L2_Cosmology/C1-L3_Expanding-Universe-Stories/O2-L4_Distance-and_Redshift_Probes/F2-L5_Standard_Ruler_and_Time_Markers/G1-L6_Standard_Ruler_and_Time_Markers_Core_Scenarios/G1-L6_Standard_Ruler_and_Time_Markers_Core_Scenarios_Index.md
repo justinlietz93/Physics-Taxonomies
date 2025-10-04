@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Standard-Ruler-and-Time-Markers_Everyday_Snapshot — A windy pier observation story that grounds Standard Ruler and Time Markers in familiar cues.
+- S2-L7_Standard-Ruler-and-Time-Markers_Applied_Field_Kit — A scenario lab travel case teams can deploy to try Standard Ruler and Time Markers in the field.

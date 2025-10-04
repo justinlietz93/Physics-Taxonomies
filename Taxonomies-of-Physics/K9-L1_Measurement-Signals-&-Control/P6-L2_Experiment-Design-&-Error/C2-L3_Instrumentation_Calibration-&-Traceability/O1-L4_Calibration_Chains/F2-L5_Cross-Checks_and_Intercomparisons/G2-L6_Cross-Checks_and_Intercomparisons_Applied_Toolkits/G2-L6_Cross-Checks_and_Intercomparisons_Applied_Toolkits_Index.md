@@ -1,5 +1,5 @@
 # G2-L6_Cross-Checks_and_Intercomparisons_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for cross-checks and intercomparisons.
+**Definition:** Collects applied toolkits for cross checks and intercomparisons.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Cross-Checks-and-Intercomparisons_Everyday_Snapshot — A backyard stargazing chat story that grounds Cross Checks and Intercomparisons in familiar cues.
+- S2-L7_Cross-Checks-and-Intercomparisons_Applied_Field_Kit — A prototype sprint pack teams can deploy to try Cross Checks and Intercomparisons in the field.

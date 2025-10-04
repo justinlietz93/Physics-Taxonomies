@@ -1,5 +1,5 @@
 # G1-L6_Vehicle-Aerodynamic_Impacts_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for vehicle-aerodynamic impacts.
+**Definition:** Spotlights core scenarios for vehicle aerodynamic impacts.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Vehicle-Aerodynamic-Impacts_Everyday_Snapshot — A hardware store aisle chat story that grounds Vehicle Aerodynamic Impacts in familiar cues.
+- S2-L7_Vehicle-Aerodynamic-Impacts_Applied_Field_Kit — A process rehearsal storyboard teams can deploy to try Vehicle Aerodynamic Impacts in the field.

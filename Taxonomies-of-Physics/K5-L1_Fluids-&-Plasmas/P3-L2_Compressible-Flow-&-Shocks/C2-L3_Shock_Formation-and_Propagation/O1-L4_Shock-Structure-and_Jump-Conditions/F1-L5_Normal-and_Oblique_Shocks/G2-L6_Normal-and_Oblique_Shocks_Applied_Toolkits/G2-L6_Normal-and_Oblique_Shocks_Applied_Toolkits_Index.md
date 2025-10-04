@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Normal-Oblique-Shocks_Everyday_Snapshot — A bike workshop check that makes normal and oblique shocks applied feel hands-on.
+- S2-L7_Normal-Oblique-Shocks_Applied_Field_Kit — A team retro turning normal and oblique shocks applied into a team-ready playbook.

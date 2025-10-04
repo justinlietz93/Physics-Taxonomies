@@ -1,5 +1,5 @@
 # G1-L6_Frequency-and_Time-Domain_Visuals_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for frequency-and time-domain visuals.
+**Definition:** Spotlights core scenarios for frequency and time domain visuals.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Frequency-and-Time-Domain-Visuals_Everyday_Snapshot — A rooftop garden check-in story that grounds Frequency and Time Domain Visuals in familiar cues.
+- S2-L7_Frequency-and-Time-Domain-Visuals_Applied_Field_Kit — A mission rehearsal workbook teams can deploy to try Frequency and Time Domain Visuals in the field.

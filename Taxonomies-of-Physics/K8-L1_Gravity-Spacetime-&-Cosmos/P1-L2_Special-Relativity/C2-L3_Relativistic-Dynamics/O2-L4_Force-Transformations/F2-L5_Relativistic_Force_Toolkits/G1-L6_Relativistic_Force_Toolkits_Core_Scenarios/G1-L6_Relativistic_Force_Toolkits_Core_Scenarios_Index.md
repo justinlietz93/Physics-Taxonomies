@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Relativistic-Force-Toolkits_Everyday_Snapshot — A school hallway demo story that grounds Relativistic Force Toolkits in familiar cues.
+- S2-L7_Relativistic-Force-Toolkits_Applied_Field_Kit — A site walkthrough binder teams can deploy to try Relativistic Force Toolkits in the field.

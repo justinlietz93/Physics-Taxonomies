@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Viscous-Dispersive-Structure_Everyday_Snapshot — A neighborhood watch patrol that makes viscous and dispersive structure core feel hands-on.
+- S2-L7_Viscous-Dispersive-Structure_Applied_Field_Kit — A citizen science route turning viscous and dispersive structure core into a team-ready playbook.

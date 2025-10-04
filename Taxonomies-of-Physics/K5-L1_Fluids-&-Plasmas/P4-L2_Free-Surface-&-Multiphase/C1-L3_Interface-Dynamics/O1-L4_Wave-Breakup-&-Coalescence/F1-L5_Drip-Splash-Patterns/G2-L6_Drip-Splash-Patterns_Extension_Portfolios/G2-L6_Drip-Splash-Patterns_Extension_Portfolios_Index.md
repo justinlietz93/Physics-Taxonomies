@@ -1,5 +1,5 @@
 # G2-L6_Drip-Splash-Patterns_Extension_Portfolios — Genus Index
-**Definition:** Maps extension portfolios surrounding drip-splash-patterns.
+**Definition:** Maps extension portfolios surrounding drip splash patterns.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Drip-Splash-Patterns_Everyday_Snapshot — A student poster session lap story that grounds Drip Splash Patterns in familiar cues.
+- S2-L7_Drip-Splash-Patterns_Applied_Field_Kit — A integration scrum packet teams can deploy to try Drip Splash Patterns in the field.

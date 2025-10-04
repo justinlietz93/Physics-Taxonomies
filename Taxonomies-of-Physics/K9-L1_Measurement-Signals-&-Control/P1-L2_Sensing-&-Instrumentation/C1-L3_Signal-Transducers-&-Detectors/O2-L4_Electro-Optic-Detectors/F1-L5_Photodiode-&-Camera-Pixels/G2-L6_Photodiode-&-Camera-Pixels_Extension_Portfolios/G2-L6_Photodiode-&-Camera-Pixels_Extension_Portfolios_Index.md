@@ -1,5 +1,5 @@
 # G2-L6_Photodiode-&-Camera-Pixels_Extension_Portfolios — Genus Index
-**Definition:** Maps extension portfolios surrounding photodiode-&-camera-pixels.
+**Definition:** Maps extension portfolios surrounding photodiode & camera pixels.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Photodiode-&-Camera-Pixels_Everyday_Snapshot — A riverbank field note stop story that grounds Photodiode & Camera Pixels in familiar cues.
+- S2-L7_Photodiode-&-Camera-Pixels_Applied_Field_Kit — A cross-team drill card set teams can deploy to try Photodiode & Camera Pixels in the field.

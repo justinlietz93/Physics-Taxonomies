@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Fracture-Mechanics-Criteria_Everyday_Snapshot — A garage tinkering session story that grounds Fracture Mechanics Criteria in familiar cues.
+- S2-L7_Fracture-Mechanics-Criteria_Applied_Field_Kit — A studio storyboard sprint teams can deploy to try Fracture Mechanics Criteria in the field.

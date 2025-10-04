@@ -1,5 +1,5 @@
 # G2-L6_Observer-and_Estimator_Design_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for observer-and estimator design.
+**Definition:** Collects applied toolkits for observer and estimator design.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Observer-and-Estimator-Design_Everyday_Snapshot — A airport gate briefing story that grounds Observer and Estimator Design in familiar cues.
+- S2-L7_Observer-and-Estimator-Design_Applied_Field_Kit — A operations practice grid teams can deploy to try Observer and Estimator Design in the field.

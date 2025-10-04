@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Magnetically-Channeled-Inflow_Everyday_Snapshot — A after-school club meetup story that grounds Magnetically Channeled Inflow in familiar cues.
+- S2-L7_Magnetically-Channeled-Inflow_Applied_Field_Kit — A rapid retrofit roadmap teams can deploy to try Magnetically Channeled Inflow in the field.

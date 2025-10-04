@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Oceanic-Current-Systems_Everyday_Snapshot — A factory floor stand-up story that grounds Oceanic Current Systems in familiar cues.
+- S2-L7_Oceanic-Current-Systems_Applied_Field_Kit — A shift-change navigator teams can deploy to try Oceanic Current Systems in the field.

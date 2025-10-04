@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Time-Dilation-Experiments_Everyday_Snapshot — A warehouse loading dock pause story that grounds Time Dilation Experiments in familiar cues.
+- S2-L7_Time-Dilation-Experiments_Applied_Field_Kit — A weekend pilot playbook teams can deploy to try Time Dilation Experiments in the field.

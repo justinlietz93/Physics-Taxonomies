@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Quantum-Hall-Topological_Everyday_Snapshot — A community garden harvest that makes quantum hall and topological insulators feel hands-on.
+- S2-L7_Quantum-Hall-Topological_Applied_Field_Kit — An after-school project turning quantum hall and topological insulators into a team-ready playbook.

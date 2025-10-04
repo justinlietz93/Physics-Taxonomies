@@ -1,5 +1,5 @@
 # G2-L6_Bursting-and_Transient_Events_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for bursting-and transient events.
+**Definition:** Collects applied toolkits for bursting and transient events.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Bursting-and-Transient-Events_Everyday_Snapshot — A rooftop garden check-in story that grounds Bursting and Transient Events in familiar cues.
+- S2-L7_Bursting-and-Transient-Events_Applied_Field_Kit — A deployment trail guide teams can deploy to try Bursting and Transient Events in the field.

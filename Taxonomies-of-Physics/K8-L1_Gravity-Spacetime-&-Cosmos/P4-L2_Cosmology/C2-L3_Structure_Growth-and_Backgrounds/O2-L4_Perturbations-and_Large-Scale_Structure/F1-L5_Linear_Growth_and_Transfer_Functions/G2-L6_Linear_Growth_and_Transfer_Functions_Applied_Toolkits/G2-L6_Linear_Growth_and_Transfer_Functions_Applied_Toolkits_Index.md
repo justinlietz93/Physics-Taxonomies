@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Linear-Growth-and-Transfer-Functions_Everyday_Snapshot — A mountain overlook picnic story that grounds Linear Growth and Transfer Functions in familiar cues.
+- S2-L7_Linear-Growth-and-Transfer-Functions_Applied_Field_Kit — A analysis war-room binder teams can deploy to try Linear Growth and Transfer Functions in the field.

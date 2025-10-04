@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Toroidal-Stellarator-Designs_Everyday_Snapshot — A commuter train schedule review that makes toroidal and stellarator designs core feel hands-on.
+- S2-L7_Toroidal-Stellarator-Designs_Applied_Field_Kit — A neighborhood festival booth turning toroidal and stellarator designs core into a team-ready playbook.

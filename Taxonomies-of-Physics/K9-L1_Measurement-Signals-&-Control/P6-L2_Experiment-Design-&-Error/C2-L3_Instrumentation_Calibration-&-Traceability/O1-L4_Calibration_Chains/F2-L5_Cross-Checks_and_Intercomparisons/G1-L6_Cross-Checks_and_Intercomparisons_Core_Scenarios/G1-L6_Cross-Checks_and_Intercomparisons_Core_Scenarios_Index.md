@@ -1,5 +1,5 @@
 # G1-L6_Cross-Checks_and_Intercomparisons_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for cross-checks and intercomparisons.
+**Definition:** Spotlights core scenarios for cross checks and intercomparisons.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Cross-Checks-and-Intercomparisons_Everyday_Snapshot — A coffee shop napkin huddle story that grounds Cross Checks and Intercomparisons in familiar cues.
+- S2-L7_Cross-Checks-and-Intercomparisons_Applied_Field_Kit — A on-call troubleshooting kit teams can deploy to try Cross Checks and Intercomparisons in the field.

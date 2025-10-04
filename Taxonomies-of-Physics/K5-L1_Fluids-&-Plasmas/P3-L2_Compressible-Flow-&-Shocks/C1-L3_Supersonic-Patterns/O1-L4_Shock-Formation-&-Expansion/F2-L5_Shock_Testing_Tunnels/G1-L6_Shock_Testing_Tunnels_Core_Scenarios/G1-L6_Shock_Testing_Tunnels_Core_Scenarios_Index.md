@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Shock-Testing-Tunnels_Everyday_Snapshot — A market stall sampling pause story that grounds Shock Testing Tunnels in familiar cues.
+- S2-L7_Shock-Testing-Tunnels_Applied_Field_Kit — A data handoff capsule teams can deploy to try Shock Testing Tunnels in the field.

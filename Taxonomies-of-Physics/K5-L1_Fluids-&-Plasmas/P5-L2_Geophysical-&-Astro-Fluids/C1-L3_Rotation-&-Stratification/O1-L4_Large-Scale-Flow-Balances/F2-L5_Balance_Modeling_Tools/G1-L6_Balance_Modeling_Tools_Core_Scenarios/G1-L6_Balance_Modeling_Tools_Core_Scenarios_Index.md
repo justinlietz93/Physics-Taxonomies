@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Balance-Modeling-Tools_Everyday_Snapshot — A planetarium foyer queue story that grounds Balance Modeling Tools in familiar cues.
+- S2-L7_Balance-Modeling-Tools_Applied_Field_Kit — A field-school starter kit teams can deploy to try Balance Modeling Tools in the field.

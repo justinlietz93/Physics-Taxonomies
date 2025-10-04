@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Plasma-Propulsion-Control_Everyday_Snapshot — A music jam session that makes plasma propulsion and control core feel hands-on.
+- S2-L7_Plasma-Propulsion-Control_Applied_Field_Kit — A library maker cart turning plasma propulsion and control core into a team-ready playbook.

@@ -1,5 +1,5 @@
 # G1-L6_PID-and_Lead-Lag_Design_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for pid-and lead-lag design.
+**Definition:** Spotlights core scenarios for pid and lead lag design.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_PID-and-Lead-Lag-Design_Everyday_Snapshot — A late-night lab snack break story that grounds PID and Lead Lag Design in familiar cues.
+- S2-L7_PID-and-Lead-Lag-Design_Applied_Field_Kit — A deployment trail guide teams can deploy to try PID and Lead Lag Design in the field.

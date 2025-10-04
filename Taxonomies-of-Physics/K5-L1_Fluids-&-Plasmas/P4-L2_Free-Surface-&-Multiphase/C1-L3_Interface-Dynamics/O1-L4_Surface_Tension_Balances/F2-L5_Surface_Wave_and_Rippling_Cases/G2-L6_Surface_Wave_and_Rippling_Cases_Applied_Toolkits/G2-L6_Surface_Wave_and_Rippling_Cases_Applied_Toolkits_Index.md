@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Surface-Wave-Rippling_Everyday_Snapshot — A city traffic light timing that makes surface wave and rippling cases feel hands-on.
+- S2-L7_Surface-Wave-Rippling_Applied_Field_Kit — A robotics club sprint turning surface wave and rippling cases into a team-ready playbook.

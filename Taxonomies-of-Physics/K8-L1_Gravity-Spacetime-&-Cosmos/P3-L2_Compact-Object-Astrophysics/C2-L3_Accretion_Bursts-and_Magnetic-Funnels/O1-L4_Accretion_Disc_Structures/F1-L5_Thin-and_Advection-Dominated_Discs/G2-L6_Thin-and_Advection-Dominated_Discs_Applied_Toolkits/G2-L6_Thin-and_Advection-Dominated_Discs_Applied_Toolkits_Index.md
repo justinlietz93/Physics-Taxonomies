@@ -1,5 +1,5 @@
 # G2-L6_Thin-and_Advection-Dominated_Discs_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for thin-and advection-dominated discs.
+**Definition:** Collects applied toolkits for thin and advection dominated discs.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Thin-and-Advection-Dominated-Discs_Everyday_Snapshot — A downtown art crawl pause story that grounds Thin and Advection Dominated Discs in familiar cues.
+- S2-L7_Thin-and-Advection-Dominated-Discs_Applied_Field_Kit — A field-day action log teams can deploy to try Thin and Advection Dominated Discs in the field.

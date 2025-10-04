@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Data-Analysis-Toolkits_Everyday_Snapshot — A community garden tour story that grounds Data Analysis Toolkits in familiar cues.
+- S2-L7_Data-Analysis-Toolkits_Applied_Field_Kit — A multi-shift duty roster teams can deploy to try Data Analysis Toolkits in the field.

@@ -1,5 +1,5 @@
 # G1-L6_Driver-and_Power_Electronics_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for driver-and power electronics.
+**Definition:** Spotlights core scenarios for driver and power electronics.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Driver-and-Power-Electronics_Everyday_Snapshot — A hospital shift overlap story that grounds Driver and Power Electronics in familiar cues.
+- S2-L7_Driver-and-Power-Electronics_Applied_Field_Kit — A frontline coaching kit teams can deploy to try Driver and Power Electronics in the field.

@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Traceability-Record-Systems_Everyday_Snapshot — A community radio call-in story that grounds Traceability Record Systems in familiar cues.
+- S2-L7_Traceability-Record-Systems_Applied_Field_Kit — A data handoff capsule teams can deploy to try Traceability Record Systems in the field.

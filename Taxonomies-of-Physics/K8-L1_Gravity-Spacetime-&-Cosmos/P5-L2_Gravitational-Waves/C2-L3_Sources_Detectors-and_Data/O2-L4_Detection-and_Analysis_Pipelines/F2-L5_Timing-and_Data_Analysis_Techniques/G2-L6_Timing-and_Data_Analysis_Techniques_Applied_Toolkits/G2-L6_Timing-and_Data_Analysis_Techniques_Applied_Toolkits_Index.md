@@ -1,5 +1,5 @@
 # G2-L6_Timing-and_Data_Analysis_Techniques_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for timing-and data analysis techniques.
+**Definition:** Collects applied toolkits for timing and data analysis techniques.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Timing-and-Data-Analysis-Techniques_Everyday_Snapshot — A design studio whiteboard jam story that grounds Timing and Data Analysis Techniques in familiar cues.
+- S2-L7_Timing-and-Data-Analysis-Techniques_Applied_Field_Kit — A mission patchwork planner teams can deploy to try Timing and Data Analysis Techniques in the field.

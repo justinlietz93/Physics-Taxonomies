@@ -1,5 +1,5 @@
 # G2-L6_In-Situ_Monitoring_and_Logging_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for in-situ monitoring and logging.
+**Definition:** Collects applied toolkits for in situ monitoring and logging.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_In-Situ-Monitoring-and-Logging_Everyday_Snapshot — A community garden tour story that grounds In Situ Monitoring and Logging in familiar cues.
+- S2-L7_In-Situ-Monitoring-and-Logging_Applied_Field_Kit — A shared dashboard sprint teams can deploy to try In Situ Monitoring and Logging in the field.

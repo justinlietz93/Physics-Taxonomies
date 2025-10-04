@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Sequential-and-Adaptive-Designs_Everyday_Snapshot — A science cafe roundtable story that grounds Sequential and Adaptive Designs in familiar cues.
+- S2-L7_Sequential-and-Adaptive-Designs_Applied_Field_Kit — A rapid response drill teams can deploy to try Sequential and Adaptive Designs in the field.

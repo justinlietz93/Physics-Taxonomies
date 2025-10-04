@@ -1,5 +1,5 @@
 # G2-L6_Crack-Growth-Scenarios_Extension_Portfolios — Genus Index
-**Definition:** Maps extension portfolios surrounding crack-growth-scenarios.
+**Definition:** Maps extension portfolios surrounding crack growth scenarios.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Crack-Growth-Scenarios_Everyday_Snapshot — A backyard stargazing chat story that grounds Crack Growth Scenarios in familiar cues.
+- S2-L7_Crack-Growth-Scenarios_Applied_Field_Kit — A mobile checklist set teams can deploy to try Crack Growth Scenarios in the field.

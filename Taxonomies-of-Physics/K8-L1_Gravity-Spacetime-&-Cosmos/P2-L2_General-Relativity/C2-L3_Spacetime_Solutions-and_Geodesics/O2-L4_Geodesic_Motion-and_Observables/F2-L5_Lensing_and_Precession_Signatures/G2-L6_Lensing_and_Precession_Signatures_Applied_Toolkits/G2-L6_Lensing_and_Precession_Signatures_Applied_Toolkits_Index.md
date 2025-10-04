@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Lensing-and-Precession-Signatures_Everyday_Snapshot — A evening porch conversation story that grounds Lensing and Precession Signatures in familiar cues.
+- S2-L7_Lensing-and-Precession-Signatures_Applied_Field_Kit — A train-the-trainer bundle teams can deploy to try Lensing and Precession Signatures in the field.

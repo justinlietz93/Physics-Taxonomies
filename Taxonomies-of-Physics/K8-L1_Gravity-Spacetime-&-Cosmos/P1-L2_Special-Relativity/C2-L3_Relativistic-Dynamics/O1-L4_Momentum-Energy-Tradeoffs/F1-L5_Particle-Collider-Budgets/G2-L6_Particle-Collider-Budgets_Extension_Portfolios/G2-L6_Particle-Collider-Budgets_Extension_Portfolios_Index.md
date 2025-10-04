@@ -1,5 +1,5 @@
 # G2-L6_Particle-Collider-Budgets_Extension_Portfolios — Genus Index
-**Definition:** Maps extension portfolios surrounding particle-collider-budgets.
+**Definition:** Maps extension portfolios surrounding particle collider budgets.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Particle-Collider-Budgets_Everyday_Snapshot — A subway commute story story that grounds Particle Collider Budgets in familiar cues.
+- S2-L7_Particle-Collider-Budgets_Applied_Field_Kit — A portable briefing deck teams can deploy to try Particle Collider Budgets in the field.

@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Transition-Diagnostics-Toolkits_Everyday_Snapshot — A science museum pop-up story that grounds Transition Diagnostics Toolkits in familiar cues.
+- S2-L7_Transition-Diagnostics-Toolkits_Applied_Field_Kit — A train-the-trainer bundle teams can deploy to try Transition Diagnostics Toolkits in the field.

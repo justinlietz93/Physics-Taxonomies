@@ -1,5 +1,5 @@
 # G2-L6_Matter-and_Radiation_Eras_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for matter-and radiation eras.
+**Definition:** Collects applied toolkits for matter and radiation eras.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Matter-and-Radiation-Eras_Everyday_Snapshot — A train platform wait story that grounds Matter and Radiation Eras in familiar cues.
+- S2-L7_Matter-and-Radiation-Eras_Applied_Field_Kit — A mission rehearsal workbook teams can deploy to try Matter and Radiation Eras in the field.

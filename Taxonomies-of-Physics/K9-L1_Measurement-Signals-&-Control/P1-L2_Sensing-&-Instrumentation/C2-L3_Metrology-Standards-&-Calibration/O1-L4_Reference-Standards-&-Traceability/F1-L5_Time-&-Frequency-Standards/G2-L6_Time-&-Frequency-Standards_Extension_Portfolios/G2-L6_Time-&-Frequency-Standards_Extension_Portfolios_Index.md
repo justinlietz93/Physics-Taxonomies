@@ -1,5 +1,5 @@
 # G2-L6_Time-&-Frequency-Standards_Extension_Portfolios — Genus Index
-**Definition:** Maps extension portfolios surrounding time-&-frequency-standards.
+**Definition:** Maps extension portfolios surrounding time & frequency standards.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Time-&-Frequency-Standards_Everyday_Snapshot — A block-party planning huddle story that grounds Time & Frequency Standards in familiar cues.
+- S2-L7_Time-&-Frequency-Standards_Applied_Field_Kit — A portable sensor drop kit teams can deploy to try Time & Frequency Standards in the field.

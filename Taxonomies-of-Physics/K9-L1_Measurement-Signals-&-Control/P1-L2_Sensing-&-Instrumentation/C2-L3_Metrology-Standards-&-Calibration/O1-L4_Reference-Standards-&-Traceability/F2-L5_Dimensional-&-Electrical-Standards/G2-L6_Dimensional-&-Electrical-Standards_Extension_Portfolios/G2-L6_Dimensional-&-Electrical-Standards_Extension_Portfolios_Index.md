@@ -1,5 +1,5 @@
 # G2-L6_Dimensional-&-Electrical-Standards_Extension_Portfolios — Genus Index
-**Definition:** Maps extension portfolios surrounding dimensional-&-electrical-standards.
+**Definition:** Maps extension portfolios surrounding dimensional & electrical standards.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Dimensional-&-Electrical-Standards_Everyday_Snapshot — A home workshop retrofit story that grounds Dimensional & Electrical Standards in familiar cues.
+- S2-L7_Dimensional-&-Electrical-Standards_Applied_Field_Kit — A prototype retrofit binder teams can deploy to try Dimensional & Electrical Standards in the field.

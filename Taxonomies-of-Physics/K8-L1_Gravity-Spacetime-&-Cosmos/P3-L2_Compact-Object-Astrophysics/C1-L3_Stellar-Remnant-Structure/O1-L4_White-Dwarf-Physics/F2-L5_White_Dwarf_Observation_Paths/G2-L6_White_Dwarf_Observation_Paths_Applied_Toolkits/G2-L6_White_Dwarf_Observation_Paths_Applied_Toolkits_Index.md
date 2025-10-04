@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_White-Dwarf-Observation-Paths_Everyday_Snapshot — A campfire storytelling circle story that grounds White Dwarf Observation Paths in familiar cues.
+- S2-L7_White-Dwarf-Observation-Paths_Applied_Field_Kit — A interdisciplinary stand-up kit teams can deploy to try White Dwarf Observation Paths in the field.

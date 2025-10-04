@@ -1,5 +1,5 @@
 # G2-L6_Shock-Interaction-Scenes_Extension_Portfolios — Genus Index
-**Definition:** Maps extension portfolios surrounding shock-interaction-scenes.
+**Definition:** Maps extension portfolios surrounding shock interaction scenes.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Shock-Interaction-Scenes_Everyday_Snapshot — A after-school club meetup story that grounds Shock Interaction Scenes in familiar cues.
+- S2-L7_Shock-Interaction-Scenes_Applied_Field_Kit — A field-day action log teams can deploy to try Shock Interaction Scenes in the field.

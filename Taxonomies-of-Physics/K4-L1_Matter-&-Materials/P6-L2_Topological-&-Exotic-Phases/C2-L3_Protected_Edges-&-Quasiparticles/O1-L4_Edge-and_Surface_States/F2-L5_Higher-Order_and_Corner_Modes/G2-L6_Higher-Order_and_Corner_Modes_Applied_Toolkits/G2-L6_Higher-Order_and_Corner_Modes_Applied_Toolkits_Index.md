@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Higher-Order-Corner_Everyday_Snapshot — A neighborhood watch patrol that makes higher order and corner modes feel hands-on.
+- S2-L7_Higher-Order-Corner_Applied_Field_Kit — A team retro turning higher order and corner modes into a team-ready playbook.

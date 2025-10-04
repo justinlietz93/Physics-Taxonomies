@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Melting-Magnet-Examples_Everyday_Snapshot — A city traffic light timing that makes melting and magnet examples extension feel hands-on.
+- S2-L7_Melting-Magnet-Examples_Applied_Field_Kit — A school outreach visit turning melting and magnet examples extension into a team-ready playbook.

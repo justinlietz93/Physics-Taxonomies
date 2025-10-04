@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Topological-Device-Galleries_Everyday_Snapshot — A home workshop retrofit story that grounds Topological Device Galleries in familiar cues.
+- S2-L7_Topological-Device-Galleries_Applied_Field_Kit — A mentor-onboarding folio teams can deploy to try Topological Device Galleries in the field.

@@ -1,5 +1,5 @@
 # G2-L6_Radio-&-Microwave_Receivers_Extension_Portfolios — Genus Index
-**Definition:** Maps extension portfolios surrounding radio-&-microwave receivers.
+**Definition:** Maps extension portfolios surrounding radio & microwave receivers.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Radio-&-Microwave-Receivers_Everyday_Snapshot — A city council listening session story that grounds Radio & Microwave Receivers in familiar cues.
+- S2-L7_Radio-&-Microwave-Receivers_Applied_Field_Kit — A inspection walk workbook teams can deploy to try Radio & Microwave Receivers in the field.

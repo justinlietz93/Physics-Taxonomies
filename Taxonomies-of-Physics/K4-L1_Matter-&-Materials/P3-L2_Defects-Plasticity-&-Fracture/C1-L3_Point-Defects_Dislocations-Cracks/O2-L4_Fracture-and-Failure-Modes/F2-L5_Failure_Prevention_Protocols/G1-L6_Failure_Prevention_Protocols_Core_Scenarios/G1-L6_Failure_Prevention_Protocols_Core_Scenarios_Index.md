@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Failure-Prevention-Protocols_Everyday_Snapshot — A museum floor walkthrough story that grounds Failure Prevention Protocols in familiar cues.
+- S2-L7_Failure-Prevention-Protocols_Applied_Field_Kit — A rapid response drill teams can deploy to try Failure Prevention Protocols in the field.

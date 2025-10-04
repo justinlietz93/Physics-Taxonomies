@@ -1,5 +1,5 @@
 # G2-L6_Domain-Wall_Dynamics_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for domain-wall dynamics.
+**Definition:** Collects applied toolkits for domain wall dynamics.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Domain-Wall-Dynamics_Everyday_Snapshot — A riverbank field note stop story that grounds Domain Wall Dynamics in familiar cues.
+- S2-L7_Domain-Wall-Dynamics_Applied_Field_Kit — A observatory shift turnover kit teams can deploy to try Domain Wall Dynamics in the field.

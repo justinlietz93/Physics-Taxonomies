@@ -1,5 +1,5 @@
 # G1-L6_Ground-and_Space_Interferometers_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for ground-and space interferometers.
+**Definition:** Spotlights core scenarios for ground and space interferometers.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Ground-and-Space-Interferometers_Everyday_Snapshot — A maker-space open lab hour story that grounds Ground and Space Interferometers in familiar cues.
+- S2-L7_Ground-and-Space-Interferometers_Applied_Field_Kit — A interdisciplinary stand-up kit teams can deploy to try Ground and Space Interferometers in the field.

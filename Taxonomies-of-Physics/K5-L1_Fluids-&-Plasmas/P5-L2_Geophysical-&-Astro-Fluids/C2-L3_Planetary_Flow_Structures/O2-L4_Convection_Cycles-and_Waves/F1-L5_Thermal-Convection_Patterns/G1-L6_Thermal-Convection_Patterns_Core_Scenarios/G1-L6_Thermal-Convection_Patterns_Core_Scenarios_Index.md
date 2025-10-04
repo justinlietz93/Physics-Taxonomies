@@ -1,5 +1,5 @@
 # G1-L6_Thermal-Convection_Patterns_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for thermal-convection patterns.
+**Definition:** Spotlights core scenarios for thermal convection patterns.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Thermal-Convection-Patterns_Everyday_Snapshot — A windy pier observation story that grounds Thermal Convection Patterns in familiar cues.
+- S2-L7_Thermal-Convection-Patterns_Applied_Field_Kit — A pilot plant action log teams can deploy to try Thermal Convection Patterns in the field.

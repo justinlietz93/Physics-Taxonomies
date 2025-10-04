@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Merger-Simulation-Workflows_Everyday_Snapshot — A farm co-op weigh-in story that grounds Merger Simulation Workflows in familiar cues.
+- S2-L7_Merger-Simulation-Workflows_Applied_Field_Kit — A mobile checklist set teams can deploy to try Merger Simulation Workflows in the field.

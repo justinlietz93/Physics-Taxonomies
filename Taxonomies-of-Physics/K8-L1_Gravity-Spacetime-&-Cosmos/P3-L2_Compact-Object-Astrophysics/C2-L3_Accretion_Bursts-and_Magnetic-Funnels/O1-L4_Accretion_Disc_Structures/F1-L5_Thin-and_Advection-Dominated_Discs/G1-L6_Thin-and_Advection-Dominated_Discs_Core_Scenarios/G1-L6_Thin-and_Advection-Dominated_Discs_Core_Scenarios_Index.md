@@ -1,5 +1,5 @@
 # G1-L6_Thin-and_Advection-Dominated_Discs_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for thin-and advection-dominated discs.
+**Definition:** Spotlights core scenarios for thin and advection dominated discs.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Thin-and-Advection-Dominated-Discs_Everyday_Snapshot — A community radio call-in story that grounds Thin and Advection Dominated Discs in familiar cues.
+- S2-L7_Thin-and-Advection-Dominated-Discs_Applied_Field_Kit — A prototype retrofit binder teams can deploy to try Thin and Advection Dominated Discs in the field.

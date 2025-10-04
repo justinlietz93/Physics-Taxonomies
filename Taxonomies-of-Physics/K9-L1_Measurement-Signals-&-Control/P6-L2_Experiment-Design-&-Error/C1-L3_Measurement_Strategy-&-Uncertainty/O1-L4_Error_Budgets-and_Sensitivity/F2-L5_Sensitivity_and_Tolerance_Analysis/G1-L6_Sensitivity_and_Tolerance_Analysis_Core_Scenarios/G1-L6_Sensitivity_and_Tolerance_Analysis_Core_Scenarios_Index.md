@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Sensitivity-and-Tolerance-Analysis_Everyday_Snapshot — A university quad tabling stop story that grounds Sensitivity and Tolerance Analysis in familiar cues.
+- S2-L7_Sensitivity-and-Tolerance-Analysis_Applied_Field_Kit — A transition stand-up script teams can deploy to try Sensitivity and Tolerance Analysis in the field.
