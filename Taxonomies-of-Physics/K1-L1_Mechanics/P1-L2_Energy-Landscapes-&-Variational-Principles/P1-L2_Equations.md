@@ -13,7 +13,7 @@ $$(S[q] = \int_{t_{1}}^{t_{2}} L(q, \dot{q}, t) \, dt)$$
 
 $$\left(\frac{d}{dt} \frac{\partial L}{\partial \dot{q}_{i}} - \frac{\partial L}{\partial q_{i}} = 0\right)$$
 
-- Stationary action forces generalized coordinates $(q_{i})$ to satisfy this balance between momentum-like slopes $(\partial L / \partial \dot{q}_{i})$ and potential gradients $(\partial L / \partial q_{i})$.
+- Stationary action forces generalized coordinates $(q_{i})$ to satisfy this balance between momentum-like slopes $(\partial L / \partial \dot{q}\_{i})$ and potential gradients $(\partial L / \partial q_{i})$.
 
 **Noether current:**
 
