@@ -5,15 +5,15 @@ This kingdom frames how physical information is captured, represented, filtered,
 ## Measurement Foundations
 **Uncertainty propagation:**
 
-$$(\sigma_{f}^{2} = \sum_{i} (\tfrac{\partial f}{\partial x_{i}})^{2} \sigma_{x_{i}}^{2})$$
+$$(\sigma\_{f}^{2} = \sum\_{i} (\tfrac{\partial f}{\partial x\_{i}})^{2} \sigma\_{x\_{i}}^{2})$$
 
-- The variance $(\sigma_{f}^{2})$ of a derived quantity $(f)$ accumulates contributions from each input $(x_{i})$ with sensitivity $(\partial f / \partial x_{i})$ and variance $(\sigma_{x_{i}}^{2})$.
+- The variance $(\sigma\_{f}^{2})$ of a derived quantity $(f)$ accumulates contributions from each input $(x\_{i})$ with sensitivity $(\partial f / \partial x\_{i})$ and variance $(\sigma\_{x\_{i}}^{2})$.
 
 **Standard error of the mean:**
 
-$$(\sigma_{\bar{x}} = \tfrac{\sigma}{\sqrt{N}})$$
+$$(\sigma\_{\bar{x}} = \tfrac{\sigma}{\sqrt{N}})$$
 
-- Averaging $(N)$ independent samples with standard deviation $(\sigma)$ shrinks the uncertainty on the mean $(\sigma_{\bar{x}})$.
+- Averaging $(N)$ independent samples with standard deviation $(\sigma)$ shrinks the uncertainty on the mean $(\sigma\_{\bar{x}})$.
 
 **Instrument response:**
 
@@ -24,38 +24,38 @@ $$(y(t) = h(t) * x(t))$$
 ## Signal Representations
 **Fourier transform:**
 
-$$(X(\omega) = \int_{-\infty}^{\infty} x(t) \mathrm{e}^{-\mathrm{i} \omega t} \, dt)$$
+$$(X(\omega) = \int\_{-\infty}^{\infty} x(t) \mathrm{e}^{-\mathrm{i} \omega t} \, dt)$$
 
 - Frequency-domain content $(X(\omega))$ is obtained by integrating the time signal $(x(t))$ against complex exponentials.
 
 **Inverse Fourier transform:**
 
-$$(x(t) = \tfrac{1}{2\pi} \int_{-\infty}^{\infty} X(\omega) \mathrm{e}^{\mathrm{i} \omega t} \, d\omega)$$
+$$(x(t) = \tfrac{1}{2\pi} \int\_{-\infty}^{\infty} X(\omega) \mathrm{e}^{\mathrm{i} \omega t} \, d\omega)$$
 
 - Recover the time signal from its spectrum.
 
 **Nyquist-Shannon sampling:**
 
-$$(f_{s} \geq 2 f_{\max})$$
+$$(f\_{s} \geq 2 f\_{\max})$$
 
-- The sampling frequency $(f_{s})$ must be at least twice the highest signal frequency $(f_{\max})$ to avoid aliasing.
+- The sampling frequency $(f\_{s})$ must be at least twice the highest signal frequency $(f\_{\max})$ to avoid aliasing.
 
 ## Noise & Stochastic Models
 **Power spectral density definition:**
 
-$$(S_{xx}(\omega) = \lim_{T \to \infty} \tfrac{1}{2 T} | X_{T}(\omega) |^{2})$$
+$$(S\_{xx}(\omega) = \lim\_{T \to \infty} \tfrac{1}{2 T} | X\_{T}(\omega) |^{2})$$
 
-- The one-sided power spectral density $(S_{xx}(\omega))$ averages the squared magnitude of the finite-time Fourier transform $(X_{T}(\omega))$, characterizing noise versus frequency.
+- The one-sided power spectral density $(S\_{xx}(\omega))$ averages the squared magnitude of the finite-time Fourier transform $(X\_{T}(\omega))$, characterizing noise versus frequency.
 
 **Autocorrelation function:**
 
-$$(R_{xx}(\tau) = \mathbb{E}[x(t) \, x(t + \tau)])$$
+$$(R\_{xx}(\tau) = \mathbb{E}[x(t) \, x(t + \tau)])$$
 
-- The autocorrelation $(R_{xx}(\tau))$ links signal values separated by delay $(\tau)$ through the expectation $(\mathbb{E}[\cdot])$.
+- The autocorrelation $(R\_{xx}(\tau))$ links signal values separated by delay $(\tau)$ through the expectation $(\mathbb{E}[\cdot])$.
 
 **Wiener-Khinchin relation:**
 
-$$(S_{xx}(\omega) = \int_{-\infty}^{\infty} R_{xx}(\tau) \mathrm{e}^{-\mathrm{i} \omega \tau} \, d\tau)$$
+$$(S\_{xx}(\omega) = \int\_{-\infty}^{\infty} R\_{xx}(\tau) \mathrm{e}^{-\mathrm{i} \omega \tau} \, d\tau)$$
 
 - Power spectra and autocorrelation functions are Fourier pairs, bridging time and frequency noise views.
 
@@ -68,15 +68,15 @@ $$(p(\theta \mid d) = \tfrac{p(d \mid \theta) \, p(\theta)}{p(d)})$$
 
 **Kalman filter update:**
 
-$$(\hat{x}_{k}^{+} = \hat{x}_{k}^{-} + K_{k} (z_{k} - H \hat{x}_{k}^{-}))$$
+$$(\hat{x}\_{k}^{+} = \hat{x}\_{k}^{-} + K\_{k} (z\_{k} - H \hat{x}\_{k}^{-}))$$
 
-- The a posteriori state estimate $(\hat{x}_{k}^{+})$ adjusts the prediction $(\hat{x}_{k}^{-})$ using measurement residual $(z_{k} - H \hat{x}_{k}^{-})$ weighted by the Kalman gain $(K_{k})$.
+- The a posteriori state estimate $(\hat{x}\_{k}^{+})$ adjusts the prediction $(\hat{x}\_{k}^{-})$ using measurement residual $(z\_{k} - H \hat{x}\_{k}^{-})$ weighted by the Kalman gain $(K\_{k})$.
 
 **Kalman gain:**
 
-$$(K_{k} = P_{k}^{-} H^{\mathrm{T}} (H P_{k}^{-} H^{\mathrm{T}} + R)^{-1})$$
+$$(K\_{k} = P\_{k}^{-} H^{\mathrm{T}} (H P\_{k}^{-} H^{\mathrm{T}} + R)^{-1})$$
 
-- The gain $(K_{k})$ trades state covariance $(P_{k}^{-})$, measurement model $(H)$, and sensor noise covariance $(R)$ to balance trust between prediction and observation.
+- The gain $(K\_{k})$ trades state covariance $(P\_{k}^{-})$, measurement model $(H)$, and sensor noise covariance $(R)$ to balance trust between prediction and observation.
 
 ## Feedback & Control
 **State-space dynamics:**
