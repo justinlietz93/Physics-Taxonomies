@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Slingshot_Turntable_Demo — Turntable cart demo highlighting centrifugal and Coriolis forces.
+- S2-L7_Water_Trough_Rotating_Frame_Run — Rotating water trough showing parabolic free-surface balance.

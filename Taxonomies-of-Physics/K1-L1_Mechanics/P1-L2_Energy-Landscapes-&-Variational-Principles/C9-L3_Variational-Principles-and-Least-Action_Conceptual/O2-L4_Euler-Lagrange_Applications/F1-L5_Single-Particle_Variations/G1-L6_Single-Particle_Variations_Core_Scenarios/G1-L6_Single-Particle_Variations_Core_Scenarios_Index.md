@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Simple_Pendulum_Action-Path_Study — Students compare trial swings to the action-extremizing pendulum path.
+- S2-L7_Projectile_With-Drag_Action_Refinement — Iterative action tweak that shows how drag reshapes the optimal arc.

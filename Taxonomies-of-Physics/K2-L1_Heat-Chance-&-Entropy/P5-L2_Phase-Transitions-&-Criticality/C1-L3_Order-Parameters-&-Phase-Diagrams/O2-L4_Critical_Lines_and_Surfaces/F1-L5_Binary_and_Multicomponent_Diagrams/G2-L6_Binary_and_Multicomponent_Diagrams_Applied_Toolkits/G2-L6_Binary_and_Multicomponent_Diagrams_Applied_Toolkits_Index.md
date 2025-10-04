@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Binary_and_Multicomponent_Lab_Walkthrough — Lab walkthrough that rehearses binary and multicomponent steps.
+- S2-L7_Binary_and_Multicomponent_Field_Checklist — Field checklist that keeps binary and multicomponent behavior on track.

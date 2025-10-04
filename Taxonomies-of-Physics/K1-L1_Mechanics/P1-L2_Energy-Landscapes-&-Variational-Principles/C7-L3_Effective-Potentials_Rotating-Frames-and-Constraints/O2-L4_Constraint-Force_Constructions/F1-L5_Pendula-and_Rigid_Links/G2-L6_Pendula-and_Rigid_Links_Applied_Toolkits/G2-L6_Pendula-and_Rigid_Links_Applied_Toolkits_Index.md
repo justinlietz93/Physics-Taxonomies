@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Manipulator_Link_Constraint_Tuning_Log — Calibration log for constraint forces in robotic manipulators.
+- S2-L7_Suspension_Link_Design_Checklist — Checklist for load-testing rigid-link suspension constraint forces.

@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Polarizations-&-Patterns_Lab_Walkthrough — Lab walkthrough that rehearses polarizations & patterns steps.
+- S2-L7_Polarizations-&-Patterns_Field_Checklist — Field checklist that keeps polarizations & patterns behavior on track.

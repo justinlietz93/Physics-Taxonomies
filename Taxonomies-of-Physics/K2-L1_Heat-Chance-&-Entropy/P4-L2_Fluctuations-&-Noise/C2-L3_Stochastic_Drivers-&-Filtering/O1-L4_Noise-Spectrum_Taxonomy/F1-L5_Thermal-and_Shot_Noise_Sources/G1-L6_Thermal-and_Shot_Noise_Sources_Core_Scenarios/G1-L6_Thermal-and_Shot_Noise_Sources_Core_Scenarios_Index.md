@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Thermal-and_Shot_Noise_Lab_Walkthrough — Lab walkthrough that rehearses thermal and shot noise steps.
+- S2-L7_Thermal-and_Shot_Noise_Field_Checklist — Field checklist that keeps thermal and shot noise behavior on track.

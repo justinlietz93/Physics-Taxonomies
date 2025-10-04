@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Band-Curvature_and_Mass_Lab_Walkthrough — Lab walkthrough that rehearses band curvature and mass steps.
+- S2-L7_Band-Curvature_and_Mass_Field_Checklist — Field checklist that keeps band curvature and mass behavior on track.

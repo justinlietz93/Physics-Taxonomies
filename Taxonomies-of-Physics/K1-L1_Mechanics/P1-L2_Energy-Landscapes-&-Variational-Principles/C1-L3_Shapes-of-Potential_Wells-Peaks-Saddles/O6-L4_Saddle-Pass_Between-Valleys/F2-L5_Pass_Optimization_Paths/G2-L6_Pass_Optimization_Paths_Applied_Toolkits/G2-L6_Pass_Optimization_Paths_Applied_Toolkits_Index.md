@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Molecule_Reaction_Pass_Optimization_Set — Collects quick tools for steering reactions along the most efficient transition path.
+- S2-L7_Supply_Chain_Bottleneck_Pass_Plan — Repurposes pass optimization ideas to relieve supply-chain bottlenecks.

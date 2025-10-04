@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Satellite_Reaction_Wheel_Maintenance_Log — Maintenance log tracking reaction wheel health and momentum dumps.
+- S2-L7_Grid_Flywheel_Operating_Playbook — Playbook for dispatching grid flywheel banks during frequency events.

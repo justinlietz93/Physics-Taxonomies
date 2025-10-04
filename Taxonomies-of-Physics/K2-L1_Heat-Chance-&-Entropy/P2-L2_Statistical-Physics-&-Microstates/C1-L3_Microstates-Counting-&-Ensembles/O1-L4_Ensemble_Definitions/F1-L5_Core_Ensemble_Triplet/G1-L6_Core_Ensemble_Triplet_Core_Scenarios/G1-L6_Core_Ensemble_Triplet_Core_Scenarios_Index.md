@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Microcanonical_Worked_Example — Worked microcanonical ensemble example computing entropy and temperature.
+- S2-L7_Canonical_Ensemble_Partition_Demo — Demo assembling a canonical partition function for a discrete system.

@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Bicycle_Wheel_Gyro_Demo — Bicycle wheel demo measuring precession rate changes with applied torque.
+- S2-L7_Spinning_Chair_Angular_Momentum_Activity — Spinning chair activity quantifying angular momentum conservation.

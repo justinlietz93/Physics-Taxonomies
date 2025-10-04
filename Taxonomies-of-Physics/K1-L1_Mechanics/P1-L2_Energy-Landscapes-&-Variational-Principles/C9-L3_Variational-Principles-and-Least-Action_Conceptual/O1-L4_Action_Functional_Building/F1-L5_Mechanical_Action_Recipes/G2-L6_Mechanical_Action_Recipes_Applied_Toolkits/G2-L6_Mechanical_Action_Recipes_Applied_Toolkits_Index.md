@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Actuator_Action_Balance_Check — Action balance check used in actuator design comparisons.
+- S2-L7_Motion_Planning_Action_Template — Template applying action minimization within robot trajectory planning.

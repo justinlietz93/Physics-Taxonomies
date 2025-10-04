@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Thermal-Conductivity-Paths_Lab_Walkthrough — Lab walkthrough that rehearses thermal conductivity paths steps.
+- S2-L7_Thermal-Conductivity-Paths_Field_Checklist — Field checklist that keeps thermal conductivity paths behavior on track.

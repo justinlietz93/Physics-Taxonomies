@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Slow_Bias_Double_Well_Scan — Slow bias scan moving double-well populations adiabatically.
+- S2-L7_Ferroelastic_Swept_Field_Demo — Ferroelastic field sweep demonstrating near-adiabatic hysteresis.

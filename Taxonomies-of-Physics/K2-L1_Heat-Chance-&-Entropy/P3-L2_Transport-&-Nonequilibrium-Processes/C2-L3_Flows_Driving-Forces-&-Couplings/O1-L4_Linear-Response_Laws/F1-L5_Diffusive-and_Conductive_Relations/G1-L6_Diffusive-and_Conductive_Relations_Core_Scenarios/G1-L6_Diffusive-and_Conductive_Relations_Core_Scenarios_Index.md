@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Diffusive-and_Conductive_Relations_Lab_Walkthrough — Lab walkthrough that rehearses diffusive and conductive relations steps.
+- S2-L7_Diffusive-and_Conductive_Relations_Field_Checklist — Field checklist that keeps diffusive and conductive relations behavior on track.

@@ -1,5 +1,5 @@
 # G2-L6_Sampling-and_Annealing_Routines_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for sampling-and annealing routines.
+**Definition:** Applied toolkits that inject annealing and sampling into manufacturing, logistics, and chip design workflows.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Chip_Place_Annealing_Service_Kit** — fab service kit that reheats placement schedules whenever yields drift.
+- **S2-L7_Logistics_Sampler_Playbook** — delivery planning playbook using sampler sweeps to hedge storm disruptions.

@@ -1,5 +1,5 @@
 # G1-L6_One-Dimensional_Center-Manifold_Cases_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for one-dimensional center-manifold cases.
+**Definition:** Core lab cases that collapse messy dynamics to a single slow direction near a tipping point.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Fluid_Valve_Center-Manifold_Lab** — benchtop valve test that tracks the lone slow mode controlling chatter onset.
+- **S2-L7_Semiconductor_Laser_Turning_Point_Check** — optics run mapping the single control current that steers laser startup.

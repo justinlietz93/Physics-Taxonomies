@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Combined_Cycle_Field_Audit_Checklist — Checklist for auditing combined cycle bottoming performance in the field.
+- S2-L7_Industrial_Hybrid_Cycle_Retrofit_Log — Retrofit log for installing hybrid waste-heat recovery cycles.

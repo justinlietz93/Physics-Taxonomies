@@ -1,5 +1,5 @@
 # G2-L6_One-Dimensional_Center-Manifold_Cases_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for one-dimensional center-manifold cases.
+**Definition:** Applied toolkits that carry center-manifold insights into control rooms and plant floor dashboards.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Chemical_Reactor_Center-Manifold_Toolkit** — operating kit that trims feed and cooling around the single slow reactor mode.
+- **S2-L7_Power_Grid_Load_Shed_Center-Manifold_Playbook** — dispatch playbook that watches the lone slow voltage collapse direction.

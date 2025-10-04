@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Supercritical_CO2_Cycle_Extension_Set — expand Brayton diagrams to match reheated and recuperated plant tweaks.
+- S2-L7_Geothermal_Flash_Cycle_Extension_Log — track brine-driven shifts to two-stage flash envelopes and outputs.

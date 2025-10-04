@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Highrise_Damper_Peak_Control_Checklist — Packages field checks for keeping a skyscraper damper locked on wobble peaks.
+- S2-L7_RF_Oscillator_Peak_Trim_Log — Logs the adjustments that steady RF oscillator peaks during maintenance.

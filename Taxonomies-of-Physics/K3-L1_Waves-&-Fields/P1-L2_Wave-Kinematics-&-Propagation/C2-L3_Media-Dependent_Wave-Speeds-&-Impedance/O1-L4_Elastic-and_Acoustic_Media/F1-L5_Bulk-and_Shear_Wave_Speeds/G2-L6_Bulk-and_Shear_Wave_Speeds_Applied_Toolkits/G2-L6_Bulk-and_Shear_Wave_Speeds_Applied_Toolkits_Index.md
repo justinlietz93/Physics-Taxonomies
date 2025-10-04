@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Civil_Site_Core_Wave-Speed_Checklist** — step-by-step notes for staging borehole travel-time surveys before pouring foundations.
+- **S2-L7_Composites_Lab_Shear-Speed_Prep_Guide** — lab sheet for conditioning panels before ultrasonic shear-speed certification.

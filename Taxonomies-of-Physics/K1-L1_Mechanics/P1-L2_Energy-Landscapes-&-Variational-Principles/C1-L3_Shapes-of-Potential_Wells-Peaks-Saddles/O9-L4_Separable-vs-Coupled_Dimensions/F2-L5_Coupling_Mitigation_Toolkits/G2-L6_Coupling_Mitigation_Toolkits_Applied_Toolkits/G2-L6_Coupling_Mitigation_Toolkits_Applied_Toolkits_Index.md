@@ -1,5 +1,5 @@
 # G2-L6_Coupling_Mitigation_Toolkits_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for coupling mitigation toolkits.
+**Definition:** Applied toolkits that keep coupling fixes alive on production hardware and infrastructure.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_CNC_Vibration_Coupling_Service_Pack** — maintenance pack decoupling feed axes when chatter bleeds across the frame.
+- **S2-L7_Building_Isolation_Coupling_Action_Log** — facilities log that rebalances tuned mass dampers before floors start sharing sway.

@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Superconductor_Bias_Sweep_Procedure — Procedure for adiabatic bias sweeps on superconducting qubits.
+- S2-L7_Power_Inverter_Bias_Adjustment_Set — Field set for gentle bias sweeps on power inverters.

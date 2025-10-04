@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Phase_Control_Strategies_Lab_Walkthrough — Lab walkthrough that rehearses phase control strategies steps.
+- S2-L7_Phase_Control_Strategies_Field_Checklist — Field checklist that keeps phase control strategies behavior on track.

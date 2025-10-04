@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Microwave_Waveguide_Stub_Tune** — bench exercise tweaking stubs to match a microwave source.
+- **S2-L7_Fiber_Patchcord_Mode_Check** — quick lab check ensuring patchcords carry the intended modes without big reflections.

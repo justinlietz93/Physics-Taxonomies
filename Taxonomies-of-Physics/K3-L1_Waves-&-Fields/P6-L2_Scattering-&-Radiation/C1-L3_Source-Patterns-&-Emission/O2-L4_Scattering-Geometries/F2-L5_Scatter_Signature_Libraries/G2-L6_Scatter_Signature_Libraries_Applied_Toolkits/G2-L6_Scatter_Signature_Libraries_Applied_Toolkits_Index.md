@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Scatter_Signature_Libraries_Lab_Walkthrough — Lab walkthrough that rehearses scatter signature libraries steps.
+- S2-L7_Scatter_Signature_Libraries_Field_Checklist — Field checklist that keeps scatter signature libraries behavior on track.

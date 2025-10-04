@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Process_Spectra_Coloring_Checklist — Checklist for catching and correcting colored noise in plant sensors.
+- S2-L7_Data_Correlation_Filtering_Field_Guide — Guide to filtering correlated jitter across monitoring networks.

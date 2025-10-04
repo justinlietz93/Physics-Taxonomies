@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Simulated_Tempered_Anneal_Demo — Simulated tempering demo showing better landscape exploration.
+- S2-L7_Adaptive_Step_Relaxation_Workshop — Workshop on curvature-aware adaptive relaxation step sizing.

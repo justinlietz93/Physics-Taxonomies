@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Lorenz_Attractor_Tuning_Lab — Lab tuning Lorenz parameters to explore weather-style attractors.
+- S2-L7_Rössler_Attractor_Extension_Set — Exercise set comparing Lorenz and Rössler weather-like attractors.

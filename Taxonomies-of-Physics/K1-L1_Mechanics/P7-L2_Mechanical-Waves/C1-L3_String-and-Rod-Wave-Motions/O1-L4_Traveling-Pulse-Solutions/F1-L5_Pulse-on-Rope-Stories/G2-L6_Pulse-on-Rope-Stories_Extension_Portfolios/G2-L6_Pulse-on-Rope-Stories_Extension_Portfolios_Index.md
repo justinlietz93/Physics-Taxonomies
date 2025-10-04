@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Rope_Pulse_Reflection_Lab — Lab comparing rope pulse reflections from fixed and free ends.
+- S2-L7_Multi_Pulse_Interference_Activity — Activity demonstrating interference between traveling rope pulses.

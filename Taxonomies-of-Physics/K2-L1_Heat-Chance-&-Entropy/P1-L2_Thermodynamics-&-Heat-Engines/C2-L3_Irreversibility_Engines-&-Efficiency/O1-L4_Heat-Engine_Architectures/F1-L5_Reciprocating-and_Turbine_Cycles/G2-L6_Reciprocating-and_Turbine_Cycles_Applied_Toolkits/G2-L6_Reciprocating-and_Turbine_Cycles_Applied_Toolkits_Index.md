@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Municipal_Cogen_Cycle_Toolkit — coordinate engine and turbine assets in city CHP fleets.
+- S2-L7_Aviation_Engine_Cycle_Field_Pack — bring cycle diagnostics onto the flight line for turbine upkeep.

@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Control_Moment_Gyro_Singularity_Avoidance_Checklist — Checklist preventing control moment gyro singularities during slews.
+- S2-L7_Pulse_Thruster_Attitude_Service_Log — Service log tracking pulse thruster firings and residual momentum.

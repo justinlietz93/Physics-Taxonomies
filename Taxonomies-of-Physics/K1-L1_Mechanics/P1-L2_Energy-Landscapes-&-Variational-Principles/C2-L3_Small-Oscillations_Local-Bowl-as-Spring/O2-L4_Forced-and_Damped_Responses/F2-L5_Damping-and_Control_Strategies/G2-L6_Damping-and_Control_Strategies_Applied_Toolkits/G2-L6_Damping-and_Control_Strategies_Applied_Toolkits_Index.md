@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Highrise_Tuned_Mass_Service_Binder — Service binder for retuning high-rise tuned mass dampers.
+- S2-L7_Robot_Arm_Vibration_Control_Playbook — Playbook to retune robot arm damping after payload swaps.

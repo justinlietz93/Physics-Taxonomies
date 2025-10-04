@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Double_Pendulum_Constraint_Walkthrough — Double pendulum demo deriving constraint forces from motion.
+- S2-L7_Rigid_Link_Roller_Coaster_Model — Rigid-link coaster model showing constraint reaction forces.

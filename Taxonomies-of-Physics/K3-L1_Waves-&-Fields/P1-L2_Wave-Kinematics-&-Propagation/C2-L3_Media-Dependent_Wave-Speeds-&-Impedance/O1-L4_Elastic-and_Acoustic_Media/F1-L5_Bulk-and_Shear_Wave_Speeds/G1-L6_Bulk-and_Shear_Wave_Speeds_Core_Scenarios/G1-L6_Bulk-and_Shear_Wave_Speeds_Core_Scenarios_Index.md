@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Bedrock_P-Wave_Field-Timing** — mapping P-wave speeds from core samples to infer in-situ stiffness.
+- **S2-L7_Foam_Rubber_Shear-Speed_Demo** — classroom shear pulses through foam to contrast slow versus fast media.

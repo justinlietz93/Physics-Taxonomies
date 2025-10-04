@@ -1,5 +1,5 @@
 # G2-L6_Beam_Design_Toolkits_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for beam design toolkits.
+**Definition:** Project-tested toolkits that adapt beam design basics to composite floors, touring stages, and other client-specific demands.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Composite_Slab-Beam_Design_Package** — composite beam packet tying studs, slab, and vibration criteria into one deliverable.
+- **S2-L7_Modular-Stage_Beam_Adjustment_Log** — touring stage logbook tracking how rigging tweaks reshape beam checks show-to-show.

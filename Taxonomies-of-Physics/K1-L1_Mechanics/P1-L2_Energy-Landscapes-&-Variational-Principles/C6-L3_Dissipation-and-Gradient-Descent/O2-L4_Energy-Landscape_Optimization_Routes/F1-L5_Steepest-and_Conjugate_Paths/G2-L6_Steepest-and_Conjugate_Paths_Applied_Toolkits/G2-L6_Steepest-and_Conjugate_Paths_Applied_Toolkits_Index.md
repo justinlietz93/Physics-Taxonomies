@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Structure_Optimization_Gradient_Log — Engineering log for gradient tuning of lightweight structures.
+- S2-L7_Process_Recipe_Conjugate_Update_Kit — Kit for conjugate-direction optimization of manufacturing recipes.

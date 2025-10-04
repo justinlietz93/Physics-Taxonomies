@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Material_Free_Energy_Expansion_Log — Log applying partition function expansions to estimate material free energies.
+- S2-L7_Phase_Change_Model_Expansion_Checklist — Checklist for using partition expansions in phase change modeling.

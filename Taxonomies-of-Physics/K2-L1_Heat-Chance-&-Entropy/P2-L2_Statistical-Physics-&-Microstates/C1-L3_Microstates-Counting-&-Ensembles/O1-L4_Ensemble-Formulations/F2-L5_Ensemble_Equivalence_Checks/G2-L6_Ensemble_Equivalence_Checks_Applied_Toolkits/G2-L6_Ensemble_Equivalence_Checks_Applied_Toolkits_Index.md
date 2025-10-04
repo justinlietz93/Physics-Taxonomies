@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Polymers_Ensemble_Equivalence_Log — Log tracking ensemble equivalence checks in polymer simulations.
+- S2-L7_Chemical_Process_Ensemble_Checklist — Checklist confirming ensemble assumptions in chemical process modeling.

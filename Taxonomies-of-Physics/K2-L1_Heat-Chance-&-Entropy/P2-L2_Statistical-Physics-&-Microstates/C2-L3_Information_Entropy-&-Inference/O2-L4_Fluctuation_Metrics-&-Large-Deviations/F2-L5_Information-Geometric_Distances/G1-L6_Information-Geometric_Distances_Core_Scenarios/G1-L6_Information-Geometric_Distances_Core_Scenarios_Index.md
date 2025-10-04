@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Fisher_Metric_Worked_Example — Worked example computing Fisher information metric for an exponential family.
+- S2-L7_KL_Divergence_Geodesic_Demo — Demo interpreting KL divergence as a geometric distance on probability space.

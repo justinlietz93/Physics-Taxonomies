@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_MaxEnt_Distribution_Derivation_Lab — Lab deriving maximum-entropy distribution given mean and variance constraints.
+- S2-L7_MaxEnt_Discrete_Bias_Workshop — Workshop applying maximum entropy to discrete probability estimation.

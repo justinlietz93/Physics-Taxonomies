@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Averaging-and_Spectral_Filters_Lab_Walkthrough — Lab walkthrough that rehearses averaging and spectral filters steps.
+- S2-L7_Averaging-and_Spectral_Filters_Field_Checklist — Field checklist that keeps averaging and spectral filters behavior on track.

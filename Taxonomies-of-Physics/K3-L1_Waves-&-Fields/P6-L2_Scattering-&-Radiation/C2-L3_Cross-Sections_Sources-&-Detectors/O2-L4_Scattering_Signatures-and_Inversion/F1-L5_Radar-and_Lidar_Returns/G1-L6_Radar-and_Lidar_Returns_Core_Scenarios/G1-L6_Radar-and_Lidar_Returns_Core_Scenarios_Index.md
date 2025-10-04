@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Radar-and_Lidar_Returns_Lab_Walkthrough — Lab walkthrough that rehearses radar and lidar returns steps.
+- S2-L7_Radar-and_Lidar_Returns_Field_Checklist — Field checklist that keeps radar and lidar returns behavior on track.

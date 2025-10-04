@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Steepest_Descent_Surface_Demo — Surface demo highlighting steepest descent behavior on curved valleys.
+- S2-L7_Conjugate_Direction_Workshop — Workshop solving a quadratic bowl with conjugate direction steps.

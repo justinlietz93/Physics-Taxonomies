@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Environmental-and_1-f_Spectra_Lab_Walkthrough — Lab walkthrough that rehearses environmental and 1 f spectra steps.
+- S2-L7_Environmental-and_1-f_Spectra_Field_Checklist — Field checklist that keeps environmental and 1 f spectra behavior on track.

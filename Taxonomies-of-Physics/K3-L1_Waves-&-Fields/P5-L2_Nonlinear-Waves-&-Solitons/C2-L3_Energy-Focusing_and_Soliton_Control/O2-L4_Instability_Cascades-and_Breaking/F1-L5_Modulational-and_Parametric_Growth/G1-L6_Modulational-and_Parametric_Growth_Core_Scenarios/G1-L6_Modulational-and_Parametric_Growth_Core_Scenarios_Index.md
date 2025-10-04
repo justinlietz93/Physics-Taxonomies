@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Modulational-and_Parametric_Growth_Lab_Walkthrough — Lab walkthrough that rehearses modulational and parametric growth steps.
+- S2-L7_Modulational-and_Parametric_Growth_Field_Checklist — Field checklist that keeps modulational and parametric growth behavior on track.

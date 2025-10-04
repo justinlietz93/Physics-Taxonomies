@@ -1,5 +1,5 @@
 # G1-L6_Cusp-and_Fold_Mappings_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for cusp-and fold mappings.
+**Definition:** Core storyboards showing how cusp and fold catastrophes emerge and resolve.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Magnet_Spring_Cusp_Scan** — benchtop magnet-spring setup that visualizes the cusp surface as bias and tilt sweep.
+- **S2-L7_Economic_Supply_Fold_Modeling_Lab** — classroom data lab mapping when supply-demand curves suddenly jump branches.

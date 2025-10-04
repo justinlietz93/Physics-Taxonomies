@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Aperture-and_Lens_Shaping_Lab_Walkthrough — Lab walkthrough that rehearses aperture and lens shaping steps.
+- S2-L7_Aperture-and_Lens_Shaping_Field_Checklist — Field checklist that keeps aperture and lens shaping behavior on track.

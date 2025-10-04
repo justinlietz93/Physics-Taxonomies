@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Sinusoidal_Sweep_Response_Lab — Sinusoidal sweep lab showcasing amplitude and phase response.
+- S2-L7_Square_Wave_Steady_State_Study — Square-wave driven oscillator highlighting harmonics and offsets.

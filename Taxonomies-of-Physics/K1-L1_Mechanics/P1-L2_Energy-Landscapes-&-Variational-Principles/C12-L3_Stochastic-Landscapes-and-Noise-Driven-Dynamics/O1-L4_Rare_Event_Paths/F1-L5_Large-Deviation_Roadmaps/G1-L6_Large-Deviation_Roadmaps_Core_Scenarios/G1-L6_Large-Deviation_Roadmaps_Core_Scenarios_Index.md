@@ -1,5 +1,5 @@
 # G1-L6_Large-Deviation_Roadmaps_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for large-deviation roadmaps.
+**Definition:** Core guides for charting rare-event pathways and their exponential penalties.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Chemical_Spill_Large-Deviation_Tabletop** — safety tabletop estimating rare leak paths and their action costs.
+- **S2-L7_Queue_Breakdown_Large-Deviation_Model** — operations model that maps how busy hours push service systems into failure tails.

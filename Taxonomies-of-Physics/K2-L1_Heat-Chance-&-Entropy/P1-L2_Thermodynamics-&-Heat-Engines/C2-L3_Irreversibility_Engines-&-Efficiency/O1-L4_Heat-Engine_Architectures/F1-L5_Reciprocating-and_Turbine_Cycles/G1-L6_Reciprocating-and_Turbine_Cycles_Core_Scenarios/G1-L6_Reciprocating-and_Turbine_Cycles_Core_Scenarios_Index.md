@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Gas_Turbine_Part_Load_Scenario_Set — explore off-design turbine behavior and mitigation levers.
+- S2-L7_Reciprocating_Engine_Cycle_Diagnostics_Lab — use indicator diagrams to chase cycle losses and fixes.

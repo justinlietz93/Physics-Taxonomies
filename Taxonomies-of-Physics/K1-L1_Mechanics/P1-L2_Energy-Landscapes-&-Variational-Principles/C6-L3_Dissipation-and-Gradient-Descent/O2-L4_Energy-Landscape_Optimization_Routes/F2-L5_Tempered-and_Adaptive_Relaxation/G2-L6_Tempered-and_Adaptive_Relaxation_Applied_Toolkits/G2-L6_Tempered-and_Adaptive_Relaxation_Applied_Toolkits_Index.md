@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Material_Process_Tempered_Search_Log — Tempered search log for optimizing material processing schedules.
+- S2-L7_Control_Loop_Adaptive_Relaxation_Kit — Kit for adaptive relaxation tuning in iterative controller design.

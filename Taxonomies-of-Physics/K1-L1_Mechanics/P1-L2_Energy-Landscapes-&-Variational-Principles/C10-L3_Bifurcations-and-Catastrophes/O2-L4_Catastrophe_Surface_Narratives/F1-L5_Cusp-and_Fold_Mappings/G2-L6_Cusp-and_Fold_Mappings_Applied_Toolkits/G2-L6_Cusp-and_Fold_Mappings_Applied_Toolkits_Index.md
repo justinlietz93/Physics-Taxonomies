@@ -1,5 +1,5 @@
 # G2-L6_Cusp-and_Fold_Mappings_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for cusp-and fold mappings.
+**Definition:** Applied toolkits that translate cusp and fold maps into inspection and control moves.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Aircraft_Flap_Cusp_Audit_Kit** — flight test audit kit that watches lift curves for cusp-style stick shaker jumps.
+- **S2-L7_Power_System_Fold_Contour_Log** — grid planning log that traces fold lines while scheduling load tap changers.

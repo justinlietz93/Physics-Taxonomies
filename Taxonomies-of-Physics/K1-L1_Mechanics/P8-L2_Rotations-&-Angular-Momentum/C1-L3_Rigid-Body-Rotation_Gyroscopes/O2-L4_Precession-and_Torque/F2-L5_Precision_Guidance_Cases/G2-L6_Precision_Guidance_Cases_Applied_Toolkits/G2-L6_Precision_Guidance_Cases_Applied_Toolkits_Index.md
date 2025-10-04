@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Aerospace_IMU_Calibration_Log — Calibration log for aerospace IMUs managing precession compensation.
+- S2-L7_Satellite_Pointing_Precession_Playbook — Playbook for adjusting satellite precession guidance using telemetry feedback.

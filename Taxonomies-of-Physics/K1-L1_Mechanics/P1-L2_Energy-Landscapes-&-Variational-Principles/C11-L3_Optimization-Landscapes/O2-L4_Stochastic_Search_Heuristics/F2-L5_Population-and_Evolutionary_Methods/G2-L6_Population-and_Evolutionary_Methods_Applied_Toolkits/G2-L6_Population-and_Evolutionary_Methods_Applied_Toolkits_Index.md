@@ -1,5 +1,5 @@
 # G2-L6_Population-and_Evolutionary_Methods_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for population-and evolutionary methods.
+**Definition:** Applied toolkits that plug evolutionary search into layout, pharma, and scheduling teams.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Wind_Farm_Layout_Evolution_Kit** — planning kit evolving turbine layouts against wake and terrain constraints.
+- **S2-L7_Drug_Candidate_Evolutionary_Log** — discovery log that mutates formulation parameters while tracking assay scores.

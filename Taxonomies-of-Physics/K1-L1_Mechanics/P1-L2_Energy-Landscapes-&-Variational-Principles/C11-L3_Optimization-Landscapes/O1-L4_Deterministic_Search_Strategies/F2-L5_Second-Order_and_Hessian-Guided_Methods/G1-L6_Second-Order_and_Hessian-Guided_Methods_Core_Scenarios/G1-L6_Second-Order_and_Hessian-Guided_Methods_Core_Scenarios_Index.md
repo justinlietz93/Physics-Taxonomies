@@ -1,5 +1,5 @@
 # G1-L6_Second-Order_and_Hessian-Guided_Methods_Core_Scenarios — Genus Index
-**Definition:** Spotlights core scenarios for second-order and hessian-guided methods.
+**Definition:** Core examples where curvature information accelerates convergence and avoids saddles.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Newton_Method_Curve_Fitting_Lab** — data lab that uses Newton steps to snap a model to sensor readings.
+- **S2-L7_Trust_Region_Design_Workthrough** — design review showing how trust regions keep second-order guesses stable.

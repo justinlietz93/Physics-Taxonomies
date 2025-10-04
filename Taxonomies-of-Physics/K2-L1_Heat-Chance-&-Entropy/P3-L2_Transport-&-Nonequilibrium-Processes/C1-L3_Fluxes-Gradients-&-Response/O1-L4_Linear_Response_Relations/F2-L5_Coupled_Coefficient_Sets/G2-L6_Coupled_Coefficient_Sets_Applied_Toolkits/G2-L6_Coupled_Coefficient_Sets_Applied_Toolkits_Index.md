@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Energy_Systems_Onsager_Checklist — Checklist verifying Onsager reciprocity in coupled energy transport models.
+- S2-L7_Materials_Cross_Coupling_Log — Lab log capturing coupled transport coefficient measurements for new materials.

@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Financial_Map_Cobweb_Toolkit — Toolkit using cobweb plots to assess financial map stability.
+- S2-L7_Population_Control_Cobweb_Plan — Plan applying cobweb analysis to population management scenarios.

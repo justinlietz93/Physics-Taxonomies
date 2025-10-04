@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Saddle_Point_Transition_Map — Charts the preferred route over a saddle point in a potential landscape.
+- S2-L7_Mountain_Pass_Thermal_Runthrough — Walks through how thermal energy shepherds systems over a pass during transitions.

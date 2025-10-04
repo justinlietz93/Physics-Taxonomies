@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_RF_Testbench_Waveguide_Match_Steps** — lab steps for matching waveguides before production runs.
+- **S2-L7_Datacenter_Fiber_Connector_Prep** — operations guide prepping fiber connectors to keep impedance smooth in racks.

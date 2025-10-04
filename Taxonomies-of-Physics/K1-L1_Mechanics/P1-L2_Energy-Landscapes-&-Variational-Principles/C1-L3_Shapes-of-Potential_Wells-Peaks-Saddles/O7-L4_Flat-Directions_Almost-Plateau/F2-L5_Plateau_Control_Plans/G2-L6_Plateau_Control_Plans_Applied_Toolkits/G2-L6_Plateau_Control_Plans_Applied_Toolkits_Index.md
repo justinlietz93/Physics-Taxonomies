@@ -1,5 +1,5 @@
 # G2-L6_Plateau_Control_Plans_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for plateau control plans.
+**Definition:** Collects applied toolkits that turn plateau sensing into actionable adjustments in the field.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Solar_Farm_Power_Plateau_Action_Set** — site response pack for stuck power curves on hazy afternoons.
+- **S2-L7_Food_Extruder_Texture_Plateau_Adjustment_Log** — production log that retunes feed and temperature when texture tests go flat.

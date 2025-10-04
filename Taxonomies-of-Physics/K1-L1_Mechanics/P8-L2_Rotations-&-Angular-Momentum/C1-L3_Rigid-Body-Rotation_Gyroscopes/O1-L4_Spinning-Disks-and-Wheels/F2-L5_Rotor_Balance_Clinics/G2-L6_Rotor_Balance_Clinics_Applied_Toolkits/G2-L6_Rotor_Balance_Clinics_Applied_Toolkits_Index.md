@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Powerplant_Rotor_Balance_Log — Maintenance log guiding powerplant rotor balancing operations.
+- S2-L7_Wind_Turbine_Balance_Service_Set — Service set for in-field balancing of wind turbine rotors.

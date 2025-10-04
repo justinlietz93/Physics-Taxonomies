@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Antenna_Design_Lab_Walkthrough — Lab walkthrough that rehearses antenna design steps.
+- S2-L7_Antenna_Design_Field_Checklist — Field checklist that keeps antenna design behavior on track.

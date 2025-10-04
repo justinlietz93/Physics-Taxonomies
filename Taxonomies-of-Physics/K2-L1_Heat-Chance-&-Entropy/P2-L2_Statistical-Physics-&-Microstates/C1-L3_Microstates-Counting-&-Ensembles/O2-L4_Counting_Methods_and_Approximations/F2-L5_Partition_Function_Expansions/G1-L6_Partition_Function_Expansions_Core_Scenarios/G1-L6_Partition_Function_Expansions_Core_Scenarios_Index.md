@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_High_Temperature_Expansion_Worked_Example — Worked high-temperature partition function expansion for a spin system.
+- S2-L7_Low_Temperature_Asymptotic_Run — Low-temperature partition function asymptotic analysis highlighting ground states.

@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Parametric_Pump_Test_Procedure — Lab procedure for qualifying MEMS parametric pumping sequences.
+- S2-L7_RF_Trap_Service_Adjustment_Log — Service log to retune RF drive levels on ion-trap instruments.

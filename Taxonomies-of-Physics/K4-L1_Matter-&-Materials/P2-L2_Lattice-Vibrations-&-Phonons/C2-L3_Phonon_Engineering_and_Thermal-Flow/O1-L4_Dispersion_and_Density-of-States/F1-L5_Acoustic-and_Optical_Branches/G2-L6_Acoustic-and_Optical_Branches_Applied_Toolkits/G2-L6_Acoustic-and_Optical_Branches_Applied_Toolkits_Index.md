@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Acoustic-and_Optical_Branches_Lab_Walkthrough — Lab walkthrough that rehearses acoustic and optical branches steps.
+- S2-L7_Acoustic-and_Optical_Branches_Field_Checklist — Field checklist that keeps acoustic and optical branches behavior on track.

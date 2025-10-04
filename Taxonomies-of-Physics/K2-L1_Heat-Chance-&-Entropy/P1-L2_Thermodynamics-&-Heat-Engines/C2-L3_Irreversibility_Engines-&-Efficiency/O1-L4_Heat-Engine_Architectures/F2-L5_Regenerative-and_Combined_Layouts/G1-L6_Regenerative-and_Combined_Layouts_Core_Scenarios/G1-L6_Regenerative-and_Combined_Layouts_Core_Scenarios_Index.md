@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Regenerative_Gas_Turbine_Scenario_Map — trace recuperated layouts and their efficiency levers.
+- S2-L7_Combined_Cycle_Start_Sequence_Lab — rehearse coordinated starts between gas and steam trains.

@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Spinning_Top_Torque_Response_Set — Spinning top set measuring precession under different torques.
+- S2-L7_Gyro_Compass_Alignment_Activity — Activity aligning a gyro compass and observing drift corrections.

@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Continuous_and_Topological_Lab_Walkthrough — Lab walkthrough that rehearses continuous and topological steps.
+- S2-L7_Continuous_and_Topological_Field_Checklist — Field checklist that keeps continuous and topological behavior on track.

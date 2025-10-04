@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Polar_Coordinate_Lagrange_Worked_Example — Polar coordinate example simplifying a central-force Lagrangian.
+- S2-L7_Cylindrical_Coordinate_Shaft_Model — Cylindrical coordinate model examining spinning shaft vibrations.

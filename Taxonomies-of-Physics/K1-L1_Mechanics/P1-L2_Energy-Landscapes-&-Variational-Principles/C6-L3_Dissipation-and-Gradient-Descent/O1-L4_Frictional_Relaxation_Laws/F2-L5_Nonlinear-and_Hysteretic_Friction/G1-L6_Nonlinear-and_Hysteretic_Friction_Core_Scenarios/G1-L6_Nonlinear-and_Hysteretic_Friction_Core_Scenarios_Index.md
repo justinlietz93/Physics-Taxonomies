@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Stick_Slip_Sled_Bench_Demo — Sled demo contrasting stick-slip and smooth sliding with load.
+- S2-L7_Hysteretic_Bearing_Test_Rig — Bearing rig measuring hysteretic friction loops and losses.

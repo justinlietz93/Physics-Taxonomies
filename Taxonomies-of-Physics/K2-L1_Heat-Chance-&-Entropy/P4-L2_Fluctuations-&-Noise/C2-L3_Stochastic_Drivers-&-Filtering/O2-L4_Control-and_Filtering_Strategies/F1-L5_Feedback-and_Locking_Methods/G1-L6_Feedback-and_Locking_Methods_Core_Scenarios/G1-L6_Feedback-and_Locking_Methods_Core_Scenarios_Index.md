@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Feedback-and_Locking_Methods_Lab_Walkthrough — Lab walkthrough that rehearses feedback and locking methods steps.
+- S2-L7_Feedback-and_Locking_Methods_Field_Checklist — Field checklist that keeps feedback and locking methods behavior on track.

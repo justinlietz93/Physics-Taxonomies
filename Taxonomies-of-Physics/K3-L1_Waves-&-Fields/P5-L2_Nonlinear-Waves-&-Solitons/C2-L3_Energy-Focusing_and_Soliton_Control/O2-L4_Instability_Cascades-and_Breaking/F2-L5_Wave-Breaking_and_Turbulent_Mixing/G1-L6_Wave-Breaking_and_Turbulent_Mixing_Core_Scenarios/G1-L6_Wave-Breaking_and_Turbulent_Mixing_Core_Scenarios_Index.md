@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Wave-Breaking_and_Turbulent_Lab_Walkthrough — Lab walkthrough that rehearses wave breaking and turbulent steps.
+- S2-L7_Wave-Breaking_and_Turbulent_Field_Checklist — Field checklist that keeps wave breaking and turbulent behavior on track.

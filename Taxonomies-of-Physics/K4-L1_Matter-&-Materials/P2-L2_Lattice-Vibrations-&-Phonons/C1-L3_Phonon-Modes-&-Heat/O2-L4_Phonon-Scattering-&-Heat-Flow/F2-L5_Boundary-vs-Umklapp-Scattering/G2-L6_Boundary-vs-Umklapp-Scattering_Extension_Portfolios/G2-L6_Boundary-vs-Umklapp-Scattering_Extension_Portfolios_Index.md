@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Boundary-vs-Umklapp-Scattering_Lab_Walkthrough — Lab walkthrough that rehearses boundary vs umklapp scattering steps.
+- S2-L7_Boundary-vs-Umklapp-Scattering_Field_Checklist — Field checklist that keeps boundary vs umklapp scattering behavior on track.

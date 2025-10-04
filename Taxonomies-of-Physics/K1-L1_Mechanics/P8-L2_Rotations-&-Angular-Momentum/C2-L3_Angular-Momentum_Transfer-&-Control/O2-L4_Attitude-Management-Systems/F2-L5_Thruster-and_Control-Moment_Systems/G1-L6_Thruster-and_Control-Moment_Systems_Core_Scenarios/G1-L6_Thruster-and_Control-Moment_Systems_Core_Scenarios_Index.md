@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Control_Moment_Gyro_Slew_Demo — Demo of control moment gyro slews and singularity management.
+- S2-L7_Pulse_Thruster_Attitude_Adjustment_Lab — Lab firing pulse thrusters to adjust attitude and track angular momentum.

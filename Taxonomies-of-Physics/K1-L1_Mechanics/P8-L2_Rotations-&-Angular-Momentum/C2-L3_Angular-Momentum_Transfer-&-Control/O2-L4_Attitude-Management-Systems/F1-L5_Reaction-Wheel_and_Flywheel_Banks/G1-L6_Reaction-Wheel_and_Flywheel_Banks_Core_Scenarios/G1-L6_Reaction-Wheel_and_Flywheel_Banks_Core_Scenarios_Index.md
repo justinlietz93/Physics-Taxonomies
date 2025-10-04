@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Satellite_Wheel_Array_Startup_Script — Startup script for biasing satellite reaction wheel arrays.
+- S2-L7_Flywheel_Energy_Storage_Control_Demo — Demo of flywheel banks managing energy and momentum for grid support.

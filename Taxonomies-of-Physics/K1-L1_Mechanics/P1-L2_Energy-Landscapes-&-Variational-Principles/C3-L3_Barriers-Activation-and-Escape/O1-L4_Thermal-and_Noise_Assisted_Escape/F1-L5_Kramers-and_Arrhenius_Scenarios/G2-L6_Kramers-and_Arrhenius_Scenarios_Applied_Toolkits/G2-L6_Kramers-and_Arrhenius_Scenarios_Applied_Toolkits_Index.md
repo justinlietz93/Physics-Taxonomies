@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Lubricant_Additive_Activation_Log — QA log for extracting lubricant additive activation energies.
+- S2-L7_Battery_Thermal_Runaway_Arrhenius_Check — Checklist to fit Arrhenius curves for battery runaway screening.

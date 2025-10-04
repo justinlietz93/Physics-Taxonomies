@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Phased-Array_Synchronization_Lab_Walkthrough — Lab walkthrough that rehearses phased array synchronization steps.
+- S2-L7_Phased-Array_Synchronization_Field_Checklist — Field checklist that keeps phased array synchronization behavior on track.

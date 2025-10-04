@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Dispersion-Curves_Lab_Walkthrough — Lab walkthrough that rehearses dispersion curves steps.
+- S2-L7_Dispersion-Curves_Field_Checklist — Field checklist that keeps dispersion curves behavior on track.

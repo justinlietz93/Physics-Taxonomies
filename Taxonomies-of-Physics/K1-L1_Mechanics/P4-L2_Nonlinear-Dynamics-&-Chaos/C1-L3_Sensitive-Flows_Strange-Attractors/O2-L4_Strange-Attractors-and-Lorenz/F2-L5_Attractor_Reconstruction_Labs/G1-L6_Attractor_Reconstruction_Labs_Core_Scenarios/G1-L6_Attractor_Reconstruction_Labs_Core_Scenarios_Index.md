@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Time_Delay_Reconstruction_Workshop — Workshop reconstructing attractors via delay coordinate embeddings.
+- S2-L7_Poincare_Section_Rebuild_Lab — Lab constructing Poincaré sections to analyze strange attractors.

@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Soliton-Examples_Lab_Walkthrough — Lab walkthrough that rehearses soliton examples steps.
+- S2-L7_Soliton-Examples_Field_Checklist — Field checklist that keeps soliton examples behavior on track.

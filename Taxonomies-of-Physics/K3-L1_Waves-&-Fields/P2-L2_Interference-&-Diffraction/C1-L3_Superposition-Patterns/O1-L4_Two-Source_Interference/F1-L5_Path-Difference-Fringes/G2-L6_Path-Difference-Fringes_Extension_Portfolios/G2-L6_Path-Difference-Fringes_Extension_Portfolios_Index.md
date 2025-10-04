@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Path-Difference-Fringes_Lab_Walkthrough — Lab walkthrough that rehearses path difference fringes steps.
+- S2-L7_Path-Difference-Fringes_Field_Checklist — Field checklist that keeps path difference fringes behavior on track.

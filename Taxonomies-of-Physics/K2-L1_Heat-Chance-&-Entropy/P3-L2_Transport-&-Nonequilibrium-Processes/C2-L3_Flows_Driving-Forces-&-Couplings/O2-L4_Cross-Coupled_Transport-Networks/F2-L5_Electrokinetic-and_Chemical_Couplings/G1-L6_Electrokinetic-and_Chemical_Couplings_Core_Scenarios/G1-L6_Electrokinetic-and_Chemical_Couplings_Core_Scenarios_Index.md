@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Electrokinetic-and_Chemical_Couplings_Lab_Walkthrough — Lab walkthrough that rehearses electrokinetic and chemical couplings steps.
+- S2-L7_Electrokinetic-and_Chemical_Couplings_Field_Checklist — Field checklist that keeps electrokinetic and chemical couplings behavior on track.

@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Medium-Property-Links_Lab_Walkthrough — Lab walkthrough that rehearses medium property links steps.
+- S2-L7_Medium-Property-Links_Field_Checklist — Field checklist that keeps medium property links behavior on track.

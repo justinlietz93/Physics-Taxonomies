@@ -1,5 +1,5 @@
 # G2-L6_Metal-Forming-Examples_Extension_Portfolios — Genus Index
-**Definition:** Maps extension portfolios surrounding metal-forming-examples.
+**Definition:** Supplemental metal-forming example sets that push beyond textbook draws to tricky panels, coins, and certification audits.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Custom-Auto-Panel_Deep-Draw_Troubleshooting-Kit** — tuning guide for car body press lines fighting wrinkles and splits.
+- **S2-L7_Aerospace-Fastener_Head-Coining_Portfolio** — coining playbook linking lab curves to shop adjustments for flush fasteners.

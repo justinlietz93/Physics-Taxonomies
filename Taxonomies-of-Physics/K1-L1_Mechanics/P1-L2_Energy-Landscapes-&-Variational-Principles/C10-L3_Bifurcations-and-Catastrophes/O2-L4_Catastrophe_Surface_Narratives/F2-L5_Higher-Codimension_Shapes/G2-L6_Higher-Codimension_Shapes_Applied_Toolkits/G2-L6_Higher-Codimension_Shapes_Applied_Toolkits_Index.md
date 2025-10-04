@@ -1,5 +1,5 @@
 # G2-L6_Higher-Codimension_Shapes_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for higher-codimension shapes.
+**Definition:** Applied toolkits that help engineers monitor and steer multi-parameter catastrophes.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_Microgrid_Butterfly_Response_Playbook** — operations playbook that watches voltage, load, and tap limits for butterfly cascades.
+- **S2-L7_Bioprocess_Hysteresis_Unfolding_Set** — fermentation kit that walks technicians through unwinding multi-variable hysteresis loops.

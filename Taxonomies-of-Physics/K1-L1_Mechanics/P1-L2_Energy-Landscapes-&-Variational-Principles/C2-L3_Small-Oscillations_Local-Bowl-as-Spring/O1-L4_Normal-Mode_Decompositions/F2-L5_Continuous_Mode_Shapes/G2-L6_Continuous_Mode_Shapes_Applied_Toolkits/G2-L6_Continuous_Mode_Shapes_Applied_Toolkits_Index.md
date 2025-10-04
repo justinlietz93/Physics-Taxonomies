@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Turbine_Blade_Mode_Map_Pack — Field pack for surveying turbine blade mode shapes.
+- S2-L7_Architectural_Slab_Mode_Survey_Kit — Toolkit for mapping floor slab mode shapes in sensitive buildings.

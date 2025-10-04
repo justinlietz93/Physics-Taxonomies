@@ -1,5 +1,5 @@
 # G2-L6_Oscillatory_and_Hopf_Onsets_Applied_Toolkits — Genus Index
-**Definition:** Collects applied toolkits for oscillatory and hopf onsets.
+**Definition:** Applied toolkits that keep real systems from drifting into unwanted Hopf oscillations.
 
 ## Overarching Lenses
 
@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- **S1-L7_HVAC_Control_Hopf_Prevention_Kit** — controls upgrade kit that spots oscillatory room loops before comfort drifts.
+- **S2-L7_Power_Inverter_Oscillation_Response_Log** — inverter crew logbook capturing damping tweaks after current starts to ring.

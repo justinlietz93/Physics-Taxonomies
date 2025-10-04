@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Tuned_Damper_Beam_Demo — Beam experiment illustrating tuned damper resonance suppression.
+- S2-L7_Skyhook_Control_Servo_Tabletop — Servo cart demo applying skyhook control to cut rebound.

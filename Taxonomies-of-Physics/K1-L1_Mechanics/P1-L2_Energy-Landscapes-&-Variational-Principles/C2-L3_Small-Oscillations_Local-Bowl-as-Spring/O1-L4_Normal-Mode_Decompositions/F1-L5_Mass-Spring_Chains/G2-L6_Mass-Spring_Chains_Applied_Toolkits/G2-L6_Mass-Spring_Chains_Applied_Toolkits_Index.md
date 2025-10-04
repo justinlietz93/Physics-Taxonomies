@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Vibration_Isolation_Retrofit_Set — Retrofit worksheets for mass-spring vibration isolation chains.
+- S2-L7_Conveyor_Mode_Balancing_Checklist — Checklist for balancing modes along conveyor spring suspensions.

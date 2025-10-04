@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Thermally_Activated_Barrier_Crossing_Walkthrough — Follows how thermal kicks help a particle climb over an energy barrier in a chemical reaction.
+- S2-L7_Field_Assisted_Barrier_Hopping_Demo — Shows how an external field lowers a barrier so charges or ions hop across more easily.

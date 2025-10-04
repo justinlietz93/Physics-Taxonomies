@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Static_Balance_Rotor_Lab — Lab showing static rotor balancing with knife-edge supports.
+- S2-L7_Dynamic_Balance_Two_Plane_Workshop — Workshop performing two-plane dynamic balancing with vibration feedback.

@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Magneto-and_Strain_Tuning_Lab_Walkthrough — Lab walkthrough that rehearses magneto and strain tuning steps.
+- S2-L7_Magneto-and_Strain_Tuning_Field_Checklist — Field checklist that keeps magneto and strain tuning behavior on track.

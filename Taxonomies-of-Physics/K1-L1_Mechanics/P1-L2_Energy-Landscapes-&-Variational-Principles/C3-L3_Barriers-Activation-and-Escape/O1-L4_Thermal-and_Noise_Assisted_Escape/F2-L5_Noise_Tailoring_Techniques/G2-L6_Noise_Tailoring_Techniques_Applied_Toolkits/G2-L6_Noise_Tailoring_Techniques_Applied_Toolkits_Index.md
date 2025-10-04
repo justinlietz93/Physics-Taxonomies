@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Semiconductor_Noise_Tuning_Log — Fab log for tuning noise shaping on precision bias supplies.
+- S2-L7_Precision_Stage_Dither_Setup_Guide — Setup guide for dither-based noise tailoring on precision stages.

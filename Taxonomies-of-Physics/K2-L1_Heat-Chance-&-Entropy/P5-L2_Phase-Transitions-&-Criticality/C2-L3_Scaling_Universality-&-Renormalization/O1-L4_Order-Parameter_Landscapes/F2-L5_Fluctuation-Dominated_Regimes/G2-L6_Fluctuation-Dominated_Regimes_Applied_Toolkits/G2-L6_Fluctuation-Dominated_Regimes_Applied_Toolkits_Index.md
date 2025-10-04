@@ -12,3 +12,6 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+
+- S1-L7_Fluctuation-Dominated_Regimes_Lab_Walkthrough — Lab walkthrough that rehearses fluctuation dominated regimes steps.
+- S2-L7_Fluctuation-Dominated_Regimes_Field_Checklist — Field checklist that keeps fluctuation dominated regimes behavior on track.

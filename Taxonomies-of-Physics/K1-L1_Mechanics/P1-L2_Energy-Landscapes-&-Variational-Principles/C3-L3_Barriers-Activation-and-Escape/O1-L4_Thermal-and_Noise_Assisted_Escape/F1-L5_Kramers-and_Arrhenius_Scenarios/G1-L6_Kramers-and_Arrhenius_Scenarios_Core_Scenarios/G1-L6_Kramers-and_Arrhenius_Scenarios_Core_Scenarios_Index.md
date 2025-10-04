@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Double_Well_Kramers_Lab_Walkthrough — Lab walkthrough that rehearses double well kramers steps.
+- S2-L7_Magnetization_Relaxation_Arrhenius_Demo — Ferromagnet relaxation demo producing Arrhenius activation plots.

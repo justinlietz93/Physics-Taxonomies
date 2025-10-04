@@ -12,3 +12,5 @@
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
 ## Species (L7) — everyday exemplars
+- S1-L7_Vector_Potential_Gauge_Variation_Demo — Gauge variation demo yielding Maxwell's equations from the action.
+- S2-L7_Scalar_Field_Gauge_Fixing_Workshop — Workshop on gauge fixing and field variations in scalar electrodynamics.
