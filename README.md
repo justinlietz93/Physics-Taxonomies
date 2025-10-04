@@ -29,7 +29,7 @@ K1-L1_Mechanics
 
 ## Key Principles
 
-1. **Plain English** - No equations, jargon-free explanations
+1. **Plain English** - Clearly explained equations, super simple examples
 2. **Everyday Examples** - Bicycles, smartphones, cooking, weather
 3. **Top-Down Hierarchy** - Parent concepts before children
 4. **Strict Naming** - `<PREFIX><n>-L<level>_<Title>` pattern
