@@ -51,7 +51,7 @@ $$(\mathbf{B} = \nabla \times \mathbf{A})$$
 
 $$(\nabla^{2} \mathbf{E} - \mu_{0} \epsilon_{0} \tfrac{\partial^{2} \mathbf{E}}{\partial t^{2}} = 0)$$
 
-- In vacuum the electric field obeys this wave equation; the magnetic field $(\mathbf{B})$ satisfies the same form, revealing light speed $(c = 1/\sqrt{\mu_{0}\epsilon_{0}})$.
+- In vacuum the electric field obeys this wave equation; the magnetic field $(\mathbf{B})$ satisfies the same form, revealing light speed $(c = 1/\sqrt{\mu_{0}\epsilon_{0}})$
 
 **Poynting vector:**
 
