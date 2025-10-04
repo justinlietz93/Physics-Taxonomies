@@ -8,7 +8,7 @@ This repo is an analogy-first, top-down taxonomy of physics. The **Documentation
 - Plain English (1–3 sentences), everyday anchors, no equations initially.
 - Idempotent: never clobber existing non-empty files.
 
-**Note:** Per section 8) Equations and Formalisms, equations WILL be added once folder/file requirements are met.
+**Note:** Per section 8) Equations and Formalisms, equations should be included and correctly formatted in Github friendly MathJax.
 
 ## 1) Levels & Codes
 L1 K (Kingdom) · L2 P (Phylum) · L3 C (Class) · L4 O (Order) · L5 F (Family) · L6 G (Genus) · L7 S (Species)
@@ -140,7 +140,7 @@ _(Insert `G*-L6_*` here.)_
 - Behavior: `mkdir -p`, skip existing, create `{BASENAME}_Index.md`, never clobber non-empty files.
 
 ## 8) Equations and Formalisms
-- Once all folders (except for Species) have 2 subfolders minimum, and all Species folders have 2 file exemplars minimum, we can begin adding commonly used equations to each index file in the codebase, specific to THAT tier only. For example, in the Mechanics kingdom index you might want to list things like kinematic formulas:
+- Commonly used equations should be included in each index file in the codebase, specific to THAT tier only. For example, in the Mechanics kingdom index you might want to list things like kinematic formulas:
 - \(v=v_{0}+at\) for constant acceleration
 - Newton's laws of motion such as \(F=ma\)
 - Work-energy principles including \(KE=\frac{1}{2}mv^{2}\)
