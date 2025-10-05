@@ -39,4 +39,4 @@ $$\sum \mathbf{F}_{\text{ext}} = \frac{d}{dt} \int_{\text{CV}} \rho \mathbf{v}\,
 
 $$M \frac{d\mathbf{v}}{dt} = \mathbf{F}_{\text{ext}} + \dot{m}_{e} \mathbf{v}_{\text{rel}}$$
 
-- When mass leaves at relative velocity \(\mathbf{v}_{\text{rel}}\), the exhaust momentum accounts for the thrust contribution alongside external forces.
+- When mass leaves at relative velocity $(\mathbf{v}_{\text{rel}})$\, the exhaust momentum accounts for the thrust contribution alongside external forces.
