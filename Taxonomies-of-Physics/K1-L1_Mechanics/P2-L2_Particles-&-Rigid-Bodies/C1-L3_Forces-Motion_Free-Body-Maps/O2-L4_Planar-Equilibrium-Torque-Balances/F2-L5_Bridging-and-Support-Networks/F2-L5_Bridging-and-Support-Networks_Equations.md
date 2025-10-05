@@ -58,8 +58,9 @@ $$n = \frac{T_{\text{allow}}}{T_{\text{actual}}}$$
 
 **Small deflection estimate for a taut cable:**
 
-$$\delta \approx \frac{w L^{3}}{24 T}$$
+$$\delta \approx \frac{w L^{2}}{8 T}$$
 
-- Approximates midspan sag $\delta$ for a cable of length $L$ under uniform load per length $w$, verifying visual alignment requirements.
+- Approximates midspan sag $\delta$ for a cable of span $L$ under uniform load per length $w$ with end tension $T$, offering a quick clearance check for lightly sagging runs.
+
 
 File ID: K1-P2-C1-O2-F2-Equations
