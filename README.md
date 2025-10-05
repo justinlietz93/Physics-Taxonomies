@@ -1,6 +1,9 @@
 # Physics-Taxonomies
 
-A biological taxonomy for physics concepts, organizing knowledge from broad domains down to concrete everyday examples - all in plain English, without equations.
+A biological taxonomy for physics concepts, organizing knowledge from broad domains down to concrete everyday examples - all in plain English, with equations and book suggestions.
+
+⚠️**NOTE:**
+***This repository is being developed and maintained by AI, currently nothing has been validated or tested. Any information or content should be used with discretion and understood as not factually verified. Information that has been reviewed and validated will be stated as such***
 
 ## What is This?
 
