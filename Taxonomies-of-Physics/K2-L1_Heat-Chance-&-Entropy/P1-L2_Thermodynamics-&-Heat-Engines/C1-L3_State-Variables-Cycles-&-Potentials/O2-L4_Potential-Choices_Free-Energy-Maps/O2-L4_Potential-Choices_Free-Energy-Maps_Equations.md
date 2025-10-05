@@ -50,7 +50,7 @@ $$C_{P} = -T \left(\frac{\partial^{2} G}{\partial T^{2}}\right)_{P}$$
 
 **Isothermal compressibility:**
 
-$$\kappa_{T} = -\frac{1}{V}\left(\frac{\partial V}{\partial P}\right)_{T} = \frac{1}{V}\left(\frac{\partial^{2} G}{\partial P^{2}}\right)_{T}$$
+$$\kappa_{T} = -\frac{1}{V}\left(\frac{\partial V}{\partial P}\right)_{T} = -\frac{1}{V}\left(\frac{\partial^{2} G}{\partial P^{2}}\right)_{T}$$
 
 - Links volume responsiveness to the second derivative of \(G\) with respect to pressure, turning curvature into measurable compressibility.
 
