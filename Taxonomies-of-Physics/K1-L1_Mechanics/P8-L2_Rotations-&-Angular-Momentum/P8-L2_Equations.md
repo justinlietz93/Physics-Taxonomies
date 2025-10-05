@@ -7,7 +7,7 @@ Rotational mechanics tracks how torque, angular momentum, and orientation evolve
 
 $$(\mathbf{L} = \sum_{i} \mathbf{r}_{i} \times m_{i} \mathbf{v}_{i})$$
 
-- Total angular momentum $(\mathbf{L})$ sums moment arms $(\mathbf{r}_{i})$ crossed with linear momentum for each mass $(m_{i} \mathbf{v}_{i})$.
+- Total angular momentum $(\mathbf{L})$ sums moment arms $(\mathbf{r}\_{i})$ crossed with linear momentum for each mass $(m_{i} \mathbf{v}_{i})$.
 
 **Torque-angular momentum relation:**
 
@@ -62,7 +62,7 @@ $$(I_{P} = I_{\text{cm}} + M d^{2})$$
 
 $$(\frac{d \mathbf{L}}{dt}\Big|_{A} = \mathbf{M}_{A} + \mathbf{v}_{A} \times M \mathbf{v}_{\text{cm}})$$
 
-- The rate of change of angular momentum about point $(A)$ equals the moment $(\mathbf{M}_{A})$ plus a transport term involving the point’s velocity $(\mathbf{v}_{A})$ and center-of-mass motion $(\mathbf{v}_{\text{cm}})$.
+- The rate of change of angular momentum about point $(A)$ equals the moment $(\mathbf{M}\_{A})$ plus a transport term involving the point’s velocity $(\mathbf{v}\_{A})$ and center-of-mass motion $(\mathbf{v}_{\text{cm}})$.
 
 **Spin kinetic energy:**
 

@@ -39,6 +39,8 @@ $$F_{\max} \approx \frac{\Delta p}{\Delta t}$$
 
 **Hertzian contact force:**
 
-$$F = \frac{4}{3} E^{*} \sqrt{R^{*}} \delta^{3/2}$$
+$$
+F = \frac{4}{3} E^{\*} \sqrt{R^{*}} \delta^{3/2}
+$$
 
 - For elastic spheres, the force grows with indentation $(\delta)$, guiding local stress predictions.
