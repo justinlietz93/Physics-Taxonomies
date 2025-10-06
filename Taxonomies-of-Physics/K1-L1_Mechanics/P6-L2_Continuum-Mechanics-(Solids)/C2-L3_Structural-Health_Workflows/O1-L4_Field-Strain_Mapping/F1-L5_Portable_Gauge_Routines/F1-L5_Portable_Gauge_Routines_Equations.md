@@ -1,44 +1,26 @@
 # F1 Portable Gauge Routines — Core Equations
 
-Handheld strain surveys depend on reliable conversions from resistance changes to surface strain. These relations support technicians who rotate through field checkpoints and need quick sanity checks before logging results.
+Portable strain gauge routines depend on gauge factors, bridge circuits, and rosette transforms. These equations convert measured voltages into surface strain components.
 
-## Gauge Resistance to Strain
-**Strain from gauge factor:**
+## Strain from Gauge Factor
+**Single gauge conversion:**
 
-$$\varepsilon = \frac{1}{GF} \frac{\Delta R}{R_{0}}$$
+$$\varepsilon = \frac{\Delta R / R}{G_{F}}$$
 
-- Converts the fractional resistance change \(\Delta R / R_{0}\) into strain using the calibration gauge factor \(GF\); used for clip-on readings.
+- Resistance change $\Delta R$ measured by a Wheatstone bridge, divided by gauge factor $G_{F}$, yields axial strain along the gauge.
 
-**Microstrain conversion:**
+## Quarter-Bridge Output
+**Voltage sensitivity:**
 
-$$\varepsilon_{\mu\varepsilon} = 10^{6} \varepsilon$$
+$$\frac{\Delta V}{V_{\text{exc}}} = \frac{1}{4} G_{F} \varepsilon$$
 
-- Re-scales the strain into microstrain units for quick comparison with design allowables.
+- For a quarter-bridge circuit, the fractional voltage change relates directly to strain, informing instrumentation sensitivity checks.
 
-## Bridge Output Interpretation
-**Quarter-bridge output voltage:**
+## Rosette Transformation
+**Principal strains:**
 
-$$V_{o} = \frac{V_{\text{exc}}}{4} GF \, \varepsilon$$
+$$\varepsilon_{1,2} = \frac{\varepsilon_{a} + \varepsilon_{b}}{2} \pm \sqrt{\left(\frac{\varepsilon_{a} - \varepsilon_{b}}{2}\right)^{2} + \varepsilon_{c}^{2}}$$
 
-- Estimates the Wheatstone bridge differential voltage \(V_{o}\) when only one active arm is gauged, guiding amplifier range selection.
-
-**Full-bridge sensitivity boost:**
-
-$$V_{o}^{(\text{full})} = V_{\text{exc}} \frac{GF}{4} (\varepsilon_{1} - \varepsilon_{2} + \varepsilon_{3} - \varepsilon_{4})$$
-
-- Shows how four-gauge layouts combine axial and transverse strains to increase signal for bending checks.
-
-## Thermal Compensation
-**Apparent strain from temperature mismatch:**
-
-$$\varepsilon_{\text{app}} = (\alpha_{s} - \alpha_{g}) \Delta T$$
-
-- Estimates the false strain caused by different thermal expansion coefficients between structure \(\alpha_{s}\) and gauge backing \(\alpha_{g}\), prompting on-site correction.
-
-**Corrected strain reading:**
-
-$$\varepsilon_{\text{true}} = \varepsilon_{\text{meas}} - \varepsilon_{\text{app}}$$
-
-- Removes the thermal bias from the measured strain before entering logs.
+- A 45° rectangular rosette with measured strains $\varepsilon_{a}, \varepsilon_{b}, \varepsilon_{c}$ resolves principal surface strains, supporting portable survey reports.
 
 File ID: K1-P6-C2-O1-F1-Equations

@@ -1,17 +1,17 @@
 # F1 Portable Gauge Routines — Book Suggestions
 
-Strain-gauge walkdowns thrive on compact references that mix wiring discipline with interpretation cheatsheets. These picks help crews stay consistent when redeploying gauges across bridges, plants, and rotating equipment.
+Portable strain surveys lean on instrumentation handbooks and field-testing guides. These texts emphasize gauge installation, bridge circuitry, and data validation.
 
-## Field Setup Guides
-- *Strain Gauge Technology* — A. L. Window. Covers gauge selection, bonding procedures, and lead compensation essentials tailored to portable deployments.
-- *Practical Stress Analysis with Finite Elements* — Bryan J. Mac Donald. Couples quick experimental strain checks with companion finite-element predictions to validate readings on-site.
+## Strain Gauge Instrumentation
+- *Measurements for Mechanical Engineers* — Patrick O'Kelly & John Dunn. Covers strain gauge selection, wiring, and calibration for field work.
+- *The Strain Gage Primer* — Richard P. Brown. Provides practical advice on bonding techniques, temperature compensation, and troubleshooting portable setups.
 
-## Instrumentation Handbooks
-- *Experimental Stress Analysis* — James W. Dally & William F. Riley. Classic Wheatstone bridge circuits, balancing tricks, and calibration routines for technicians.
-- *Data Acquisition Handbook* — Measurement Computing. Concise amplifier, filtering, and sampling recommendations sized for temporary gauge racks.
+## Field Testing and Monitoring
+- *Structural Health Monitoring: A Machine Learning Perspective* — Charles R. Farrar & Keith Worden. Introduces field deployment practices and data interpretation for strain-based monitoring.
+- *Handbook of Structural Health Monitoring* — Wieslaw Staszewski, Tommaso B. Limongelli & Michele Ubertini (eds.). Includes chapters on strain gauge surveys and portable equipment.
 
-## Application Playbooks
-- *Structural Health Monitoring of Aerospace Composites* — F.-K. Chang (ed.). Case studies on using rosettes and temperature correction protocols in field inspections.
-- *Bridge Evaluation, Repair, and Rehabilitation* — Parsons Brinckerhoff. Walkthroughs of periodic strain surveys on civil structures, emphasizing documentation templates and acceptance criteria.
+## Data Reduction and Reporting
+- *Experimental Stress Analysis* — James W. Dally & William F. Riley. Explains rosette transformations, uncertainty estimation, and report preparation for strain measurements.
+- *Practical Stress Analysis with Finite Elements* — Bryan J. Mac Donald. Links measured strains to finite element validation and provides templates for documenting field findings.
 
 File ID: K1-P6-C2-O1-F1-Book-Suggestions

@@ -1,44 +1,26 @@
 # F2 Fatigue and Cycle Analytics — Core Equations
 
-Cycle-counting analysts turn variable-load histories into damage predictions. These equations summarize the conversions used when scrubbing strain gages and flight loads into actionable dashboards.
+Fatigue analytics translate load histories into damage fractions using S–N data and counting algorithms. These equations support structural health dashboards.
 
-## Load History Processing
-**Rainflow damage matrix tally:**
+## S–N Curve Representation
+**Basquin equation:**
 
-$$n_{ij} = \sum_{k} \delta(\Delta S_{k} \in i, \; S_{\text{mean},k} \in j)$$
+$$\sigma_{a} = \sigma'_{f} (2N_{f})^{b}$$
 
-- Buckets each counted cycle \(k\) into stress-range bin \(i\) and mean-stress bin \(j\) for later damage aggregation.
+- Alternating stress amplitude $\sigma_{a}$ relates to reversals to failure $2N_{f}$ using material fatigue strength coefficient $\sigma'_{f}$ and exponent $b$.
 
-**Goodman mean-stress correction:**
+## Rainflow Damage Accumulation
+**Miner's rule:**
 
-$$S_{a,\text{eq}} = \frac{S_{a}}{1 - \frac{S_{m}}{S_{u}}}$$
+$$D = \sum_{i} \frac{n_{i}}{N_{i}}$$
 
-- Adjusts alternating stress \(S_{a}\) using mean stress \(S_{m}\) and ultimate strength \(S_{u}\) before consulting S–N curves.
+- Cycle counts $n_{i}$ at stress level $i$ divided by allowable cycles $N_{i}$ sum to cumulative damage $D$; failure is expected near $D=1$.
 
-## Damage Accumulation
-**Basquin S–N curve:**
+## Equivalent Damage Parameter
+**Stress ratio correction:**
 
-$$S_{a}^{b} N = C$$
+$$\Delta \sigma_{\text{eq}} = \Delta \sigma \left(\frac{1 - R}{1 - R_{0}}\right)^{k}$$
 
-- Relates stress amplitude \(S_{a}\) to life \(N\) using slope \(b\) and intercept \(C\) derived from material coupons.
-
-**Miner’s linear damage rule:**
-
-$$D = \sum_{i} \frac{n_{i}}{N_{f,i}}$$
-
-- Computes cumulative damage \(D\) by dividing counted cycles \(n_{i}\) by allowable cycles \(N_{f,i}\) for each stress bin; failure flagged near \(D=1\).
-
-## Probabilistic and Spectral Checks
-**Damage rate under random loading:**
-
-$$\dot{D} = \int_{0}^{\infty} \frac{g(\Delta S)}{N_{f}(\Delta S)} \, d(\Delta S)$$
-
-- Integrates the stress-range probability density \(g(\Delta S)\) against fatigue life curves to estimate damage accumulation rate.
-
-**Spectral moment approximation:**
-
-$$E[N] \approx \frac{T}{2\pi} \sqrt{\frac{m_{4}}{m_{2}}}$$
-
-- Uses the second and fourth spectral moments \(m_{2}, m_{4}\) of a stress signal to approximate the expected number of peaks over duration \(T\) when planning sampling.
+- Adjusting stress range $\Delta \sigma$ for mean stress ratio $R$ relative to reference $R_{0}$ with exponent $k$ aligns cycle counts with S–N test conditions.
 
 File ID: K1-P6-C2-O2-F2-Equations

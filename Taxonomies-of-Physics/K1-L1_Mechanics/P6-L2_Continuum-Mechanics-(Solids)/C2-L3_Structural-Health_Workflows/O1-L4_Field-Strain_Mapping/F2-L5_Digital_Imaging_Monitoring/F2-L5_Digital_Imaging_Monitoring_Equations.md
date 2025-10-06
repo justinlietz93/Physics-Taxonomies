@@ -1,44 +1,26 @@
 # F2 Digital Imaging Monitoring — Core Equations
 
-Optical strain surveys hinge on converting pixel motions into physical displacement and strain fields. These relations help camera teams tune processing pipelines before issuing maintenance alerts.
+Digital image correlation (DIC) extracts displacement and strain fields from image pairs. These equations summarize correlation metrics and strain computation for monitoring campaigns.
 
-## Image Correlation Fundamentals
-**Subset correlation coefficient:**
+## Normalized Cross-Correlation
+**Subset matching:**
 
-$$C(u,v) = \frac{\sum_{i,j} \left[ f(i,j) - \bar{f} \right] \left[ g(i+u,j+v) - \bar{g} \right]}{\sqrt{\sum_{i,j} \left[ f(i,j) - \bar{f} \right]^{2}} \sqrt{\sum_{i,j} \left[ g(i+u,j+v) - \bar{g} \right]^{2}}}$$
+$$C = \frac{\sum (I_{1} - \bar{I}_{1})(I_{2} - \bar{I}_{2})}{\sqrt{\sum (I_{1} - \bar{I}_{1})^{2} \sum (I_{2} - \bar{I}_{2})^{2}}}$$
 
-- Measures how well a pixel subset \(f\) matches a shifted subset \(g\); maximizing \(C\) yields sub-pixel displacements \((u,v)\).
+- Maximizing the normalized cross-correlation $C$ locates the displacement vector that best aligns image subsets before and after loading.
 
-**Sub-pixel refinement via quadratic peak:**
+## Displacement Gradient to Strain
+**Small-strain tensor:**
 
-$$u_{\text{sub}} = u_{0} + \frac{C_{-1} - C_{+1}}{2(C_{-1} - 2C_{0} + C_{+1})}$$
+$$\varepsilon_{ij} = \frac{1}{2}\left(\frac{\partial u_{i}}{\partial x_{j}} + \frac{\partial u_{j}}{\partial x_{i}}\right)$$
 
-- Uses neighboring correlation values \(C_{-1}, C_{0}, C_{+1}\) along one axis to interpolate the displacement peak.
+- Spatial derivatives of measured displacement components $u_{i}$ produce engineering strain components at each pixel.
 
-## Displacement to Strain
-**In-plane displacement field:**
+## Strain Noise Estimation
+**Virtual strain gauge:**
 
-$$u(x,y) = \frac{\Delta x}{p} s_{x}, \qquad v(x,y) = \frac{\Delta y}{p} s_{y}$$
+$$\sigma_{\varepsilon} \approx \frac{\sigma_{u}}{L_{g}}$$
 
-- Converts measured pixel shifts \(s_{x}, s_{y}\) into physical displacements using pixel size \(p\) and camera scaling factors \(\Delta x, \Delta y\).
-
-**Small-strain tensor from gradients:**
-
-$$\varepsilon_{xx} = \frac{\partial u}{\partial x}, \quad \varepsilon_{yy} = \frac{\partial v}{\partial y}, \quad \gamma_{xy} = \frac{\partial u}{\partial y} + \frac{\partial v}{\partial x}$$
-
-- Provides the normal strains and engineering shear strain computed from displacement gradients over the region of interest.
-
-## Accuracy and Noise Checks
-**Displacement uncertainty estimate:**
-
-$$\sigma_{u} \approx \frac{\sigma_{n}}{\pi \cdot \nabla I}\sqrt{\frac{12}{N_{s}}}$$
-
-- Relates displacement noise \(\sigma_{u}\) to image noise \(\sigma_{n}\), intensity gradient magnitude \(\nabla I\), and subset size \(N_{s}\) for planning speckle patterns.
-
-**Strain resolution from smoothing window:**
-
-$$\sigma_{\varepsilon} \approx \frac{\sigma_{u}}{L_{f}}$$
-
-- Estimates strain noise using the effective filter length \(L_{f}\), guiding the choice of smoothing kernel before reporting hot spots.
+- Strain uncertainty $\sigma_{\varepsilon}$ scales with displacement noise $\sigma_{u}$ divided by the gauge length $L_{g}$ used in the virtual extensometer, guiding speckle and lens choices.
 
 File ID: K1-P6-C2-O1-F2-Equations
