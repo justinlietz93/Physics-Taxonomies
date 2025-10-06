@@ -10,7 +10,7 @@
 - **Lens F: Scale & Renormalization**: what matters changes with zoom; universal behavior emerges.
 - **Lens G: Topology & Phases**: protected counts (knots/holes) that survive deformations.
 
-## Index
+## Index Legend
 
 - **K -> Kingdom -> L1**
 - **P -> Phylum -> L2**
@@ -19,6 +19,8 @@
 - **F -> Family -> L5**
 - **G -> Genus -> L6**
 - **S -> Species -> L7**
+
+---
 
 - K1. [Mechanics](/Taxonomies-of-Physics/K1-L1_Mechanics)
 - K2. [Heat, Chance, & Entropy](/Taxonomies-of-Physics/K2-L1_Heat-Chance-&-Entropy)
