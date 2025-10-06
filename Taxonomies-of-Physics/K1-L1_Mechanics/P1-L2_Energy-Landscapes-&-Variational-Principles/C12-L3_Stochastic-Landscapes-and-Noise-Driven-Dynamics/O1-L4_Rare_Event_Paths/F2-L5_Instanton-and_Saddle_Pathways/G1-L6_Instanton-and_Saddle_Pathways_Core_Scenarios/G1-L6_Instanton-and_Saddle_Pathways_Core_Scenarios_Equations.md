@@ -7,8 +7,7 @@ Instantons describe most-likely escape paths through saddles in the weak-noise l
 
 $$\frac{d}{dt} \left( \frac{\partial L}{\partial \dot{x}} \right) - \frac{\partial L}{\partial x} = 0$$
 
-- For overdamped Langevin dynamics, $L = rac{1}{4D} (\dot{x}+
-abla V)^{2}$, yielding time-reversed gradient flow.
+- For overdamped Langevin dynamics, $L = \frac{1}{4D} (\dot{x}+\nabla V)^{2}$, yielding time-reversed gradient flow.
 ## Time-Reversal Symmetry
 **Instanton follows negative gradient in reverse time.**
 
