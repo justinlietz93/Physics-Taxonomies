@@ -17,7 +17,7 @@ $$A \approx 2$$
 - For large $\mu$, the limit cycle amplitude approaches 2, largely independent of initial conditions, guiding expectation for demo waveforms.
 
 ## Relaxation Oscillation Period
-**Shows slow-fast dynamics at high \(\mu\).**
+**Shows slow-fast dynamics at high $\mu$.**
 
 $$T \approx 3 - 2 \ln 2 + 2 \mu$$
 
