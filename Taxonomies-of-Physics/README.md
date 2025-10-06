@@ -23,6 +23,7 @@
 ---
 
 - K1. [Mechanics](/Taxonomies-of-Physics/K1-L1_Mechanics)
+  - Motions, forces, and energy trades for objects from single particles to complex machines. We watch who pushes, how resistance answers, and where “downhill” sits in the energy landscape.
 - K2. [Heat, Chance, & Entropy](/Taxonomies-of-Physics/K2-L1_Heat-Chance-&-Entropy)
 - K3. [Waves & Fields](/Taxonomies-of-Physics/K3-L1_Waves-&-Fields)
 - K4. [Matter & Materials](/Taxonomies-of-Physics/K4-L1_Matter-&-Materials)
