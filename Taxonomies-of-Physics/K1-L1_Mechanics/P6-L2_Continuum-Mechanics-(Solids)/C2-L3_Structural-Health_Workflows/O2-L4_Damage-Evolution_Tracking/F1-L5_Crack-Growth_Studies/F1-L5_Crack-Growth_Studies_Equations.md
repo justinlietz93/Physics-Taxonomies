@@ -1,44 +1,26 @@
 # F1 Crack Growth Studies — Core Equations
 
-Crack-growth campaigns translate measured crack lengths into life predictions. These equations anchor daily updates for inspectors scheduling follow-up NDT and repairs.
+Crack growth studies monitor stress intensity factors and life predictions. These equations underpin inspection intervals for structural components.
 
-## Stress Intensity and Driving Force
-**Mode I stress intensity factor:**
+## Stress Intensity Factor
+**Mode I loading:**
 
 $$K_{I} = Y \sigma \sqrt{\pi a}$$
 
-- Uses geometry factor \(Y\), applied stress \(\sigma\), and crack half-length \(a\) to estimate the crack-tip intensity governing brittle advance.
+- Geometry factor $Y$ scales the applied stress $\sigma$ and crack length $a$ to compute the stress intensity $K_{I}$ at the crack tip.
 
-**Effective stress intensity range:**
-
-$$\Delta K_{\text{eff}} = K_{\max} - K_{\min} - \Delta K_{\text{closure}}$$
-
-- Adjusts for crack-closure effects when compressive cycles reduce the driving range observed in service.
-
-## Growth Rate Laws
-**Paris-Erdogan law:**
+## Paris Law
+**Fatigue crack growth rate:**
 
 $$\frac{da}{dN} = C (\Delta K)^{m}$$
 
-- Relates crack growth per cycle to stress intensity range with material coefficients \(C\) and \(m\), enabling log–log trendline checks.
+- Crack growth per cycle depends on stress intensity range $\Delta K$ with material constants $C$ and $m$, enabling life integration between inspection sizes.
 
-**Forman-Mettu correction for high \(K\):**
+## Remaining Life Estimate
+**Cycle integration:**
 
-$$\frac{da}{dN} = \frac{C (\Delta K)^{m}}{\left(1 - \frac{K_{\max}}{K_{c}}\right)}$$
+$$N = \int_{a_{0}}^{a_{c}} \frac{1}{C (\Delta K)^{m}}\, da$$
 
-- Accounts for rapid growth as \(K_{\max}\) approaches fracture toughness \(K_{c}\), useful near end-of-life predictions.
-
-## Life Prediction Integrals
-**Cycle count to reach size \(a_{f}\):**
-
-$$N = \int_{a_{i}}^{a_{f}} \frac{da}{C (\Delta K)^{m}}$$
-
-- Integrates the Paris relationship between initial \(a_{i}\) and critical crack size \(a_{f}\) to schedule inspections.
-
-**Crack length from compliance:**
-
-$$a = f^{-1}(C_{\text{meas}})$$
-
-- Inverts a calibration curve relating specimen compliance \(C_{\text{meas}}\) to crack length for on-line monitoring setups.
+- Integrating Paris law from initial crack size $a_{0}$ to critical size $a_{c}$ yields the allowable cycles before fracture toughness is exceeded.
 
 File ID: K1-P6-C2-O2-F1-Equations
