@@ -22,7 +22,7 @@ $$F_{\text{req}} = m\,X_{\text{cmd}}\,\sqrt{\left(\omega_0^2 - \omega_d^2\right)
 
 $$c_{\text{eff}} = c + k_v$$
 
-- A controller applying $F_{v} = k_v \dot{x}$ behaves like extra viscous damping; converting to a damping ratio gives $\zeta_{\text{eff}} = c_{\text{eff}}/(2m\omega_0)$, so even modest $k_v$ gains can tame resonance without changing stiffness.
+- A controller applying $F_{v}=k_v \dot{x}$ behaves like extra viscous damping; converting to a damping ratio gives $\zeta_{\text{eff}} = c_{\text{eff}}/(2m\omega_0)$, so even modest $k_v$ gains can tame resonance without changing stiffness.
 
 ## Closed-Loop Amplitude with Added Damping
 **Recomputes the response once feedback damping is active.**
