@@ -8,7 +8,7 @@ These texts provide accessible examples of applying Euler–Lagrange equations t
 
 ## Problem Collections
 - *Problems and Solutions in Classical Mechanics* — Ioan Merches & Daniela Stancu. Contains exercises focused on Euler–Lagrange methods.
-- *Lagrangian and Hamiltonian Mechanics* — Melvin Thornton & Andrew Marion. Provides solved problems for single-particle applications.
+- *Classical Dynamics of Particles and Systems* — Stephen T. Thornton & Jerry B. Marion. Provides solved problems for single-particle applications.
 
 ## Conceptual Extensions
 - *Mechanics* — Symon. Bridges Newtonian intuition with action-based formulations.
