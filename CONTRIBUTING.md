@@ -78,6 +78,8 @@ K6-L1_Electromagnetism-&-Light/
 - Add or improve everyday analogies
 - Fix typos and grammar
 - Simplify complex language
+- Correct imprecise or inaccurate equations
+- Add book suggestions (should be specific to that folder)
 - Add missing one-line gists for child entries
 
 #### 2. **New Taxonomy Entries**
