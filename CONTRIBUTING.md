@@ -42,7 +42,7 @@ This repository reimagines physics as a **7-level biological taxonomy**, organiz
 - **Plain English** explanations
 - **Everyday analogies** and examples
 - **Hierarchical organization** that shows relationships
-- **No equations initially** - focus on conceptual understanding (equations will be added later per AGENTS.md section 8)
+- **Distilled Equations** - Display important equations and explain briefly what they are used for and why. Eventually there will be designated files to go into more detail.
 
 ### Taxonomy Structure
 
@@ -100,7 +100,7 @@ K6-L1_Electromagnetism-&-Light/
 - **Be conversational** - write like you're explaining to a curious friend
 - **Use everyday examples** - bicycles, smartphones, cooking, weather
 - **Avoid jargon** - or explain it naturally when unavoidable
-- **No equations initially** - focus on the "what" and "why," not the "how to calculate" (equations will be added in future phases per AGENTS.md section 8)
+- **Equations** - focus on the "what" and "why," map simple explanations to the "how to calculate"
 - **Be brief** - respect the length limits (see STANDARDS.md)
 
 #### Good Example (Species Level)
