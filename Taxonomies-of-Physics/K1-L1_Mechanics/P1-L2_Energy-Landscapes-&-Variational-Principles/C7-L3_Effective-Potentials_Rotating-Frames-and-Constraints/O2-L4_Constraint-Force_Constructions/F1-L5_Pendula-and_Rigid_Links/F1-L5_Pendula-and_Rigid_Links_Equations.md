@@ -5,7 +5,7 @@ Constraints enforce motion on curved manifolds such as pendulum arcs or rigid li
 ## Pendulum Constraint Force
 **Lagrange multiplier formulation:**
 
-$$\mathcal{L} = T - V + \lambda (x^{2} + y^{2} - L^{2}), \qquad \mathbf{F}_{c} = -2 \lambda (x, y)$$
+$$\mathcal{L} = T - V + \lambda (x^{2} + y^{2} - L^{2}), \qquad \mathbf{F}_{c} = 2 \lambda (x, y)$$
 
 - Multiplier $\lambda$ solves for tension that enforces fixed length $L$ while allowing angular motion.
 
