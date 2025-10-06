@@ -12,5 +12,6 @@ These resources connect structural dynamics theory with practical recipes for nu
 
 ## Optimization & Sensitivity Methods
 - *Topology Optimization in Structural Mechanics* — George Rozvany. Provides material redistribution strategies that complement mode-tuning intuition when stiffness changes must stay lightweight.
+- *Structural Optimization* — William F. Baker. Covers mathematical foundations and practical algorithms for sensitivity analysis and optimal design in engineering structures.
 
 File ID: K1-P1-C1-O1-F5-G2-Book-Suggestions
