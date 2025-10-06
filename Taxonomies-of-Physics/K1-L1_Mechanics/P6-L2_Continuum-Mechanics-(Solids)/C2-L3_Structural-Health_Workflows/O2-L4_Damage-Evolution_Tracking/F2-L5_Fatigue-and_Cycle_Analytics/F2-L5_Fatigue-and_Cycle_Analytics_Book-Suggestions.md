@@ -1,17 +1,17 @@
 # F2 Fatigue and Cycle Analytics — Book Suggestions
 
-Turning load histories into fatigue outlooks needs resources spanning counting algorithms, material data, and reliability methods. These works equip analysts to defend maintenance intervals with clear evidence.
+Cycle analytics references emphasize load spectrum processing, rainflow counting, and Miner’s rule applications. These texts support the data pipelines used in monitoring programs.
 
-## Fatigue Fundamentals
-- *Metal Fatigue Analysis Handbook* — Yung-Li Lee et al. Comprehensive coverage of S–N curves, mean-stress corrections, and Miner’s rule implementations.
-- *Fatigue of Materials* — Suresh S. Suresh. Explains microstructural origins of fatigue parameters and provides charts for metallic and polymer systems.
+## Fatigue Data Processing
+- *Fatigue Testing and Analysis* — Yung-Li Lee, Jwo Pan, Richard Hathaway & Mark Barkey. Covers rainflow counting, mean stress corrections, and damage accumulation workflows.
+- *Metal Fatigue Analysis Handbook* — Yukitaka Murakami. Provides S–N data interpretation and cycle counting procedures for various metals.
 
-## Cycle Counting and Signal Processing
-- *Fatigue Testing and Analysis: Theory and Practice* — Yung-Li Lee et al. Walkthroughs of rainflow counting, load spectrum creation, and laboratory correlation.
-- *Random Vibration: Mechanical, Structural, and Earthquake Engineering Applications* — Ahmed A. Shabana. Spectral techniques for estimating fatigue response from random loads.
+## Structural Health Monitoring
+- *Fatigue and Fracture Reliability Engineering* — Efstratios Nikolaidis et al. Links probabilistic damage metrics with monitoring data for aerospace and civil structures.
+- *Structural Health Monitoring Technologies for the 21st Century* — D.A. Weichert & G. Maier (eds.). Discusses fatigue analytics within broader SHM systems.
 
-## Reliability and Fleet Management
-- *Practical Fracture Mechanics in Design* — Alexander Blake. Offers design allowables, inspection planning, and fatigue damage auditing templates.
-- *Engineering Design Reliability Applications* — Efstratios Nikolaidis et al. Introduces probabilistic methods for translating fatigue damage metrics into risk-based maintenance decisions.
+## Software and Implementation Guides
+- *Practical Guide to the Use of Miner’s Rule* — ASTM STP 462 Compilation. Presents industry case studies and validation techniques for damage summation.
+- *Fatigue of Structures* — John W. Fisher et al. Details data acquisition, spectrum editing, and design implications for steel bridges and similar assets.
 
 File ID: K1-P6-C2-O2-F2-Book-Suggestions
